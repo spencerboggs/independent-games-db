@@ -1,0 +1,111 @@
+{
+  "id": "remedy-entertainment",
+  "name": "Remedy Entertainment",
+  "aliases": [
+    "Remedy",
+    "Remedy Entertainment Oyj",
+    "Remedy Entertainment Plc"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Finnish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q830947",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.remedygames.com/",
+  "socialLinks": {
+    "x": "https://x.com/RemedyGames",
+    "youtube": "https://www.youtube.com/channel/UCS6s3OidfTU0fMRScTGE_jg"
+  },
+  "location": {
+    "headquarters": "Espoo",
+    "country": "FI",
+    "countryName": "Finland"
+  },
+  "founded": 1995,
+  "foundedDate": "1995-08",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q830947",
+    "igdb": "remedy-entertainment"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-large",
+    "notes": "Publicly listed in Finland, with no controlling parent company. Tencent holds a minority stake."
+  },
+  "games": {
+    "developed": [
+      "alan-wake",
+      "alan-wake-2",
+      "alan-wake-ii-night-springs",
+      "alan-wake-ii-the-lake-house",
+      "alan-wake-remastered",
+      "alan-wakes-american-nightmare",
+      "control-awe",
+      "control-resonant",
+      "control-the-foundation",
+      "control-ultimate-edition",
+      "crossfirex",
+      "death-rally",
+      "death-rally-classic",
+      "fbc-firebreak",
+      "max-payne",
+      "max-payne-2-the-fall-of-max-payne",
+      "quantum-break"
+    ],
+    "published": [
+      "alan-wake",
+      "alan-wakes-american-nightmare",
+      "control-resonant",
+      "control-ultimate-edition",
+      "death-rally",
+      "fbc-firebreak"
+    ]
+  },
+  "statistics": {
+    "gameCount": 17,
+    "developedCount": 17,
+    "publishedCount": 6,
+    "totalSteamReviews": 210981,
+    "averagePositivePercentage": 83.5,
+    "weightedPositivePercentage": 87.2,
+    "mostReviewedGame": "control-ultimate-edition",
+    "mostRecentRelease": "control-resonant",
+    "firstRelease": "max-payne-2-the-fall-of-max-payne",
+    "technologyCount": 3,
+    "engineCount": 3,
+    "engines": [
+      "havok",
+      "northlight-engine",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q830947",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

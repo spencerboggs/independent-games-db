@@ -1,0 +1,36 @@
+{
+  "id": "stormind-games",
+  "name": "Stormind Games",
+  "developed": [
+    {
+      "id": "batora-lost-haven",
+      "title": "Batora: Lost Haven",
+      "type": "game",
+      "releaseDate": "2022-10-20",
+      "developers": [
+        "stormind-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1506440",
+      "reviewCount": 453,
+      "positivePercentage": 65.1
+    }
+  ],
+  "published": []
+}

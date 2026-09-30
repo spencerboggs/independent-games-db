@@ -1,0 +1,41 @@
+{
+  "id": "four-quarters",
+  "name": "Four Quarters",
+  "developed": [
+    {
+      "id": "loop-hero",
+      "title": "Loop Hero",
+      "type": "game",
+      "releaseDate": "2021-03-04",
+      "developers": [
+        "four-quarters"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "existentialist-video-game",
+        "fantasy-video-game",
+        "post-apocalyptic-video-game",
+        "roguelike",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1282730",
+      "reviewCount": 36571,
+      "positivePercentage": 92.7
+    }
+  ],
+  "published": []
+}

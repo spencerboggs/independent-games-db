@@ -1,0 +1,326 @@
+{
+  "id": "supergiant-games",
+  "name": "Supergiant Games",
+  "developed": [
+    {
+      "id": "bastion",
+      "title": "Bastion",
+      "type": "game",
+      "releaseDate": "2011-08-16",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "google-chrome",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [
+        "microsoft-xna",
+        "monogame"
+      ],
+      "steamAppId": "107100",
+      "reviewCount": 38212,
+      "positivePercentage": 95.3
+    },
+    {
+      "id": "hades",
+      "title": "Hades",
+      "type": "game",
+      "releaseDate": "2020-09-17",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "roguelike",
+        "roguelite",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1145360",
+      "reviewCount": 308995,
+      "positivePercentage": 98
+    },
+    {
+      "id": "hades-ii",
+      "title": "Hades II",
+      "type": "game",
+      "releaseDate": "2025-09-25",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1145350",
+      "reviewCount": 123722,
+      "positivePercentage": 95.7
+    },
+    {
+      "id": "pyre",
+      "title": "Pyre",
+      "type": "game",
+      "releaseDate": "2017-07-25",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "462770",
+      "reviewCount": 9357,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "transistor",
+      "title": "Transistor",
+      "type": "game",
+      "releaseDate": "2014-05-20",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "cyberpunk-video-game",
+        "rpg",
+        "science-fiction-video-game",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [
+        "monogame"
+      ],
+      "steamAppId": "237930",
+      "reviewCount": 31275,
+      "positivePercentage": 93.9
+    }
+  ],
+  "published": [
+    {
+      "id": "bastion",
+      "title": "Bastion",
+      "type": "game",
+      "releaseDate": "2011-08-16",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "google-chrome",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [
+        "microsoft-xna",
+        "monogame"
+      ],
+      "steamAppId": "107100",
+      "reviewCount": 38212,
+      "positivePercentage": 95.3
+    },
+    {
+      "id": "hades",
+      "title": "Hades",
+      "type": "game",
+      "releaseDate": "2020-09-17",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "roguelike",
+        "roguelite",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1145360",
+      "reviewCount": 308995,
+      "positivePercentage": 98
+    },
+    {
+      "id": "hades-ii",
+      "title": "Hades II",
+      "type": "game",
+      "releaseDate": "2025-09-25",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1145350",
+      "reviewCount": 123722,
+      "positivePercentage": 95.7
+    },
+    {
+      "id": "pyre",
+      "title": "Pyre",
+      "type": "game",
+      "releaseDate": "2017-07-25",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "462770",
+      "reviewCount": 9357,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "transistor",
+      "title": "Transistor",
+      "type": "game",
+      "releaseDate": "2014-05-20",
+      "developers": [
+        "supergiant-games"
+      ],
+      "publishers": [
+        "supergiant-games"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "cyberpunk-video-game",
+        "rpg",
+        "science-fiction-video-game",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [
+        "monogame"
+      ],
+      "steamAppId": "237930",
+      "reviewCount": 31275,
+      "positivePercentage": 93.9
+    }
+  ]
+}

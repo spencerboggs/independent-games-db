@@ -1,0 +1,74 @@
+{
+  "id": "digital-extremes",
+  "name": "Digital Extremes",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Canadian computer and video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1224739",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.digitalextremes.com/",
+  "socialLinks": {
+    "x": "https://x.com/DigitalExtremes"
+  },
+  "location": {
+    "headquarters": "London",
+    "country": "CA",
+    "countryName": "Canada"
+  },
+  "founded": 1993,
+  "foundedDate": "1993",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Leyou",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q1224739"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "silverball"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "silverball",
+    "firstRelease": "silverball",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1224739",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

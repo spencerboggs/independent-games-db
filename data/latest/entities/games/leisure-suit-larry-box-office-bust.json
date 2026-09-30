@@ -1,0 +1,84 @@
+{
+  "id": "leisure-suit-larry-box-office-bust",
+  "title": "Leisure Suit Larry: Box Office Bust",
+  "alternateTitles": [
+    "Leisure Suit Larry – Box Office Bust"
+  ],
+  "type": "game",
+  "releaseDate": "2009-03-27",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "codemasters"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "adventure-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-3",
+    "windows",
+    "xbox-360"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q3830041",
+    "igdb": "leisure-suit-larry-box-office-bust"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3830041"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unreal-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3830041",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "leisure-suit-larry",
+    "name": "Leisure Suit Larry"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3830041",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

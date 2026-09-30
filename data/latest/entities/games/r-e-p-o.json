@@ -1,0 +1,165 @@
+{
+  "id": "r-e-p-o",
+  "title": "R.E.P.O.",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2025-02-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "early-access",
+  "developers": [
+    "semiwork"
+  ],
+  "publishers": [
+    "semiwork"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3241660/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "camera-comfort",
+    "co-op",
+    "custom-volume-controls",
+    "family-sharing",
+    "multi-player",
+    "online-co-op",
+    "playable-without-timed-input",
+    "single-player",
+    "steam-cloud",
+    "stereo-sound"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q133247101",
+    "igdb": "repo",
+    "steam": "3241660"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/3241660/",
+    "wikidata": "https://www.wikidata.org/wiki/Q133247101"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/28c1bb423e9af8646047e9e881c3a0ac121647f6/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 426217,
+      "positiveCount": 409158,
+      "negativeCount": 17059,
+      "positivePercentage": 96,
+      "negativePercentage": 4,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 7016,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 733.03,
+      "reviewsPerMonth": 22313.4,
+      "windowDays": 581,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q133247101",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

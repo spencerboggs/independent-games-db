@@ -1,0 +1,194 @@
+{
+  "id": "overcooked-all-you-can-eat",
+  "title": "Overcooked! All You Can Eat",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2021-03-23",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "ghost-town-games-ltd",
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Experience all the Onion Kingdom has to offer, Overcooked! 1 & 2 infused with 4k goodness running at a smooth 60 FPS. Fully remastered and cooked up from scratch. Enjoy 200+ levels (22 new) and 80+ chefs (3 new), this is the ultimate Overcooked! experience.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1243830/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "casual",
+    "party-video-game",
+    "simulation",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "shared-split-screen-pvp",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Thai",
+    "Traditional Chinese",
+    "Polish"
+  ],
+  "externalIds": {
+    "wikidata": "Q107421398",
+    "igdb": "overcooked-all-you-can-eat",
+    "steam": "1243830"
+  },
+  "links": {
+    "official": "https://www.team17.com/games/overcooked-all-you-can-eat",
+    "steam": "https://store.steampowered.com/app/1243830/",
+    "wikidata": "https://www.wikidata.org/wiki/Q107421398"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_2cc95ad5268f42cdc45e923c94c58966cd2106ad.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_e788a88828bd26cd42261997644b8aefa178f68f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_d4c4c3b36b48a1d9ff754b6be0b4ac97d7acd986.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_90421f24a5e9a631deb83e5128ead001f7b6e13f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_98d28a41af2047ce17c455a0dbe7765c7b141402.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "overcooked",
+    "name": "Overcooked!"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 8303,
+      "positiveCount": 6065,
+      "negativeCount": 2238,
+      "positivePercentage": 73,
+      "negativePercentage": 27,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 364,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 4.12,
+      "reviewsPerMonth": 125.3,
+      "windowDays": 2017,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1243830/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q107421398",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

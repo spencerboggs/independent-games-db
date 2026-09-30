@@ -1,0 +1,87 @@
+{
+  "id": "terri-vellmann",
+  "name": "Terri Vellmann",
+  "developed": [
+    {
+      "id": "heavy-bullets",
+      "title": "Heavy Bullets",
+      "type": "game",
+      "releaseDate": "2014-09-18",
+      "developers": [
+        "doseone",
+        "terri-vellmann"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "297120",
+      "reviewCount": 1568,
+      "positivePercentage": 81.8
+    },
+    {
+      "id": "high-hell",
+      "title": "High Hell",
+      "type": "game",
+      "releaseDate": "2017-10-23",
+      "developers": [
+        "doseone",
+        "terri-vellmann"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "673000",
+      "reviewCount": 1556,
+      "positivePercentage": 86.4
+    },
+    {
+      "id": "sludge-life",
+      "title": "SLUDGE LIFE",
+      "type": "game",
+      "releaseDate": "2021-06-02",
+      "developers": [
+        "doseone",
+        "terri-vellmann"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1144770",
+      "reviewCount": 5556,
+      "positivePercentage": 91.1
+    }
+  ],
+  "published": []
+}

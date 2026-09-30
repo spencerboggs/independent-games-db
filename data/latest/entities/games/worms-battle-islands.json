@@ -1,0 +1,71 @@
+{
+  "id": "worms-battle-islands",
+  "title": "Worms: Battle Islands",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2010-11-22",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "sony-interactive-entertainment"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-portable",
+    "wii"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q3063073",
+    "igdb": "worms-battle-islands"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3063073"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3063073",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

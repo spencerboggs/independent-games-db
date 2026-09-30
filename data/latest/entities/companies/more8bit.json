@@ -1,0 +1,56 @@
+{
+  "id": "more8bit",
+  "name": "more8bit",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "bleak-sword-dx"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 702,
+    "averagePositivePercentage": 77.5,
+    "weightedPositivePercentage": 77.5,
+    "mostReviewedGame": "bleak-sword-dx",
+    "mostRecentRelease": "bleak-sword-dx",
+    "firstRelease": "bleak-sword-dx",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

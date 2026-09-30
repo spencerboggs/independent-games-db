@@ -1,0 +1,185 @@
+{
+  "id": "if-found",
+  "title": "If Found...",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2020-05-19",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "dreamfeel"
+  ],
+  "publishers": [
+    "annapurna-interactive"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "If Found... is a game about going home, coming out and erasing everything.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1041920/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "casual",
+    "visual-novel"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "ios",
+    "macos",
+    "nintendo-switch",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Irish"
+  ],
+  "externalIds": {
+    "wikidata": "Q94778024",
+    "igdb": "if-found-dot-dot-dot",
+    "steam": "1041920"
+  },
+  "links": {
+    "official": "http://dreamfeel.org/iffound",
+    "steam": "https://store.steampowered.com/app/1041920/",
+    "wikidata": "https://www.wikidata.org/wiki/Q94778024"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1041920",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_111520696d33ae9a7e4d7a10ea192f7c83103e73.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_ebcaf22a2dc8faa2f3d4f690022d3cfd24d48053.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_a767e2ae661d8b8fa65b72786c7ad82d8543ae1e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_5e28fc12278ebae0b3043164f82ed263ec4d4a1c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_7b06161eec7a051ea4ac02b92cfcdbef717ac375.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041920/ss_6f1825061dd33b76404fb7c0ad2813bd04ed33ac.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 2365,
+      "positiveCount": 2138,
+      "negativeCount": 227,
+      "positivePercentage": 90.4,
+      "negativePercentage": 9.6,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.02,
+      "reviewsPerMonth": 31,
+      "windowDays": 2325,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1041920/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q94778024",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

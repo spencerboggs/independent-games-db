@@ -1,0 +1,60 @@
+{
+  "id": "easy-trigger-games",
+  "name": "Easy Trigger Games",
+  "developed": [
+    {
+      "id": "huntdown",
+      "title": "HUNTDOWN",
+      "type": "game",
+      "releaseDate": "2021-05-12",
+      "developers": [
+        "easy-trigger-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "598550",
+      "reviewCount": 4436,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "huntdown-overtime",
+      "title": "HUNTDOWN: OVERTIME",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "easy-trigger-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "2473350",
+      "reviewCount": 903,
+      "positivePercentage": 89
+    }
+  ],
+  "published": []
+}

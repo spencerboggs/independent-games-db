@@ -1,0 +1,35 @@
+{
+  "id": "thatgamecompany",
+  "name": "thatgamecompany",
+  "developed": [
+    {
+      "id": "journey",
+      "title": "Journey",
+      "type": "game",
+      "releaseDate": "2020-06-11",
+      "developers": [
+        "thatgamecompany"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "playstation-3",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure",
+        "art-game",
+        "walking-simulator"
+      ],
+      "engines": [],
+      "steamAppId": "638230",
+      "reviewCount": 38627,
+      "positivePercentage": 94.1
+    }
+  ],
+  "published": []
+}

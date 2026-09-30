@@ -1,0 +1,82 @@
+{
+  "id": "flying-wild-hog",
+  "name": "Flying Wild Hog",
+  "aliases": [
+    "Flying Wild Hog Studios",
+    "Flying Wild Hog Studios sp.z o.o."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Polish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q15070335",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.flyingwildhog.com/",
+  "socialLinks": {
+    "x": "https://x.com/flying_wild_hog"
+  },
+  "location": {
+    "headquarters": "Warsaw",
+    "country": "PL",
+    "countryName": "Poland"
+  },
+  "founded": 2009,
+  "foundedDate": "2009",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Embracer Group",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q15070335",
+    "igdb": "flying-wild-hog"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "shadow-warrior-2",
+      "shadow-warrior-3-definitive-edition",
+      "trek-to-yomi"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 37020,
+    "averagePositivePercentage": 75.7,
+    "weightedPositivePercentage": 82.9,
+    "mostReviewedGame": "shadow-warrior-2",
+    "mostRecentRelease": "trek-to-yomi",
+    "firstRelease": "shadow-warrior-2",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q15070335",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mountains",
+  "name": "Mountains",
+  "developed": [
+    {
+      "id": "florence",
+      "title": "Florence",
+      "type": "game",
+      "releaseDate": "2020-02-13",
+      "developers": [
+        "mountains"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1102130",
+      "reviewCount": 16495,
+      "positivePercentage": 93.2
+    }
+  ],
+  "published": []
+}

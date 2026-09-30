@@ -1,0 +1,69 @@
+{
+  "id": "worms-4",
+  "title": "Worms 4",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2015",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "turn-based-strategy-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q29372124",
+    "igdb": "worms-4"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29372124"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29372124",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

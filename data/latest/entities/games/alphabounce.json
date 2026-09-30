@@ -1,0 +1,67 @@
+{
+  "id": "alphabounce",
+  "title": "AlphaBounce",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2010-04-09",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "motion-twin"
+  ],
+  "publishers": [
+    "mad-monkey-studio"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "breakout-clone"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-ds"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q116232684",
+    "igdb": "alphabounce"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116232684"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116232684",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

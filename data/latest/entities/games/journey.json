@@ -1,0 +1,207 @@
+{
+  "id": "journey",
+  "title": "Journey",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2020-06-11",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "thatgamecompany"
+  ],
+  "publishers": [
+    "annapurna-interactive"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Explore the ancient, mysterious world of Journey as you soar above ruins and glide across sands to discover its secrets.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/638230/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action-adventure",
+    "adventure",
+    "art-game",
+    "walking-simulator"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "multi-player",
+    "online-co-op",
+    "remote-play-on-phone",
+    "remote-play-on-tablet",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "ios",
+    "playstation-3",
+    "playstation-4",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Swedish",
+    "Thai",
+    "Traditional Chinese",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q677274",
+    "igdb": "journey",
+    "steam": "638230"
+  },
+  "links": {
+    "official": "http://thatgamecompany.com/journey/",
+    "steam": "https://store.steampowered.com/app/638230/",
+    "wikidata": "https://www.wikidata.org/wiki/Q677274"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/638230",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_d4c7bfb15df749b78b6957320a4a23d71d531858.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_c7741b2d22bdd5e5765816c9ef1b1e675616ce81.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_040366eaf8bdf1dfb5a16ba5e503742ce96f2f6d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_ed77e7844e32c4cb181ce585fa1a368285c66ec5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_90dde9d4701385c7c7ffe22569ed1855b118ea4c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_e6d90f4cc1ce3ea73f1952d6d6f9c7e6e8657e0d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_678009919bc0a5876ec7f4e60e8ec3070c090b58.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 38627,
+      "positiveCount": 36335,
+      "negativeCount": 2292,
+      "positivePercentage": 94.1,
+      "negativePercentage": 5.9,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 28,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 16.78,
+      "reviewsPerMonth": 510.7,
+      "windowDays": 2302,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/638230/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q677274",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

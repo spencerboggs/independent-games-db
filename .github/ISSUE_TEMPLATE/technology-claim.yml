@@ -1,0 +1,38 @@
+name: Technology claim
+description: Report the engine, middleware, language or tools a game uses.
+labels: [technology]
+body:
+  - type: input
+    id: game
+    attributes:
+      label: Game ID
+      placeholder: hollow-knight
+    validations:
+      required: true
+  - type: input
+    id: technology
+    attributes:
+      label: Technology
+      description: Name or ID from data/latest/technologies.json.
+      placeholder: unity
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Evidence type
+      options:
+        - official statement / credits (verified)
+        - developer interview or talk
+        - technical article
+        - job posting
+        - community (forum, wiki)
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      placeholder: https://
+    validations:
+      required: true

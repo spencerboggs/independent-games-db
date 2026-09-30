@@ -1,0 +1,92 @@
+{
+  "id": "konami",
+  "name": "Konami",
+  "developed": [
+    {
+      "id": "castlevania-belmonts-curse",
+      "title": "Castlevania: Belmont's Curse",
+      "type": "game",
+      "releaseDate": "2026-10-14",
+      "developers": [
+        "evil-empire",
+        "konami"
+      ],
+      "publishers": [
+        "konami"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "4231820",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "castlevania-belmonts-curse",
+      "title": "Castlevania: Belmont's Curse",
+      "type": "game",
+      "releaseDate": "2026-10-14",
+      "developers": [
+        "evil-empire",
+        "konami"
+      ],
+      "publishers": [
+        "konami"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "4231820",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "silent-hill-townfall",
+      "title": "SILENT HILL: Townfall",
+      "type": "game",
+      "releaseDate": "2026-09-23",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "annapurna-interactive",
+        "konami"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1636440",
+      "reviewCount": 4064,
+      "positivePercentage": 66.3
+    }
+  ]
+}

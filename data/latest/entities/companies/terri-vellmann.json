@@ -1,0 +1,68 @@
+{
+  "id": "terri-vellmann",
+  "name": "Terri Vellmann",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q138515712"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "heavy-bullets",
+      "high-hell",
+      "sludge-life"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 8680,
+    "averagePositivePercentage": 86.4,
+    "weightedPositivePercentage": 88.6,
+    "mostReviewedGame": "sludge-life",
+    "mostRecentRelease": "sludge-life",
+    "firstRelease": "heavy-bullets",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q138515712",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

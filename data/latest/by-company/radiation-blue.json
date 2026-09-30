@@ -1,0 +1,39 @@
+{
+  "id": "radiation-blue",
+  "name": "Radiation Blue",
+  "developed": [
+    {
+      "id": "genesis-alpha-one-deluxe-edition",
+      "title": "Genesis Alpha One Deluxe Edition",
+      "type": "game",
+      "releaseDate": "2020-02-25",
+      "developers": [
+        "radiation-blue"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "personal-computer",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "roguelike",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "712190",
+      "reviewCount": 2523,
+      "positivePercentage": 68.5
+    }
+  ],
+  "published": []
+}

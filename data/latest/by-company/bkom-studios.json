@@ -1,0 +1,31 @@
+{
+  "id": "bkom-studios",
+  "name": "BKOM Studios",
+  "developed": [
+    {
+      "id": "sunday-gold",
+      "title": "Sunday Gold",
+      "type": "game",
+      "releaseDate": "2022-10-13",
+      "developers": [
+        "bkom-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "point-and-click-adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1969440",
+      "reviewCount": 809,
+      "positivePercentage": 78.1
+    }
+  ],
+  "published": []
+}

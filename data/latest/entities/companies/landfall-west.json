@@ -1,0 +1,72 @@
+{
+  "id": "landfall-west",
+  "name": "Landfall West",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q56451383",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q56451383"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "stick-fight-the-game"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 125466,
+    "averagePositivePercentage": 93.5,
+    "weightedPositivePercentage": 93.5,
+    "mostReviewedGame": "stick-fight-the-game",
+    "mostRecentRelease": "stick-fight-the-game",
+    "firstRelease": "stick-fight-the-game",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56451383",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

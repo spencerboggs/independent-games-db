@@ -1,0 +1,227 @@
+{
+  "id": "i-hate-running-backwards",
+  "title": "I Hate Running Backwards",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2018-05-22",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "binx-games",
+    "croteam",
+    "croteam-incubator"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "I Hate Running Backwards is a never-ending adrenaline packed shoot'em down roguelite that puts the emphasis on destruction and fighting never ending waves of enemies while time traveling through procedurally generated worlds!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/575820/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "shoot-em-up"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "pvp",
+    "remote-play-on-tv",
+    "remote-play-together",
+    "shared-split-screen-co-op",
+    "shared-split-screen-pvp",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "linux",
+    "nintendo-switch",
+    "playstation-4",
+    "windows",
+    "xbox-one"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q47474020",
+    "igdb": "i-hate-running-backwards",
+    "steam": "575820"
+  },
+  "links": {
+    "official": "http://www.croteam.com",
+    "steam": "https://store.steampowered.com/app/575820/",
+    "wikidata": "https://www.wikidata.org/wiki/Q47474020"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_58ea6de0d6b742f2cc662ac5741c0b7dc1ebd29d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_8e8b59117adb128f91c8d49e5f0914dfbaf03486.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_f4e063a90958d42e8ac90408e1826387861bc239.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_e8677fbeaf3e10485e09c8d3e44445e219c7afe4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_be816bdc5cb137c40fb7e9af513a77a51412eb08.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_3c7fca8940821e6c35d7a4f6dfa05e05788effa8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_0d1fdbefa59f1513a03d35dbeb5e8dffa47e6384.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_20566a3a2ec6567a51243ffdf199da25a94725f9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575820/ss_7185cbf4d204ea91aba1c791afec71037633b483.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q47474020",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "serious-sam",
+    "name": "Serious Sam"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 245,
+      "positiveCount": 183,
+      "negativeCount": 62,
+      "positivePercentage": 74.7,
+      "negativePercentage": 25.3,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.08,
+      "reviewsPerMonth": 2.4,
+      "windowDays": 3053,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/575820/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q47474020",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

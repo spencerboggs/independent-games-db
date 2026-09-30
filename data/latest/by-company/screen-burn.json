@@ -1,0 +1,93 @@
+{
+  "id": "screen-burn",
+  "name": "Screen Burn",
+  "developed": [
+    {
+      "id": "observation",
+      "title": "Observation",
+      "type": "game",
+      "releaseDate": "2020-05-21",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle",
+        "science-fiction-video-game",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "906100",
+      "reviewCount": 5227,
+      "positivePercentage": 78.3
+    },
+    {
+      "id": "silent-hill-townfall",
+      "title": "SILENT HILL: Townfall",
+      "type": "game",
+      "releaseDate": "2026-09-23",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "annapurna-interactive",
+        "konami"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1636440",
+      "reviewCount": 4064,
+      "positivePercentage": 66.3
+    },
+    {
+      "id": "stories-untold",
+      "title": "Stories Untold",
+      "type": "game",
+      "releaseDate": "2017-02-27",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "interactive-fiction",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "558420",
+      "reviewCount": 5533,
+      "positivePercentage": 86.6
+    }
+  ],
+  "published": []
+}

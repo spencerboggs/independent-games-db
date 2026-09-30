@@ -1,0 +1,180 @@
+{
+  "id": "to-a-t",
+  "title": "to a T",
+  "alternateTitles": [
+    "To a T"
+  ],
+  "type": "game",
+  "releaseDate": "2025-05-28",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "uvula-llc"
+  ],
+  "publishers": [
+    "annapurna-interactive"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "A charming, colorful adventure game from the creator of Katamari Damacy and the uvula team about a teen navigating life in a small town with their cute dog companion. While their body is stuck in a T-pose, they do their best to make the most of it.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1875320/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "gamepad-recommended",
+    "partial-controller-support",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "nintendo-switch-2",
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q132735810",
+    "igdb": "to-a-t",
+    "steam": "1875320"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/1875320/",
+    "wikidata": "https://www.wikidata.org/wiki/Q132735810"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/a9676044c8b8ccfc9b46f107996ce6e85e21c70b/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ce8b3efcb3352237c18b1fd9f4440c444b0b5ce0/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1875320",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ss_1002a2fe218c3eb8c446841d472115a33b3f51b0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ss_918c20765c198fd472dda2f8062ec8da01093054.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ss_ff4b63ce74e5aa08517f2dce39ae5ab0d897bf02.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ss_12a9a6f3cd24636d220b8d3edba9e40e4eb959da.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875320/ss_a7133b5f92b9b48bfc46e97fbe0833ddf150f7b4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 268,
+      "positiveCount": 231,
+      "negativeCount": 37,
+      "positivePercentage": 86.2,
+      "negativePercentage": 13.8,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.55,
+      "reviewsPerMonth": 16.6,
+      "windowDays": 490,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1875320/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q132735810",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,207 @@
+{
+  "id": "dredge-the-iron-rig",
+  "title": "DREDGE - The Iron Rig",
+  "alternateTitles": [
+    "2nd expansion of Dredge",
+    "DREDGE: The Iron Rig",
+    "Dredge: The Iron Rig",
+    "The Iron Rig DLC",
+    "second expansion of Dredge"
+  ],
+  "type": "dlc",
+  "releaseDate": "2024-08-15",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "black-salt-games"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "“The Iron Rig” introduces a new constructible town to your DREDGE adventure. Uncover ancient disturbances and craft advanced equipment, items and gadgets with the help of new acquaintances. Progress always comes at a price.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2561450/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "cosmic-horror-video-game",
+    "fishing-video-game",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [
+    "downloadable-content",
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil",
+    "Polish"
+  ],
+  "externalIds": {
+    "wikidata": "Q130975373",
+    "igdb": "dredge-the-iron-rig",
+    "steam": "2561450"
+  },
+  "links": {
+    "official": "https://www.blacksaltgames.com/",
+    "steam": "https://store.steampowered.com/app/2561450/",
+    "wikidata": "https://www.wikidata.org/wiki/Q130975373"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/459d814d6b6fa5162e0bad5757fe10882eb554c1/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_ec38d382a9de27871d3a2e352c46f13a30b6ceb4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_89bafb33a99d9ace9c7d71556cf07bb160c2445b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_ccf85aaa3f6f244732fc0b6bad4b101fa950dbae.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_fa259e0daea7af57872fd769f3047916c82f7715.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_bb3d27877736f57d61a35de0c0fc5312afd7ac38.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561450/ss_716a2ff606d3a67a9f350271cee2def064867ac2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q130975373",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "dredge",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 757,
+      "positiveCount": 617,
+      "negativeCount": 140,
+      "positivePercentage": 81.5,
+      "negativePercentage": 18.5,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.97,
+      "reviewsPerMonth": 29.7,
+      "windowDays": 776,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2561450/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q130975373",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

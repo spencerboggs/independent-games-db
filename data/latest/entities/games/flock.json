@@ -1,0 +1,202 @@
+{
+  "id": "flock",
+  "title": "Flock",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2024-07-16",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "hollow-ponds",
+    "richard-hogg"
+  ],
+  "publishers": [
+    "annapurna-interactive"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Flock is a multiplayer co-op game about the joy of flight and collecting adorable flying creatures with your friends. Soar through beautiful landscapes, seeking out rare and elusive creatures to add to your flock.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1472930/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "casual",
+    "casual-game"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "multi-player",
+    "online-co-op",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "externalIds": {
+    "wikidata": "Q126364582",
+    "igdb": "flock--2",
+    "steam": "1472930"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/1472930/",
+    "wikidata": "https://www.wikidata.org/wiki/Q126364582"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_e48fd6408493a956011f0ba477ea742da9a275bc.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_b5af2d701abb0c4401716ff3c79d888e45f2d08e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_b8940e15ba7db512cca7f4630f3f9959e381d1f0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_0ef7a31be0d8b5413f486601ff027afb4be7711a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_f0cec5e6f152e22629684e3956d2cb67426461a6.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_d1a20684944260272b8f07e725e4e1e29deac5ad.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/ss_2e7b98441f91ef841954c17f640f5184283632ca.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 287,
+      "positiveCount": 276,
+      "negativeCount": 11,
+      "positivePercentage": 96.2,
+      "negativePercentage": 3.8,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.36,
+      "reviewsPerMonth": 10.8,
+      "windowDays": 806,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1472930/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q126364582",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

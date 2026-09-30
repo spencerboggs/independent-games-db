@@ -1,0 +1,254 @@
+{
+  "id": "wizard-with-a-gun",
+  "title": "Wizard with a Gun",
+  "alternateTitles": [
+    "WWaG",
+    "Wizard With a Gun"
+  ],
+  "type": "game",
+  "releaseDate": "2023-10-17",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "galvanic-games"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Wizard with a Gun is an online sandbox survival game for 1 - 4 players set in a magical wilderness wrought with dangerous creatures and arcane mysteries. Embark on a journey alone or with a friend to collect, craft, and outfit your wizard however you see fit as you explore the unknown.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1150530/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q116986164",
+    "igdb": "wizard-with-a-gun",
+    "steam": "1150530"
+  },
+  "links": {
+    "official": "http://wizardwithagun.com",
+    "steam": "https://store.steampowered.com/app/1150530/",
+    "wikidata": "https://www.wikidata.org/wiki/Q116986164"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1150530",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_914f0f76d9b1db9495d763337e289341ffd1b1bb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_30032adbee65e0740b3edf4ff876caca50db6c13.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_7771b939817af68d372cf4d2e8644df758d0d694.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_d957b578158955e8d780143bd7267ca6ba3d3b8b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_9489537fe6e13bf2bdae455d3fef44a93c681bcf.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_c312334fd32e18332f326a532ad74fbcdacba953.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_b2c3ee8194f429373cd53d4c117bf3f2f07a457a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_63ca37204e72acf3af16683c79269259590f8cbb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_41a31a9f4d1fba22dc97fb12da6b77ab381ccdbc.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_31f42510d73ea723723a97104d0598f08ed5afc8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_c96e23aa26161798788355dda5882d23e9f1a5d1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_8942c555f6029a59962cd24073d5a118d4294421.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_90af46adf9f1d9690b222babc06dea32e9a1eee9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150530/ss_5c5093f4412862e785b85521ac72b6a864c174a5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q116986164",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 4011,
+      "positiveCount": 3225,
+      "negativeCount": 786,
+      "positivePercentage": 80.4,
+      "negativePercentage": 19.6,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 16,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 3.72,
+      "reviewsPerMonth": 113.1,
+      "windowDays": 1079,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1150530/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116986164",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

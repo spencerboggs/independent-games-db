@@ -1,0 +1,202 @@
+{
+  "id": "the-talos-principle",
+  "title": "The Talos Principle",
+  "alternateTitles": [
+    "Talos"
+  ],
+  "type": "game",
+  "releaseDate": "2014-12-11",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "croteam"
+  ],
+  "publishers": [
+    "croteam",
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The Talos Principle is a first-person puzzle game in the tradition of philosophical science fiction. Made by Croteam and written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/257510/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "puzzle",
+    "science-fiction-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "includes-level-editor",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "android",
+    "ios",
+    "linux",
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "windows",
+    "xbox-one"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Czech"
+  ],
+  "externalIds": {
+    "wikidata": "Q18620506",
+    "igdb": "the-talos-principle",
+    "steam": "257510"
+  },
+  "links": {
+    "official": "http://www.thetalosprinciple.com",
+    "steam": "https://store.steampowered.com/app/257510/",
+    "wikidata": "https://www.wikidata.org/wiki/Q18620506"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_8061dc63743404a7829eabdd47590421652c318d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_56f8a07f7c2ac684cfec3b17bc0668c24b905b4b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_3f16d21674b27dad893ccb27b581670b5bb8043a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_bf869965e8e972acb4dfe3f8d4bf7baa2c2cdf29.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_ded5cd1a34df5b4d9015f71caf35db247b2579c4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_b42acabe63d45a11580a2949e34f305e1bd10fc7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "the-talos-principle",
+    "name": "The Talos Principle"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [
+      "the-talos-principle-road-to-gehenna"
+    ],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 33077,
+      "positiveCount": 31520,
+      "negativeCount": 1557,
+      "positivePercentage": 95.3,
+      "negativePercentage": 4.7,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 37,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 7.67,
+      "reviewsPerMonth": 233.5,
+      "windowDays": 4311,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/257510/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18620506",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

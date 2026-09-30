@@ -1,0 +1,36 @@
+{
+  "id": "clickteam-fusion",
+  "name": "Clickteam Fusion",
+  "aliases": [
+    "Clickteam Fusion 2.5",
+    "Multimedia Fusion",
+    "Multimedia Fusion 2"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Clickteam",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q86074521"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,3972 @@
+[
+  {
+    "id": "actionscript",
+    "name": "ActionScript",
+    "aliases": [
+      "ActionScript 3",
+      "ActionScript 3.0"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q234657"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "adobe-air",
+    "name": "Adobe AIR",
+    "aliases": [
+      "AIR"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q360310"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "adobe-flash",
+    "name": "Adobe Flash",
+    "aliases": [
+      "Adobe Animate",
+      "Flash",
+      "Macromedia Flash"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q165658"
+    },
+    "games": [
+      "luftrausers",
+      "my-brute"
+    ],
+    "statistics": {
+      "gameCount": 2,
+      "companyCount": 3,
+      "totalSteamReviews": 4527,
+      "mostReviewedGames": [
+        {
+          "id": "luftrausers",
+          "title": "LUFTRAUSERS",
+          "value": 4527
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "luftrausers",
+          "title": "LUFTRAUSERS",
+          "value": 1
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2009": 1,
+        "2014": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "adobe-photoshop",
+    "name": "Adobe Photoshop",
+    "aliases": [
+      "Photoshop"
+    ],
+    "category": "tool",
+    "subcategory": "2d-art",
+    "developer": "Adobe",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q129793"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "adventure-game-studio",
+    "name": "Adventure Game Studio",
+    "aliases": [
+      "AGS"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q379950"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "allegro",
+    "name": "Allegro",
+    "aliases": [
+      "Allegro library"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1503415"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "amazon-lumberyard",
+    "name": "Amazon Lumberyard",
+    "aliases": [
+      "Lumberyard"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Amazon",
+    "website": null,
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q22949502"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "aseprite",
+    "name": "Aseprite",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "pixel-art",
+    "developer": null,
+    "website": null,
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q65620047"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "autodesk-3ds-max",
+    "name": "Autodesk 3ds Max",
+    "aliases": [
+      "3D Studio Max",
+      "3ds Max"
+    ],
+    "category": "tool",
+    "subcategory": "3d-modeling",
+    "developer": "Autodesk",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q212324"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "autodesk-maya",
+    "name": "Autodesk Maya",
+    "aliases": [
+      "Maya"
+    ],
+    "category": "tool",
+    "subcategory": "3d-modeling",
+    "developer": "Autodesk",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q272597"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "babylonjs",
+    "name": "Babylon.js",
+    "aliases": [],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q25380625"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "bevy",
+    "name": "Bevy",
+    "aliases": [
+      "Bevy Engine"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://bevyengine.org",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q103819131"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "bink-video",
+    "name": "Bink Video",
+    "aliases": [
+      "Bink",
+      "Bink 2"
+    ],
+    "category": "middleware",
+    "subcategory": "video",
+    "developer": "RAD Game Tools",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q863883"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "3d-modeling",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q173136"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "box2d",
+    "name": "Box2D",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "physics",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2579122"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "aliases": [
+      "C language",
+      "C programming language"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q15777"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "cinema-4d",
+    "name": "Cinema 4D",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "3d-modeling",
+    "developer": "Maxon",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1092448"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "clickteam-fusion",
+    "name": "Clickteam Fusion",
+    "aliases": [
+      "Clickteam Fusion 2.5",
+      "Multimedia Fusion",
+      "Multimedia Fusion 2"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Clickteam",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q86074521"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "cocos2d",
+    "name": "Cocos2d",
+    "aliases": [
+      "Cocos Creator",
+      "Cocos2d-x"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1525915"
+    },
+    "games": [
+      "raging-justice"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 163,
+      "mostReviewedGames": [
+        {
+          "id": "raging-justice",
+          "title": "Raging Justice",
+          "value": 163
+        }
+      ],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {
+        "2018": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "coherent-gameface",
+    "name": "Coherent Gameface",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "ui",
+    "developer": "Coherent Labs",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q131431990"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "construct",
+    "name": "Construct",
+    "aliases": [
+      "Construct 2",
+      "Construct 3",
+      "Construct Classic"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Scirra",
+    "website": "https://www.construct.net",
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q5164395"
+    },
+    "games": [
+      "cyber-shadow"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 1559,
+      "mostReviewedGames": [
+        {
+          "id": "cyber-shadow",
+          "title": "Cyber Shadow",
+          "value": 1559
+        }
+      ],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {
+        "2021": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "cpp",
+    "name": "C++",
+    "aliases": [
+      "C plus plus",
+      "CPP"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2407"
+    },
+    "games": [
+      "minecraft-bedrock-edition",
+      "minecraft-education",
+      "minecraft-new-nintendo-3ds-edition"
+    ],
+    "statistics": {
+      "gameCount": 3,
+      "companyCount": 3,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {
+        "2011": 1,
+        "2016": 1,
+        "2017": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "cryengine",
+    "name": "CryEngine",
+    "aliases": [
+      "CRYENGINE",
+      "CryEngine 3",
+      "CryEngine V"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Crytek",
+    "website": null,
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {},
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "csharp",
+    "name": "C#",
+    "aliases": [
+      "C Sharp",
+      "CSharp"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2370"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "custom-engine",
+    "name": "Custom engine",
+    "aliases": [
+      "Custom game engine",
+      "In-house engine",
+      "Proprietary engine",
+      "Proprietary game engine"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": "A studio's own engine that is not listed separately."
+    },
+    "externalIds": {},
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "defold",
+    "name": "Defold",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://defold.com",
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q122556836"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "directx",
+    "name": "DirectX",
+    "aliases": [
+      "Direct3D",
+      "DirectX 11",
+      "DirectX 12"
+    ],
+    "category": "middleware",
+    "subcategory": "graphics-api",
+    "developer": "Microsoft",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q188695"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "divinity-engine",
+    "name": "Divinity Engine",
+    "aliases": [
+      "Divinity Engine 2"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Larian Studios",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q127075702"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "flax-engine",
+    "name": "Flax Engine",
+    "aliases": [
+      "Flax"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q124325873"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "fmod",
+    "name": "FMOD",
+    "aliases": [
+      "FMOD Ex",
+      "FMOD Studio"
+    ],
+    "category": "middleware",
+    "subcategory": "audio",
+    "developer": "Firelight Technologies",
+    "website": "https://www.fmod.com",
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q913522"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "fna",
+    "name": "FNA",
+    "aliases": [],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q133287989"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "gamemaker",
+    "name": "GameMaker",
+    "aliases": [
+      "GML",
+      "Game Maker",
+      "GameMaker Language",
+      "GameMaker Studio",
+      "GameMaker Studio 2"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "YoYo Games",
+    "website": "https://gamemaker.io",
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q243720"
+    },
+    "games": [
+      "conscript-directors-cut",
+      "deadbolt",
+      "downwell",
+      "gato-roboto",
+      "gods-will-be-watching",
+      "honey-i-joined-a-cult",
+      "hotline-miami",
+      "katana-zero",
+      "loop-hero",
+      "luftrausers",
+      "minit",
+      "risk-of-rain-2013",
+      "serious-sam-the-greek-encounter",
+      "serious-sam-the-random-encounter",
+      "sheltered",
+      "shovel-knight-pocket-dungeon",
+      "the-red-strings-club",
+      "the-swords-of-ditto-mormos-curse"
+    ],
+    "statistics": {
+      "gameCount": 18,
+      "companyCount": 21,
+      "totalSteamReviews": 329991,
+      "mostReviewedGames": [
+        {
+          "id": "hotline-miami",
+          "title": "Hotline Miami",
+          "value": 128476
+        },
+        {
+          "id": "katana-zero",
+          "title": "Katana ZERO",
+          "value": 76201
+        },
+        {
+          "id": "loop-hero",
+          "title": "Loop Hero",
+          "value": 36571
+        },
+        {
+          "id": "risk-of-rain-2013",
+          "title": "Risk of Rain (2013)",
+          "value": 29832
+        },
+        {
+          "id": "the-red-strings-club",
+          "title": "The Red Strings Club",
+          "value": 14320
+        },
+        {
+          "id": "downwell",
+          "title": "Downwell",
+          "value": 8641
+        },
+        {
+          "id": "sheltered",
+          "title": "Sheltered",
+          "value": 6288
+        },
+        {
+          "id": "deadbolt",
+          "title": "DEADBOLT",
+          "value": 5647
+        },
+        {
+          "id": "gato-roboto",
+          "title": "Gato Roboto",
+          "value": 5267
+        },
+        {
+          "id": "luftrausers",
+          "title": "LUFTRAUSERS",
+          "value": 4527
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "hotline-miami",
+          "title": "Hotline Miami",
+          "value": 139
+        },
+        {
+          "id": "loop-hero",
+          "title": "Loop Hero",
+          "value": 111
+        },
+        {
+          "id": "katana-zero",
+          "title": "Katana ZERO",
+          "value": 76
+        },
+        {
+          "id": "sheltered",
+          "title": "Sheltered",
+          "value": 40
+        },
+        {
+          "id": "honey-i-joined-a-cult",
+          "title": "Honey, I Joined a Cult",
+          "value": 25
+        },
+        {
+          "id": "conscript-directors-cut",
+          "title": "CONSCRIPT: Director’s Cut",
+          "value": 18
+        },
+        {
+          "id": "risk-of-rain-2013",
+          "title": "Risk of Rain (2013)",
+          "value": 12
+        },
+        {
+          "id": "downwell",
+          "title": "Downwell",
+          "value": 11
+        },
+        {
+          "id": "the-red-strings-club",
+          "title": "The Red Strings Club",
+          "value": 9
+        },
+        {
+          "id": "deadbolt",
+          "title": "DEADBOLT",
+          "value": 5
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2011": 1,
+        "2012": 2,
+        "2013": 1,
+        "2014": 2,
+        "2015": 1,
+        "2016": 2,
+        "2018": 3,
+        "2019": 2,
+        "2021": 2,
+        "2022": 1,
+        "2024": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "gdscript",
+    "name": "GDScript",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q28942599"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "version-control",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q186055"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "go",
+    "name": "Go",
+    "aliases": [
+      "Golang"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q37227"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "godot",
+    "name": "Godot",
+    "aliases": [
+      "Godot 3",
+      "Godot 4",
+      "Godot Engine"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://godotengine.org",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q16972633"
+    },
+    "games": [
+      "slay-the-spire-2",
+      "the-case-of-the-golden-idol",
+      "the-rise-of-the-golden-idol"
+    ],
+    "statistics": {
+      "gameCount": 3,
+      "companyCount": 2,
+      "totalSteamReviews": 218238,
+      "mostReviewedGames": [
+        {
+          "id": "slay-the-spire-2",
+          "title": "Slay the Spire 2",
+          "value": 203068
+        },
+        {
+          "id": "the-case-of-the-golden-idol",
+          "title": "The Case of the Golden Idol",
+          "value": 11014
+        },
+        {
+          "id": "the-rise-of-the-golden-idol",
+          "title": "The Rise of the Golden Idol",
+          "value": 4156
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "slay-the-spire-2",
+          "title": "Slay the Spire 2",
+          "value": 49289
+        },
+        {
+          "id": "the-case-of-the-golden-idol",
+          "title": "The Case of the Golden Idol",
+          "value": 34
+        },
+        {
+          "id": "the-rise-of-the-golden-idol",
+          "title": "The Rise of the Golden Idol",
+          "value": 31
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2022": 1,
+        "2024": 1,
+        "2026": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "havok",
+    "name": "Havok",
+    "aliases": [
+      "Havok Physics"
+    ],
+    "category": "middleware",
+    "subcategory": "physics",
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q616957"
+    },
+    "games": [
+      "alan-wake"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 60085,
+      "mostReviewedGames": [
+        {
+          "id": "alan-wake",
+          "title": "Alan Wake",
+          "value": 60085
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "alan-wake",
+          "title": "Alan Wake",
+          "value": 168
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2012": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "haxe",
+    "name": "Haxe",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q285886"
+    },
+    "games": [
+      "dead-cells"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 183848,
+      "mostReviewedGames": [
+        {
+          "id": "dead-cells",
+          "title": "Dead Cells",
+          "value": 183848
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "dead-cells",
+          "title": "Dead Cells",
+          "value": 2280
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2018": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "haxeflixel",
+    "name": "HaxeFlixel",
+    "aliases": [],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {},
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "heaps",
+    "name": "Heaps",
+    "aliases": [
+      "Heaps.io"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://heaps.io",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q110373086"
+    },
+    "games": [
+      "dead-cells"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 183848,
+      "mostReviewedGames": [
+        {
+          "id": "dead-cells",
+          "title": "Dead Cells",
+          "value": 183848
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "dead-cells",
+          "title": "Dead Cells",
+          "value": 2280
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2018": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "houdini",
+    "name": "Houdini",
+    "aliases": [
+      "SideFX Houdini"
+    ],
+    "category": "tool",
+    "subcategory": "procedural",
+    "developer": "SideFX",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2595529"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "id-tech",
+    "name": "id Tech",
+    "aliases": [
+      "id Tech 3",
+      "id Tech 4",
+      "id Tech 6",
+      "id Tech 7"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "id Software",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q288655"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "ink",
+    "name": "Ink",
+    "aliases": [
+      "inkle ink"
+    ],
+    "category": "middleware",
+    "subcategory": "narrative",
+    "developer": "inkle",
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q125523460"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "irrlicht",
+    "name": "Irrlicht Engine",
+    "aliases": [
+      "Irrlicht"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1423300"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q251"
+    },
+    "games": [
+      "minecraft-java-edition"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {
+        "2009": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "aliases": [
+      "ECMAScript",
+      "JS"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2005"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q3816639"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "krita",
+    "name": "Krita",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "2d-art",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q604945"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "leadwerks",
+    "name": "Leadwerks",
+    "aliases": [
+      "Leadwerks Game Engine"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q28957023"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "libgdx",
+    "name": "libGDX",
+    "aliases": [
+      "LibGDX",
+      "libgdx"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q16321264"
+    },
+    "games": [
+      "slay-the-spire"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 218957,
+      "mostReviewedGames": [
+        {
+          "id": "slay-the-spire",
+          "title": "Slay the Spire",
+          "value": 218957
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "slay-the-spire",
+          "title": "Slay the Spire",
+          "value": 6467
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2019": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "love2d",
+    "name": "LÖVE",
+    "aliases": [
+      "LOVE",
+      "Love2D",
+      "LÖVE2D"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://love2d.org",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q3269846"
+    },
+    "games": [
+      "balatro"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 199214,
+      "mostReviewedGames": [
+        {
+          "id": "balatro",
+          "title": "Balatro",
+          "value": 199214
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "balatro",
+          "title": "Balatro",
+          "value": 5261
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2024": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "lua",
+    "name": "Lua",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q207316"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "microsoft-xna",
+    "name": "Microsoft XNA",
+    "aliases": [
+      "XNA",
+      "XNA Framework",
+      "XNA Game Studio"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": "Microsoft",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q949728"
+    },
+    "games": [
+      "bastion",
+      "serious-sam-double-d-xxl"
+    ],
+    "statistics": {
+      "gameCount": 2,
+      "companyCount": 3,
+      "totalSteamReviews": 39098,
+      "mostReviewedGames": [
+        {
+          "id": "bastion",
+          "title": "Bastion",
+          "value": 38212
+        },
+        {
+          "id": "serious-sam-double-d-xxl",
+          "title": "Serious Sam Double D XXL",
+          "value": 886
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "bastion",
+          "title": "Bastion",
+          "value": 12
+        },
+        {
+          "id": "serious-sam-double-d-xxl",
+          "title": "Serious Sam Double D XXL",
+          "value": 2
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2011": 2
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "monogame",
+    "name": "MonoGame",
+    "aliases": [],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": "https://monogame.net",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q13218967"
+    },
+    "games": [
+      "bastion",
+      "carrion",
+      "rogue-heroes-ruins-of-tasos",
+      "transistor"
+    ],
+    "statistics": {
+      "gameCount": 4,
+      "companyCount": 3,
+      "totalSteamReviews": 109280,
+      "mostReviewedGames": [
+        {
+          "id": "bastion",
+          "title": "Bastion",
+          "value": 38212
+        },
+        {
+          "id": "carrion",
+          "title": "CARRION",
+          "value": 36070
+        },
+        {
+          "id": "transistor",
+          "title": "Transistor",
+          "value": 31275
+        },
+        {
+          "id": "rogue-heroes-ruins-of-tasos",
+          "title": "Rogue Heroes: Ruins of Tasos",
+          "value": 3723
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "carrion",
+          "title": "CARRION",
+          "value": 66
+        },
+        {
+          "id": "bastion",
+          "title": "Bastion",
+          "value": 12
+        },
+        {
+          "id": "transistor",
+          "title": "Transistor",
+          "value": 9
+        },
+        {
+          "id": "rogue-heroes-ruins-of-tasos",
+          "title": "Rogue Heroes: Ruins of Tasos",
+          "value": 6
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2011": 1,
+        "2014": 1,
+        "2020": 1,
+        "2021": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "northlight-engine",
+    "name": "Northlight Engine",
+    "aliases": [
+      "Northlight"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Remedy Entertainment",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {},
+    "games": [
+      "alan-wake-2",
+      "control-awe",
+      "control-resonant",
+      "control-the-foundation",
+      "control-ultimate-edition",
+      "fbc-firebreak",
+      "quantum-break"
+    ],
+    "statistics": {
+      "gameCount": 7,
+      "companyCount": 1,
+      "totalSteamReviews": 107542,
+      "mostReviewedGames": [
+        {
+          "id": "control-ultimate-edition",
+          "title": "CONTROL Ultimate Edition",
+          "value": 65139
+        },
+        {
+          "id": "quantum-break",
+          "title": "Quantum Break",
+          "value": 31101
+        },
+        {
+          "id": "control-resonant",
+          "title": "CONTROL Resonant",
+          "value": 8953
+        },
+        {
+          "id": "fbc-firebreak",
+          "title": "FBC: Firebreak",
+          "value": 2349
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "control-resonant",
+          "title": "CONTROL Resonant",
+          "value": 10960
+        },
+        {
+          "id": "control-ultimate-edition",
+          "title": "CONTROL Ultimate Edition",
+          "value": 1425
+        },
+        {
+          "id": "quantum-break",
+          "title": "Quantum Break",
+          "value": 74
+        },
+        {
+          "id": "fbc-firebreak",
+          "title": "FBC: Firebreak",
+          "value": 2
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2016": 1,
+        "2020": 3,
+        "2023": 1,
+        "2025": 1,
+        "2026": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "objective-c",
+    "name": "Objective-C",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q188531"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "odin",
+    "name": "Odin",
+    "aliases": [
+      "Odin programming language"
+    ],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q64840933"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "open-3d-engine",
+    "name": "Open 3D Engine",
+    "aliases": [
+      "O3DE"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q107610458"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "openfl",
+    "name": "OpenFL",
+    "aliases": [],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q6954720"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "opengl",
+    "name": "OpenGL",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "graphics-api",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q178570"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "phaser",
+    "name": "Phaser",
+    "aliases": [
+      "Phaser.js"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q48851432"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "physx",
+    "name": "PhysX",
+    "aliases": [
+      "NVIDIA PhysX"
+    ],
+    "category": "middleware",
+    "subcategory": "physics",
+    "developer": "NVIDIA",
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q705442"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "pico-8",
+    "name": "PICO-8",
+    "aliases": [
+      "Pico-8",
+      "Pico8"
+    ],
+    "category": "engine",
+    "subcategory": "fantasy-console",
+    "developer": "Lexaloffle Games",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q28456260"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "plastic-scm",
+    "name": "Plastic SCM",
+    "aliases": [
+      "Unity Version Control"
+    ],
+    "category": "tool",
+    "subcategory": "version-control",
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q5403883"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q28865"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "raylib",
+    "name": "Raylib",
+    "aliases": [
+      "raylib"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q104843174"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "renpy",
+    "name": "Ren'Py",
+    "aliases": [
+      "Ren Py",
+      "RenPy"
+    ],
+    "category": "engine",
+    "subcategory": "visual-novel",
+    "developer": null,
+    "website": "https://www.renpy.org",
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1196014"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "rpg-maker",
+    "name": "RPG Maker",
+    "aliases": [
+      "RPG Maker MV",
+      "RPG Maker MZ",
+      "RPG Maker VX Ace",
+      "RPG Maker XP"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q260080"
+    },
+    "games": [
+      "omori"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 88833,
+      "mostReviewedGames": [
+        {
+          "id": "omori",
+          "title": "OMORI",
+          "value": 88833
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "omori",
+          "title": "OMORI",
+          "value": 221
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2020": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q575650"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "sdl",
+    "name": "Simple DirectMedia Layer",
+    "aliases": [
+      "SDL",
+      "SDL2",
+      "SDL3"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q727439"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "sfml",
+    "name": "SFML",
+    "aliases": [
+      "Simple and Fast Multimedia Library"
+    ],
+    "category": "framework",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q919155"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "source-engine",
+    "name": "Source",
+    "aliases": [
+      "Source 2",
+      "Source engine"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Valve",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q643572"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "speedtree",
+    "name": "SpeedTree",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "vegetation",
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1470268"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "spine",
+    "name": "Spine",
+    "aliases": [
+      "Esoteric Spine",
+      "Spine 2D"
+    ],
+    "category": "tool",
+    "subcategory": "2d-animation",
+    "developer": "Esoteric Software",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {},
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "steamworks",
+    "name": "Steamworks",
+    "aliases": [
+      "Steamworks SDK"
+    ],
+    "category": "service",
+    "subcategory": null,
+    "developer": "Valve",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q124418177"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "stencyl",
+    "name": "Stencyl",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q7607505"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "substance-3d",
+    "name": "Adobe Substance 3D",
+    "aliases": [
+      "Allegorithmic Substance",
+      "Substance 3D Designer",
+      "Substance 3D Painter",
+      "Substance Designer",
+      "Substance Painter"
+    ],
+    "category": "tool",
+    "subcategory": "texturing",
+    "developer": "Adobe",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {},
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q17118377"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "twine",
+    "name": "Twine",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "narrative",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q15411624"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q978185"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "unigine",
+    "name": "Unigine",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2564057"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "unity",
+    "name": "Unity",
+    "aliases": [
+      "Unity 3D",
+      "Unity 5",
+      "Unity 6",
+      "Unity Engine",
+      "Unity game engine",
+      "Unity3D"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Unity Technologies",
+    "website": "https://unity.com",
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q63966"
+    },
+    "games": [
+      "a-memoir-blue",
+      "ape-out",
+      "arco",
+      "automachef",
+      "ball-x-pit",
+      "before-we-leave",
+      "beyond-eyes",
+      "blasphemous",
+      "blasphemous-2",
+      "blockhood",
+      "boomerang-x",
+      "broforce",
+      "callers-bane",
+      "clustertruck",
+      "crossing-souls",
+      "crown-trick",
+      "cult-of-the-lamb",
+      "cuphead",
+      "deaths-door",
+      "detention",
+      "devotion",
+      "disc-room",
+      "donut-county",
+      "dredge",
+      "dredge-the-iron-rig",
+      "dropsy",
+      "dungeon-hearts",
+      "enter-the-gungeon",
+      "firewatch",
+      "florence",
+      "genital-jousting",
+      "golf-with-your-friends",
+      "gorn",
+      "gorogoa",
+      "gris",
+      "heave-ho",
+      "heavy-bullets",
+      "hindsight",
+      "hokko-life",
+      "hollow-knight",
+      "hollow-knight-silksong",
+      "huntdown",
+      "i-hate-running-backwards",
+      "inscryption",
+      "killer-frequency",
+      "last-stop",
+      "lumentale-memories-of-trey",
+      "marauders",
+      "mother-russia-bleeds",
+      "mouse-p-i-for-hire",
+      "moving-out",
+      "mugsters",
+      "mundaun",
+      "my-friend-pedro",
+      "narita-boy",
+      "neon-abyss",
+      "neon-white",
+      "neva",
+      "nine-sols",
+      "noct",
+      "observation",
+      "okhlos-omega",
+      "omnibus",
+      "outer-wilds",
+      "outer-wilds-echoes-of-the-eye",
+      "overcooked",
+      "overcooked-2",
+      "pikuniku",
+      "reigns",
+      "reigns-game-of-thrones",
+      "reigns-her-majesty",
+      "sayonara-wild-hearts",
+      "serious-sam-kamikaze-attack",
+      "serious-sam-tormental",
+      "sludge-life",
+      "songs-of-conquest",
+      "stories-untold",
+      "strafe-gold-edition",
+      "telling-lies",
+      "tentacular",
+      "terra-nil",
+      "the-escapists",
+      "the-escapists-2",
+      "the-expendabros",
+      "the-last-faith",
+      "the-messenger",
+      "the-serpent-rogue",
+      "totally-accurate-battle-simulator",
+      "totally-accurate-battlegrounds",
+      "twelve-minutes",
+      "umiro",
+      "untitled-goose-game",
+      "valheim",
+      "wizard-with-a-gun",
+      "worms-revolution"
+    ],
+    "statistics": {
+      "gameCount": 95,
+      "companyCount": 94,
+      "totalSteamReviews": 3654300,
+      "mostReviewedGames": [
+        {
+          "id": "hollow-knight",
+          "title": "Hollow Knight",
+          "value": 563187
+        },
+        {
+          "id": "valheim",
+          "title": "Valheim",
+          "value": 555550
+        },
+        {
+          "id": "hollow-knight-silksong",
+          "title": "Hollow Knight: Silksong",
+          "value": 424061
+        },
+        {
+          "id": "cuphead",
+          "title": "Cuphead",
+          "value": 221971
+        },
+        {
+          "id": "totally-accurate-battle-simulator",
+          "title": "Totally Accurate Battle Simulator",
+          "value": 154318
+        },
+        {
+          "id": "inscryption",
+          "title": "Inscryption",
+          "value": 148837
+        },
+        {
+          "id": "cult-of-the-lamb",
+          "title": "Cult of the Lamb",
+          "value": 130078
+        },
+        {
+          "id": "outer-wilds",
+          "title": "Outer Wilds",
+          "value": 108571
+        },
+        {
+          "id": "firewatch",
+          "title": "Firewatch",
+          "value": 99563
+        },
+        {
+          "id": "gris",
+          "title": "GRIS",
+          "value": 96511
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "valheim",
+          "title": "Valheim",
+          "value": 62985
+        },
+        {
+          "id": "hollow-knight-silksong",
+          "title": "Hollow Knight: Silksong",
+          "value": 4801
+        },
+        {
+          "id": "hollow-knight",
+          "title": "Hollow Knight",
+          "value": 4630
+        },
+        {
+          "id": "overcooked-2",
+          "title": "Overcooked! 2",
+          "value": 3613
+        },
+        {
+          "id": "ball-x-pit",
+          "title": "BALL x PIT",
+          "value": 1284
+        },
+        {
+          "id": "totally-accurate-battle-simulator",
+          "title": "Totally Accurate Battle Simulator",
+          "value": 1253
+        },
+        {
+          "id": "cult-of-the-lamb",
+          "title": "Cult of the Lamb",
+          "value": 1088
+        },
+        {
+          "id": "cuphead",
+          "title": "Cuphead",
+          "value": 990
+        },
+        {
+          "id": "inscryption",
+          "title": "Inscryption",
+          "value": 665
+        },
+        {
+          "id": "outer-wilds",
+          "title": "Outer Wilds",
+          "value": 506
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2012": 1,
+        "2013": 2,
+        "2014": 2,
+        "2015": 4,
+        "2016": 8,
+        "2017": 9,
+        "2018": 11,
+        "2019": 10,
+        "2020": 9,
+        "2021": 13,
+        "2022": 9,
+        "2023": 6,
+        "2024": 5,
+        "2025": 2,
+        "2026": 3
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "unity-2018",
+    "name": "Unity 2018",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "unknown",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q62716529"
+    },
+    "games": [
+      "risk-of-rain-2"
+    ],
+    "statistics": {
+      "gameCount": 1,
+      "companyCount": 1,
+      "totalSteamReviews": 353273,
+      "mostReviewedGames": [
+        {
+          "id": "risk-of-rain-2",
+          "title": "Risk of Rain 2",
+          "value": 353273
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "risk-of-rain-2",
+          "title": "Risk of Rain 2",
+          "value": 2675
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2020": 1
+      }
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "unreal-engine",
+    "name": "Unreal Engine",
+    "aliases": [
+      "UE",
+      "UE3",
+      "UE4",
+      "UE5",
+      "Unreal Engine 2",
+      "Unreal Engine 3",
+      "Unreal Engine 4",
+      "Unreal Engine 5"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": "Epic Games",
+    "website": "https://www.unrealengine.com",
+    "license": "source-available",
+    "description": {
+      "source": null,
+      "custom": "Version-specific Wikidata items (e.g. Unreal Engine 4, Q13156652) are matched by name."
+    },
+    "externalIds": {
+      "wikidata": "Q608276"
+    },
+    "games": [
+      "a-story-about-my-uncle",
+      "absolver",
+      "alien-breed-2-assault",
+      "alien-breed-3-descent",
+      "ashen",
+      "crossfirex",
+      "deep-rock-galactic",
+      "genesis-alpha-one-deluxe-edition",
+      "goat-simulator",
+      "hell-let-loose",
+      "i-am-dead",
+      "leisure-suit-larry-box-office-bust",
+      "lethal-vr",
+      "lushfoil-photography-sim",
+      "main-assembly",
+      "midnight-ghost-hunt",
+      "minecraft-dungeons",
+      "mortal-shell",
+      "planet-alpha",
+      "ruiner",
+      "sanctum",
+      "sanctum-2",
+      "satisfactory",
+      "shadow-warrior-3-definitive-edition",
+      "silent-hill-townfall",
+      "stray",
+      "the-pathless",
+      "the-talos-principle-2",
+      "viscera-cleanup-detail-shadow-warrior",
+      "what-remains-of-edith-finch",
+      "worms-rumble"
+    ],
+    "statistics": {
+      "gameCount": 31,
+      "companyCount": 28,
+      "totalSteamReviews": 1272003,
+      "mostReviewedGames": [
+        {
+          "id": "deep-rock-galactic",
+          "title": "Deep Rock Galactic",
+          "value": 380471
+        },
+        {
+          "id": "satisfactory",
+          "title": "Satisfactory",
+          "value": 280143
+        },
+        {
+          "id": "stray",
+          "title": "Stray",
+          "value": 178725
+        },
+        {
+          "id": "hell-let-loose",
+          "title": "Hell Let Loose",
+          "value": 149957
+        },
+        {
+          "id": "goat-simulator",
+          "title": "Goat Simulator",
+          "value": 70299
+        },
+        {
+          "id": "what-remains-of-edith-finch",
+          "title": "What Remains of Edith Finch",
+          "value": 53011
+        },
+        {
+          "id": "a-story-about-my-uncle",
+          "title": "A Story About My Uncle",
+          "value": 29243
+        },
+        {
+          "id": "minecraft-dungeons",
+          "title": "Minecraft Dungeons",
+          "value": 19809
+        },
+        {
+          "id": "absolver",
+          "title": "Absolver",
+          "value": 14826
+        },
+        {
+          "id": "sanctum-2",
+          "title": "Sanctum 2",
+          "value": 14391
+        }
+      ],
+      "mostPlayedGames": [
+        {
+          "id": "satisfactory",
+          "title": "Satisfactory",
+          "value": 8902
+        },
+        {
+          "id": "deep-rock-galactic",
+          "title": "Deep Rock Galactic",
+          "value": 3673
+        },
+        {
+          "id": "hell-let-loose",
+          "title": "Hell Let Loose",
+          "value": 1584
+        },
+        {
+          "id": "silent-hill-townfall",
+          "title": "SILENT HILL: Townfall",
+          "value": 1518
+        },
+        {
+          "id": "minecraft-dungeons",
+          "title": "Minecraft Dungeons",
+          "value": 745
+        },
+        {
+          "id": "stray",
+          "title": "Stray",
+          "value": 199
+        },
+        {
+          "id": "goat-simulator",
+          "title": "Goat Simulator",
+          "value": 71
+        },
+        {
+          "id": "the-talos-principle-2",
+          "title": "The Talos Principle 2",
+          "value": 55
+        },
+        {
+          "id": "what-remains-of-edith-finch",
+          "title": "What Remains of Edith Finch",
+          "value": 46
+        },
+        {
+          "id": "mortal-shell",
+          "title": "Mortal Shell",
+          "value": 42
+        }
+      ],
+      "gamesByReleaseYear": {
+        "2009": 1,
+        "2010": 2,
+        "2011": 1,
+        "2013": 2,
+        "2014": 2,
+        "2016": 1,
+        "2017": 3,
+        "2018": 1,
+        "2019": 1,
+        "2020": 4,
+        "2021": 5,
+        "2022": 3,
+        "2023": 1,
+        "2024": 2,
+        "2025": 1,
+        "2026": 1
+      }
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "unrealscript",
+    "name": "UnrealScript",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": "Epic Games",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q1191442"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "visionaire-studio",
+    "name": "Visionaire Studio",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q2528330"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "vulkan",
+    "name": "Vulkan",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "graphics-api",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q19407678"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "wintermute-engine",
+    "name": "Wintermute Engine",
+    "aliases": [],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q841283"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "wolf-rpg-editor",
+    "name": "Wolf RPG Editor",
+    "aliases": [
+      "WOLF RPG Editor"
+    ],
+    "category": "engine",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q11253808"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "wwise",
+    "name": "Wwise",
+    "aliases": [
+      "Audiokinetic Wwise"
+    ],
+    "category": "middleware",
+    "subcategory": "audio",
+    "developer": "Audiokinetic",
+    "website": "https://www.audiokinetic.com",
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q4819910"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "yarn-spinner",
+    "name": "Yarn Spinner",
+    "aliases": [],
+    "category": "middleware",
+    "subcategory": "narrative",
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q130725093"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "zbrush",
+    "name": "ZBrush",
+    "aliases": [],
+    "category": "tool",
+    "subcategory": "sculpting",
+    "developer": "Maxon",
+    "website": null,
+    "license": "proprietary",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q135964"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "zig",
+    "name": "Zig",
+    "aliases": [],
+    "category": "language",
+    "subcategory": null,
+    "developer": null,
+    "website": null,
+    "license": "open-source",
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "externalIds": {
+      "wikidata": "Q51885456"
+    },
+    "games": [],
+    "statistics": {
+      "gameCount": 0,
+      "companyCount": 0,
+      "totalSteamReviews": 0,
+      "mostReviewedGames": [],
+      "mostPlayedGames": [],
+      "gamesByReleaseYear": {}
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  }
+]

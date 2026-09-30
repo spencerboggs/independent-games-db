@@ -1,0 +1,119 @@
+{
+  "id": "panic",
+  "name": "Panic",
+  "aliases": [
+    "Panic Inc",
+    "Panic, Inc."
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American software company and video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7131061",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://panic.com",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/panic.com",
+    "mastodon": "https://panic.com/@panic",
+    "x": "https://x.com/panic"
+  },
+  "location": {
+    "headquarters": "Oregon",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q7131061"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-publisher",
+    "notes": "Portland software company that publishes independent games."
+  },
+  "games": {
+    "developed": [
+      "b360",
+      "crayons",
+      "inventory-hero",
+      "star-sled"
+    ],
+    "published": [
+      "arco",
+      "b360",
+      "battleship-godios",
+      "big-walk",
+      "blippo",
+      "crankins-time-travel-adventure",
+      "crayons",
+      "despelote",
+      "executive-golf-dx",
+      "firewatch",
+      "flipper-lifter",
+      "herdling",
+      "hyper-meteor",
+      "inventory-hero",
+      "lost-your-marbles",
+      "mars-after-midnight",
+      "nour-play-with-your-food",
+      "oom",
+      "questy-chess",
+      "reel-steal",
+      "robot-fishing",
+      "sasquatchers",
+      "snak",
+      "star-sled",
+      "thank-goodness-youre-here",
+      "time-flies",
+      "untitled-goose-game",
+      "whitewater-wipeout",
+      "widget-satchel-ii-return-of-sprocket",
+      "zipper"
+    ]
+  },
+  "statistics": {
+    "gameCount": 30,
+    "developedCount": 4,
+    "publishedCount": 30,
+    "totalSteamReviews": 178632,
+    "averagePositivePercentage": 91.7,
+    "weightedPositivePercentage": 92.9,
+    "mostReviewedGame": "firewatch",
+    "mostRecentRelease": "big-walk",
+    "firstRelease": "firewatch",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7131061",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

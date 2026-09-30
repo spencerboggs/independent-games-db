@@ -1,0 +1,218 @@
+{
+  "id": "worms-rumble",
+  "title": "Worms Rumble",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2020-12-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Worms Rumble is Worms like you’ve never played it before, with intense, real-time, arena-based 32 player cross-platform combat. Get ready for Deathmatch and Last Worm Standing modes where you’re only ever a Holy Hand Grenade away from death!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1186040/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-pvp",
+    "pvp",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q97440998",
+    "igdb": "worms-rumble",
+    "steam": "1186040"
+  },
+  "links": {
+    "official": "https://www.team17.com/games/worms-rumble/",
+    "steam": "https://store.steampowered.com/app/1186040/",
+    "wikidata": "https://www.wikidata.org/wiki/Q97440998"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_f7406704266469e83a0688057d50af9c9fd3b586.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_4b904933b210bbb2f350533eebcb76caa8051ea1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_352de82048adecfa87f79dfc71a4089ca7821ee9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_b2dac556b11ee53c8a84c354a43c8aa439175617.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_e455d32e00826dd680f0fd52d6c20f13cacce7be.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_982a10631f26802b0f16d5010ad3825798274f6e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_d27fa19068c858eae7c7f7cdbff4f58e07a2cc95.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_41f525b258b6c2c5d95f9efa5e397870c5c21b8a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186040/ss_8a8f3d2092a48aaed86d907d3d23e2f0782310cd.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unreal-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q97440998",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 2488,
+      "positiveCount": 1405,
+      "negativeCount": 1083,
+      "positivePercentage": 56.5,
+      "negativePercentage": 43.5,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.17,
+      "reviewsPerMonth": 35.6,
+      "windowDays": 2129,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1186040/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q97440998",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

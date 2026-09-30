@@ -1,0 +1,51 @@
+{
+  "id": "libgdx",
+  "name": "libGDX",
+  "aliases": [
+    "LibGDX",
+    "libgdx"
+  ],
+  "category": "framework",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q16321264"
+  },
+  "games": [
+    "slay-the-spire"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 218957,
+    "mostReviewedGames": [
+      {
+        "id": "slay-the-spire",
+        "title": "Slay the Spire",
+        "value": 218957
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "slay-the-spire",
+        "title": "Slay the Spire",
+        "value": 6467
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2019": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

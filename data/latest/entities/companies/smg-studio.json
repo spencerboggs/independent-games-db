@@ -1,0 +1,80 @@
+{
+  "id": "smg-studio",
+  "name": "SMG Studio",
+  "aliases": [
+    "SMG STUDIO PTY LTD"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Australian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105612281",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.smgstudio.com/",
+  "socialLinks": {
+    "x": "https://x.com/SMGstudio",
+    "youtube": "https://www.youtube.com/channel/UCeYM87nZDOKPxAx2ChvZV3Q"
+  },
+  "location": {
+    "headquarters": "Sydney",
+    "country": "AU",
+    "countryName": "Australia"
+  },
+  "founded": 2013,
+  "foundedDate": "2013-07-01",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q105612281"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "moving-out",
+      "moving-out-2"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 2994,
+    "averagePositivePercentage": 77.2,
+    "weightedPositivePercentage": 78.9,
+    "mostReviewedGame": "moving-out",
+    "mostRecentRelease": "moving-out-2",
+    "firstRelease": "moving-out",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105612281",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "coastalbyte-games",
+  "name": "Coastalbyte Games",
+  "developed": [
+    {
+      "id": "puppet-fever",
+      "title": "Puppet Fever",
+      "type": "game",
+      "releaseDate": "2018-04-19",
+      "developers": [
+        "coastalbyte-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "800390",
+      "reviewCount": 37,
+      "positivePercentage": 89.2
+    }
+  ],
+  "published": []
+}

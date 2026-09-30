@@ -1,0 +1,39 @@
+{
+  "id": "balancing-monkey-games",
+  "name": "Balancing Monkey Games",
+  "developed": [
+    {
+      "id": "before-we-leave",
+      "title": "Before We Leave",
+      "type": "game",
+      "releaseDate": "2021-05-13",
+      "developers": [
+        "balancing-monkey-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1073910",
+      "reviewCount": 1731,
+      "positivePercentage": 78.1
+    }
+  ],
+  "published": []
+}

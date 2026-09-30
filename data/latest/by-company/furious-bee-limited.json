@@ -1,0 +1,39 @@
+{
+  "id": "furious-bee-limited",
+  "name": "Furious Bee Limited",
+  "developed": [
+    {
+      "id": "telling-lies",
+      "title": "Telling Lies",
+      "type": "game",
+      "releaseDate": "2019-08-23",
+      "developers": [
+        "furious-bee-limited",
+        "half-mermaid",
+        "sam-barlow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "interactive-film",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "762830",
+      "reviewCount": 1326,
+      "positivePercentage": 63
+    }
+  ],
+  "published": []
+}

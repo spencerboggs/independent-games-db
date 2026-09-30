@@ -1,0 +1,32 @@
+{
+  "id": "hypetrain-digital",
+  "name": "HypeTrain Digital",
+  "developed": [],
+  "published": [
+    {
+      "id": "die-in-the-dungeon",
+      "title": "Die in the Dungeon",
+      "type": "game",
+      "releaseDate": "2026-05-01",
+      "developers": [
+        "atico"
+      ],
+      "publishers": [
+        "hypetrain-digital",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2026820",
+      "reviewCount": 3597,
+      "positivePercentage": 92.1
+    }
+  ]
+}

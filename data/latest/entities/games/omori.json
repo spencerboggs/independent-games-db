@@ -1,0 +1,212 @@
+{
+  "id": "omori",
+  "title": "OMORI",
+  "alternateTitles": [
+    "Omori"
+  ],
+  "type": "game",
+  "releaseDate": "2020-12-25",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "omocat"
+  ],
+  "publishers": [
+    "omocat"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1150690/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "psychological-horror-fiction",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "remote-play-on-phone",
+    "remote-play-on-tablet",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "Japanese",
+    "Simplified Chinese",
+    "Korean"
+  ],
+  "externalIds": {
+    "wikidata": "Q105618699",
+    "igdb": "omori",
+    "steam": "1150690"
+  },
+  "links": {
+    "official": "http://omori-game.com/",
+    "steam": "https://store.steampowered.com/app/1150690/",
+    "wikidata": "https://www.wikidata.org/wiki/Q105618699"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_219463835487a7205f0af93fb02d2c84855c667b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_4bb5647e9094a13078d23f2a9daa4a9bd160841e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_72e19b9ca001c03084b9eb7f5665514e60a6a6dd.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_14bd4cd7c2be96cdffa112d991ce755600c8ad72.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_126ccd3db36bf47431f6d6b92cf0922a3a918bfc.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_591d0375a075ae2afdd3ddf5a6172beb3f04c338.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_dceb64a6d59193b730c6d3d951519def8e043a57.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_f94eda3668d91d3705bb67dd04dce1bc07b3fa40.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_20f3a05a3343bc8dc2fb79f52c2f1c368d0a969b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "rpg-maker",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q105618699",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 88833,
+      "positiveCount": 86227,
+      "negativeCount": 2606,
+      "positivePercentage": 97.1,
+      "negativePercentage": 2.9,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 221,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 42.19,
+      "reviewsPerMonth": 1284.3,
+      "windowDays": 2105,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1150690/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105618699",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

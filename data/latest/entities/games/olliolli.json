@@ -1,0 +1,199 @@
+{
+  "id": "olliolli",
+  "title": "OlliOlli",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2014-07-22",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "general-arcade",
+    "roll7"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "OlliOlli mixes addictive one-life gameplay with over 120 tricks and grinds across 50 deviously crafted levels, 250 Challenges, Spots Mode and Daily Grind.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/274250/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "skateboarding-video-game",
+    "sports"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "remote-play-on-tv",
+    "single-player",
+    "stats",
+    "steam-achievements",
+    "steam-leaderboards"
+  ],
+  "platforms": [
+    "android",
+    "linux",
+    "macos",
+    "playstation-4",
+    "playstation-vita",
+    "wii-u",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain"
+  ],
+  "externalIds": {
+    "wikidata": "Q16267831",
+    "igdb": "olliolli",
+    "steam": "274250"
+  },
+  "links": {
+    "official": "http://www.roll7.co.uk/",
+    "steam": "https://store.steampowered.com/app/274250/",
+    "wikidata": "https://www.wikidata.org/wiki/Q16267831"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/274250",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_606a59ffd73d56bd97e7f071645a5e1dccf39999.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_000443696286c88df353aca8c336abd7cbb08ff8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_48d695af70ce9bd18ba6c5ab7594fbf5d2848931.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_a06407d8312088592275861501b0cde5c83ee0d5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_df96ce4786f4c8f780df7908ec6798c08e6ff4f1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_fac86bfc28384b91d68bef43d3d9def6fd9ccef9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_70072f5f71223d3b3be3912b9e73c56a1dfc6607.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274250/ss_ba2148e0947e0d2abd26eefa0080b24bf4d0c0f8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "olliolli",
+    "name": "OlliOlli"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 863,
+      "positiveCount": 675,
+      "negativeCount": 188,
+      "positivePercentage": 78.2,
+      "negativePercentage": 21.8,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.19,
+      "reviewsPerMonth": 5.9,
+      "windowDays": 4453,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/274250/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16267831",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

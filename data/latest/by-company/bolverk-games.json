@@ -1,0 +1,53 @@
+{
+  "id": "bolverk-games",
+  "name": "Bolverk Games",
+  "developed": [
+    {
+      "id": "dick-wilde",
+      "title": "Dick Wilde",
+      "type": "game",
+      "releaseDate": "2017-03-29",
+      "developers": [
+        "bolverk-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "585500",
+      "reviewCount": 57,
+      "positivePercentage": 84.2
+    },
+    {
+      "id": "dick-wilde-2",
+      "title": "Dick Wilde 2",
+      "type": "game",
+      "releaseDate": "2019-02-19",
+      "developers": [
+        "bolverk-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "975430",
+      "reviewCount": 62,
+      "positivePercentage": 80.6
+    }
+  ],
+  "published": []
+}

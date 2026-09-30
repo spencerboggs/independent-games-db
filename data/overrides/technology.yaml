@@ -1,0 +1,22 @@
+# Technology claims (game -> technology) and technology corrections.
+#
+# claims: add, confirm or reject a technology used by a game.
+#   confidence: verified | high | medium | low | inferred
+#   "verified" requires a source URL (official statement, credits, interview).
+#   role defaults from the technology's category (engines, middleware, languages, tools).
+#
+# Examples:
+#   claims:
+#     - game: some-game
+#       technology: fmod
+#       confidence: verified
+#       source: { type: developer-interview, url: https://example.com/interview }
+#     - game: some-game
+#       technology: unity
+#       remove: true
+#       note: Wikidata is wrong; the game uses a custom engine.
+#
+# technologies: overrides for catalog entries (same keys as games.yaml).
+
+claims: []
+technologies: []

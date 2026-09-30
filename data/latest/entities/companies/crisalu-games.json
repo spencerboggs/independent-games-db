@@ -1,0 +1,56 @@
+{
+  "id": "crisalu-games",
+  "name": "Crisalu Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "goblin-cleanup"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2367,
+    "averagePositivePercentage": 87.9,
+    "weightedPositivePercentage": 87.9,
+    "mostReviewedGame": "goblin-cleanup",
+    "mostRecentRelease": "goblin-cleanup",
+    "firstRelease": "goblin-cleanup",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

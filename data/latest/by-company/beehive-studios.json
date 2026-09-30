@@ -1,0 +1,37 @@
+{
+  "id": "beehive-studios",
+  "name": "Beehive Studios",
+  "developed": [
+    {
+      "id": "lumentale-memories-of-trey",
+      "title": "LumenTale: Memories of Trey",
+      "type": "game",
+      "releaseDate": "2026-05-26",
+      "developers": [
+        "beehive-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2261430",
+      "reviewCount": 1379,
+      "positivePercentage": 71.6
+    }
+  ],
+  "published": []
+}

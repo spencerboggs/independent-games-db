@@ -1,0 +1,64 @@
+{
+  "id": "evil-landfall",
+  "name": "Evil Landfall?",
+  "developed": [],
+  "published": [
+    {
+      "id": "haste",
+      "title": "Haste",
+      "type": "game",
+      "releaseDate": "2025-04-01",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "evil-landfall"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "racing",
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1796470",
+      "reviewCount": 14267,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "peak",
+      "title": "PEAK",
+      "type": "game",
+      "releaseDate": "2025-06-16",
+      "developers": [
+        "team-peak"
+      ],
+      "publishers": [
+        "aggro-crab",
+        "evil-landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3527290",
+      "reviewCount": 375864,
+      "positivePercentage": 94.4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ocean-software",
+  "name": "Ocean Software",
+  "developed": [],
+  "published": [
+    {
+      "id": "alien-breed-3d",
+      "title": "Alien Breed 3D",
+      "type": "game",
+      "releaseDate": "1995",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32"
+      ],
+      "genres": [
+        "first-person-shooter",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-3d-ii-the-killing-grounds",
+      "title": "Alien Breed 3D II: The Killing Grounds",
+      "type": "game",
+      "releaseDate": "1996",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200"
+      ],
+      "genres": [
+        "first-person-shooter",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-the-directors-cut",
+      "title": "Worms: The Director's Cut",
+      "type": "game",
+      "releaseDate": "1997",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-4000"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "x2",
+      "title": "X2",
+      "type": "game",
+      "releaseDate": "1997-08",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "playstation"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

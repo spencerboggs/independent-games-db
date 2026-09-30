@@ -1,0 +1,207 @@
+{
+  "id": "hindsight",
+  "title": "Hindsight",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2022-08-04",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team-hindsight"
+  ],
+  "publishers": [
+    "annapurna-interactive"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "What if the physical objects of everyday life, the possessions we hold close, were actual windows to the past? Peer into distant memories and unseen futures in Hindsight.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1122700/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "casual",
+    "casual-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "ios",
+    "macos",
+    "nintendo-switch",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q106513288",
+    "igdb": "hindsight",
+    "steam": "1122700"
+  },
+  "links": {
+    "official": "http://hindsight.game",
+    "steam": "https://store.steampowered.com/app/1122700/",
+    "wikidata": "https://www.wikidata.org/wiki/Q106513288"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1122700",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_2dbb9715900f8b07db97a5f22320a01ccbdace38.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_25fe5c147dbc513ee60966f207efaf845e14fceb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_4bf04111bea7d3d77f87a4cd9bcae57ad60c4d32.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_2af89a6e255966d62a20e09ff2f9f5d366cb57d0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_c524d759fbf9afb84ca2fa8e2c3902143aa24a0f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_9fbaecd8806f9ca299711bd2d82d654b21a18cab.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/ss_620890776c2d0b973261a7b20612a60cac929f85.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q106513288",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 161,
+      "positiveCount": 130,
+      "negativeCount": 31,
+      "positivePercentage": 80.7,
+      "negativePercentage": 19.3,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.11,
+      "reviewsPerMonth": 3.2,
+      "windowDays": 1518,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1122700/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106513288",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

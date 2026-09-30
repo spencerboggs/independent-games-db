@@ -1,0 +1,282 @@
+{
+  "id": "cyber-shadow",
+  "title": "Cyber Shadow",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2021-01-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "aarne-mekaskull-hunziker"
+  ],
+  "publishers": [
+    "yacht-club-games"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The world has been taken over by synthetic lifeforms. A desperate plea for help sets Shadow, the sole survivor of his clan, on one last mission to uncover what started the path to perpetual ruin.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/861250/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "platformer",
+    "post-apocalyptic-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Russian",
+    "Simplified Chinese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q65040588",
+    "igdb": "cyber-shadow",
+    "steam": "861250"
+  },
+  "links": {
+    "official": "https://www.cybershadowgame.com/",
+    "steam": "https://store.steampowered.com/app/861250/",
+    "wikidata": "https://www.wikidata.org/wiki/Q65040588"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_70e88d1ebfe7e586ce9120e86b4bc577febea6da.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_7fca607d9da151cf67d90f5b0bc4371829b1997e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_fecf423e76c45ca9563c0e33439144ee5fd2b6c0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_a8ac9cc9a6ca8278c2af07e21ce6268bbf924a9d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_d0c858d39b674b8fc6682ed9279dca9dfa1b71d0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_257f2c965e032dfb175911e88806e62bcef29609.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_30c3c41cb29a1624be5a4982e59140b3d1189229.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_e227ee668ed28137903d2f3e5079c7c964a25299.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_543c90de51389a1cfa233e8dc8bc0ba750cc232e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_214480c7d27037cea74bc6ca4df63749e7b1e4a2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_0d1af0ecf7f623c1c2226da46aaf5bed11b7ccaf.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_a2fd6f0c67021fe01951f0562292b29760bebd86.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_1475da34cbddba25b8d9307bfc71e91cf62d8b05.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_716fed9d3faaf7f8c9b50390050ddbef4ba7437b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_2605664d06726ff67ad86f8828ea4e6b8a5c7dd8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_7e089c42a16d7ae20880e8794c97948bc4e432ac.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_64dd325bda1790788f994055ea810e4bd27e9d9d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861250/ss_fe4cf03a23898ce4c21873c8c3b295f624d793a2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "construct",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q65040588",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 1559,
+      "positiveCount": 1301,
+      "negativeCount": 258,
+      "positivePercentage": 83.5,
+      "negativePercentage": 16.5,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.75,
+      "reviewsPerMonth": 22.9,
+      "windowDays": 2073,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/861250/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q65040588",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

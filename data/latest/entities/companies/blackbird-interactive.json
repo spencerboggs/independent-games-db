@@ -1,0 +1,74 @@
+{
+  "id": "blackbird-interactive",
+  "name": "Blackbird Interactive",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Canadian video game development company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q22906795",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://blackbirdinteractive.com",
+  "socialLinks": {
+    "x": "https://x.com/InsideBBI"
+  },
+  "location": {
+    "headquarters": "Vancouver",
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2007,
+  "foundedDate": "2007",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q22906795"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "minecraft-legends"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2873,
+    "averagePositivePercentage": 57.8,
+    "weightedPositivePercentage": 57.8,
+    "mostReviewedGame": "minecraft-legends",
+    "mostRecentRelease": "minecraft-legends",
+    "firstRelease": "minecraft-legends",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q22906795",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

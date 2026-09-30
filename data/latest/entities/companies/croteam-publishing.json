@@ -1,0 +1,57 @@
+{
+  "id": "croteam-publishing",
+  "name": "Croteam Publishing",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "serious-sam-3-vr-bfe",
+      "the-talos-principle-vr"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 0,
+    "publishedCount": 2,
+    "totalSteamReviews": 1486,
+    "averagePositivePercentage": 84.5,
+    "weightedPositivePercentage": 84.3,
+    "mostReviewedGame": "the-talos-principle-vr",
+    "mostRecentRelease": "serious-sam-3-vr-bfe",
+    "firstRelease": "the-talos-principle-vr",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "mopeful-games",
+  "name": "Mopeful Games",
+  "developed": [
+    {
+      "id": "wardrum",
+      "title": "Wardrum",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "mopeful-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "roguelite",
+        "rpg",
+        "strategy",
+        "turn-based-tactics"
+      ],
+      "engines": [],
+      "steamAppId": "2680670",
+      "reviewCount": 99,
+      "positivePercentage": 85.9
+    }
+  ],
+  "published": []
+}

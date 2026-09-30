@@ -1,0 +1,34 @@
+{
+  "id": "behaviour-interactive-inc",
+  "name": "Behaviour Interactive",
+  "developed": [
+    {
+      "id": "serious-sam-shatterverse",
+      "title": "Serious Sam: Shatterverse",
+      "type": "game",
+      "releaseDate": "2026-08-31",
+      "developers": [
+        "behaviour-interactive-inc"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "2067210",
+      "reviewCount": 776,
+      "positivePercentage": 52.6
+    }
+  ],
+  "published": []
+}

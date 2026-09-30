@@ -1,0 +1,32 @@
+{
+  "id": "team-peak",
+  "name": "Team PEAK",
+  "developed": [
+    {
+      "id": "peak",
+      "title": "PEAK",
+      "type": "game",
+      "releaseDate": "2025-06-16",
+      "developers": [
+        "team-peak"
+      ],
+      "publishers": [
+        "aggro-crab",
+        "evil-landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3527290",
+      "reviewCount": 375864,
+      "positivePercentage": 94.4
+    }
+  ],
+  "published": []
+}

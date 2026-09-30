@@ -1,0 +1,76 @@
+{
+  "id": "system-era-softworks",
+  "name": "System Era Softworks",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q69329890",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://systemera.net/",
+  "socialLinks": {
+    "x": "https://x.com/ses_dev",
+    "youtube": "https://www.youtube.com/channel/UCkpGuffDLnLlLv8fdoBDnnw"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2014,
+  "foundedDate": "2014",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q69329890",
+    "igdb": "system-era-softworks"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "starseeker-astroneer-expeditions"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 891,
+    "averagePositivePercentage": 57.8,
+    "weightedPositivePercentage": 57.8,
+    "mostReviewedGame": "starseeker-astroneer-expeditions",
+    "mostRecentRelease": "starseeker-astroneer-expeditions",
+    "firstRelease": "starseeker-astroneer-expeditions",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q69329890",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "villa-gorilla",
+  "name": "Villa Gorilla AB",
+  "aliases": [
+    "Villa Gorilla"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q139908149",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://villa-gorilla.com",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": 2013,
+  "foundedDate": "2013-07-01",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q139908149",
+    "igdb": "villa-gorilla"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "yokus-island-express"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 5337,
+    "averagePositivePercentage": 95.7,
+    "weightedPositivePercentage": 95.7,
+    "mostReviewedGame": "yokus-island-express",
+    "mostRecentRelease": "yokus-island-express",
+    "firstRelease": "yokus-island-express",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q139908149",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

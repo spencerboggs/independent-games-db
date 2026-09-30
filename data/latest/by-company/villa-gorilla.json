@@ -1,0 +1,34 @@
+{
+  "id": "villa-gorilla",
+  "name": "Villa Gorilla AB",
+  "developed": [
+    {
+      "id": "yokus-island-express",
+      "title": "Yoku's Island Express",
+      "type": "game",
+      "releaseDate": "2018-05-29",
+      "developers": [
+        "villa-gorilla"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "metroidvania",
+        "pinball-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "334940",
+      "reviewCount": 5337,
+      "positivePercentage": 95.7
+    }
+  ],
+  "published": []
+}

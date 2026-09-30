@@ -1,0 +1,47 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/statistics-history.schema.json",
+  "title": "Steam review history",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "steamReviews": {
+      "default": {},
+      "description": "Steam app ID -> [date, total, positive] observations, oldest first.",
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "type": "string",
+              "description": "ISO date"
+            },
+            {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991,
+              "description": "total reviews"
+            },
+            {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991,
+              "description": "positive reviews"
+            }
+          ],
+          "items": false,
+          "minItems": 3,
+          "maxItems": 3
+        }
+      }
+    }
+  },
+  "required": [
+    "steamReviews"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,87 @@
+name: Update
+
+# Scheduled data refresh. Runs the full pipeline against the providers and
+# opens (or updates) a single pull request with the changes and the change
+# report. Nothing is published until a maintainer reviews and merges it.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Ignore the provider cache"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Restore provider cache
+        uses: actions/cache@v6
+        with:
+          path: data/raw
+          key: provider-cache-${{ github.run_id }}
+          restore-keys: provider-cache-
+
+      - name: Run pipeline
+        env:
+          # Optional. IGDB is skipped when these are not set.
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+        run: npm run update -- ${{ inputs.refresh && '--refresh' || '' }}
+
+      - name: Verify output
+        run: npm run validate:output
+
+      - name: Summarize
+        id: summary
+        run: |
+          {
+            echo 'body<<REPORT_EOF'
+            echo 'Automated data update. **Review before merging.**'
+            echo
+            echo 'To curate: check out this branch, run `npm run review`, apply decisions, click *Rebuild dataset*, commit and push.'
+            echo
+            cat reports/latest.md
+            echo 'REPORT_EOF'
+          } >> "$GITHUB_OUTPUT"
+          cat reports/latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open or update pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: automated/data-update
+          delete-branch: true
+          commit-message: "Automated data update"
+          title: "Automated data update"
+          body: ${{ steps.summary.outputs.body }}
+          labels: |
+            automated
+            data-update
+          add-paths: |
+            data/generated
+            data/registry
+            data/history
+            data/latest
+            data/review/candidates.json
+            reports

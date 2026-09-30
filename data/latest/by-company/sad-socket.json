@@ -1,0 +1,32 @@
+{
+  "id": "sad-socket",
+  "name": "Sad Socket",
+  "developed": [
+    {
+      "id": "9-kings",
+      "title": "9 Kings",
+      "type": "game",
+      "releaseDate": "2025-05-23",
+      "developers": [
+        "sad-socket"
+      ],
+      "publishers": [
+        "hooded-horse",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2784470",
+      "reviewCount": 23385,
+      "positivePercentage": 92.4
+    }
+  ],
+  "published": []
+}

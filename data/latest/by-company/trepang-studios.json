@@ -1,0 +1,32 @@
+{
+  "id": "trepang-studios",
+  "name": "Trepang Studios",
+  "developed": [
+    {
+      "id": "trepang2",
+      "title": "Trepang2",
+      "type": "game",
+      "releaseDate": "2023-06-21",
+      "developers": [
+        "trepang-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1164940",
+      "reviewCount": 19708,
+      "positivePercentage": 92.7
+    }
+  ],
+  "published": []
+}

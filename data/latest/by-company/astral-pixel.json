@@ -1,0 +1,32 @@
+{
+  "id": "astral-pixel",
+  "name": "Astral Pixel",
+  "developed": [
+    {
+      "id": "super-magbot",
+      "title": "Super Magbot",
+      "type": "game",
+      "releaseDate": "2021-06-22",
+      "developers": [
+        "astral-pixel"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1205170",
+      "reviewCount": 425,
+      "positivePercentage": 84
+    }
+  ],
+  "published": []
+}

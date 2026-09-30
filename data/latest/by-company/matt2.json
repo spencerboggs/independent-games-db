@@ -1,0 +1,36 @@
+{
+  "id": "matt2",
+  "name": "Matt2",
+  "developed": [
+    {
+      "id": "lushfoil-photography-sim",
+      "title": "Lushfoil Photography Sim",
+      "type": "game",
+      "releaseDate": "2025-04-15",
+      "developers": [
+        "matt2"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1749860",
+      "reviewCount": 1846,
+      "positivePercentage": 91.7
+    }
+  ],
+  "published": []
+}

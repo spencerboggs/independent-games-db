@@ -1,0 +1,74 @@
+{
+  "id": "bubby-darkstar",
+  "name": "Bubby Darkstar",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q138322019",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "x": "https://x.com/bubbydarkstar"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q138322019"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "subway-midnight"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1330,
+    "averagePositivePercentage": 77.4,
+    "weightedPositivePercentage": 77.4,
+    "mostReviewedGame": "subway-midnight",
+    "mostRecentRelease": "subway-midnight",
+    "firstRelease": "subway-midnight",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q138322019",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

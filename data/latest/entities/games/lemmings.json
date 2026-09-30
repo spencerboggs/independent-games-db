@@ -1,0 +1,67 @@
+{
+  "id": "lemmings",
+  "title": "Lemmings",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2006-12-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "puzzle"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-2",
+    "playstation-3",
+    "playstation-portable"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q3229369",
+    "igdb": "lemmings--1"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3229369"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3229369",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

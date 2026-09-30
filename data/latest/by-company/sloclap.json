@@ -1,0 +1,35 @@
+{
+  "id": "sloclap",
+  "name": "Sloclap",
+  "developed": [
+    {
+      "id": "absolver",
+      "title": "Absolver",
+      "type": "game",
+      "releaseDate": "2017-08-29",
+      "developers": [
+        "sloclap"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "473690",
+      "reviewCount": 14826,
+      "positivePercentage": 72.6
+    }
+  ],
+  "published": []
+}

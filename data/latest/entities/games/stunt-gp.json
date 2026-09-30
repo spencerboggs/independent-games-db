@@ -1,0 +1,69 @@
+{
+  "id": "stunt-gp",
+  "title": "Stunt GP",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2001-04-06",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "eon-digital-entertainment"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "racing-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "dreamcast",
+    "playstation-2",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q7628781",
+    "igdb": "stunt-gp"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7628781"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7628781",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "raging-justice",
+  "title": "Raging Justice",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2018-05-08",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "makingames-ltd"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The city is in chaos! With crime and corruption around every corner, it’s all down to a team of hard-hitting justice seeking mavericks, to clean up the streets with some tough justice! Raging Justice is a classic beat ‘em up, dragged kicking and screaming into the 21st century.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/384200/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "remote-play-on-tv",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q114977011",
+    "igdb": "raging-justice",
+    "steam": "384200"
+  },
+  "links": {
+    "official": "https://www.team17.com/games/raging-justice/",
+    "steam": "https://store.steampowered.com/app/384200/",
+    "wikidata": "https://www.wikidata.org/wiki/Q114977011"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_641a00bfae28108d2199a7c547a6f8775d7d3f38.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_13f79b917c26e3943c461f80436c907775638b26.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_266e5024da7c3b75e442842e715a8220d3012a5a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_97d45cb555468da3991ed5b96dcc018f5c7072d0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_225d7f30df9bc6b92981122f50c772db872a8a34.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384200/ss_c66a3558bfebad6c8c9cb068071fe3934ef90041.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "cocos2d",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q114977011",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 163,
+      "positiveCount": 119,
+      "negativeCount": 44,
+      "positivePercentage": 73,
+      "negativePercentage": 27,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.05,
+      "reviewsPerMonth": 1.6,
+      "windowDays": 3067,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/384200/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114977011",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

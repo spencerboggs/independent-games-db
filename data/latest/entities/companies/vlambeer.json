@@ -1,0 +1,80 @@
+{
+  "id": "vlambeer",
+  "name": "Vlambeer",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Dutch video game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7939006",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.vlambeer.com",
+  "socialLinks": {
+    "x": "https://x.com/Vlambeer",
+    "youtube": "https://www.youtube.com/channel/UCWVgsbhDn0Fb7UB8qzUbRZw"
+  },
+  "location": {
+    "headquarters": "Utrecht",
+    "country": null,
+    "countryName": "Netherlands"
+  },
+  "founded": 2010,
+  "foundedDate": "2010-09-01",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Jan Willem Nijman",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q7939006",
+    "igdb": "vlambeer"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "luftrausers",
+      "serious-sam-the-random-encounter"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 5346,
+    "averagePositivePercentage": 69.8,
+    "weightedPositivePercentage": 84.2,
+    "mostReviewedGame": "luftrausers",
+    "mostRecentRelease": "luftrausers",
+    "firstRelease": "serious-sam-the-random-encounter",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "adobe-flash",
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7939006",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

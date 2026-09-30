@@ -1,0 +1,36 @@
+{
+  "name": "Independent & Non-AAA Game Database",
+  "description": "Public dataset of independent and non-AAA games, the companies that make and publish them, and the technologies they use.",
+  "datasetVersion": "0.1.0",
+  "schemaVersion": "1.0.0",
+  "repository": "spencerboggs/independent-games-db",
+  "defaultBranch": "main",
+  "contact": "https://github.com/spencerboggs/independent-games-db/issues",
+  "license": {
+    "code": "MIT",
+    "data": "ODbL-1.0",
+    "notes": "The ODbL applies to the database compilation to the extent permitted by applicable law. It does not grant rights to third-party content or other rights that are not held by the Licensor. See DATA-SOURCES.md."
+  },
+  "providers": {
+    "wikidata": { "enabled": true },
+    "steam": { "enabled": true, "countryCode": "us", "language": "english" },
+    "igdb": { "enabled": "auto" }
+  },
+  "policies": {
+    "thirdPartyDescriptions": "store-short",
+    "artwork": "reference-only",
+    "includeGameTypes": ["game", "dlc", "expansion", "remaster", "remake", "port"],
+    "cacheTtlHours": {
+      "metadata": 168,
+      "statistics": 20
+    }
+  },
+  "statistics": {
+    "highestRatedMinReviews": 500,
+    "rankingSize": 25,
+    "recentWindowDays": 30,
+    "recentlyPopularMinReleaseAgeDays": 0,
+    "mostEstablishedMinReviews": 1000,
+    "averagePositiveMinReviews": 50
+  }
+}

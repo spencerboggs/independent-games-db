@@ -1,0 +1,20 @@
+# Manual relationship corrections.
+#
+# Add a relationship (source required) or remove a generated one.
+# Types: developer, publisher, porting, support, uses-engine, uses-middleware,
+#   uses-language, uses-tool, subsidiary-of, dlc-of, remaster-of, port-of,
+#   affiliated-with, credited-on
+#
+# Examples:
+#   - from: some-porting-studio
+#     type: porting
+#     to: some-game
+#     confidence: high
+#     source: { type: official, url: https://example.com/news/port }
+#   - from: wrong-studio
+#     type: developer
+#     to: some-game
+#     remove: true
+#     note: Wikidata lists the publisher as a developer.
+
+relationships: []

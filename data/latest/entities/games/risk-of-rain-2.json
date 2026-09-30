@@ -1,0 +1,218 @@
+{
+  "id": "risk-of-rain-2",
+  "title": "Risk of Rain 2",
+  "alternateTitles": [
+    "RoR 2",
+    "RoR2"
+  ],
+  "type": "game",
+  "releaseDate": "2020-08-11",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "hopoo-games"
+  ],
+  "publishers": [
+    "2k",
+    "gearbox-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/632360/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "roguelite",
+    "science-fiction-video-game",
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [
+    "adjustable-difficulty",
+    "adjustable-text-size",
+    "camera-comfort",
+    "co-op",
+    "custom-volume-controls",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "remote-play-on-phone",
+    "remote-play-on-tablet",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-cloud",
+    "steam-leaderboards",
+    "steam-trading-cards",
+    "stereo-sound",
+    "surround-sound"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q62569141",
+    "igdb": "risk-of-rain-2",
+    "steam": "632360"
+  },
+  "links": {
+    "official": "https://www.riskofrain.com/",
+    "steam": "https://store.steampowered.com/app/632360/",
+    "wikidata": "https://www.wikidata.org/wiki/Q62569141"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_2bb49071317f7b241a527cf6e7aabd2cb6af055b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_a3f57f281813cb51cb5d919701470acb962ff297.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_328d6fcb223f848c2a1047bb86702c4175d92317.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_dc777b5c583794c99440b196cd1d26884fb1720b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_0377ff24b4d60db6a38ddc0824b7f308890b9231.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_85548e86c50ff654c6a49235ea686a956f8ee9ec.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity-2018",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q62569141",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "risk-of-rain",
+    "name": "Risk of Rain"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 353273,
+      "positiveCount": 331487,
+      "negativeCount": 21786,
+      "positivePercentage": 93.8,
+      "negativePercentage": 6.2,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 2675,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 157.61,
+      "reviewsPerMonth": 4797.6,
+      "windowDays": 2241,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/632360/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62569141",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

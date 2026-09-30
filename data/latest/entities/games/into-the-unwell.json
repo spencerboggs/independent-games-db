@@ -1,0 +1,165 @@
+{
+  "id": "into-the-unwell",
+  "title": "Into The Unwell",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2027",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "upcoming",
+  "developers": [
+    "she-was-such-a-good-horse"
+  ],
+  "publishers": [
+    "coffee-stain-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Whack-and-slash your inner demons in this third-person roguelite, set in a rubber hose fuelled fever dream! Play 1-3 players as one of several flawed and heavily medicated misfits.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2024600/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "roguelite"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "single-player",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Spanish - Spain"
+  ],
+  "externalIds": {
+    "wikidata": "Q134724814",
+    "igdb": "into-the-unwell",
+    "steam": "2024600"
+  },
+  "links": {
+    "official": "https://coffeestain.com/games/into-the-unwell",
+    "steam": "https://store.steampowered.com/app/2024600/",
+    "wikidata": "https://www.wikidata.org/wiki/Q134724814"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/d08b7b6166af9867fb65aae0b06794fc6e2e78b6/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/02239432f4a29d17678155cb56c2259dccdb36a6/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/1b6dffe508347bde755426a2fe082eeb3d6bfff1/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/2bbd8c84dca5e4bb95840e0e2ab1000e2131b4b7/ss_2bbd8c84dca5e4bb95840e0e2ab1000e2131b4b7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/b31c88a59ce48447d19cf5425439686a1e94cc8f/ss_b31c88a59ce48447d19cf5425439686a1e94cc8f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/928215531b7b814c2a8abc485e8786e3a5f23335/ss_928215531b7b814c2a8abc485e8786e3a5f23335.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/ca1db8b8e41cfecbfe22aa4a433865f3f37b211d/ss_ca1db8b8e41cfecbfe22aa4a433865f3f37b211d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/0330f0b51968ca3d9a0fd70e0255f34acbe51197/ss_0330f0b51968ca3d9a0fd70e0255f34acbe51197.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024600/688c88914902ad95b89be00e59adc0a24c20d3ed/ss_688c88914902ad95b89be00e59adc0a24c20d3ed.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2024600/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q134724814",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

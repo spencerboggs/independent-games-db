@@ -1,0 +1,77 @@
+{
+  "id": "sega",
+  "name": "Sega",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q122741",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.sega.com",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/sega.jp",
+    "x": "https://x.com/SEGA_OFFICIAL",
+    "youtube": "https://www.youtube.com/channel/UCVkqs_Q88BDmyaWwjYJ8_Ig"
+  },
+  "location": {
+    "headquarters": "Shinagawa",
+    "country": "JP",
+    "countryName": "Japan"
+  },
+  "founded": 1960,
+  "foundedDate": "1960-06-03",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "SEGA Group Corporation",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q122741",
+    "igdb": "sega"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "worms-forts-under-siege"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "worms-forts-under-siege",
+    "firstRelease": "worms-forts-under-siege",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q122741",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

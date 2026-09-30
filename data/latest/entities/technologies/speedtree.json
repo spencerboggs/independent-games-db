@@ -1,0 +1,32 @@
+{
+  "id": "speedtree",
+  "name": "SpeedTree",
+  "aliases": [],
+  "category": "middleware",
+  "subcategory": "vegetation",
+  "developer": null,
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q1470268"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

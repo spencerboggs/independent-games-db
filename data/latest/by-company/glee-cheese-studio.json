@@ -1,0 +1,36 @@
+{
+  "id": "glee-cheese-studio",
+  "name": "Glee-Cheese Studio",
+  "developed": [
+    {
+      "id": "headbangers-rhythm-royale",
+      "title": "Headbangers: Rhythm Royale",
+      "type": "game",
+      "releaseDate": "2023-10-31",
+      "developers": [
+        "glee-cheese-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "battle-royale-game",
+        "casual",
+        "rhythm-game"
+      ],
+      "engines": [],
+      "steamAppId": "1761620",
+      "reviewCount": 1212,
+      "positivePercentage": 70.2
+    }
+  ],
+  "published": []
+}

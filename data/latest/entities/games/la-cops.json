@@ -1,0 +1,207 @@
+{
+  "id": "la-cops",
+  "title": "LA Cops",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2015-03-13",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "modern-dream"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "LA Cops is a fast, action packed 3D top down shooter set to a theme of 70s Cops in LA trying to do a tough job in a tough town.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/278810/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "action-adventure",
+    "adventure",
+    "adventure-video-game",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "partial-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards"
+  ],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Russian"
+  ],
+  "externalIds": {
+    "wikidata": "Q89694714",
+    "igdb": "la-cops",
+    "steam": "278810"
+  },
+  "links": {
+    "official": "http://www.la-cops.com/",
+    "steam": "https://store.steampowered.com/app/278810/",
+    "wikidata": "https://www.wikidata.org/wiki/Q89694714"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/278810",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_32a4d49a057c4b39aad22f701511e3d249fdaa68.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_8905b9c464f897c58ff29eae74f301474d9790b2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_100a7becf42a4b7fc889ea0098aa1ab5abec7d83.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_fdabe6be8dbd233c244add1ec2ad450ec85b7436.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_1dbb2147fb434a600153598b74946e27c25d7f88.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_4b192704f7fc0c5fa2623ddfaf54a7c5d27b9b02.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_4576ae847dbc55579eb8347d451c890e773aff60.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_ebbac5a495bf8ca353e7f643771d1ea03d4c762f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_f72bb87c4e71a1f329c73dbe873315b960d896e0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278810/ss_1502200b61c7e544e58e1a2797ab33e028dc133e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 180,
+      "positiveCount": 94,
+      "negativeCount": 86,
+      "positivePercentage": 52.2,
+      "negativePercentage": 47.8,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.04,
+      "reviewsPerMonth": 1.3,
+      "windowDays": 4219,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/278810/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q89694714",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

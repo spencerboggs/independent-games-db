@@ -1,0 +1,34 @@
+{
+  "id": "simon-boxer",
+  "name": "Simon Boxer",
+  "developed": [
+    {
+      "id": "the-dungeon-experience",
+      "title": "The Dungeon Experience",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "bone-assembly",
+        "jacob-janerka",
+        "simon-boxer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "comedy-video-game",
+        "first-person-adventure"
+      ],
+      "engines": [],
+      "steamAppId": "994680",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

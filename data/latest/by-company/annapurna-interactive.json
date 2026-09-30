@@ -1,0 +1,1312 @@
+{
+  "id": "annapurna-interactive",
+  "name": "Annapurna Interactive",
+  "developed": [],
+  "published": [
+    {
+      "id": "a-memoir-blue",
+      "title": "A Memoir Blue",
+      "type": "game",
+      "releaseDate": "2022-03-24",
+      "developers": [
+        "cloisters-interactive"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1497450",
+      "reviewCount": 527,
+      "positivePercentage": 85.2
+    },
+    {
+      "id": "ashen",
+      "title": "Ashen",
+      "type": "game",
+      "releaseDate": "2019-12-09",
+      "developers": [
+        "a44"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "649950",
+      "reviewCount": 3867,
+      "positivePercentage": 66.8
+    },
+    {
+      "id": "cocoon",
+      "title": "COCOON",
+      "type": "game",
+      "releaseDate": "2023-09-29",
+      "developers": [
+        "geometric-interactive"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1497440",
+      "reviewCount": 9123,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "d-topia",
+      "title": "D-topia",
+      "type": "game",
+      "releaseDate": "2026-07-14",
+      "developers": [
+        "marumittu-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1895460",
+      "reviewCount": 158,
+      "positivePercentage": 88
+    },
+    {
+      "id": "demi-and-the-fractured-dream",
+      "title": "Demi and the Fractured Dream",
+      "type": "game",
+      "releaseDate": "2027-02",
+      "developers": [
+        "yarn-owl-studios"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1725710",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "donut-county",
+      "title": "Donut County",
+      "type": "game",
+      "releaseDate": "2018-08-28",
+      "developers": [
+        "ben-esposito"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "702670",
+      "reviewCount": 12173,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "faraway",
+      "title": "Faraway",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "steph-thirion"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "2831000",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "flock",
+      "title": "Flock",
+      "type": "game",
+      "releaseDate": "2024-07-16",
+      "developers": [
+        "hollow-ponds",
+        "richard-hogg"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "1472930",
+      "reviewCount": 287,
+      "positivePercentage": 96.2
+    },
+    {
+      "id": "florence",
+      "title": "Florence",
+      "type": "game",
+      "releaseDate": "2020-02-13",
+      "developers": [
+        "mountains"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1102130",
+      "reviewCount": 16495,
+      "positivePercentage": 93.2
+    },
+    {
+      "id": "gorogoa",
+      "title": "Gorogoa",
+      "type": "game",
+      "releaseDate": "2017-12-14",
+      "developers": [
+        "buried-signal"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "557600",
+      "reviewCount": 20835,
+      "positivePercentage": 97.5
+    },
+    {
+      "id": "hindsight",
+      "title": "Hindsight",
+      "type": "game",
+      "releaseDate": "2022-08-04",
+      "developers": [
+        "team-hindsight"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122700",
+      "reviewCount": 161,
+      "positivePercentage": 80.7
+    },
+    {
+      "id": "i-am-dead",
+      "title": "I Am Dead",
+      "type": "game",
+      "releaseDate": "2020-10-08",
+      "developers": [
+        "hollow-ponds",
+        "richard-hogg"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "951750",
+      "reviewCount": 468,
+      "positivePercentage": 81.6
+    },
+    {
+      "id": "if-found",
+      "title": "If Found...",
+      "type": "game",
+      "releaseDate": "2020-05-19",
+      "developers": [
+        "dreamfeel"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "visual-novel"
+      ],
+      "engines": [],
+      "steamAppId": "1041920",
+      "reviewCount": 2365,
+      "positivePercentage": 90.4
+    },
+    {
+      "id": "journey",
+      "title": "Journey",
+      "type": "game",
+      "releaseDate": "2020-06-11",
+      "developers": [
+        "thatgamecompany"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "playstation-3",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure",
+        "art-game",
+        "walking-simulator"
+      ],
+      "engines": [],
+      "steamAppId": "638230",
+      "reviewCount": 38627,
+      "positivePercentage": 94.1
+    },
+    {
+      "id": "last-stop",
+      "title": "Last Stop",
+      "type": "game",
+      "releaseDate": "2021-07-22",
+      "developers": [
+        "variable-state"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122690",
+      "reviewCount": 370,
+      "positivePercentage": 78.9
+    },
+    {
+      "id": "lego-voyagers",
+      "title": "LEGO® Voyagers",
+      "type": "game",
+      "releaseDate": "2025-09-15",
+      "developers": [
+        "light-brick-studio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "1538550",
+      "reviewCount": 3248,
+      "positivePercentage": 88.4
+    },
+    {
+      "id": "lorelei-and-the-laser-eyes",
+      "title": "Lorelei and the Laser Eyes",
+      "type": "game",
+      "releaseDate": "2024-05-16",
+      "developers": [
+        "simogo"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "2008920",
+      "reviewCount": 3287,
+      "positivePercentage": 93.9
+    },
+    {
+      "id": "lushfoil-photography-sim",
+      "title": "Lushfoil Photography Sim",
+      "type": "game",
+      "releaseDate": "2025-04-15",
+      "developers": [
+        "matt2"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1749860",
+      "reviewCount": 1846,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "maquette",
+      "title": "Maquette",
+      "type": "game",
+      "releaseDate": "2021-03-02",
+      "developers": [
+        "graceful-decay"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "762840",
+      "reviewCount": 674,
+      "positivePercentage": 70.2
+    },
+    {
+      "id": "mixtape",
+      "title": "Mixtape",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "beethoven-and-dinosaur"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2582320",
+      "reviewCount": 8644,
+      "positivePercentage": 87.9
+    },
+    {
+      "id": "mundaun",
+      "title": "Mundaun",
+      "type": "game",
+      "releaseDate": "2021-03-16",
+      "developers": [
+        "hidden-fields"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "720350",
+      "reviewCount": 1516,
+      "positivePercentage": 93.3
+    },
+    {
+      "id": "neon-white",
+      "title": "Neon White",
+      "type": "game",
+      "releaseDate": "2022-06-16",
+      "developers": [
+        "angel-matrix"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1533420",
+      "reviewCount": 20905,
+      "positivePercentage": 97.9
+    },
+    {
+      "id": "open-roads",
+      "title": "Open Roads",
+      "type": "game",
+      "releaseDate": "2024-03-28",
+      "developers": [
+        "open-roads-team"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1497360",
+      "reviewCount": 362,
+      "positivePercentage": 77.9
+    },
+    {
+      "id": "outer-wilds",
+      "title": "Outer Wilds",
+      "type": "game",
+      "releaseDate": "2020-06-18",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidbrainia",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "753640",
+      "reviewCount": 108571,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "outer-wilds-echoes-of-the-eye",
+      "title": "Outer Wilds - Echoes of the Eye",
+      "type": "dlc",
+      "releaseDate": "2021-09-28",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1622100",
+      "reviewCount": 6540,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "people-of-note",
+      "title": "People of Note",
+      "type": "game",
+      "releaseDate": "2026-04-07",
+      "developers": [
+        "iridium-studios"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "rpg",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [],
+      "steamAppId": "1626170",
+      "reviewCount": 472,
+      "positivePercentage": 90.7
+    },
+    {
+      "id": "sayonara-wild-hearts",
+      "title": "Sayonara Wild Hearts",
+      "type": "game",
+      "releaseDate": "2019-12-12",
+      "developers": [
+        "simogo"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "music-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122720",
+      "reviewCount": 8942,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "silent-hill-townfall",
+      "title": "SILENT HILL: Townfall",
+      "type": "game",
+      "releaseDate": "2026-09-23",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "annapurna-interactive",
+        "konami"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1636440",
+      "reviewCount": 4064,
+      "positivePercentage": 66.3
+    },
+    {
+      "id": "skin-deep",
+      "title": "Skin Deep",
+      "type": "game",
+      "releaseDate": "2025-04-30",
+      "developers": [
+        "blendo-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "301280",
+      "reviewCount": 1783,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "solar-ash",
+      "title": "Solar Ash",
+      "type": "game",
+      "releaseDate": "2022-12-08",
+      "developers": [
+        "heart-machine"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1867530",
+      "reviewCount": 1518,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "storyteller",
+      "title": "Storyteller",
+      "type": "game",
+      "releaseDate": "2023-03-23",
+      "developers": [
+        "daniel-benmergui"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1624540",
+      "reviewCount": 9232,
+      "positivePercentage": 88.6
+    },
+    {
+      "id": "stray",
+      "title": "Stray",
+      "type": "game",
+      "releaseDate": "2022-07-19",
+      "developers": [
+        "bluetwelve-studio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cyberpunk-video-game",
+        "graphic-adventure-game",
+        "post-apocalyptic-video-game",
+        "puzzle",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1332010",
+      "reviewCount": 178725,
+      "positivePercentage": 97.2
+    },
+    {
+      "id": "telling-lies",
+      "title": "Telling Lies",
+      "type": "game",
+      "releaseDate": "2019-08-23",
+      "developers": [
+        "furious-bee-limited",
+        "half-mermaid",
+        "sam-barlow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "interactive-film",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "762830",
+      "reviewCount": 1326,
+      "positivePercentage": 63
+    },
+    {
+      "id": "the-artful-escape",
+      "title": "The Artful Escape",
+      "type": "game",
+      "releaseDate": "2021-09-09",
+      "developers": [
+        "beethoven-and-dinosaur"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1122680",
+      "reviewCount": 2029,
+      "positivePercentage": 91.9
+    },
+    {
+      "id": "the-pathless",
+      "title": "The Pathless",
+      "type": "game",
+      "releaseDate": "2021-11-16",
+      "developers": [
+        "giant-squid"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1492680",
+      "reviewCount": 2217,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-unfinished-swan",
+      "title": "The Unfinished Swan",
+      "type": "game",
+      "releaseDate": "2020-09-10",
+      "developers": [
+        "giant-sparrow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle-platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1206430",
+      "reviewCount": 2037,
+      "positivePercentage": 83.5
+    },
+    {
+      "id": "thirsty-suitors",
+      "title": "Thirsty Suitors",
+      "type": "game",
+      "releaseDate": "2023-11-02",
+      "developers": [
+        "outerloop-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1617220",
+      "reviewCount": 305,
+      "positivePercentage": 95.4
+    },
+    {
+      "id": "to-a-t",
+      "title": "to a T",
+      "type": "game",
+      "releaseDate": "2025-05-28",
+      "developers": [
+        "uvula-llc"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1875320",
+      "reviewCount": 268,
+      "positivePercentage": 86.2
+    },
+    {
+      "id": "twelve-minutes",
+      "title": "Twelve Minutes",
+      "type": "game",
+      "releaseDate": "2021-08-19",
+      "developers": [
+        "luis-antonio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1097200",
+      "reviewCount": 8120,
+      "positivePercentage": 73
+    },
+    {
+      "id": "uncanyon",
+      "title": "Uncanyon",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "graceful-decay"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3372610",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "wanderstop",
+      "title": "Wanderstop",
+      "type": "game",
+      "releaseDate": "2025-03-11",
+      "developers": [
+        "ivy-road"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1299460",
+      "reviewCount": 3255,
+      "positivePercentage": 92.8
+    },
+    {
+      "id": "wattam",
+      "title": "Wattam",
+      "type": "game",
+      "releaseDate": "2020-12-18",
+      "developers": [
+        "funomena"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "702680",
+      "reviewCount": 600,
+      "positivePercentage": 84.7
+    },
+    {
+      "id": "we-kill-monsters",
+      "title": "We Kill Monsters",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "glass-revolver"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1792460",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "what-remains-of-edith-finch",
+      "title": "What Remains of Edith Finch",
+      "type": "game",
+      "releaseDate": "2017-04-24",
+      "developers": [
+        "giant-sparrow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "501300",
+      "reviewCount": 53011,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "wheel-world",
+      "title": "Wheel World",
+      "type": "game",
+      "releaseDate": "2025-07-23",
+      "developers": [
+        "messhof"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "linux",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "cycling-video-game",
+        "racing",
+        "racing-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "1497460",
+      "reviewCount": 813,
+      "positivePercentage": 89.9
+    }
+  ]
+}

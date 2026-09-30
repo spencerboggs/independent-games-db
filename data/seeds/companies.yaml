@@ -1,0 +1,244 @@
+# Seed companies: the curated set that drives discovery.
+#
+# Adding a company here makes `npm run discover` find its games automatically
+# (Wikidata "developer"/"publisher" statements, plus IGDB when configured).
+# Classification is editorial: pick the closest category and explain edge
+# cases in `notes`. Always set `externalIds.wikidata` when you can; it removes
+# name ambiguity (e.g. "Landfall", "Evil Empire").
+#
+# categories: independent | independent-large | independent-publisher |
+#   acquired-independent | subsidiary | AAA-adjacent | other | excluded
+#
+# Optional per-company fields:
+#   aliases: [..]            other names providers use
+#   website: https://..      only if not provided by Wikidata
+#   discover: false          keep the company without running discovery
+#   games: { steam: [..], wikidata: [..], igdb: [..] }  extra game hints
+#   classification.include: false   keep the record but leave it out of the curated set
+
+companies:
+  - id: team-cherry
+    name: Team Cherry
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Small self-publishing studio in Adelaide.
+    externalIds: { wikidata: Q29326164 }
+    games:
+      steam: [367520]
+
+  - id: supergiant-games
+    name: Supergiant Games
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Self-owned; self-publishes on PC.
+    externalIds: { wikidata: Q7643396 }
+
+  - id: landfall
+    name: Landfall
+    aliases: [Landfall Games, Landfall Games AB]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Swedish studio. The name is ambiguous; always resolve through the Wikidata ID.
+    externalIds: { wikidata: Q27961665 }
+
+  - id: devolver-digital
+    name: Devolver Digital
+    roles: [publisher, developer]
+    classification:
+      category: independent-publisher
+      notes: Publicly listed since 2021 and owns several studios, but publishes mainly independent games.
+    externalIds: { wikidata: Q5267669 }
+
+  - id: mojang
+    name: Mojang Studios
+    aliases: [Mojang, Mojang AB]
+    roles: [developer]
+    classification:
+      category: acquired-independent
+      notes: Independent origins; acquired by Microsoft in 2014 and now part of Xbox Game Studios.
+    externalIds: { wikidata: Q1129295 }
+
+  - id: larian-studios
+    name: Larian Studios
+    roles: [developer, publisher]
+    classification:
+      category: independent-large
+      notes: Founder-controlled. Tencent holds a minority stake. Large headcount but no parent publisher.
+    externalIds: { wikidata: Q4042609 }
+
+  - id: remedy-entertainment
+    name: Remedy Entertainment
+    aliases: [Remedy, Remedy Entertainment Oyj, Remedy Entertainment Plc]
+    roles: [developer, publisher]
+    classification:
+      category: independent-large
+      notes: Publicly listed in Finland, with no controlling parent company. Tencent holds a minority stake.
+    externalIds: { wikidata: Q830947 }
+
+  - id: annapurna-interactive
+    name: Annapurna Interactive
+    roles: [publisher]
+    classification:
+      category: independent-publisher
+      notes: Games division of Annapurna Pictures. Publishes mostly independent games.
+    externalIds: { wikidata: Q38805988 }
+
+  - id: aggro-crab
+    name: Aggro Crab
+    aliases: [Aggro Crab Games]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+    externalIds: { wikidata: Q111968498 }
+
+  - id: mega-crit
+    name: Mega Crit
+    aliases: [Mega Crit Games, MegaCrit]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+    externalIds: { wikidata: Q87419925 }
+
+  - id: team17
+    name: Team17
+    aliases: [Team17 Digital, Team17 Digital Limited, Team17 Group]
+    roles: [developer, publisher]
+    classification:
+      category: independent-large
+      notes: Publicly listed developer and publisher of many independent games. Check the current group structure when reclassifying.
+    externalIds: { wikidata: Q1384984 }
+
+  - id: motion-twin
+    name: Motion Twin
+    roles: [developer]
+    classification:
+      category: independent
+      notes: Worker cooperative based in Bordeaux.
+    externalIds: { wikidata: Q3325177 }
+
+  - id: evil-empire
+    name: Evil Empire
+    roles: [developer]
+    classification:
+      category: independent
+      notes: Bordeaux studio that took over Dead Cells development. The name is ambiguous; always resolve through the Wikidata ID.
+    externalIds: { wikidata: Q104804747 }
+
+  - id: studio-mdhr
+    name: Studio MDHR
+    aliases: [StudioMDHR, Studio MDHR Entertainment]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+    externalIds: { wikidata: Q105450826 }
+
+  - id: coffee-stain-publishing
+    name: Coffee Stain Publishing
+    roles: [publisher]
+    classification:
+      category: independent-publisher
+      notes: Publishing arm of the Coffee Stain group (previously owned by Embracer Group). Separate entity from Coffee Stain Studios.
+    externalIds: { wikidata: Q116983863 }
+
+  - id: coffee-stain-studios
+    name: Coffee Stain Studios
+    aliases: [Coffee Stain Studios AB]
+    roles: [developer]
+    classification:
+      category: acquired-independent
+      notes: Acquired by THQ Nordic (later Embracer Group) in 2018. Separate entity from Coffee Stain Publishing.
+    externalIds: { wikidata: Q3178586 }
+
+  - id: semiwork
+    name: semiwork
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Swedish studio.
+    externalIds: { wikidata: Q133247129 }
+
+  - id: hopoo-games
+    name: Hopoo Games
+    aliases: [Hopoo Games, LLC]
+    roles: [developer]
+    classification:
+      category: independent
+      notes: Developer of Risk of Rain and Deadbolt.
+    externalIds: { wikidata: Q33111933 }
+
+  - id: nuggets-entertainment
+    name: Nuggets Entertainment
+    aliases: [NUGGETS ENTERTAINMENT]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Independent studio in Skovde, Sweden, founded in 2023.
+    # No Wikidata item. These Steam app IDs list Nuggets Entertainment as developer and publisher.
+    games:
+      steam: [3949040, 2400980]
+
+  - id: omocat
+    name: OMOCAT
+    aliases: [omocat]
+    roles: [developer]
+    classification:
+      category: independent
+      notes: Individual developer of Omori.
+    externalIds: { wikidata: Q104532882 }
+
+  - id: red-candle-games
+    name: Red Candle Games
+    aliases: [redcandlegames]
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Taiwanese studio founded in 2015.
+    externalIds: { wikidata: Q31663580 }
+
+  - id: playstack
+    name: Playstack
+    roles: [publisher]
+    classification:
+      category: independent-publisher
+      notes: British publisher founded in 2016.
+    externalIds: { wikidata: Q116904012 }
+
+  - id: panic
+    name: Panic
+    aliases: ["Panic Inc", "Panic, Inc."]
+    roles: [publisher, developer]
+    classification:
+      category: independent-publisher
+      notes: Portland software company that publishes independent games.
+    externalIds: { wikidata: Q7131061 }
+
+  - id: yacht-club-games
+    name: Yacht Club Games
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: American studio founded in 2011.
+    externalIds: { wikidata: Q8046428 }
+
+  - id: fumi-games
+    name: Fumi Games
+    roles: [developer, publisher]
+    classification:
+      category: independent
+      notes: Independent studio in Warsaw.
+    # No Wikidata item. Steam app IDs for MOUSE: P.I. For Hire and Galaxi Taxi.
+    games:
+      steam: [2416450, 1695330]
+
+  - id: sidekick-publishing
+    name: Sidekick Publishing
+    roles: [publisher]
+    classification:
+      category: independent-publisher
+      notes: Berlin publisher established in 2025.
+    # No Wikidata item. Steam app IDs whose store page lists Sidekick Publishing as a publisher.
+    games:
+      steam: [2440380, 3026450, 2026820, 2780710, 2205850, 2784470, 2290000]

@@ -1,0 +1,174 @@
+{
+  "id": "dick-wilde-2",
+  "title": "Dick Wilde 2",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2019-02-19",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "bolverk-games"
+  ],
+  "publishers": [
+    "playstack"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "A toxic outbreak has been unleashed, mutating the local wildlife! Pair up with your friends and take on the deadly ooze and its disgusting dwellers. Clear the swamplands with super-powered weapons - from physics-defying beam guns to homemade revolvers. Hold on tight, this ride’s about to get bumpy!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/975430/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "single-player",
+    "steam-achievements",
+    "tracked-controller-support",
+    "vr-only"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q114945200",
+    "igdb": "dick-wilde-2",
+    "steam": "975430"
+  },
+  "links": {
+    "official": "http://www.dickwilde.com/",
+    "steam": "https://store.steampowered.com/app/975430/",
+    "wikidata": "https://www.wikidata.org/wiki/Q114945200"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/975430",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_e547fae8958dc0bc0a0fa61306a64247c0a7cf53.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_af5b01c3dccde90a688fa54bd6658c3a0b89aef1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_2c9041a86eaa43331fbb5b99d3e7c20bcab197d3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_642804bc49e3c1f7514e87dc3ec80f33f6b7f63e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_1ed7dd4b38f1ccc6ca67c2d2d6228fa53d9a0543.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975430/ss_ef7ecd6162ccfc7194d9d4a9fb7506e48f4ade31.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 62,
+      "positiveCount": 50,
+      "negativeCount": 12,
+      "positivePercentage": 80.6,
+      "negativePercentage": 19.4,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.02,
+      "reviewsPerMonth": 0.7,
+      "windowDays": 2780,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/975430/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114945200",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

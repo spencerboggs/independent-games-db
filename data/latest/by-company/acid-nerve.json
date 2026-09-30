@@ -1,0 +1,67 @@
+{
+  "id": "acid-nerve",
+  "name": "Acid Nerve",
+  "developed": [
+    {
+      "id": "deaths-door",
+      "title": "Death's Door",
+      "type": "game",
+      "releaseDate": "2021-07-20",
+      "developers": [
+        "acid-nerve"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "894020",
+      "reviewCount": 22254,
+      "positivePercentage": 93.1
+    },
+    {
+      "id": "titan-souls",
+      "title": "Titan Souls",
+      "type": "game",
+      "releaseDate": "2015-04-14",
+      "developers": [
+        "acid-nerve"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "macos",
+        "playstation-4",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "297130",
+      "reviewCount": 13875,
+      "positivePercentage": 78.7
+    }
+  ],
+  "published": []
+}

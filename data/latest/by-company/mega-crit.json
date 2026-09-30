@@ -1,0 +1,128 @@
+{
+  "id": "mega-crit",
+  "name": "Mega Crit",
+  "developed": [
+    {
+      "id": "slay-the-spire",
+      "title": "Slay the Spire",
+      "type": "game",
+      "releaseDate": "2019-01-23",
+      "developers": [
+        "mega-crit"
+      ],
+      "publishers": [
+        "mega-crit"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "roguelite",
+        "strategy"
+      ],
+      "engines": [
+        "libgdx"
+      ],
+      "steamAppId": "646570",
+      "reviewCount": 218957,
+      "positivePercentage": 97.5
+    },
+    {
+      "id": "slay-the-spire-2",
+      "title": "Slay the Spire 2",
+      "type": "game",
+      "releaseDate": "2026-03-05",
+      "developers": [
+        "mega-crit"
+      ],
+      "publishers": [
+        "mega-crit"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "2868840",
+      "reviewCount": 203068,
+      "positivePercentage": 61.2
+    }
+  ],
+  "published": [
+    {
+      "id": "slay-the-spire",
+      "title": "Slay the Spire",
+      "type": "game",
+      "releaseDate": "2019-01-23",
+      "developers": [
+        "mega-crit"
+      ],
+      "publishers": [
+        "mega-crit"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "roguelite",
+        "strategy"
+      ],
+      "engines": [
+        "libgdx"
+      ],
+      "steamAppId": "646570",
+      "reviewCount": 218957,
+      "positivePercentage": 97.5
+    },
+    {
+      "id": "slay-the-spire-2",
+      "title": "Slay the Spire 2",
+      "type": "game",
+      "releaseDate": "2026-03-05",
+      "developers": [
+        "mega-crit"
+      ],
+      "publishers": [
+        "mega-crit"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "2868840",
+      "reviewCount": 203068,
+      "positivePercentage": 61.2
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "codemasters",
+  "name": "Codemasters",
+  "aliases": [
+    "Code Masters",
+    "The Codemasters Software Company Limited"
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game developer and publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q23901",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.ea.com/ea-studios/codemasters",
+  "socialLinks": {
+    "x": "https://x.com/codemasters"
+  },
+  "location": {
+    "headquarters": "Warwickshire",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 1986,
+  "foundedDate": "1986",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Electronic Arts",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q23901",
+    "igdb": "codemasters"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "leisure-suit-larry-box-office-bust",
+      "worms-4-mayhem"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 0,
+    "publishedCount": 2,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "leisure-suit-larry-box-office-bust",
+    "firstRelease": "worms-4-mayhem",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q23901",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "blendo-games",
+  "name": "Blendo Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q4926019",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.blendogames.com/",
+  "socialLinks": {
+    "x": "https://x.com/BlendoGames"
+  },
+  "location": {
+    "headquarters": "Los Angeles",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2010,
+  "foundedDate": "2010",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q4926019",
+    "igdb": "blendo-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "skin-deep"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1783,
+    "averagePositivePercentage": 94.3,
+    "weightedPositivePercentage": 94.3,
+    "mostReviewedGame": "skin-deep",
+    "mostRecentRelease": "skin-deep",
+    "firstRelease": "skin-deep",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4926019",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

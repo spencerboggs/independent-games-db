@@ -1,0 +1,650 @@
+{
+  "id": "remedy-entertainment",
+  "name": "Remedy Entertainment",
+  "developed": [
+    {
+      "id": "alan-wake",
+      "title": "Alan Wake",
+      "type": "game",
+      "releaseDate": "2012-02-16",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "havok"
+      ],
+      "steamAppId": "108710",
+      "reviewCount": 60085,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "alan-wake-2",
+      "title": "Alan Wake 2",
+      "type": "game",
+      "releaseDate": "2023-10-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-ii-night-springs",
+      "title": "Alan Wake II: Night Springs",
+      "type": "expansion",
+      "releaseDate": "2024-06-08",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-ii-the-lake-house",
+      "title": "Alan Wake II: The Lake House",
+      "type": "expansion",
+      "releaseDate": "2024-10",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-remastered",
+      "title": "Alan Wake Remastered",
+      "type": "game",
+      "releaseDate": "2021-10-05",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wakes-american-nightmare",
+      "title": "Alan Wake's American Nightmare",
+      "type": "game",
+      "releaseDate": "2012-05-22",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "psychological-horror-fiction",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "202750",
+      "reviewCount": 10895,
+      "positivePercentage": 74.5
+    },
+    {
+      "id": "control-awe",
+      "title": "Control: AWE",
+      "type": "expansion",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-resonant",
+      "title": "CONTROL Resonant",
+      "type": "game",
+      "releaseDate": "2026-09-24",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "3669870",
+      "reviewCount": 8953,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "control-the-foundation",
+      "title": "Control: The Foundation",
+      "type": "dlc",
+      "releaseDate": "2020-03-26",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-ultimate-edition",
+      "title": "CONTROL Ultimate Edition",
+      "type": "game",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "870780",
+      "reviewCount": 65139,
+      "positivePercentage": 86.1
+    },
+    {
+      "id": "crossfirex",
+      "title": "CrossfireX",
+      "type": "game",
+      "releaseDate": "2022-02-10",
+      "developers": [
+        "remedy-entertainment",
+        "smilegate"
+      ],
+      "publishers": [
+        "smilegate",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "death-rally",
+      "title": "Death Rally",
+      "type": "game",
+      "releaseDate": "2012-08-03",
+      "developers": [
+        "cornfox-and-brothers",
+        "mountain-sheep",
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "racing",
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "108700",
+      "reviewCount": 909,
+      "positivePercentage": 70.8
+    },
+    {
+      "id": "death-rally-classic",
+      "title": "Death Rally (Classic)",
+      "type": "game",
+      "releaseDate": "2014-05-05",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "3d-realms-apogee-software"
+      ],
+      "platforms": [
+        "android",
+        "dos",
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "racing",
+        "racing-video-game",
+        "vehicular-combat-game"
+      ],
+      "engines": [],
+      "steamAppId": "358270",
+      "reviewCount": 871,
+      "positivePercentage": 91.3
+    },
+    {
+      "id": "fbc-firebreak",
+      "title": "FBC: Firebreak",
+      "type": "game",
+      "releaseDate": "2025-06-17",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "2272540",
+      "reviewCount": 2349,
+      "positivePercentage": 64
+    },
+    {
+      "id": "max-payne",
+      "title": "Max Payne",
+      "type": "game",
+      "releaseDate": "2011-01-06",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "rockstar-games"
+      ],
+      "platforms": [
+        "android",
+        "game-boy-advance",
+        "ios",
+        "macos",
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "neo-noir-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "12140",
+      "reviewCount": 15898,
+      "positivePercentage": 88.7
+    },
+    {
+      "id": "max-payne-2-the-fall-of-max-payne",
+      "title": "Max Payne 2: The Fall of Max Payne",
+      "type": "game",
+      "releaseDate": "2008-01-04",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "rockstar-games"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "neo-noir-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "12150",
+      "reviewCount": 14781,
+      "positivePercentage": 94.4
+    },
+    {
+      "id": "quantum-break",
+      "title": "Quantum Break",
+      "type": "game",
+      "releaseDate": "2016-09-29",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "474960",
+      "reviewCount": 31101,
+      "positivePercentage": 85.7
+    }
+  ],
+  "published": [
+    {
+      "id": "alan-wake",
+      "title": "Alan Wake",
+      "type": "game",
+      "releaseDate": "2012-02-16",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "havok"
+      ],
+      "steamAppId": "108710",
+      "reviewCount": 60085,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "alan-wakes-american-nightmare",
+      "title": "Alan Wake's American Nightmare",
+      "type": "game",
+      "releaseDate": "2012-05-22",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "psychological-horror-fiction",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "202750",
+      "reviewCount": 10895,
+      "positivePercentage": 74.5
+    },
+    {
+      "id": "control-resonant",
+      "title": "CONTROL Resonant",
+      "type": "game",
+      "releaseDate": "2026-09-24",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "3669870",
+      "reviewCount": 8953,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "control-ultimate-edition",
+      "title": "CONTROL Ultimate Edition",
+      "type": "game",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "870780",
+      "reviewCount": 65139,
+      "positivePercentage": 86.1
+    },
+    {
+      "id": "death-rally",
+      "title": "Death Rally",
+      "type": "game",
+      "releaseDate": "2012-08-03",
+      "developers": [
+        "cornfox-and-brothers",
+        "mountain-sheep",
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "racing",
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "108700",
+      "reviewCount": 909,
+      "positivePercentage": 70.8
+    },
+    {
+      "id": "fbc-firebreak",
+      "title": "FBC: Firebreak",
+      "type": "game",
+      "releaseDate": "2025-06-17",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "2272540",
+      "reviewCount": 2349,
+      "positivePercentage": 64
+    }
+  ]
+}

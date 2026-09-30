@@ -1,0 +1,122 @@
+{
+  "id": "studio-mdhr",
+  "name": "Studio MDHR",
+  "developed": [
+    {
+      "id": "cuphead",
+      "title": "Cuphead",
+      "type": "game",
+      "releaseDate": "2017-09-29",
+      "developers": [
+        "studio-mdhr"
+      ],
+      "publishers": [
+        "studio-mdhr"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "run-and-gun"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "268910",
+      "reviewCount": 221971,
+      "positivePercentage": 96.1
+    },
+    {
+      "id": "cuphead-the-delicious-last-course",
+      "title": "Cuphead - The Delicious Last Course",
+      "type": "dlc",
+      "releaseDate": "2022-06-30",
+      "developers": [
+        "studio-mdhr"
+      ],
+      "publishers": [
+        "studio-mdhr"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "run-and-gun"
+      ],
+      "engines": [],
+      "steamAppId": "1117850",
+      "reviewCount": 5014,
+      "positivePercentage": 94.8
+    }
+  ],
+  "published": [
+    {
+      "id": "cuphead",
+      "title": "Cuphead",
+      "type": "game",
+      "releaseDate": "2017-09-29",
+      "developers": [
+        "studio-mdhr"
+      ],
+      "publishers": [
+        "studio-mdhr"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "run-and-gun"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "268910",
+      "reviewCount": 221971,
+      "positivePercentage": 96.1
+    },
+    {
+      "id": "cuphead-the-delicious-last-course",
+      "title": "Cuphead - The Delicious Last Course",
+      "type": "dlc",
+      "releaseDate": "2022-06-30",
+      "developers": [
+        "studio-mdhr"
+      ],
+      "publishers": [
+        "studio-mdhr"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "run-and-gun"
+      ],
+      "engines": [],
+      "steamAppId": "1117850",
+      "reviewCount": 5014,
+      "positivePercentage": 94.8
+    }
+  ]
+}

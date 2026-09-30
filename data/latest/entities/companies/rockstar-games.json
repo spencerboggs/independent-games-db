@@ -1,0 +1,78 @@
+{
+  "id": "rockstar-games",
+  "name": "Rockstar Games",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q94912",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.rockstargames.com/",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/rockstargames.com",
+    "x": "https://x.com/RockstarCareers",
+    "youtube": "https://www.youtube.com/channel/UC6VcWc1rAoWdBCM0JxrRQ3A"
+  },
+  "location": {
+    "headquarters": "New York City",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 1998,
+  "foundedDate": "1998-12",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Take-Two Interactive",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q94912",
+    "igdb": "rockstar-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "max-payne",
+      "max-payne-2-the-fall-of-max-payne"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 0,
+    "publishedCount": 2,
+    "totalSteamReviews": 30679,
+    "averagePositivePercentage": 91.6,
+    "weightedPositivePercentage": 91.5,
+    "mostReviewedGame": "max-payne",
+    "mostRecentRelease": "max-payne",
+    "firstRelease": "max-payne-2-the-fall-of-max-payne",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q94912",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

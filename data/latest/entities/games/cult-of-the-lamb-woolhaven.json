@@ -1,0 +1,186 @@
+{
+  "id": "cult-of-the-lamb-woolhaven",
+  "title": "Cult of the Lamb: Woolhaven",
+  "alternateTitles": [],
+  "type": "dlc",
+  "releaseDate": "2026-01-22",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "massive-monster"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "A lost God calls you from a mysterious mountain—rebuild the flock and reawaken winter to uncover the truth of the fallen lambs. Face the past before it consumes you in this full-length expansion for Cult of the Lamb.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3840050/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "downloadable-content",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "multi-player",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-input-api-support",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Italian",
+    "Arabic",
+    "Dutch",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q141591409",
+    "steam": "3840050"
+  },
+  "links": {
+    "official": "http://cultofthelamb.com",
+    "steam": "https://store.steampowered.com/app/3840050/",
+    "wikidata": "https://www.wikidata.org/wiki/Q141591409"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/30459dcda259681fc6200b36f07e573ede893dbb/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/ef05cb4620ab76e391c061ed3c50582972116459/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3840050",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/6483d118707e2f9e44113a67a017c2508de60de3/ss_6483d118707e2f9e44113a67a017c2508de60de3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/b44442399944f1f4d9d6eb88a780384d614f5ba8/ss_b44442399944f1f4d9d6eb88a780384d614f5ba8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/86534b4618b59d6da86b8ea1a1df0f6f5a3b8a28/ss_86534b4618b59d6da86b8ea1a1df0f6f5a3b8a28.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/7239155469e8d01548dd3857382e1188a76394d0/ss_7239155469e8d01548dd3857382e1188a76394d0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840050/7a04398d6df8dbd6a7696a6c49939fa0f32b72e0/ss_7a04398d6df8dbd6a7696a6c49939fa0f32b72e0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "cult-of-the-lamb",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 1356,
+      "positiveCount": 1262,
+      "negativeCount": 94,
+      "positivePercentage": 93.1,
+      "negativePercentage": 6.9,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 5.39,
+      "reviewsPerMonth": 164.2,
+      "windowDays": 251,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3840050/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q141591409",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

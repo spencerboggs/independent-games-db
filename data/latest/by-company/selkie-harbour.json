@@ -1,0 +1,32 @@
+{
+  "id": "selkie-harbour",
+  "name": "Selkie Harbour",
+  "developed": [
+    {
+      "id": "virtue-and-a-sledgehammer",
+      "title": "Virtue and a Sledgehammer",
+      "type": "game",
+      "releaseDate": "2026-10-27",
+      "developers": [
+        "deconstructeam",
+        "selkie-harbour"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3743260",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

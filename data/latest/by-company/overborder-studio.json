@@ -1,0 +1,32 @@
+{
+  "id": "overborder-studio",
+  "name": "OverBorder Studio",
+  "developed": [
+    {
+      "id": "thymesia",
+      "title": "Thymesia",
+      "type": "game",
+      "releaseDate": "2022-08-18",
+      "developers": [
+        "overborder-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1343240",
+      "reviewCount": 10179,
+      "positivePercentage": 82
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gearbox-publishing",
+  "name": "Gearbox Publishing",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "risk-of-rain-2",
+      "risk-of-rain-2013",
+      "risk-of-rain-returns"
+    ]
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 0,
+    "publishedCount": 3,
+    "totalSteamReviews": 411843,
+    "averagePositivePercentage": 92.3,
+    "weightedPositivePercentage": 93.5,
+    "mostReviewedGame": "risk-of-rain-2",
+    "mostRecentRelease": "risk-of-rain-returns",
+    "firstRelease": "risk-of-rain-2013",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "gamemaker",
+      "unity-2018"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "directx",
+  "name": "DirectX",
+  "aliases": [
+    "Direct3D",
+    "DirectX 11",
+    "DirectX 12"
+  ],
+  "category": "middleware",
+  "subcategory": "graphics-api",
+  "developer": "Microsoft",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q188695"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

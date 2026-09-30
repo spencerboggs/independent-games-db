@@ -1,0 +1,50 @@
+{
+  "id": "havok",
+  "name": "Havok",
+  "aliases": [
+    "Havok Physics"
+  ],
+  "category": "middleware",
+  "subcategory": "physics",
+  "developer": null,
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q616957"
+  },
+  "games": [
+    "alan-wake"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 60085,
+    "mostReviewedGames": [
+      {
+        "id": "alan-wake",
+        "title": "Alan Wake",
+        "value": 60085
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "alan-wake",
+        "title": "Alan Wake",
+        "value": 168
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2012": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,614 @@
+{
+  "id": "mojang",
+  "name": "Mojang Studios",
+  "developed": [
+    {
+      "id": "0x10c",
+      "title": "0x10c",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "markus-persson",
+        "mojang"
+      ],
+      "publishers": [],
+      "platforms": [
+        "java-virtual-machine",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "space-flight-simulation-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "callers-bane",
+      "title": "Caller's Bane",
+      "type": "game",
+      "releaseDate": "2013-06-03",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "android",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "catacomb-snatch",
+      "title": "Catacomb Snatch",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "crown-and-council",
+      "title": "Crown and Council",
+      "type": "game",
+      "releaseDate": "2016-04-22",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "444250",
+      "reviewCount": 892,
+      "positivePercentage": 69.6
+    },
+    {
+      "id": "minecraft-bedrock-edition",
+      "title": "Minecraft: Bedrock Edition",
+      "type": "game",
+      "releaseDate": "2011-10-09",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "windows-phone",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure-video-game",
+        "construction-and-management-simulation",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-blast",
+      "title": "Minecraft Blast",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "king",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-china",
+      "title": "Minecraft China",
+      "type": "game",
+      "releaseDate": "2017-08-08",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "netease"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-dungeons",
+      "title": "Minecraft Dungeons",
+      "type": "game",
+      "releaseDate": "2021-09-22",
+      "developers": [
+        "double-eleven",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "dungeon-crawl",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1672970",
+      "reviewCount": 19809,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "minecraft-dungeons-ii",
+      "title": "Minecraft Dungeons II",
+      "type": "game",
+      "releaseDate": "2026-09-29",
+      "developers": [
+        "double-eleven",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1912410",
+      "reviewCount": 3400,
+      "positivePercentage": 56.7
+    },
+    {
+      "id": "minecraft-earth",
+      "title": "Minecraft Earth",
+      "type": "game",
+      "releaseDate": "2019",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [
+        "augmented-reality-video-game",
+        "location-based-game",
+        "sandbox"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-education",
+      "title": "Minecraft Education",
+      "type": "game",
+      "releaseDate": "2016-11-01",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [],
+      "platforms": [
+        "chromeos",
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-java-edition",
+      "title": "Minecraft: Java Edition",
+      "type": "game",
+      "releaseDate": "2009-05-17",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "java-virtual-machine",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-legacy-console-edition",
+      "title": "Minecraft: Legacy Console Edition",
+      "type": "game",
+      "releaseDate": "2015-12-17",
+      "developers": [
+        "4j-studios",
+        "mojang"
+      ],
+      "publishers": [],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "xbox-360",
+        "xbox-one"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-legends",
+      "title": "Minecraft Legends",
+      "type": "game",
+      "releaseDate": "2023-04-18",
+      "developers": [
+        "blackbird-interactive",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1928870",
+      "reviewCount": 2873,
+      "positivePercentage": 57.8
+    },
+    {
+      "id": "minecraft-new-nintendo-3ds-edition",
+      "title": "Minecraft: New Nintendo 3DS Edition",
+      "type": "game",
+      "releaseDate": "2017-09-13",
+      "developers": [
+        "mojang",
+        "other-ocean"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "nintendo-3ds"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "callers-bane",
+      "title": "Caller's Bane",
+      "type": "game",
+      "releaseDate": "2013-06-03",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "android",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "cobalt",
+      "title": "Cobalt",
+      "type": "game",
+      "releaseDate": "2016-02-02",
+      "developers": [
+        "oxeye-game-studio"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "macos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "357340",
+      "reviewCount": 714,
+      "positivePercentage": 92.6
+    },
+    {
+      "id": "cobalt-wasd",
+      "title": "Cobalt WASD",
+      "type": "game",
+      "releaseDate": "2017-12-01",
+      "developers": [
+        "oxeye-game-studio"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "590720",
+      "reviewCount": 210,
+      "positivePercentage": 86.2
+    },
+    {
+      "id": "crown-and-council",
+      "title": "Crown and Council",
+      "type": "game",
+      "releaseDate": "2016-04-22",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "444250",
+      "reviewCount": 892,
+      "positivePercentage": 69.6
+    },
+    {
+      "id": "minecraft-bedrock-edition",
+      "title": "Minecraft: Bedrock Edition",
+      "type": "game",
+      "releaseDate": "2011-10-09",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "windows-phone",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure-video-game",
+        "construction-and-management-simulation",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-earth",
+      "title": "Minecraft Earth",
+      "type": "game",
+      "releaseDate": "2019",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [
+        "augmented-reality-video-game",
+        "location-based-game",
+        "sandbox"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-java-edition",
+      "title": "Minecraft: Java Edition",
+      "type": "game",
+      "releaseDate": "2009-05-17",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "java-virtual-machine",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-new-nintendo-3ds-edition",
+      "title": "Minecraft: New Nintendo 3DS Edition",
+      "type": "game",
+      "releaseDate": "2017-09-13",
+      "developers": [
+        "mojang",
+        "other-ocean"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "nintendo-3ds"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

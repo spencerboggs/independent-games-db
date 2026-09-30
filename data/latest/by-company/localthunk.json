@@ -1,0 +1,43 @@
+{
+  "id": "localthunk",
+  "name": "LocalThunk",
+  "developed": [
+    {
+      "id": "balatro",
+      "title": "Balatro",
+      "type": "game",
+      "releaseDate": "2024-02-20",
+      "developers": [
+        "localthunk"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "love2d"
+      ],
+      "steamAppId": "2379780",
+      "reviewCount": 199214,
+      "positivePercentage": 97.8
+    }
+  ],
+  "published": []
+}

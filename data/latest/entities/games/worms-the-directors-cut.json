@@ -1,0 +1,71 @@
+{
+  "id": "worms-the-directors-cut",
+  "title": "Worms: The Director's Cut",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1997",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "ocean-software"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "amiga-1200",
+    "amiga-4000"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q1114413",
+    "igdb": "worms-the-directors-cut"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1114413"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1114413",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

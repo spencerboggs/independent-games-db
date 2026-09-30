@@ -1,0 +1,12 @@
+games:
+  - id: lanternfall
+    set:
+      descriptions:
+        custom: A hand-drawn metroidvania about a lamplighter exploring a flooded lighthouse city.
+    append:
+      tags: [metroidvania, hand-drawn]
+    source:
+      type: official
+      url: https://example.com/lanternfall/press-kit
+      retrievedAt: "2026-01-15"
+    note: Custom description written for the database; tags from the official press kit.

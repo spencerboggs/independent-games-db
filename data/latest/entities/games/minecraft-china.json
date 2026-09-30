@@ -1,0 +1,70 @@
+{
+  "id": "minecraft-china",
+  "title": "Minecraft China",
+  "alternateTitles": [
+    "Minecraft: China Edition"
+  ],
+  "type": "game",
+  "releaseDate": "2017-08-08",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang"
+  ],
+  "publishers": [
+    "netease"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q85880173",
+    "igdb": "minecraft-china-edition"
+  },
+  "links": {
+    "official": "https://mc.163.com/",
+    "wikidata": "https://www.wikidata.org/wiki/Q85880173"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q85880173",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

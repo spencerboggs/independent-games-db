@@ -1,0 +1,80 @@
+{
+  "id": "king",
+  "name": "King",
+  "aliases": [
+    "King Digital Entertainment plc",
+    "King.com",
+    "King.com Ltd."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2680856",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.king.com",
+  "socialLinks": {
+    "x": "https://x.com/King_Games",
+    "youtube": "https://www.youtube.com/channel/UCw_LCWreyWaFKRGBuORlaFw"
+  },
+  "location": {
+    "headquarters": "London",
+    "country": "MT",
+    "countryName": "Malta"
+  },
+  "founded": 2002,
+  "foundedDate": "2002-09",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Activision Blizzard",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2680856",
+    "igdb": "king"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "minecraft-blast"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": null,
+    "firstRelease": null,
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2680856",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

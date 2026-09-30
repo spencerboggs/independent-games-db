@@ -1,0 +1,39 @@
+{
+  "id": "big-fan-games",
+  "name": "Big Fan Games",
+  "developed": [],
+  "published": [
+    {
+      "id": "reigns-game-of-thrones",
+      "title": "Reigns: Game of Thrones",
+      "type": "game",
+      "releaseDate": "2018-10-18",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "big-fan-games",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "897820",
+      "reviewCount": 1043,
+      "positivePercentage": 77.8
+    }
+  ]
+}

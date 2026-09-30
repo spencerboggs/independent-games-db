@@ -1,0 +1,5580 @@
+[
+  {
+    "id": "2k",
+    "name": "2K",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q94937",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.2k.com/en-US/",
+    "socialLinks": {
+      "x": "https://x.com/2K",
+      "youtube": "https://www.youtube.com/channel/UC0SBn2zaskenN1hl_PCtQWw"
+    },
+    "location": {
+      "headquarters": "Novato",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2005,
+    "foundedDate": "2005",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Take-Two Interactive",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q94937",
+      "igdb": "2k-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "risk-of-rain-2",
+        "risk-of-rain-2013",
+        "risk-of-rain-returns"
+      ]
+    },
+    "statistics": {
+      "gameCount": 3,
+      "developedCount": 0,
+      "publishedCount": 3,
+      "totalSteamReviews": 411843,
+      "averagePositivePercentage": 92.3,
+      "weightedPositivePercentage": 93.5,
+      "mostReviewedGame": "risk-of-rain-2",
+      "mostRecentRelease": "risk-of-rain-returns",
+      "firstRelease": "risk-of-rain-2013",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "gamemaker",
+        "unity-2018"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q94937",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "2k-play",
+    "name": "2K Play",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q28225",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.2kgames.com/2kplay/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Novato",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2007,
+    "foundedDate": "2007-09-10",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": "2k",
+      "parentCompanyName": "2K",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q28225"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "army-men-major-malfunction"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "army-men-major-malfunction",
+      "firstRelease": "army-men-major-malfunction",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q28225",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "3d-realms-apogee-software",
+    "name": "3D Realms (Apogee Software)",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "death-rally-classic"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 871,
+      "averagePositivePercentage": 91.3,
+      "weightedPositivePercentage": 91.3,
+      "mostReviewedGame": "death-rally-classic",
+      "mostRecentRelease": "death-rally-classic",
+      "firstRelease": "death-rally-classic",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "505-games",
+    "name": "505 Games",
+    "aliases": [
+      "505 GameStreet",
+      "505 Games Ltd."
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game publishing division of Digital Bros",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2068658",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://505games.com",
+    "socialLinks": {
+      "x": "https://x.com/505_Games",
+      "youtube": "https://www.youtube.com/channel/UCeO7Obz1NdrZYhI4PtstNuA"
+    },
+    "location": {
+      "headquarters": "Milan",
+      "country": "IT",
+      "countryName": "Italy"
+    },
+    "founded": 2006,
+    "foundedDate": "2006",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Digital Bros",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q2068658",
+      "igdb": "505-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "control-awe",
+        "control-the-foundation"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "control-awe",
+      "firstRelease": "control-the-foundation",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "northlight-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2068658",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "aggro-crab",
+    "name": "Aggro Crab",
+    "aliases": [
+      "Aggro Crab Games"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q111968498",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://aggrocrab.com",
+    "socialLinks": {
+      "x": "https://x.com/aggrocrabgames",
+      "youtube": "https://www.youtube.com/channel/UCX43ke0wKIA-lvCccGDlNOg"
+    },
+    "location": {
+      "headquarters": "Seattle",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2019,
+    "foundedDate": "2019-01-01",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q111968498",
+      "igdb": "aggro-crab-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "another-crabs-treasure",
+        "crashout-crew",
+        "going-under"
+      ],
+      "published": [
+        "another-crabs-treasure",
+        "crashout-crew",
+        "peak",
+        "subway-midnight"
+      ]
+    },
+    "statistics": {
+      "gameCount": 5,
+      "developedCount": 3,
+      "publishedCount": 4,
+      "totalSteamReviews": 404589,
+      "averagePositivePercentage": 89.6,
+      "weightedPositivePercentage": 94.2,
+      "mostReviewedGame": "peak",
+      "mostRecentRelease": "crashout-crew",
+      "firstRelease": "going-under",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q111968498",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "annapurna-interactive",
+    "name": "Annapurna Interactive",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q38805988",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://annapurna.pictures/interactive/",
+    "socialLinks": {
+      "x": "https://x.com/A_i",
+      "youtube": "https://www.youtube.com/channel/UCoztP3NSW03Kd69KjQEIxeg"
+    },
+    "location": {
+      "headquarters": "Los Angeles",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2016,
+    "foundedDate": "2016-12-01",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Annapurna Pictures",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q38805988"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "Games division of Annapurna Pictures. Publishes mostly independent games."
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "a-memoir-blue",
+        "ashen",
+        "cocoon",
+        "d-topia",
+        "demi-and-the-fractured-dream",
+        "donut-county",
+        "faraway",
+        "flock",
+        "florence",
+        "gorogoa",
+        "hindsight",
+        "i-am-dead",
+        "if-found",
+        "journey",
+        "last-stop",
+        "lego-voyagers",
+        "lorelei-and-the-laser-eyes",
+        "lushfoil-photography-sim",
+        "maquette",
+        "mixtape",
+        "mundaun",
+        "neon-white",
+        "open-roads",
+        "outer-wilds",
+        "outer-wilds-echoes-of-the-eye",
+        "people-of-note",
+        "sayonara-wild-hearts",
+        "silent-hill-townfall",
+        "skin-deep",
+        "solar-ash",
+        "storyteller",
+        "stray",
+        "telling-lies",
+        "the-artful-escape",
+        "the-pathless",
+        "the-unfinished-swan",
+        "thirsty-suitors",
+        "to-a-t",
+        "twelve-minutes",
+        "uncanyon",
+        "wanderstop",
+        "wattam",
+        "we-kill-monsters",
+        "what-remains-of-edith-finch",
+        "wheel-world"
+      ]
+    },
+    "statistics": {
+      "gameCount": 45,
+      "developedCount": 0,
+      "publishedCount": 45,
+      "totalSteamReviews": 539766,
+      "averagePositivePercentage": 87.7,
+      "weightedPositivePercentage": 94.6,
+      "mostReviewedGame": "stray",
+      "mostRecentRelease": "silent-hill-townfall",
+      "firstRelease": "what-remains-of-edith-finch",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q38805988",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "assemble-entertainment",
+    "name": "Assemble Entertainment",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "asgards-fall-viking-survivors"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 1435,
+      "averagePositivePercentage": 80.3,
+      "weightedPositivePercentage": 80.3,
+      "mostReviewedGame": "asgards-fall-viking-survivors",
+      "mostRecentRelease": "asgards-fall-viking-survivors",
+      "firstRelease": "asgards-fall-viking-survivors",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "big-fan-games",
+    "name": "Big Fan Games",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "reigns-game-of-thrones"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 1043,
+      "averagePositivePercentage": 77.8,
+      "weightedPositivePercentage": 77.8,
+      "mostReviewedGame": "reigns-game-of-thrones",
+      "mostRecentRelease": "reigns-game-of-thrones",
+      "firstRelease": "reigns-game-of-thrones",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "bulkypix",
+    "name": "Bulkypix",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "French game developer and publisher (2008–2016)",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2927965",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.bulkypix.com/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Vélizy-Villacoublay",
+      "country": "FR",
+      "countryName": "France"
+    },
+    "founded": 2008,
+    "foundedDate": "2008",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q2927965"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "my-brute"
+      ],
+      "published": [
+        "my-brute"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "my-brute",
+      "firstRelease": "my-brute",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "adobe-flash"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2927965",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "campo-santo",
+    "name": "Campo Santo",
+    "aliases": [
+      "Campo Santo Productions LLC"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q26822168",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.camposanto.com",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Bellevue",
+      "country": null,
+      "countryName": null
+    },
+    "founded": 2013,
+    "foundedDate": "2013-09-18",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Valve Corporation",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q26822168"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "firewatch"
+      ],
+      "published": [
+        "firewatch"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 99563,
+      "averagePositivePercentage": 90.6,
+      "weightedPositivePercentage": 90.6,
+      "mostReviewedGame": "firewatch",
+      "mostRecentRelease": "firewatch",
+      "firstRelease": "firewatch",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q26822168",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "codemasters",
+    "name": "Codemasters",
+    "aliases": [
+      "Code Masters",
+      "The Codemasters Software Company Limited"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "British video game developer and publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q23901",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.ea.com/ea-studios/codemasters",
+    "socialLinks": {
+      "x": "https://x.com/codemasters"
+    },
+    "location": {
+      "headquarters": "Warwickshire",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 1986,
+    "foundedDate": "1986",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Electronic Arts",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q23901",
+      "igdb": "codemasters"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "leisure-suit-larry-box-office-bust",
+        "worms-4-mayhem"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "leisure-suit-larry-box-office-bust",
+      "firstRelease": "worms-4-mayhem",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q23901",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "coffee-stain-publishing",
+    "name": "Coffee Stain Publishing",
+    "aliases": [
+      "Coffee Stain Publishing AB"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Swedish video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q116983863",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.coffeestainpublishing.com/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q116983863"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "Publishing arm of the Coffee Stain group (previously owned by Embracer Group). Separate entity from Coffee Stain Studios."
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "a-story-about-my-uncle",
+        "as-we-descend",
+        "deep-rock-galactic",
+        "deep-rock-galactic-dark-future-pack",
+        "deep-rock-galactic-dawn-of-the-dread-pack",
+        "deep-rock-galactic-megacorp-pack",
+        "deep-rock-galactic-rival-tech-pack",
+        "deep-rock-galactic-robot-rebellion-pack",
+        "deep-rock-galactic-roughneck-pack",
+        "goat-simulator",
+        "goat-simulator-3",
+        "goat-simulator-remastered",
+        "huntdown",
+        "huntdown-overtime",
+        "into-the-unwell",
+        "midnight-ghost-hunt",
+        "puppet-fever",
+        "sanctum",
+        "sanctum-2",
+        "satisfactory",
+        "songs-of-conquest",
+        "super-sanctum-td",
+        "valheim"
+      ]
+    },
+    "statistics": {
+      "gameCount": 23,
+      "developedCount": 0,
+      "publishedCount": 23,
+      "totalSteamReviews": 1383221,
+      "averagePositivePercentage": 91.7,
+      "weightedPositivePercentage": 95,
+      "mostReviewedGame": "valheim",
+      "mostRecentRelease": "valheim",
+      "firstRelease": "sanctum",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q116983863",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "croteam",
+    "name": "Croteam",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Croatian video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2340010",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.croteam.com",
+    "socialLinks": {
+      "x": "https://x.com/croteam"
+    },
+    "location": {
+      "headquarters": "Zagreb",
+      "country": "HR",
+      "countryName": "Croatia"
+    },
+    "founded": 1993,
+    "foundedDate": "1993",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": "devolver-digital",
+      "parentCompanyName": "Devolver Digital",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q2340010",
+      "igdb": "croteam"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "i-hate-running-backwards",
+        "serious-sam-3-bfe",
+        "serious-sam-3-bonus-content-dlc",
+        "serious-sam-4",
+        "serious-sam-classic-the-first-encounter",
+        "serious-sam-classics-revolution",
+        "serious-sam-double-d-xxl",
+        "serious-sam-fusion-2017-beta",
+        "serious-sam-hd-gold-edition",
+        "serious-sam-hd-the-first-encounter",
+        "serious-sam-hd-the-second-encounter",
+        "serious-sam-hd-the-second-encounter-serious-8-dlc",
+        "serious-sam-ii",
+        "serious-sam-siberian-mayhem",
+        "serious-sam-the-random-encounter",
+        "serious-sam-tormental",
+        "serious-sams-bogus-detour",
+        "the-talos-principle",
+        "the-talos-principle-2",
+        "the-talos-principle-3",
+        "the-talos-principle-reawakened",
+        "the-talos-principle-road-to-gehenna"
+      ],
+      "published": [
+        "serious-sam-fusion-2017-beta",
+        "serious-sam-vr-the-first-encounter",
+        "serious-sam-vr-the-last-hope",
+        "serious-sam-vr-the-second-encounter",
+        "the-talos-principle"
+      ]
+    },
+    "statistics": {
+      "gameCount": 25,
+      "developedCount": 22,
+      "publishedCount": 5,
+      "totalSteamReviews": 143278,
+      "averagePositivePercentage": 86.4,
+      "weightedPositivePercentage": 90.6,
+      "mostReviewedGame": "the-talos-principle",
+      "mostRecentRelease": "the-talos-principle-reawakened",
+      "firstRelease": "serious-sam-hd-the-first-encounter",
+      "technologyCount": 4,
+      "engineCount": 4,
+      "engines": [
+        "gamemaker",
+        "microsoft-xna",
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2340010",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "croteam-publishing",
+    "name": "Croteam Publishing",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "serious-sam-3-vr-bfe",
+        "the-talos-principle-vr"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 1486,
+      "averagePositivePercentage": 84.5,
+      "weightedPositivePercentage": 84.3,
+      "mostReviewedGame": "the-talos-principle-vr",
+      "mostRecentRelease": "serious-sam-3-vr-bfe",
+      "firstRelease": "the-talos-principle-vr",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "devolver-digital",
+    "name": "Devolver Digital",
+    "aliases": [
+      "Devolver Digital Films",
+      "Devolver Digital Inc.",
+      "GHI Media, LLC"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game publisher and film distributor",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5267669",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.devolverdigital.com",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/devolverdigital.com",
+      "x": "https://x.com/devolverdigital",
+      "youtube": "https://www.youtube.com/channel/UCSc6s-ZJXKlSQr51dsox34g"
+    },
+    "location": {
+      "headquarters": "Austin",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2009,
+    "foundedDate": "2009",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q5267669"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "Publicly listed since 2021 and owns several studios, but publishes mainly independent games."
+    },
+    "games": {
+      "developed": [
+        "painty-mob"
+      ],
+      "published": [
+        "a-fistful-of-gun",
+        "absolver",
+        "anger-foot",
+        "ape-out",
+        "baby-steps",
+        "ball-x-pit",
+        "bleak-sword-dx",
+        "blockhood",
+        "boomerang-x",
+        "broforce",
+        "card-shark",
+        "carrion",
+        "children-of-the-sun",
+        "cosmic-dj",
+        "cricket-through-the-ages",
+        "crossing-souls",
+        "cult-of-the-lamb",
+        "cult-of-the-lamb-woolhaven",
+        "dark-scrolls",
+        "deaths-door",
+        "devolver-bootleg",
+        "disc-room",
+        "downwell",
+        "dropsy",
+        "dungeon-hearts",
+        "dungeon-hearts-blitz",
+        "enter-the-gungeon",
+        "enter-the-gungeon-2",
+        "essays-on-empathy",
+        "forestrike",
+        "game-of-thrones-tale-of-crows",
+        "gato-roboto",
+        "genital-jousting",
+        "gods-will-be-watching",
+        "gorn",
+        "gorn-2",
+        "gris",
+        "gunbrella",
+        "heave-ho",
+        "heavy-bullets",
+        "high-hell",
+        "hotline-miami",
+        "hotline-miami-2-wrong-number",
+        "human-fall-flat-2",
+        "hyperdrop-a-pachinko-roguelite",
+        "i-hate-running-backwards",
+        "inscryption",
+        "karmazoo",
+        "katana-zero",
+        "look-outside",
+        "loop-hero",
+        "luftrausers",
+        "marc-eckos-getting-up-contents-under-pressure",
+        "mcpixel-3",
+        "minit",
+        "minit-fun-racer",
+        "minos",
+        "mother-russia-bleeds",
+        "my-friend-pedro",
+        "mycopunk",
+        "neva",
+        "noct",
+        "not-a-hero",
+        "observation",
+        "okhlos-omega",
+        "olija",
+        "olliolli",
+        "olliolli2-welcome-to-olliwood",
+        "omnibus",
+        "painty-mob",
+        "pepper-grinder",
+        "phantom-abyss",
+        "pikuniku",
+        "pikuniku-2",
+        "possessor-s",
+        "quarantine-zone-the-last-check",
+        "ragnorium",
+        "reigns",
+        "reigns-beyond",
+        "reigns-game-of-thrones",
+        "reigns-her-majesty",
+        "reigns-kings-and-queens",
+        "reigns-three-kingdoms",
+        "return-to-monkey-island",
+        "ruiner",
+        "serious-sam-3-bfe",
+        "serious-sam-3-bonus-content-dlc",
+        "serious-sam-3-vr-bfe",
+        "serious-sam-4",
+        "serious-sam-classic-the-first-encounter",
+        "serious-sam-classics-revolution",
+        "serious-sam-double-d-xxl",
+        "serious-sam-fusion-2017-beta",
+        "serious-sam-hd-gold-edition",
+        "serious-sam-hd-the-first-encounter",
+        "serious-sam-hd-the-second-encounter",
+        "serious-sam-hd-the-second-encounter-serious-8-dlc",
+        "serious-sam-ii",
+        "serious-sam-kamikaze-attack",
+        "serious-sam-shatterverse",
+        "serious-sam-siberian-mayhem",
+        "serious-sam-the-greek-encounter",
+        "serious-sam-the-random-encounter",
+        "serious-sam-tormental",
+        "serious-sam-vr-the-first-encounter",
+        "serious-sam-vr-the-last-hope",
+        "serious-sam-vr-the-second-encounter",
+        "serious-sams-bogus-detour",
+        "shadow-warrior-2",
+        "shadow-warrior-3-definitive-edition",
+        "shotgun-cop-man",
+        "skate-story",
+        "sludge-life",
+        "spaceplan",
+        "starseeker-astroneer-expeditions",
+        "stick-it-to-the-stickman",
+        "stories-untold",
+        "strafe-gold-edition",
+        "sub-rosa",
+        "sumerian-six",
+        "tenjutsu",
+        "tentacular",
+        "terra-nil",
+        "the-cosmic-wheel-sisterhood",
+        "the-crush-house",
+        "the-dungeon-experience",
+        "the-expendabros",
+        "the-messenger",
+        "the-messenger-picnic-panic-dlc",
+        "the-plucky-squire",
+        "the-red-strings-club",
+        "the-swords-of-ditto-mormos-curse",
+        "the-talos-principle",
+        "the-talos-principle-2",
+        "the-talos-principle-3",
+        "the-talos-principle-reawakened",
+        "the-talos-principle-road-to-gehenna",
+        "the-talos-principle-vr",
+        "titan-souls",
+        "to-fu-2",
+        "to-fu-the-trials-of-chi",
+        "trek-to-yomi",
+        "umiro",
+        "virtue-and-a-sledgehammer",
+        "viscera-cleanup-detail-shadow-warrior",
+        "weird-west-definitive-edition",
+        "witcheye",
+        "wizard-with-a-gun"
+      ]
+    },
+    "statistics": {
+      "gameCount": 148,
+      "developedCount": 1,
+      "publishedCount": 148,
+      "totalSteamReviews": 1490041,
+      "averagePositivePercentage": 85.5,
+      "weightedPositivePercentage": 93.3,
+      "mostReviewedGame": "inscryption",
+      "mostRecentRelease": "stick-it-to-the-stickman",
+      "firstRelease": "serious-sam-hd-the-first-encounter",
+      "technologyCount": 6,
+      "engineCount": 6,
+      "engines": [
+        "adobe-flash",
+        "gamemaker",
+        "microsoft-xna",
+        "monogame",
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q5267669",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "eon-digital-entertainment",
+    "name": "Eon Digital Entertainment",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "computer games publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5381814",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": "London",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 2000,
+    "foundedDate": "2000",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q5381814"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "stunt-gp"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "stunt-gp",
+      "firstRelease": "stunt-gp",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q5381814",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game and software developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q739711",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.epicgames.com/",
+    "socialLinks": {
+      "x": "https://x.com/EpicGames"
+    },
+    "location": {
+      "headquarters": "Cary",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 1991,
+    "foundedDate": "1991-01-15",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Sony Group",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q739711",
+      "igdb": "epic-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "alan-wake-2",
+        "alan-wake-ii-night-springs",
+        "alan-wake-ii-the-lake-house",
+        "alan-wake-remastered"
+      ]
+    },
+    "statistics": {
+      "gameCount": 4,
+      "developedCount": 0,
+      "publishedCount": 4,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "alan-wake-ii-the-lake-house",
+      "firstRelease": "alan-wake-remastered",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "northlight-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q739711",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "evil-landfall",
+    "name": "Evil Landfall?",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "haste",
+        "peak"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 390131,
+      "averagePositivePercentage": 93.3,
+      "weightedPositivePercentage": 94.4,
+      "mostReviewedGame": "peak",
+      "mostRecentRelease": "peak",
+      "firstRelease": "haste",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "focus-home-interactive",
+    "name": "Focus Home Interactive",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "divinity-ii-developers-cut"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 5343,
+      "averagePositivePercentage": 84.8,
+      "weightedPositivePercentage": 84.8,
+      "mostReviewedGame": "divinity-ii-developers-cut",
+      "mostRecentRelease": "divinity-ii-developers-cut",
+      "firstRelease": "divinity-ii-developers-cut",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "fumi-games",
+    "name": "Fumi Games",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Independent studio in Warsaw."
+    },
+    "games": {
+      "developed": [
+        "galaxi-taxi",
+        "mouse-p-i-for-hire"
+      ],
+      "published": [
+        "galaxi-taxi"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 1,
+      "totalSteamReviews": 15864,
+      "averagePositivePercentage": 93.8,
+      "weightedPositivePercentage": 93.8,
+      "mostReviewedGame": "mouse-p-i-for-hire",
+      "mostRecentRelease": "mouse-p-i-for-hire",
+      "firstRelease": "mouse-p-i-for-hire",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "gamersky-games",
+    "name": "Gamersky Games",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "dwarves-glory-death-and-loot"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 2719,
+      "averagePositivePercentage": 82.3,
+      "weightedPositivePercentage": 82.3,
+      "mostReviewedGame": "dwarves-glory-death-and-loot",
+      "mostRecentRelease": "dwarves-glory-death-and-loot",
+      "firstRelease": "dwarves-glory-death-and-loot",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "gearbox-publishing",
+    "name": "Gearbox Publishing",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "risk-of-rain-2",
+        "risk-of-rain-2013",
+        "risk-of-rain-returns"
+      ]
+    },
+    "statistics": {
+      "gameCount": 3,
+      "developedCount": 0,
+      "publishedCount": 3,
+      "totalSteamReviews": 411843,
+      "averagePositivePercentage": 92.3,
+      "weightedPositivePercentage": 93.5,
+      "mostReviewedGame": "risk-of-rain-2",
+      "mostRecentRelease": "risk-of-rain-returns",
+      "firstRelease": "risk-of-rain-2013",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "gamemaker",
+        "unity-2018"
+      ]
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "hasbro-interactive",
+    "name": "Hasbro Interactive",
+    "aliases": [
+      "Hasbro Electronic Entertainment",
+      "Hasbro Interactive, Inc."
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game producer and publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q579796",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Beverly",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 1995,
+    "foundedDate": "1995",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Hasbro",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q579796"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "arcade-pool",
+        "phoenix"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "arcade-pool",
+      "firstRelease": "arcade-pool",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q579796",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "hooded-horse",
+    "name": "Hooded Horse",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q123181340",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.hoodedhorse.com",
+    "socialLinks": {
+      "x": "https://x.com/HoodedHorseInc",
+      "youtube": "https://www.youtube.com/channel/UCOchKaC3FN2G-odtv4DiVlA"
+    },
+    "location": {
+      "headquarters": null,
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q123181340"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "9-kings"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 23385,
+      "averagePositivePercentage": 92.4,
+      "weightedPositivePercentage": 92.4,
+      "mostReviewedGame": "9-kings",
+      "mostRecentRelease": "9-kings",
+      "firstRelease": "9-kings",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q123181340",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "hopoo-games",
+    "name": "Hopoo Games",
+    "aliases": [
+      "LLC"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q33111933",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://hopoogames.com/",
+    "socialLinks": {
+      "x": "https://x.com/HopooGames"
+    },
+    "location": {
+      "headquarters": "Seattle",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2012,
+    "foundedDate": "2012",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q33111933"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Developer of Risk of Rain and Deadbolt."
+    },
+    "games": {
+      "developed": [
+        "deadbolt",
+        "risk-of-rain-2",
+        "risk-of-rain-2013",
+        "risk-of-rain-returns"
+      ],
+      "published": [
+        "deadbolt"
+      ]
+    },
+    "statistics": {
+      "gameCount": 4,
+      "developedCount": 4,
+      "publishedCount": 1,
+      "totalSteamReviews": 417490,
+      "averagePositivePercentage": 93.2,
+      "weightedPositivePercentage": 93.5,
+      "mostReviewedGame": "risk-of-rain-2",
+      "mostRecentRelease": "risk-of-rain-returns",
+      "firstRelease": "risk-of-rain-2013",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "gamemaker",
+        "unity-2018"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q33111933",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "hotgen",
+    "name": "HotGen",
+    "aliases": [
+      "HotGen Ltd",
+      "HotGen Studios Ltd."
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "British video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q5909605",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.hotgen.com",
+    "socialLinks": {
+      "x": "https://x.com/hotgenltd"
+    },
+    "location": {
+      "headquarters": "Croydon",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 1999,
+    "foundedDate": "1999",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q5909605"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "to-fu-2",
+        "to-fu-the-trials-of-chi"
+      ],
+      "published": [
+        "to-fu-2",
+        "to-fu-the-trials-of-chi"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 2,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "to-fu-2",
+      "firstRelease": "to-fu-the-trials-of-chi",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q5909605",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "hypetrain-digital",
+    "name": "HypeTrain Digital",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "die-in-the-dungeon"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 3597,
+      "averagePositivePercentage": 92.1,
+      "weightedPositivePercentage": 92.1,
+      "mostReviewedGame": "die-in-the-dungeon",
+      "mostRecentRelease": "die-in-the-dungeon",
+      "firstRelease": "die-in-the-dungeon",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "kepler-ghost",
+    "name": "Kepler Ghost",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "windblown"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 10402,
+      "averagePositivePercentage": 88.7,
+      "weightedPositivePercentage": 88.7,
+      "mostReviewedGame": "windblown",
+      "mostRecentRelease": "windblown",
+      "firstRelease": "windblown",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "konami",
+    "name": "Konami",
+    "aliases": [
+      "KONAMI",
+      "Konami Holdings Corporation",
+      "Konica Enix"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Japanese entertainment and video game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q45700",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.konami.com/en/",
+    "socialLinks": {
+      "x": "https://x.com/KONAMI573ch",
+      "youtube": "https://www.youtube.com/channel/UCWSPqhLRvqjC-vLYA5_n4LQ"
+    },
+    "location": {
+      "headquarters": "Tokyo",
+      "country": "JP",
+      "countryName": "Japan"
+    },
+    "founded": 1969,
+    "foundedDate": "1969-03-21",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q45700"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "castlevania-belmonts-curse"
+      ],
+      "published": [
+        "castlevania-belmonts-curse",
+        "silent-hill-townfall"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 1,
+      "publishedCount": 2,
+      "totalSteamReviews": 4064,
+      "averagePositivePercentage": 66.3,
+      "weightedPositivePercentage": 66.3,
+      "mostReviewedGame": "silent-hill-townfall",
+      "mostRecentRelease": "silent-hill-townfall",
+      "firstRelease": "silent-hill-townfall",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q45700",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "landfall",
+    "name": "Landfall",
+    "aliases": [
+      "Landfall Games",
+      "Landfall Games AB"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q27961665",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://landfall.se/",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/landfall.se",
+      "x": "https://x.com/LandfallGames",
+      "youtube": "https://www.youtube.com/channel/UCIlwIUzgQz7wEJAXwZf73lg"
+    },
+    "location": {
+      "headquarters": "Stockholm",
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q27961665"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Swedish studio. The name is ambiguous; always resolve through the Wikidata ID."
+    },
+    "games": {
+      "developed": [
+        "clustertruck",
+        "haste",
+        "totally-accurate-battle-simulator",
+        "totally-accurate-battlegrounds"
+      ],
+      "published": [
+        "stick-fight-the-game",
+        "totally-accurate-battle-simulator",
+        "totally-accurate-battlegrounds"
+      ]
+    },
+    "statistics": {
+      "gameCount": 5,
+      "developedCount": 4,
+      "publishedCount": 3,
+      "totalSteamReviews": 400438,
+      "averagePositivePercentage": 93.1,
+      "weightedPositivePercentage": 94,
+      "mostReviewedGame": "totally-accurate-battle-simulator",
+      "mostRecentRelease": "haste",
+      "firstRelease": "clustertruck",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q27961665",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "larian-studios",
+    "name": "Larian Studios",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Belgian video game development company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q4042609",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://larian.com/",
+    "socialLinks": {
+      "x": "https://x.com/larianstudios",
+      "youtube": "https://www.youtube.com/channel/UCQ-AAXSt0M5Gx0-A9UGut8g"
+    },
+    "location": {
+      "headquarters": "Ghent",
+      "country": "BE",
+      "countryName": "Belgium"
+    },
+    "founded": 1996,
+    "foundedDate": "1996",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q4042609",
+      "igdb": "larian-studios"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-large",
+      "notes": "Founder-controlled. Tencent holds a minority stake. Large headcount but no parent publisher."
+    },
+    "games": {
+      "developed": [
+        "baldurs-gate-3",
+        "beyond-divinity",
+        "divine-divinity",
+        "divinity",
+        "divinity-dragon-commander",
+        "divinity-ii-developers-cut",
+        "divinity-original-sin-2-definitive-edition",
+        "divinity-original-sin-classic",
+        "divinity-original-sin-enhanced-edition",
+        "monkey-tales-the-abbey-of-aviath",
+        "superia",
+        "the-l-e-d-wars"
+      ],
+      "published": [
+        "baldurs-gate-3",
+        "beyond-divinity",
+        "divine-divinity",
+        "divinity",
+        "divinity-dragon-commander",
+        "divinity-ii-developers-cut",
+        "divinity-original-sin-2-definitive-edition",
+        "divinity-original-sin-classic",
+        "divinity-original-sin-enhanced-edition"
+      ]
+    },
+    "statistics": {
+      "gameCount": 12,
+      "developedCount": 12,
+      "publishedCount": 9,
+      "totalSteamReviews": 1124198,
+      "averagePositivePercentage": 83.6,
+      "weightedPositivePercentage": 96.1,
+      "mostReviewedGame": "baldurs-gate-3",
+      "mostRecentRelease": "baldurs-gate-3",
+      "firstRelease": "the-l-e-d-wars",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q4042609",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "mad-monkey-studio",
+    "name": "Mad Monkey Studio",
+    "aliases": [
+      "SC2X"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "former French video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3275153",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.madmonkeystudio.com/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Bordeaux",
+      "country": "FR",
+      "countryName": "France"
+    },
+    "founded": 2003,
+    "foundedDate": "2003",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q3275153"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "alphabounce"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "alphabounce",
+      "firstRelease": "alphabounce",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3275153",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "mega-crit",
+    "name": "Mega Crit",
+    "aliases": [
+      "Mega Crit Games",
+      "MegaCrit"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game development company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q87419925",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.megacrit.com/",
+    "socialLinks": {
+      "x": "https://x.com/MegaCrit"
+    },
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": 2017,
+    "foundedDate": "2017",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q87419925",
+      "igdb": "mega-crit-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "slay-the-spire",
+        "slay-the-spire-2"
+      ],
+      "published": [
+        "slay-the-spire",
+        "slay-the-spire-2"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 2,
+      "totalSteamReviews": 422025,
+      "averagePositivePercentage": 79.4,
+      "weightedPositivePercentage": 80,
+      "mostReviewedGame": "slay-the-spire",
+      "mostRecentRelease": "slay-the-spire-2",
+      "firstRelease": "slay-the-spire",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "godot",
+        "libgdx"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q87419925",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "microprose",
+    "name": "MicroProse",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q652421",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.microprose.com/",
+    "socialLinks": {
+      "x": "https://x.com/micro_prose"
+    },
+    "location": {
+      "headquarters": "Hunt Valley",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 1982,
+    "foundedDate": "1982",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q652421"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "nightlong-union-city-conspiracy",
+        "phoenix",
+        "worms-2"
+      ]
+    },
+    "statistics": {
+      "gameCount": 3,
+      "developedCount": 0,
+      "publishedCount": 3,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "nightlong-union-city-conspiracy",
+      "firstRelease": "worms-2",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q652421",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "mojang",
+    "name": "Mojang Studios",
+    "aliases": [
+      "Mojang",
+      "Mojang AB",
+      "Mojang Specifications"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Swedish video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1129295",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.mojang.com/",
+    "socialLinks": {
+      "x": "https://x.com/Mojang"
+    },
+    "location": {
+      "headquarters": "Stockholm",
+      "country": "SE",
+      "countryName": "Sweden"
+    },
+    "founded": 2009,
+    "foundedDate": "2009",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Xbox",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q1129295",
+      "igdb": "mojang-studios"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "acquired-independent",
+      "notes": "Independent origins; acquired by Microsoft in 2014 and now part of Xbox Game Studios."
+    },
+    "games": {
+      "developed": [
+        "0x10c",
+        "callers-bane",
+        "catacomb-snatch",
+        "crown-and-council",
+        "minecraft-bedrock-edition",
+        "minecraft-blast",
+        "minecraft-china",
+        "minecraft-dungeons",
+        "minecraft-dungeons-ii",
+        "minecraft-earth",
+        "minecraft-education",
+        "minecraft-java-edition",
+        "minecraft-legacy-console-edition",
+        "minecraft-legends",
+        "minecraft-new-nintendo-3ds-edition"
+      ],
+      "published": [
+        "callers-bane",
+        "cobalt",
+        "cobalt-wasd",
+        "crown-and-council",
+        "minecraft-bedrock-edition",
+        "minecraft-earth",
+        "minecraft-java-edition",
+        "minecraft-new-nintendo-3ds-edition"
+      ]
+    },
+    "statistics": {
+      "gameCount": 17,
+      "developedCount": 15,
+      "publishedCount": 8,
+      "totalSteamReviews": 27898,
+      "averagePositivePercentage": 75.5,
+      "weightedPositivePercentage": 82.3,
+      "mostReviewedGame": "minecraft-dungeons",
+      "mostRecentRelease": "minecraft-dungeons-ii",
+      "firstRelease": "minecraft-java-edition",
+      "technologyCount": 4,
+      "engineCount": 2,
+      "engines": [
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1129295",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "motion-twin",
+    "name": "Motion Twin",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "French video game developer and publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3325177",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.motion-twin.com",
+    "socialLinks": {
+      "x": "https://x.com/motiontwin"
+    },
+    "location": {
+      "headquarters": "Bordeaux",
+      "country": "FR",
+      "countryName": "France"
+    },
+    "founded": 2001,
+    "foundedDate": "2001-08-06",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q3325177"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Worker cooperative based in Bordeaux."
+    },
+    "games": {
+      "developed": [
+        "alphabounce",
+        "dead-cells",
+        "dead-cells-fatal-falls",
+        "dead-cells-the-bad-seed",
+        "dead-cells-the-queen-and-the-sea",
+        "die2nite",
+        "la-brute",
+        "mush",
+        "my-brute",
+        "windblown"
+      ],
+      "published": [
+        "dead-cells",
+        "dead-cells-fatal-falls",
+        "dead-cells-the-bad-seed",
+        "dead-cells-the-queen-and-the-sea",
+        "windblown"
+      ]
+    },
+    "statistics": {
+      "gameCount": 10,
+      "developedCount": 10,
+      "publishedCount": 5,
+      "totalSteamReviews": 196256,
+      "averagePositivePercentage": 92.4,
+      "weightedPositivePercentage": 96.5,
+      "mostReviewedGame": "dead-cells",
+      "mostRecentRelease": "windblown",
+      "firstRelease": "la-brute",
+      "technologyCount": 3,
+      "engineCount": 2,
+      "engines": [
+        "adobe-flash",
+        "heaps"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3325177",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "netease",
+    "name": "NetEase",
+    "aliases": [
+      "163.com",
+      "NTES",
+      "NetEase, Inc.",
+      "https://www.163.com"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Chinese Internet technology company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q196259",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.163.com/",
+    "socialLinks": {
+      "youtube": "https://www.youtube.com/channel/UC7fPAi77lcCWFUc94UHyfGg"
+    },
+    "location": {
+      "headquarters": "George Town",
+      "country": "KY",
+      "countryName": "Cayman Islands"
+    },
+    "founded": 1997,
+    "foundedDate": "1997-06",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q196259"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "minecraft-china"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "minecraft-china",
+      "firstRelease": "minecraft-china",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q196259",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "next-studios",
+    "name": "NExT Studios",
+    "aliases": [
+      "NEXT Studios"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": "https://www.nextstudios.com/",
+    "socialLinks": {
+      "x": "https://x.com/NEXTStudios",
+      "youtube": "https://www.youtube.com/channel/UCKE_CfoSegV4sJZxLhHgYWg"
+    },
+    "location": {
+      "headquarters": "Shanghai",
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Tencent Games",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q97300197"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "crown-trick"
+      ],
+      "published": [
+        "crown-trick"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 5395,
+      "averagePositivePercentage": 85.3,
+      "weightedPositivePercentage": 85.3,
+      "mostReviewedGame": "crown-trick",
+      "mostRecentRelease": "crown-trick",
+      "firstRelease": "crown-trick",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97300197",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "norwegian-broadcasting-corporation",
+    "name": "Norwegian Broadcasting Corporation",
+    "aliases": [
+      "NRK",
+      "Norsk Rikskringkasting",
+      "Norsk rikskringkasting"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "state-owned Norwegian public broadcaster",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q190238",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.nrk.no/",
+    "socialLinks": {
+      "x": "https://x.com/NRKno",
+      "youtube": "https://www.youtube.com/channel/UCBevtY7fDYVEVkgWez2tAgA"
+    },
+    "location": {
+      "headquarters": "NRK Marienlyst",
+      "country": "NO",
+      "countryName": "Norway"
+    },
+    "founded": 1933,
+    "foundedDate": "1933",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q190238"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "superia"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": null,
+      "firstRelease": null,
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q190238",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "nuggets-entertainment",
+    "name": "Nuggets Entertainment",
+    "aliases": [
+      "NUGGETS ENTERTAINMENT"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Independent studio in Skovde, Sweden, founded in 2023."
+    },
+    "games": {
+      "developed": [
+        "among-the-wild",
+        "rv-there-yet"
+      ],
+      "published": [
+        "among-the-wild",
+        "rv-there-yet"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 2,
+      "totalSteamReviews": 87794,
+      "averagePositivePercentage": 90.2,
+      "weightedPositivePercentage": 90.2,
+      "mostReviewedGame": "rv-there-yet",
+      "mostRecentRelease": "rv-there-yet",
+      "firstRelease": "rv-there-yet",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "ocean-software",
+    "name": "Ocean Software",
+    "aliases": [
+      "Bandai Namco Games UK Ltd.",
+      "Ocean",
+      "Ocean Software Ltd"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "British software company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1408498",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Manchester",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 1983,
+    "foundedDate": "1983",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q1408498"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "alien-breed-3d",
+        "alien-breed-3d-ii-the-killing-grounds",
+        "worms-the-directors-cut",
+        "x2"
+      ]
+    },
+    "statistics": {
+      "gameCount": 4,
+      "developedCount": 0,
+      "publishedCount": 4,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "x2",
+      "firstRelease": "alien-breed-3d",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1408498",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "omocat",
+    "name": "OMOCAT",
+    "aliases": [
+      "OMOCAT, LLC",
+      "Omocat",
+      "omocat"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American artist",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q104532882",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.omocat.com/",
+    "socialLinks": {
+      "x": "https://x.com/_omocat",
+      "youtube": "https://www.youtube.com/channel/UCh3IvbL9ms6963lEx9d4HPg"
+    },
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q104532882"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Individual developer of Omori."
+    },
+    "games": {
+      "developed": [
+        "omori"
+      ],
+      "published": [
+        "omori"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 88833,
+      "averagePositivePercentage": 97.1,
+      "weightedPositivePercentage": 97.1,
+      "mostReviewedGame": "omori",
+      "mostRecentRelease": "omori",
+      "firstRelease": "omori",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "rpg-maker"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q104532882",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "panic",
+    "name": "Panic",
+    "aliases": [
+      "Panic Inc",
+      "Panic, Inc."
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American software company and video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7131061",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://panic.com",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/panic.com",
+      "mastodon": "https://panic.com/@panic",
+      "x": "https://x.com/panic"
+    },
+    "location": {
+      "headquarters": "Oregon",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q7131061"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "Portland software company that publishes independent games."
+    },
+    "games": {
+      "developed": [
+        "b360",
+        "crayons",
+        "inventory-hero",
+        "star-sled"
+      ],
+      "published": [
+        "arco",
+        "b360",
+        "battleship-godios",
+        "big-walk",
+        "blippo",
+        "crankins-time-travel-adventure",
+        "crayons",
+        "despelote",
+        "executive-golf-dx",
+        "firewatch",
+        "flipper-lifter",
+        "herdling",
+        "hyper-meteor",
+        "inventory-hero",
+        "lost-your-marbles",
+        "mars-after-midnight",
+        "nour-play-with-your-food",
+        "oom",
+        "questy-chess",
+        "reel-steal",
+        "robot-fishing",
+        "sasquatchers",
+        "snak",
+        "star-sled",
+        "thank-goodness-youre-here",
+        "time-flies",
+        "untitled-goose-game",
+        "whitewater-wipeout",
+        "widget-satchel-ii-return-of-sprocket",
+        "zipper"
+      ]
+    },
+    "statistics": {
+      "gameCount": 30,
+      "developedCount": 4,
+      "publishedCount": 30,
+      "totalSteamReviews": 178632,
+      "averagePositivePercentage": 91.7,
+      "weightedPositivePercentage": 92.9,
+      "mostReviewedGame": "firewatch",
+      "mostRecentRelease": "big-walk",
+      "firstRelease": "firewatch",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7131061",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "playside",
+    "name": "PlaySide",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "mouse-p-i-for-hire"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 15864,
+      "averagePositivePercentage": 93.8,
+      "weightedPositivePercentage": 93.8,
+      "mostReviewedGame": "mouse-p-i-for-hire",
+      "mostRecentRelease": "mouse-p-i-for-hire",
+      "firstRelease": "mouse-p-i-for-hire",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "playstack",
+    "name": "Playstack",
+    "aliases": [
+      "Playstack Games",
+      "Playstack Limited",
+      "Playstack Ltd"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "British video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q116904012",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://playstack.com/",
+    "socialLinks": {
+      "x": "https://x.com/PlayStackGames",
+      "youtube": "https://www.youtube.com/channel/UCznkRchE04jrOPmlgPbfZyA"
+    },
+    "location": {
+      "headquarters": "London",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 2016,
+    "foundedDate": "2016-05-07",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q116904012"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "British publisher founded in 2016."
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "about-fishing",
+        "balatro",
+        "dick-wilde",
+        "dick-wilde-2",
+        "doctor-who-the-edge-of-time",
+        "mortal-shell",
+        "mortal-shell-enhanced-edition",
+        "mortal-shell-ii",
+        "one-move-away",
+        "raccoin-coin-pusher-roguelike",
+        "rise-of-the-slime",
+        "star-trek-outposts-unknown",
+        "super-dodgeball-beats",
+        "the-case-of-the-golden-idol",
+        "the-entropy-centre",
+        "the-last-faith",
+        "the-rise-of-the-golden-idol",
+        "unbeatable",
+        "void-breaker"
+      ]
+    },
+    "statistics": {
+      "gameCount": 19,
+      "developedCount": 0,
+      "publishedCount": 19,
+      "totalSteamReviews": 273815,
+      "averagePositivePercentage": 82.6,
+      "weightedPositivePercentage": 94,
+      "mostReviewedGame": "balatro",
+      "mostRecentRelease": "mortal-shell-ii",
+      "firstRelease": "dick-wilde",
+      "technologyCount": 4,
+      "engineCount": 4,
+      "engines": [
+        "godot",
+        "love2d",
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q116904012",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "ravenage-games",
+    "name": "Ravenage Games",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "megaloot"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 4011,
+      "averagePositivePercentage": 71.7,
+      "weightedPositivePercentage": 71.7,
+      "mostReviewedGame": "megaloot",
+      "mostRecentRelease": "megaloot",
+      "firstRelease": "megaloot",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "red-candle-games",
+    "name": "Red Candle Games",
+    "aliases": [
+      "RED CANDLE GAMES CO., LTD.",
+      "RedCandleGames",
+      "redcandlegames"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q31663580",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://redcandlegames.com/",
+    "socialLinks": {
+      "x": "https://x.com/redcandlegames",
+      "youtube": "https://www.youtube.com/channel/UCzFIdV34VVQpCg_2ij6UdpQ"
+    },
+    "location": {
+      "headquarters": "Zhongzheng District",
+      "country": "TW",
+      "countryName": "Taiwan"
+    },
+    "founded": 2015,
+    "foundedDate": "2015-09",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q31663580"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Taiwanese studio founded in 2015."
+    },
+    "games": {
+      "developed": [
+        "detention",
+        "devotion",
+        "nine-sols"
+      ],
+      "published": [
+        "detention",
+        "devotion",
+        "nine-sols"
+      ]
+    },
+    "statistics": {
+      "gameCount": 3,
+      "developedCount": 3,
+      "publishedCount": 3,
+      "totalSteamReviews": 57701,
+      "averagePositivePercentage": 95.1,
+      "weightedPositivePercentage": 94.7,
+      "mostReviewedGame": "nine-sols",
+      "mostRecentRelease": "nine-sols",
+      "firstRelease": "detention",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q31663580",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "remedy-entertainment",
+    "name": "Remedy Entertainment",
+    "aliases": [
+      "Remedy",
+      "Remedy Entertainment Oyj",
+      "Remedy Entertainment Plc"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Finnish video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q830947",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.remedygames.com/",
+    "socialLinks": {
+      "x": "https://x.com/RemedyGames",
+      "youtube": "https://www.youtube.com/channel/UCS6s3OidfTU0fMRScTGE_jg"
+    },
+    "location": {
+      "headquarters": "Espoo",
+      "country": "FI",
+      "countryName": "Finland"
+    },
+    "founded": 1995,
+    "foundedDate": "1995-08",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q830947",
+      "igdb": "remedy-entertainment"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-large",
+      "notes": "Publicly listed in Finland, with no controlling parent company. Tencent holds a minority stake."
+    },
+    "games": {
+      "developed": [
+        "alan-wake",
+        "alan-wake-2",
+        "alan-wake-ii-night-springs",
+        "alan-wake-ii-the-lake-house",
+        "alan-wake-remastered",
+        "alan-wakes-american-nightmare",
+        "control-awe",
+        "control-resonant",
+        "control-the-foundation",
+        "control-ultimate-edition",
+        "crossfirex",
+        "death-rally",
+        "death-rally-classic",
+        "fbc-firebreak",
+        "max-payne",
+        "max-payne-2-the-fall-of-max-payne",
+        "quantum-break"
+      ],
+      "published": [
+        "alan-wake",
+        "alan-wakes-american-nightmare",
+        "control-resonant",
+        "control-ultimate-edition",
+        "death-rally",
+        "fbc-firebreak"
+      ]
+    },
+    "statistics": {
+      "gameCount": 17,
+      "developedCount": 17,
+      "publishedCount": 6,
+      "totalSteamReviews": 210981,
+      "averagePositivePercentage": 83.5,
+      "weightedPositivePercentage": 87.2,
+      "mostReviewedGame": "control-ultimate-edition",
+      "mostRecentRelease": "control-resonant",
+      "firstRelease": "max-payne-2-the-fall-of-max-payne",
+      "technologyCount": 3,
+      "engineCount": 3,
+      "engines": [
+        "havok",
+        "northlight-engine",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q830947",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "rockstar-games",
+    "name": "Rockstar Games",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q94912",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.rockstargames.com/",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/rockstargames.com",
+      "x": "https://x.com/RockstarCareers",
+      "youtube": "https://www.youtube.com/channel/UC6VcWc1rAoWdBCM0JxrRQ3A"
+    },
+    "location": {
+      "headquarters": "New York City",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 1998,
+    "foundedDate": "1998-12",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Take-Two Interactive",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q94912",
+      "igdb": "rockstar-games"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "max-payne",
+        "max-payne-2-the-fall-of-max-payne"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 0,
+      "publishedCount": 2,
+      "totalSteamReviews": 30679,
+      "averagePositivePercentage": 91.6,
+      "weightedPositivePercentage": 91.5,
+      "mostReviewedGame": "max-payne",
+      "mostRecentRelease": "max-payne",
+      "firstRelease": "max-payne-2-the-fall-of-max-payne",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q94912",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "sega",
+    "name": "Sega",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q122741",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.sega.com",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/sega.jp",
+      "x": "https://x.com/SEGA_OFFICIAL",
+      "youtube": "https://www.youtube.com/channel/UCVkqs_Q88BDmyaWwjYJ8_Ig"
+    },
+    "location": {
+      "headquarters": "Shinagawa",
+      "country": "JP",
+      "countryName": "Japan"
+    },
+    "founded": 1960,
+    "foundedDate": "1960-06-03",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "SEGA Group Corporation",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q122741",
+      "igdb": "sega"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "worms-forts-under-siege"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "worms-forts-under-siege",
+      "firstRelease": "worms-forts-under-siege",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q122741",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "semiwork",
+    "name": "semiwork",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q133247129",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://semiwork.se/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": "SE",
+      "countryName": "Sweden"
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q133247129"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Swedish studio."
+    },
+    "games": {
+      "developed": [
+        "r-e-p-o",
+        "voidigo"
+      ],
+      "published": [
+        "r-e-p-o",
+        "voidigo"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 2,
+      "totalSteamReviews": 431146,
+      "averagePositivePercentage": 96.3,
+      "weightedPositivePercentage": 96,
+      "mostReviewedGame": "r-e-p-o",
+      "mostRecentRelease": "r-e-p-o",
+      "firstRelease": "voidigo",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q133247129",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "sidekick-publishing",
+    "name": "Sidekick Publishing",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-publisher",
+      "notes": "Berlin publisher established in 2025."
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "9-kings",
+        "asgards-fall-viking-survivors",
+        "deadly-days-roadtrip",
+        "die-in-the-dungeon",
+        "dwarves-glory-death-and-loot",
+        "megaloot",
+        "terrascape"
+      ]
+    },
+    "statistics": {
+      "gameCount": 7,
+      "developedCount": 0,
+      "publishedCount": 7,
+      "totalSteamReviews": 40410,
+      "averagePositivePercentage": 85,
+      "weightedPositivePercentage": 88.6,
+      "mostReviewedGame": "9-kings",
+      "mostRecentRelease": "asgards-fall-viking-survivors",
+      "firstRelease": "terrascape",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "smilegate",
+    "name": "Smilegate",
+    "aliases": [
+      "Smile Gate",
+      "Smilegate Entertainment"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Korean video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q12603595",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.smilegate.com/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Seongnam",
+      "country": "KR",
+      "countryName": "South Korea"
+    },
+    "founded": 2002,
+    "foundedDate": "2002-06-11",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q12603595"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "crossfirex"
+      ],
+      "published": [
+        "crossfirex"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "crossfirex",
+      "firstRelease": "crossfirex",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q12603595",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "sony-interactive-entertainment",
+    "name": "Sony Interactive Entertainment",
+    "aliases": [
+      "Sony Computer Entertainment",
+      "Sony Interactive",
+      "Sony Interactive Entertainment Inc.",
+      "Sony Interactive Entertainment LLC"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American multinational software company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q18594",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://sonyinteractive.com/",
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Tokyo",
+      "country": "JP",
+      "countryName": "Japan"
+    },
+    "founded": 1993,
+    "foundedDate": "1993-11-15",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Sony Corporation of America",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q18594",
+      "igdb": "sony-interactive-entertainment"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "worms-battle-islands"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "worms-battle-islands",
+      "firstRelease": "worms-battle-islands",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q18594",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "stray-fawn-publishing",
+    "name": "Stray Fawn Publishing",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "terrascape"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 2250,
+      "averagePositivePercentage": 88.6,
+      "weightedPositivePercentage": 88.6,
+      "mostReviewedGame": "terrascape",
+      "mostRecentRelease": "terrascape",
+      "firstRelease": "terrascape",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  },
+  {
+    "id": "studio-mdhr",
+    "name": "Studio MDHR",
+    "aliases": [
+      "Studio MDHR Entertainment",
+      "Studio MDHR Entertainment Inc.",
+      "Studio Moldenhauer",
+      "StudioMDHR",
+      "StudioMDHR Entertainment Inc."
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "Canadian video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q105450826",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://studiomdhr.com",
+    "socialLinks": {
+      "x": "https://x.com/StudioMDHR"
+    },
+    "location": {
+      "headquarters": "Oakville",
+      "country": "CA",
+      "countryName": "Canada"
+    },
+    "founded": 2013,
+    "foundedDate": "2013",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q105450826",
+      "igdb": "studio-mdhr"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "cuphead",
+        "cuphead-the-delicious-last-course"
+      ],
+      "published": [
+        "cuphead",
+        "cuphead-the-delicious-last-course"
+      ]
+    },
+    "statistics": {
+      "gameCount": 2,
+      "developedCount": 2,
+      "publishedCount": 2,
+      "totalSteamReviews": 226985,
+      "averagePositivePercentage": 95.4,
+      "weightedPositivePercentage": 96.1,
+      "mostReviewedGame": "cuphead",
+      "mostRecentRelease": "cuphead-the-delicious-last-course",
+      "firstRelease": "cuphead",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105450826",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "supergiant-games",
+    "name": "Supergiant Games",
+    "aliases": [
+      "Circle Confusion"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7643396",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.supergiantgames.com/",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/supergiantgames.bsky.social",
+      "x": "https://x.com/SupergiantGames",
+      "youtube": "https://www.youtube.com/channel/UCBq8CLRcJN8rgqHOkyL1ozg"
+    },
+    "location": {
+      "headquarters": "San Jose",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2009,
+    "foundedDate": "2009",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q7643396"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Self-owned; self-publishes on PC."
+    },
+    "games": {
+      "developed": [
+        "bastion",
+        "hades",
+        "hades-ii",
+        "pyre",
+        "transistor"
+      ],
+      "published": [
+        "bastion",
+        "hades",
+        "hades-ii",
+        "pyre",
+        "transistor"
+      ]
+    },
+    "statistics": {
+      "gameCount": 5,
+      "developedCount": 5,
+      "publishedCount": 5,
+      "totalSteamReviews": 511561,
+      "averagePositivePercentage": 94.6,
+      "weightedPositivePercentage": 96.9,
+      "mostReviewedGame": "hades",
+      "mostRecentRelease": "hades-ii",
+      "firstRelease": "bastion",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "microsoft-xna",
+        "monogame"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7643396",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "team-cherry",
+    "name": "Team Cherry",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game developer",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q29326164",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://teamcherry.com.au",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/teamcherry.bsky.social",
+      "x": "https://x.com/teamcherrygames",
+      "youtube": "https://www.youtube.com/channel/UCZS2K8ZsUmujTuj3cNMyBSA"
+    },
+    "location": {
+      "headquarters": "Adelaide",
+      "country": "AU",
+      "countryName": "Australia"
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q29326164",
+      "igdb": "team-cherry"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "Small self-publishing studio in Adelaide."
+    },
+    "games": {
+      "developed": [
+        "godmaster",
+        "hidden-dreams",
+        "hollow-knight",
+        "hollow-knight-silksong",
+        "lifeblood",
+        "sea-of-sorrow",
+        "the-grimm-troupe"
+      ],
+      "published": [
+        "hollow-knight",
+        "hollow-knight-silksong"
+      ]
+    },
+    "statistics": {
+      "gameCount": 7,
+      "developedCount": 7,
+      "publishedCount": 2,
+      "totalSteamReviews": 987248,
+      "averagePositivePercentage": 93.2,
+      "weightedPositivePercentage": 93.7,
+      "mostReviewedGame": "hollow-knight",
+      "mostRecentRelease": "sea-of-sorrow",
+      "firstRelease": "hollow-knight",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q29326164",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "team17",
+    "name": "Team17",
+    "aliases": [
+      "17-Bit Software",
+      "Team 17",
+      "Team17 Digital",
+      "Team17 Digital Limited",
+      "Team17 Digital Ltd",
+      "Team17 Group"
+    ],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game developer based in Wakefield",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1384984",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://www.team17.com/",
+    "socialLinks": {
+      "x": "https://x.com/Team17Help",
+      "youtube": "https://www.youtube.com/channel/UC-pYdpQSasQvmocEDWZUotQ"
+    },
+    "location": {
+      "headquarters": "Wakefield",
+      "country": "GB",
+      "countryName": "United Kingdom"
+    },
+    "founded": 1990,
+    "foundedDate": "1990-12",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q1384984",
+      "igdb": "archive-team17-software-ltd"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent-large",
+      "notes": "Publicly listed developer and publisher of many independent games. Check the current group structure when reclassifying."
+    },
+    "games": {
+      "developed": [
+        "10-minute-tower",
+        "alien-breed",
+        "alien-breed-2-assault",
+        "alien-breed-3-descent",
+        "alien-breed-3d",
+        "alien-breed-3d-ii-the-killing-grounds",
+        "alien-breed-ii-the-horror-continues",
+        "alien-breed-tower-assault",
+        "arcade-pool",
+        "army-men-major-malfunction",
+        "atr-all-terrain-racing",
+        "beyond-eyes",
+        "body-blows",
+        "body-blows-galactic",
+        "flockerstm",
+        "golf-with-your-friends",
+        "golf-with-your-friends-2",
+        "killer-frequency",
+        "leisure-suit-larry-box-office-bust",
+        "lemmings",
+        "nightlong-union-city-conspiracy",
+        "overcooked-2",
+        "overcooked-all-you-can-eat",
+        "phoenix",
+        "project-x",
+        "stunt-gp",
+        "superfrog",
+        "the-escapists-2",
+        "the-escapists-the-walking-dead",
+        "the-survivalists",
+        "ultimate-body-blows",
+        "worms",
+        "worms-2",
+        "worms-2-armageddon",
+        "worms-2007",
+        "worms-3",
+        "worms-4",
+        "worms-4-mayhem",
+        "worms-a-space-oddity",
+        "worms-armageddon",
+        "worms-armageddon-anniversary-edition",
+        "worms-battle-islands",
+        "worms-battlegrounds",
+        "worms-blast",
+        "worms-clan-wars",
+        "worms-crazy-golf",
+        "worms-forts-under-siege",
+        "worms-open-warfare",
+        "worms-open-warfare-2",
+        "worms-pinball",
+        "worms-reloaded",
+        "worms-revolution",
+        "worms-rumble",
+        "worms-the-directors-cut",
+        "worms-ultimate-mayhem",
+        "worms-w-m-d",
+        "worms-world-party-remastered",
+        "x2"
+      ],
+      "published": [
+        "ageless",
+        "alien-breed",
+        "alien-breed-2-assault",
+        "alien-breed-3-descent",
+        "alien-breed-ii-the-horror-continues",
+        "alien-breed-special-edition-92",
+        "alien-breed-tower-assault",
+        "amber-isle",
+        "assassin",
+        "assassin-special-edition",
+        "atr-all-terrain-racing",
+        "automachef",
+        "autopsy-simulator",
+        "aven-colony",
+        "batora-lost-haven",
+        "before-we-leave",
+        "beyond-eyes",
+        "blasphemous",
+        "blasphemous-2",
+        "blasphemous-2-mea-culpa",
+        "bravery-and-greed",
+        "cardiaxx",
+        "classified-france-44",
+        "conscript-directors-cut",
+        "crown-trick",
+        "date-everything",
+        "dredge",
+        "dredge-the-iron-rig",
+        "dredge-the-pale-reach",
+        "epic-chef",
+        "f17-challenge",
+        "farmside",
+        "flockerstm",
+        "genesis-alpha-one-deluxe-edition",
+        "goblin-cleanup",
+        "going-under",
+        "golf-with-your-friends",
+        "golf-with-your-friends-2",
+        "greak-2-alliance-of-the-storms",
+        "greak-memories-of-azur",
+        "hammerting",
+        "headbangers-rhythm-royale",
+        "hell-let-loose",
+        "hell-let-loose-vietnam",
+        "hokko-life",
+        "holstin",
+        "honey-i-joined-a-cult",
+        "interplanetary",
+        "jumping-jazz-cats",
+        "killer-frequency",
+        "king-of-seas",
+        "la-cops",
+        "lethal-vr",
+        "lumentale-memories-of-trey",
+        "main-assembly",
+        "marauders",
+        "monster-sanctuary",
+        "moving-out",
+        "moving-out-2",
+        "mugsters",
+        "narita-boy",
+        "neon-abyss",
+        "nice-day-for-fishing",
+        "overcooked",
+        "overcooked-2",
+        "overcooked-all-you-can-eat",
+        "overdrive",
+        "overruled",
+        "penarium",
+        "phoenix",
+        "planet-alpha",
+        "project-x",
+        "raging-justice",
+        "ritual-of-raven",
+        "rogue-heroes-ruins-of-tasos",
+        "rogue-point",
+        "sheltered",
+        "sheltered-2",
+        "ship-of-fools",
+        "silver-pines",
+        "silverball",
+        "skinwalker-first-blood",
+        "sunday-gold",
+        "super-magbot",
+        "super-stardust",
+        "superfrog",
+        "sworn",
+        "thalassa-edge-of-the-abyss",
+        "the-escapists",
+        "the-escapists-2",
+        "the-escapists-the-walking-dead",
+        "the-knight-witch",
+        "the-serpent-rogue",
+        "the-speris-legacy",
+        "the-survivalists",
+        "the-unliving",
+        "thymesia",
+        "trepang2",
+        "ultimate-body-blows",
+        "warcana",
+        "wardogs",
+        "wardrum",
+        "what-goes-up",
+        "world-rally-fever",
+        "worms",
+        "worms-2-armageddon",
+        "worms-armageddon",
+        "worms-armageddon-anniversary-edition",
+        "worms-blast",
+        "worms-clan-wars",
+        "worms-crazy-golf",
+        "worms-forts-3d",
+        "worms-galactic-tactics",
+        "worms-pinball",
+        "worms-reloaded",
+        "worms-revolution",
+        "worms-rumble",
+        "worms-ultimate-mayhem",
+        "worms-w-m-d",
+        "worms-world-party-remastered",
+        "yokus-island-express"
+      ]
+    },
+    "statistics": {
+      "gameCount": 145,
+      "developedCount": 58,
+      "publishedCount": 121,
+      "totalSteamReviews": 908198,
+      "averagePositivePercentage": 75.9,
+      "weightedPositivePercentage": 84.2,
+      "mostReviewedGame": "hell-let-loose",
+      "mostRecentRelease": "wardogs",
+      "firstRelease": "alien-breed",
+      "technologyCount": 5,
+      "engineCount": 5,
+      "engines": [
+        "cocos2d",
+        "gamemaker",
+        "monogame",
+        "unity",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1384984",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "thq",
+    "name": "THQ",
+    "aliases": [
+      "T.HQ",
+      "TAC",
+      "THQ Inc.",
+      "Toy HQ",
+      "Toy Head Quarters",
+      "Trinity Acquisition Corporation"
+    ],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "video game publisher",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q580866",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": "Agoura Hills",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 1990,
+    "foundedDate": "1990",
+    "ownership": {
+      "status": "defunct",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q580866"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "worms-a-space-oddity",
+        "worms-open-warfare",
+        "worms-open-warfare-2"
+      ]
+    },
+    "statistics": {
+      "gameCount": 3,
+      "developedCount": 0,
+      "publishedCount": 3,
+      "totalSteamReviews": 0,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": null,
+      "mostReviewedGame": null,
+      "mostRecentRelease": "worms-a-space-oddity",
+      "firstRelease": "worms-open-warfare",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q580866",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "tinybuild",
+    "name": "tinyBuild",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American independent developer and publisher of video games",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q21189808",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://tinybuild.com",
+    "socialLinks": {
+      "x": "https://x.com/tinyBuild",
+      "youtube": "https://www.youtube.com/channel/UCHLuN_JL66bD8fdJWmQ-gNw"
+    },
+    "location": {
+      "headquarters": "Bothell",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2011,
+    "foundedDate": "2011",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q21189808",
+      "igdb": "tiny-build"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "clustertruck"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 18589,
+      "averagePositivePercentage": 93.5,
+      "weightedPositivePercentage": 93.5,
+      "mostReviewedGame": "clustertruck",
+      "mostRecentRelease": "clustertruck",
+      "firstRelease": "clustertruck",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q21189808",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "ubisoft",
+    "name": "Ubisoft",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "French video game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q188273",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.ubisoft.com/",
+    "socialLinks": {
+      "bluesky": "https://bsky.app/profile/ubisoft.com",
+      "x": "https://x.com/Ubisoft",
+      "youtube": "https://www.youtube.com/channel/UC0KU8F9jJqSLS11LRXvFWmg"
+    },
+    "location": {
+      "headquarters": "Saint-Mandé",
+      "country": "FR",
+      "countryName": "France"
+    },
+    "founded": 1986,
+    "foundedDate": "1986-03-28",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Baillie Gifford",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q188273",
+      "igdb": "ubisoft"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "the-rogue-prince-of-persia"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 2920,
+      "averagePositivePercentage": 89.9,
+      "weightedPositivePercentage": 89.9,
+      "mostReviewedGame": "the-rogue-prince-of-persia",
+      "mostRecentRelease": "the-rogue-prince-of-persia",
+      "firstRelease": "the-rogue-prince-of-persia",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q188273",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "veewo-games",
+    "name": "Veewo Games",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "neon-abyss"
+      ],
+      "published": [
+        "neon-abyss"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 1,
+      "publishedCount": 1,
+      "totalSteamReviews": 23629,
+      "averagePositivePercentage": 85.9,
+      "weightedPositivePercentage": 85.9,
+      "mostReviewedGame": "neon-abyss",
+      "mostRecentRelease": "neon-abyss",
+      "firstRelease": "neon-abyss",
+      "technologyCount": 1,
+      "engineCount": 1,
+      "engines": [
+        "unity"
+      ]
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "war-child-gaming",
+    "name": "War Child Gaming",
+    "aliases": [],
+    "roles": [
+      "publisher"
+    ],
+    "description": {
+      "source": null,
+      "custom": null
+    },
+    "website": null,
+    "socialLinks": {},
+    "location": {
+      "headquarters": null,
+      "country": null,
+      "countryName": null
+    },
+    "founded": null,
+    "foundedDate": null,
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {},
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [],
+      "published": [
+        "10-minute-tower"
+      ]
+    },
+    "statistics": {
+      "gameCount": 1,
+      "developedCount": 0,
+      "publishedCount": 1,
+      "totalSteamReviews": 9,
+      "averagePositivePercentage": null,
+      "weightedPositivePercentage": 55.6,
+      "mostReviewedGame": "10-minute-tower",
+      "mostRecentRelease": "10-minute-tower",
+      "firstRelease": "10-minute-tower",
+      "technologyCount": 0,
+      "engineCount": 0,
+      "engines": []
+    },
+    "sources": [],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "xbox-game-studios",
+    "name": "Xbox Game Studios",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q73801",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "https://www.xbox.com/xbox-game-studios",
+    "socialLinks": {
+      "x": "https://x.com/MSStudiosBlog"
+    },
+    "location": {
+      "headquarters": "Redmond",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2000,
+    "foundedDate": "2000-03",
+    "ownership": {
+      "status": "subsidiary",
+      "parentCompany": null,
+      "parentCompanyName": "Microsoft",
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q73801",
+      "igdb": "xbox-game-studios"
+    },
+    "logo": null,
+    "classification": {
+      "include": false,
+      "category": "unclassified",
+      "notes": ""
+    },
+    "games": {
+      "developed": [
+        "minecraft-bedrock-edition",
+        "minecraft-education"
+      ],
+      "published": [
+        "crossfirex",
+        "minecraft-bedrock-edition",
+        "minecraft-blast",
+        "minecraft-dungeons",
+        "minecraft-dungeons-ii",
+        "minecraft-earth",
+        "minecraft-java-edition",
+        "minecraft-legends",
+        "quantum-break",
+        "worms-2007"
+      ]
+    },
+    "statistics": {
+      "gameCount": 11,
+      "developedCount": 2,
+      "publishedCount": 10,
+      "totalSteamReviews": 57183,
+      "averagePositivePercentage": 72.6,
+      "weightedPositivePercentage": 84.2,
+      "mostReviewedGame": "quantum-break",
+      "mostRecentRelease": "minecraft-dungeons-ii",
+      "firstRelease": "worms-2007",
+      "technologyCount": 4,
+      "engineCount": 2,
+      "engines": [
+        "northlight-engine",
+        "unreal-engine"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q73801",
+        "retrievedAt": "2026-09-30"
+      }
+    ],
+    "lastUpdated": "2026-09-30T09:34:48.857Z"
+  },
+  {
+    "id": "yacht-club-games",
+    "name": "Yacht Club Games",
+    "aliases": [],
+    "roles": [
+      "developer",
+      "publisher"
+    ],
+    "description": {
+      "source": {
+        "text": "American video game company",
+        "license": "cc0",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q8046428",
+          "retrievedAt": "2026-09-30"
+        }
+      },
+      "custom": null
+    },
+    "website": "http://yachtclubgames.com/",
+    "socialLinks": {
+      "x": "https://x.com/YachtClubGames"
+    },
+    "location": {
+      "headquarters": "Valencia",
+      "country": "US",
+      "countryName": "United States"
+    },
+    "founded": 2011,
+    "foundedDate": "2011",
+    "ownership": {
+      "status": "unknown",
+      "parentCompany": null,
+      "parentCompanyName": null,
+      "notes": null
+    },
+    "externalIds": {
+      "wikidata": "Q8046428"
+    },
+    "logo": null,
+    "classification": {
+      "include": true,
+      "category": "independent",
+      "notes": "American studio founded in 2011."
+    },
+    "games": {
+      "developed": [
+        "mina-the-hollower",
+        "shovel-knight-dig",
+        "shovel-knight-king-of-cards",
+        "shovel-knight-pocket-dungeon",
+        "shovel-knight-shovel-of-hope",
+        "shovel-knight-showdown",
+        "shovel-knight-specter-of-torment",
+        "shovel-knight-treasure-trove"
+      ],
+      "published": [
+        "cyber-shadow",
+        "mina-the-hollower",
+        "shovel-knight-dig",
+        "shovel-knight-king-of-cards",
+        "shovel-knight-pocket-dungeon",
+        "shovel-knight-shovel-of-hope",
+        "shovel-knight-showdown",
+        "shovel-knight-specter-of-torment",
+        "shovel-knight-treasure-trove"
+      ]
+    },
+    "statistics": {
+      "gameCount": 9,
+      "developedCount": 8,
+      "publishedCount": 9,
+      "totalSteamReviews": 30540,
+      "averagePositivePercentage": 89.2,
+      "weightedPositivePercentage": 92,
+      "mostReviewedGame": "shovel-knight-treasure-trove",
+      "mostRecentRelease": "mina-the-hollower",
+      "firstRelease": "shovel-knight-treasure-trove",
+      "technologyCount": 2,
+      "engineCount": 2,
+      "engines": [
+        "construct",
+        "gamemaker"
+      ]
+    },
+    "sources": [
+      {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q8046428",
+        "retrievedAt": "2026-09-30"
+      },
+      {
+        "type": "manual"
+      }
+    ],
+    "lastUpdated": "2026-09-30T10:41:54.255Z"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "terri",
+  "name": "Terri",
+  "developed": [
+    {
+      "id": "disc-room",
+      "title": "Disc Room",
+      "type": "game",
+      "releaseDate": "2020-10-22",
+      "developers": [
+        "dose",
+        "jw",
+        "kitty",
+        "terri"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1229580",
+      "reviewCount": 1164,
+      "positivePercentage": 92.9
+    }
+  ],
+  "published": []
+}

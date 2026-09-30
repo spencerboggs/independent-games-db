@@ -1,0 +1,35 @@
+{
+  "id": "actionscript",
+  "name": "ActionScript",
+  "aliases": [
+    "ActionScript 3",
+    "ActionScript 3.0"
+  ],
+  "category": "language",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q234657"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "megaloot",
+  "title": "Megaloot",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2024-08-30",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "axilirate"
+  ],
+  "publishers": [
+    "ravenage-games",
+    "sidekick-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Megaloot is an addictive Inventory Management Roguelike RPG, where meticulous loot management lets you create diverse and powerful builds for each run. With every new attempt, start from scratch and loot strategically to craft dominating setups and become the ultimate power hunter.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2440380/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "casual",
+    "casual-game",
+    "rpg",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil"
+  ],
+  "externalIds": {
+    "wikidata": "Q135031730",
+    "igdb": "megaloot",
+    "steam": "2440380"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/2440380/",
+    "wikidata": "https://www.wikidata.org/wiki/Q135031730"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/85b1a84ce7148e63efb4ecdc48de6db2705f0150/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/d98d3a5dc8e86ddb151349124ab793362f529a2a/ss_d98d3a5dc8e86ddb151349124ab793362f529a2a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9c04a4851a3ff516b6cf102de6eba707d4f3d8d3/ss_9c04a4851a3ff516b6cf102de6eba707d4f3d8d3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/8ace7baba0f434402c9a7090141d8421582a352a/ss_8ace7baba0f434402c9a7090141d8421582a352a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9a81e1a3d71dcd07f4135c7e237141a96d6e8a29/ss_9a81e1a3d71dcd07f4135c7e237141a96d6e8a29.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/c0309e48ffb80b58f3294b1d4f33e9bd12b9602d/ss_c0309e48ffb80b58f3294b1d4f33e9bd12b9602d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/4b95eb120b398b0d0f4962eb2b7c5a5b7f527d17/ss_4b95eb120b398b0d0f4962eb2b7c5a5b7f527d17.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/55ccb3f91c6c3b1a4ec94ae1638e185a0d9750f0/ss_55ccb3f91c6c3b1a4ec94ae1638e185a0d9750f0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/159f3e8ba5b2029002e2c8d738059de4a903affc/ss_159f3e8ba5b2029002e2c8d738059de4a903affc.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 4011,
+      "positiveCount": 2875,
+      "negativeCount": 1136,
+      "positivePercentage": 71.7,
+      "negativePercentage": 28.3,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 12,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 5.27,
+      "reviewsPerMonth": 160.3,
+      "windowDays": 761,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2440380/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q135031730",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,202 @@
+{
+  "id": "worms-armageddon",
+  "title": "Worms Armageddon",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2013-03-19",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The iconic intrepid invertebrates return with a vengeance in the fan-favourite classic Worms™ Armageddon. Relive their glory days once again as you blast your way into enemy territory, sweep their fields and remain the last worm standing.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/217200/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "strategy",
+    "turn-based-strategy-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "multi-player",
+    "online-pvp",
+    "pvp",
+    "shared-split-screen",
+    "shared-split-screen-pvp",
+    "single-player"
+  ],
+  "platforms": [
+    "commodore-amiga",
+    "dreamcast",
+    "game-boy-color",
+    "nintendo-64",
+    "playstation",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish - Spain",
+    "Russian",
+    "Portuguese - Portugal",
+    "Dutch",
+    "Swedish"
+  ],
+  "externalIds": {
+    "wikidata": "Q953922",
+    "igdb": "worms-armageddon",
+    "steam": "217200"
+  },
+  "links": {
+    "official": "https://www.team17.com/",
+    "steam": "https://store.steampowered.com/app/217200/",
+    "wikidata": "https://www.wikidata.org/wiki/Q953922"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/217200",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_45b7244cd34b97ed08adde4fc462304f137891d1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_e8489d04392da9438aff33f43d1c6a942e29f6c4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_9b2f792468d94ffe17201fe72a919341d2274a6a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_cdbf46a63b563d9618862bf1b40c389be3dd8581.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_813b8a32376de9e0296a99728a0129953791c31e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_ab1831e65cc9c429a8527c7c12690db0be197394.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_3476a7419b1f218e1ce267b7c6a1599c005051ff.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_2ad1fef78039599bf190f2c18c2bea4809b733b8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 10955,
+      "positiveCount": 10332,
+      "negativeCount": 623,
+      "positivePercentage": 94.3,
+      "negativePercentage": 5.7,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 73,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 2.22,
+      "reviewsPerMonth": 67.5,
+      "windowDays": 4943,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/217200/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q953922",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

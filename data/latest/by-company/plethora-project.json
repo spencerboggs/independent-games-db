@@ -1,0 +1,34 @@
+{
+  "id": "plethora-project",
+  "name": "Plethora Project",
+  "developed": [
+    {
+      "id": "blockhood",
+      "title": "Block'hood",
+      "type": "game",
+      "releaseDate": "2017-05-10",
+      "developers": [
+        "plethora-project"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "416210",
+      "reviewCount": 1256,
+      "positivePercentage": 74.4
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "vitali-kirpu",
+  "name": "Vitali Kirpu",
+  "developed": [
+    {
+      "id": "ragnorium",
+      "title": "Ragnorium",
+      "type": "game",
+      "releaseDate": "2022-04-25",
+      "developers": [
+        "vitali-kirpu"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "474020",
+      "reviewCount": 623,
+      "positivePercentage": 58.4
+    }
+  ],
+  "published": []
+}

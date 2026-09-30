@@ -1,0 +1,36 @@
+{
+  "id": "diceroll-studios",
+  "name": "Diceroll Studios",
+  "developed": [
+    {
+      "id": "umiro",
+      "title": "Umiro",
+      "type": "game",
+      "releaseDate": "2018-03-28",
+      "developers": [
+        "diceroll-studios"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "platformer",
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "727760",
+      "reviewCount": 176,
+      "positivePercentage": 79
+    }
+  ],
+  "published": []
+}

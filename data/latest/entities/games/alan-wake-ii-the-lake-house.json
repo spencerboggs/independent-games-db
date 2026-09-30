@@ -1,0 +1,78 @@
+{
+  "id": "alan-wake-ii-the-lake-house",
+  "title": "Alan Wake II: The Lake House",
+  "alternateTitles": [
+    "Alan Wake 2 The Lake House",
+    "Alan Wake 2: The Lake House",
+    "Alan Wake II The Lake House",
+    "LK",
+    "Lake House",
+    "TLH",
+    "The Lake House"
+  ],
+  "type": "expansion",
+  "releaseDate": "2024-10",
+  "releaseDatePrecision": "month",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "epic-games"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "survival-horror",
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q126414466",
+    "igdb": "alan-wake-ii-the-lake-house"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126414466"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "alan-wake-2",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q126414466",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

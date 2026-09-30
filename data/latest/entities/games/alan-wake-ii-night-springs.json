@@ -1,0 +1,72 @@
+{
+  "id": "alan-wake-ii-night-springs",
+  "title": "Alan Wake II: Night Springs",
+  "alternateTitles": [
+    "Alan Wake 2: Night Springs",
+    "Night Springs"
+  ],
+  "type": "expansion",
+  "releaseDate": "2024-06-08",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "epic-games"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "survival-horror"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q126410039",
+    "igdb": "alan-wake-ii-night-springs"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126410039"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "alan-wake-2",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q126410039",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

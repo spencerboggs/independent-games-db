@@ -1,0 +1,56 @@
+{
+  "id": "war-child-gaming",
+  "name": "War Child Gaming",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "10-minute-tower"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 9,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": 55.6,
+    "mostReviewedGame": "10-minute-tower",
+    "mostRecentRelease": "10-minute-tower",
+    "firstRelease": "10-minute-tower",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

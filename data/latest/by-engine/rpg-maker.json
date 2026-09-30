@@ -1,0 +1,37 @@
+{
+  "id": "rpg-maker",
+  "name": "RPG Maker",
+  "games": [
+    {
+      "id": "omori",
+      "title": "OMORI",
+      "type": "game",
+      "releaseDate": "2020-12-25",
+      "developers": [
+        "omocat"
+      ],
+      "publishers": [
+        "omocat"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "psychological-horror-fiction",
+        "rpg"
+      ],
+      "engines": [
+        "rpg-maker"
+      ],
+      "steamAppId": "1150690",
+      "reviewCount": 88833,
+      "positivePercentage": 97.1
+    }
+  ]
+}

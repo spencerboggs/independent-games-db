@@ -1,0 +1,110 @@
+{
+  "id": "epic-games",
+  "name": "Epic Games",
+  "developed": [],
+  "published": [
+    {
+      "id": "alan-wake-2",
+      "title": "Alan Wake 2",
+      "type": "game",
+      "releaseDate": "2023-10-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-ii-night-springs",
+      "title": "Alan Wake II: Night Springs",
+      "type": "expansion",
+      "releaseDate": "2024-06-08",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-ii-the-lake-house",
+      "title": "Alan Wake II: The Lake House",
+      "type": "expansion",
+      "releaseDate": "2024-10",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alan-wake-remastered",
+      "title": "Alan Wake Remastered",
+      "type": "game",
+      "releaseDate": "2021-10-05",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

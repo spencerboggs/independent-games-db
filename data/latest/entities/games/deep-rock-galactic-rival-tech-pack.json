@@ -1,0 +1,169 @@
+{
+  "id": "deep-rock-galactic-rival-tech-pack",
+  "title": "Deep Rock Galactic - Rival Tech Pack",
+  "alternateTitles": [],
+  "type": "dlc",
+  "releaseDate": "2021-11-04",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "ghost-ship-games"
+  ],
+  "publishers": [
+    "coffee-stain-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The Rival Tech Pack will let you deck out all your guns in theme with our new enemies - no reason to let all those lovely bits go to waste, after all!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1797340/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "captions-available",
+    "co-op",
+    "downloadable-content",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "remote-play-on-tablet",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Ukrainian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Turkish",
+    "Spanish - Latin America"
+  ],
+  "externalIds": {
+    "wikidata": "Q113179356",
+    "igdb": "deep-rock-galactic-rival-tech-pack",
+    "steam": "1797340"
+  },
+  "links": {
+    "official": "http://deeprockgalactic.com",
+    "steam": "https://store.steampowered.com/app/1797340/",
+    "wikidata": "https://www.wikidata.org/wiki/Q113179356"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1797340",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/ss_711dbae8f823d6306994a1555920213f71832ce0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/ss_8cf1e9de468b659ebc18408681d0da25fb7c717c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/ss_f964077371d9001c8bc1302c05e290214fe24b84.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "deep-rock-galactic",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 660,
+      "positiveCount": 637,
+      "negativeCount": 23,
+      "positivePercentage": 96.5,
+      "negativePercentage": 3.5,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.37,
+      "reviewsPerMonth": 11.2,
+      "windowDays": 1791,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1797340/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q113179356",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

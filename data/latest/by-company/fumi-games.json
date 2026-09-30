@@ -1,0 +1,85 @@
+{
+  "id": "fumi-games",
+  "name": "Fumi Games",
+  "developed": [
+    {
+      "id": "galaxi-taxi",
+      "title": "Galaxi Taxi",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "fumi-games",
+        "gungrounds"
+      ],
+      "publishers": [
+        "fumi-games"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1695330",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "mouse-p-i-for-hire",
+      "title": "MOUSE: P.I. For Hire",
+      "type": "game",
+      "releaseDate": "2026-04-16",
+      "developers": [
+        "fumi-games"
+      ],
+      "publishers": [
+        "playside"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2416450",
+      "reviewCount": 15864,
+      "positivePercentage": 93.8
+    }
+  ],
+  "published": [
+    {
+      "id": "galaxi-taxi",
+      "title": "Galaxi Taxi",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "fumi-games",
+        "gungrounds"
+      ],
+      "publishers": [
+        "fumi-games"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1695330",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

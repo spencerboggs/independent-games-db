@@ -1,0 +1,82 @@
+{
+  "id": "505-games",
+  "name": "505 Games",
+  "aliases": [
+    "505 GameStreet",
+    "505 Games Ltd."
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "video game publishing division of Digital Bros",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2068658",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://505games.com",
+  "socialLinks": {
+    "x": "https://x.com/505_Games",
+    "youtube": "https://www.youtube.com/channel/UCeO7Obz1NdrZYhI4PtstNuA"
+  },
+  "location": {
+    "headquarters": "Milan",
+    "country": "IT",
+    "countryName": "Italy"
+  },
+  "founded": 2006,
+  "foundedDate": "2006",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Digital Bros",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2068658",
+    "igdb": "505-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "control-awe",
+      "control-the-foundation"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 0,
+    "publishedCount": 2,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "control-awe",
+    "firstRelease": "control-the-foundation",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "northlight-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2068658",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

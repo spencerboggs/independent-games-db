@@ -1,0 +1,56 @@
+{
+  "id": "oxeye-game-studio",
+  "name": "Oxeye Game Studio",
+  "developed": [
+    {
+      "id": "cobalt",
+      "title": "Cobalt",
+      "type": "game",
+      "releaseDate": "2016-02-02",
+      "developers": [
+        "oxeye-game-studio"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "macos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "357340",
+      "reviewCount": 714,
+      "positivePercentage": 92.6
+    },
+    {
+      "id": "cobalt-wasd",
+      "title": "Cobalt WASD",
+      "type": "game",
+      "releaseDate": "2017-12-01",
+      "developers": [
+        "oxeye-game-studio"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "590720",
+      "reviewCount": 210,
+      "positivePercentage": 86.2
+    }
+  ],
+  "published": []
+}

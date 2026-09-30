@@ -1,0 +1,74 @@
+{
+  "id": "radical-forge",
+  "name": "Radical Forge",
+  "aliases": [
+    "Radical Forge Ltd"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q115459538",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.radicalforge.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Middlesbrough",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 2016,
+  "foundedDate": "2016-10-13",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q115459538"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "golf-with-your-friends-2"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": null,
+    "firstRelease": null,
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q115459538",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

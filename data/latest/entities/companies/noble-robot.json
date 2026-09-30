@@ -1,0 +1,77 @@
+{
+  "id": "noble-robot",
+  "name": "Noble Robot",
+  "aliases": [
+    "NobleRobot"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q107329136",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://noblerobot.com",
+  "socialLinks": {
+    "x": "https://x.com/noblerobot"
+  },
+  "location": {
+    "headquarters": "Minneapolis",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q107329136"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "blippo",
+      "widget-satchel-ii-return-of-sprocket"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 425,
+    "averagePositivePercentage": 95.5,
+    "weightedPositivePercentage": 95.5,
+    "mostReviewedGame": "blippo",
+    "mostRecentRelease": "blippo",
+    "firstRelease": "blippo",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q107329136",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

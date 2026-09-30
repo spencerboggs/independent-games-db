@@ -1,0 +1,361 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/technologies.schema.json",
+  "title": "Technologies",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "engine",
+          "middleware",
+          "language",
+          "tool",
+          "framework",
+          "service",
+          "other"
+        ]
+      },
+      "subcategory": {
+        "description": "e.g. audio, physics, 3d-modeling, networking.",
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "developer": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "website": {
+        "anyOf": [
+          {
+            "type": "string",
+            "pattern": "^https?:\\/\\/\\S+$"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "license": {
+        "type": "string",
+        "enum": [
+          "proprietary",
+          "open-source",
+          "source-available",
+          "unknown"
+        ]
+      },
+      "description": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "license": {
+                    "type": "string",
+                    "enum": [
+                      "database",
+                      "third-party",
+                      "cc0"
+                    ],
+                    "description": "database = written for this database (repository data license); third-party = quoted from the source, rights stay with the source; cc0 = public domain dedication (e.g. Wikidata)."
+                  },
+                  "source": {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "enum": [
+                          "official",
+                          "steam",
+                          "igdb",
+                          "wikidata",
+                          "developer-interview",
+                          "job-posting",
+                          "technical-article",
+                          "community",
+                          "inferred",
+                          "manual"
+                        ]
+                      },
+                      "url": {
+                        "anyOf": [
+                          {
+                            "type": "string",
+                            "pattern": "^https?:\\/\\/\\S+$"
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "retrievedAt": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "note": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "type"
+                    ],
+                    "additionalProperties": false,
+                    "description": "Where a fact came from."
+                  }
+                },
+                "required": [
+                  "text",
+                  "license",
+                  "source"
+                ],
+                "additionalProperties": false,
+                "description": "Third-party text is never relicensed. Check `license` before reusing."
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Text quoted from an external source, with attribution."
+          },
+          "custom": {
+            "description": "Database-authored text, covered by the repository data license.",
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "source",
+          "custom"
+        ],
+        "additionalProperties": false
+      },
+      "externalIds": {
+        "type": "object",
+        "properties": {
+          "wikidata": {
+            "type": "string",
+            "pattern": "^Q\\d+$"
+          },
+          "igdb": {
+            "type": "string"
+          },
+          "steam": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": {
+          "type": "string"
+        },
+        "description": "Identifiers of this entity in external databases, keyed by provider."
+      },
+      "games": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "maxLength": 96,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+          "description": "Stable internal database identifier. Never derived at read time; never reused."
+        }
+      },
+      "statistics": {
+        "type": "object",
+        "properties": {
+          "gameCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "companyCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "totalSteamReviews": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "mostReviewedGames": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "maxLength": 96,
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                  "description": "Stable internal database identifier. Never derived at read time; never reused."
+                },
+                "title": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "mostPlayedGames": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "maxLength": 96,
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                  "description": "Stable internal database identifier. Never derived at read time; never reused."
+                },
+                "title": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "gamesByReleaseYear": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        "required": [
+          "gameCount",
+          "companyCount",
+          "totalSteamReviews",
+          "mostReviewedGames",
+          "mostPlayedGames",
+          "gamesByReleaseYear"
+        ],
+        "additionalProperties": false
+      },
+      "sources": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": [
+                "official",
+                "steam",
+                "igdb",
+                "wikidata",
+                "developer-interview",
+                "job-posting",
+                "technical-article",
+                "community",
+                "inferred",
+                "manual"
+              ]
+            },
+            "url": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^https?:\\/\\/\\S+$"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "retrievedAt": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "note": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "type"
+          ],
+          "additionalProperties": false,
+          "description": "Where a fact came from."
+        }
+      },
+      "lastUpdated": {
+        "type": "string",
+        "description": "ISO 8601 timestamp (UTC)"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "aliases",
+      "category",
+      "subcategory",
+      "developer",
+      "website",
+      "license",
+      "description",
+      "externalIds",
+      "games",
+      "statistics",
+      "sources",
+      "lastUpdated"
+    ],
+    "additionalProperties": false
+  }
+}

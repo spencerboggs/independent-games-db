@@ -1,0 +1,86 @@
+{
+  "id": "crossfirex",
+  "title": "CrossfireX",
+  "alternateTitles": [
+    "Crossfire X"
+  ],
+  "type": "game",
+  "releaseDate": "2022-02-10",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment",
+    "smilegate"
+  ],
+  "publishers": [
+    "smilegate",
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "first-person-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q81293823",
+    "igdb": "crossfirex"
+  },
+  "links": {
+    "official": "https://www.crossfirex.com",
+    "wikidata": "https://www.wikidata.org/wiki/Q81293823"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unreal-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q81293823",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "crossfire",
+    "name": "CrossFire"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q81293823",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

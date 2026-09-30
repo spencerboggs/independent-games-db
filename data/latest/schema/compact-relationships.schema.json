@@ -1,0 +1,48 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/compact-relationships.schema.json",
+  "title": "Relationships (compact)",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "from": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "developer",
+          "publisher",
+          "porting",
+          "support",
+          "uses-engine",
+          "uses-middleware",
+          "uses-language",
+          "uses-tool",
+          "subsidiary-of",
+          "dlc-of",
+          "remaster-of",
+          "port-of",
+          "affiliated-with",
+          "credited-on"
+        ]
+      },
+      "to": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      }
+    },
+    "required": [
+      "from",
+      "type",
+      "to"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "thalassa-edge-of-the-abyss",
+  "title": "Thalassa: Edge of the Abyss",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2024-08-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "sarepta-studio"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Uncover the mystery of Thalassa, a first-person psychological drama set under the sea. Ill-fate has fallen on your former crew and friends and it’s up to you to find answers onboard the wreckage. Experience the melancholic underwater journey of human stories facing life and loss.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1783680/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q123166801",
+    "igdb": "thalassa-edge-of-the-abyss",
+    "steam": "1783680"
+  },
+  "links": {
+    "official": "https://thalassagame.com",
+    "steam": "https://store.steampowered.com/app/1783680/",
+    "wikidata": "https://www.wikidata.org/wiki/Q123166801"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_ab36f2f17c118e40a7153acf0f278e9fb0fa87ef.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_eb89a47569ef263ccd3d8da6387eacd4deb0e123.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_1e2cfc4f6c481ad2c1b5682aaf03197ced5dc9e4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_ac0eb24b6426c58835217462498c732ebb4eafaf.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_53d8634a2d4137c481a70c0960d5807c8d805b91.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_c363ff19888a69833148669e77e4a8825ec4a2f1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_caccf49f752941bc7bfa20f1e6a2accf139d7048.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_205772f2ae4ec5fdeedfa538e662f667f3fd4983.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_1b0677fa7c7bfeab633853682cbcbc9ce6250311.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783680/ss_924128dd531dafbf7ffc8524f823c08c134dc3fa.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 373,
+      "positiveCount": 331,
+      "negativeCount": 42,
+      "positivePercentage": 88.7,
+      "negativePercentage": 11.3,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.47,
+      "reviewsPerMonth": 14.4,
+      "windowDays": 790,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1783680/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123166801",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

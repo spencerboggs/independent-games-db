@@ -1,0 +1,78 @@
+{
+  "id": "tinybuild",
+  "name": "tinyBuild",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American independent developer and publisher of video games",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q21189808",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://tinybuild.com",
+  "socialLinks": {
+    "x": "https://x.com/tinyBuild",
+    "youtube": "https://www.youtube.com/channel/UCHLuN_JL66bD8fdJWmQ-gNw"
+  },
+  "location": {
+    "headquarters": "Bothell",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2011,
+  "foundedDate": "2011",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q21189808",
+    "igdb": "tiny-build"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "clustertruck"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 18589,
+    "averagePositivePercentage": 93.5,
+    "weightedPositivePercentage": 93.5,
+    "mostReviewedGame": "clustertruck",
+    "mostRecentRelease": "clustertruck",
+    "firstRelease": "clustertruck",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q21189808",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

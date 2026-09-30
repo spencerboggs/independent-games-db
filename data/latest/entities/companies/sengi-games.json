@@ -1,0 +1,74 @@
+{
+  "id": "sengi-games",
+  "name": "Sengi Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Ukrainian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q111893468",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://sengigames.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": "UA",
+    "countryName": "Ukraine"
+  },
+  "founded": 2018,
+  "foundedDate": "2018",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q111893468"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "the-serpent-rogue"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 331,
+    "averagePositivePercentage": 55.6,
+    "weightedPositivePercentage": 55.6,
+    "mostReviewedGame": "the-serpent-rogue",
+    "mostRecentRelease": "the-serpent-rogue",
+    "firstRelease": "the-serpent-rogue",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111893468",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

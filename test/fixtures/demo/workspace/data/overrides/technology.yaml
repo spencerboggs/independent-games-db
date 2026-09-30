@@ -1,0 +1,10 @@
+claims:
+  - game: lanternfall
+    technology: fmod
+    confidence: verified
+    source:
+      type: developer-interview
+      url: https://example.com/interviews/lanternfall-audio
+      retrievedAt: "2026-01-15"
+    note: The audio lead describes the FMOD Studio setup.
+technologies: []

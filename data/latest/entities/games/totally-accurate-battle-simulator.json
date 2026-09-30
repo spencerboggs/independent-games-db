@@ -1,0 +1,218 @@
+{
+  "id": "totally-accurate-battle-simulator",
+  "title": "Totally Accurate Battle Simulator",
+  "alternateTitles": [
+    "TABS"
+  ],
+  "type": "game",
+  "releaseDate": "2021-04-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "landfall"
+  ],
+  "publishers": [
+    "landfall"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Be the leader of wobblers from ancient lands, spooky places, and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created, make your own wobblers in the unit creator and send your army off to fight your friends in multiplayer.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/508440/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "simulation",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "multi-player",
+    "online-pvp",
+    "partial-controller-support",
+    "pvp",
+    "remote-play-on-phone",
+    "remote-play-on-tablet",
+    "remote-play-together",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Simplified Chinese",
+    "Portuguese - Portugal",
+    "Russian"
+  ],
+  "externalIds": {
+    "wikidata": "Q55381983",
+    "igdb": "totally-accurate-battle-simulator",
+    "steam": "508440"
+  },
+  "links": {
+    "official": "http://landfall.se",
+    "steam": "https://store.steampowered.com/app/508440/",
+    "wikidata": "https://www.wikidata.org/wiki/Q55381983"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/508440",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_e502c3d72a454d8792fced42d241158d964af359.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_585351cc5907cb0549a86b47edde9b7925d3e89f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_6b5c293eb66949679ab2698b05859fb932306849.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_202aea2c755d22cdf0f5a26788391de803b1737d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_88a52984d16de594b2ba49fd70a244517b8d15ad.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_7002d323c3c9d6b554217c2ae610911c5f62b00e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_f74f827e83eff5e9762711c42ccb3bdd4bc59af9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_29d297f97600a9608dc1a1720beecd2473de49f7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/ss_ee3b56ddd900962ac4eec1fb10d4c277fc0d03ec.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q55381983",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 154318,
+      "positiveCount": 150959,
+      "negativeCount": 3359,
+      "positivePercentage": 97.8,
+      "negativePercentage": 2.2,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 1253,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 76.83,
+      "reviewsPerMonth": 2338.8,
+      "windowDays": 2008,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/508440/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55381983",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

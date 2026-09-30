@@ -1,0 +1,89 @@
+{
+  "id": "aggro-crab",
+  "name": "Aggro Crab",
+  "aliases": [
+    "Aggro Crab Games"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q111968498",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://aggrocrab.com",
+  "socialLinks": {
+    "x": "https://x.com/aggrocrabgames",
+    "youtube": "https://www.youtube.com/channel/UCX43ke0wKIA-lvCccGDlNOg"
+  },
+  "location": {
+    "headquarters": "Seattle",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2019,
+  "foundedDate": "2019-01-01",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q111968498",
+    "igdb": "aggro-crab-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "another-crabs-treasure",
+      "crashout-crew",
+      "going-under"
+    ],
+    "published": [
+      "another-crabs-treasure",
+      "crashout-crew",
+      "peak",
+      "subway-midnight"
+    ]
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 3,
+    "publishedCount": 4,
+    "totalSteamReviews": 404589,
+    "averagePositivePercentage": 89.6,
+    "weightedPositivePercentage": 94.2,
+    "mostReviewedGame": "peak",
+    "mostRecentRelease": "crashout-crew",
+    "firstRelease": "going-under",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111968498",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

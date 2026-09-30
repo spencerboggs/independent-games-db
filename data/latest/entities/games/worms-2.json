@@ -1,0 +1,72 @@
+{
+  "id": "worms-2",
+  "title": "Worms 2",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1997-12-31",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "microprose"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "turn-based-strategy-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q2597789",
+    "igdb": "worms-2"
+  },
+  "links": {
+    "official": "http://www.worms2.com/",
+    "wikidata": "https://www.wikidata.org/wiki/Q2597789"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2597789",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fika-productions",
+  "name": "Fika Productions",
+  "developed": [
+    {
+      "id": "ship-of-fools",
+      "title": "Ship of Fools",
+      "type": "game",
+      "releaseDate": "2022-11-22",
+      "developers": [
+        "fika-productions"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "1286580",
+      "reviewCount": 6285,
+      "positivePercentage": 82
+    }
+  ],
+  "published": []
+}

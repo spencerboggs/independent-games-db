@@ -1,0 +1,58 @@
+{
+  "id": "graceful-decay",
+  "name": "Graceful Decay",
+  "developed": [
+    {
+      "id": "maquette",
+      "title": "Maquette",
+      "type": "game",
+      "releaseDate": "2021-03-02",
+      "developers": [
+        "graceful-decay"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "762840",
+      "reviewCount": 674,
+      "positivePercentage": 70.2
+    },
+    {
+      "id": "uncanyon",
+      "title": "Uncanyon",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "graceful-decay"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3372610",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

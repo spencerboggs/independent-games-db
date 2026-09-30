@@ -1,0 +1,71 @@
+{
+  "id": "0x10c",
+  "title": "0x10c",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [
+    "markus-persson",
+    "mojang"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "science-fiction-video-game",
+    "space-flight-simulation-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "java-virtual-machine",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q128794",
+    "igdb": "0x10c"
+  },
+  "links": {
+    "official": "http://www.0x10c.com",
+    "wikidata": "https://www.wikidata.org/wiki/Q128794"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q128794",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

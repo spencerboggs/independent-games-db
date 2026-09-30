@@ -1,0 +1,34 @@
+{
+  "id": "okomotive",
+  "name": "Okomotive",
+  "developed": [
+    {
+      "id": "herdling",
+      "title": "Herdling",
+      "type": "game",
+      "releaseDate": "2025-08-21",
+      "developers": [
+        "okomotive"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "3047750",
+      "reviewCount": 1040,
+      "positivePercentage": 93.8
+    }
+  ],
+  "published": []
+}

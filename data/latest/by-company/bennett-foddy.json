@@ -1,0 +1,86 @@
+{
+  "id": "bennett-foddy",
+  "name": "Bennett Foddy",
+  "developed": [
+    {
+      "id": "ape-out",
+      "title": "APE OUT",
+      "type": "game",
+      "releaseDate": "2019-02-28",
+      "developers": [
+        "bennett-foddy",
+        "gabe-cuzzillo",
+        "maxi-boch"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "beat-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "447150",
+      "reviewCount": 4128,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "baby-steps",
+      "title": "Baby Steps",
+      "type": "game",
+      "releaseDate": "2025-09-23",
+      "developers": [
+        "bennett-foddy",
+        "gabe-cuzzillo",
+        "maxi-boch"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "clumsy-simulator"
+      ],
+      "engines": [],
+      "steamAppId": "1281040",
+      "reviewCount": 2691,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "zipper",
+      "title": "Zipper",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "bennett-foddy"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

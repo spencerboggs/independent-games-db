@@ -1,0 +1,59 @@
+{
+  "id": "devm-games",
+  "name": "Devm Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "moving-out",
+      "moving-out-2"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 2994,
+    "averagePositivePercentage": 77.2,
+    "weightedPositivePercentage": 78.9,
+    "mostReviewedGame": "moving-out",
+    "mostRecentRelease": "moving-out-2",
+    "firstRelease": "moving-out",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

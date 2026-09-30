@@ -1,0 +1,32 @@
+{
+  "id": "bulkhead",
+  "name": "BULKHEAD",
+  "developed": [
+    {
+      "id": "wardogs",
+      "title": "WARDOGS",
+      "type": "game",
+      "releaseDate": "2026-09-10",
+      "developers": [
+        "bulkhead"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1867240",
+      "reviewCount": 98056,
+      "positivePercentage": 75.6
+    }
+  ],
+  "published": []
+}

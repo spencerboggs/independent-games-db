@@ -1,0 +1,37 @@
+{
+  "id": "assemble-entertainment",
+  "name": "Assemble Entertainment",
+  "developed": [],
+  "published": [
+    {
+      "id": "asgards-fall-viking-survivors",
+      "title": "Asgard's Fall — Viking Survivors",
+      "type": "game",
+      "releaseDate": "2026-09-09",
+      "developers": [
+        "soulpotion"
+      ],
+      "publishers": [
+        "assemble-entertainment",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2780710",
+      "reviewCount": 1435,
+      "positivePercentage": 80.3
+    }
+  ]
+}

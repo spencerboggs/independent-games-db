@@ -1,0 +1,171 @@
+{
+  "id": "gamemaker",
+  "name": "GameMaker",
+  "aliases": [
+    "GML",
+    "Game Maker",
+    "GameMaker Language",
+    "GameMaker Studio",
+    "GameMaker Studio 2"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "YoYo Games",
+  "website": "https://gamemaker.io",
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q243720"
+  },
+  "games": [
+    "conscript-directors-cut",
+    "deadbolt",
+    "downwell",
+    "gato-roboto",
+    "gods-will-be-watching",
+    "honey-i-joined-a-cult",
+    "hotline-miami",
+    "katana-zero",
+    "loop-hero",
+    "luftrausers",
+    "minit",
+    "risk-of-rain-2013",
+    "serious-sam-the-greek-encounter",
+    "serious-sam-the-random-encounter",
+    "sheltered",
+    "shovel-knight-pocket-dungeon",
+    "the-red-strings-club",
+    "the-swords-of-ditto-mormos-curse"
+  ],
+  "statistics": {
+    "gameCount": 18,
+    "companyCount": 21,
+    "totalSteamReviews": 329991,
+    "mostReviewedGames": [
+      {
+        "id": "hotline-miami",
+        "title": "Hotline Miami",
+        "value": 128476
+      },
+      {
+        "id": "katana-zero",
+        "title": "Katana ZERO",
+        "value": 76201
+      },
+      {
+        "id": "loop-hero",
+        "title": "Loop Hero",
+        "value": 36571
+      },
+      {
+        "id": "risk-of-rain-2013",
+        "title": "Risk of Rain (2013)",
+        "value": 29832
+      },
+      {
+        "id": "the-red-strings-club",
+        "title": "The Red Strings Club",
+        "value": 14320
+      },
+      {
+        "id": "downwell",
+        "title": "Downwell",
+        "value": 8641
+      },
+      {
+        "id": "sheltered",
+        "title": "Sheltered",
+        "value": 6288
+      },
+      {
+        "id": "deadbolt",
+        "title": "DEADBOLT",
+        "value": 5647
+      },
+      {
+        "id": "gato-roboto",
+        "title": "Gato Roboto",
+        "value": 5267
+      },
+      {
+        "id": "luftrausers",
+        "title": "LUFTRAUSERS",
+        "value": 4527
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "hotline-miami",
+        "title": "Hotline Miami",
+        "value": 139
+      },
+      {
+        "id": "loop-hero",
+        "title": "Loop Hero",
+        "value": 111
+      },
+      {
+        "id": "katana-zero",
+        "title": "Katana ZERO",
+        "value": 76
+      },
+      {
+        "id": "sheltered",
+        "title": "Sheltered",
+        "value": 40
+      },
+      {
+        "id": "honey-i-joined-a-cult",
+        "title": "Honey, I Joined a Cult",
+        "value": 25
+      },
+      {
+        "id": "conscript-directors-cut",
+        "title": "CONSCRIPT: Director’s Cut",
+        "value": 18
+      },
+      {
+        "id": "risk-of-rain-2013",
+        "title": "Risk of Rain (2013)",
+        "value": 12
+      },
+      {
+        "id": "downwell",
+        "title": "Downwell",
+        "value": 11
+      },
+      {
+        "id": "the-red-strings-club",
+        "title": "The Red Strings Club",
+        "value": 9
+      },
+      {
+        "id": "deadbolt",
+        "title": "DEADBOLT",
+        "value": 5
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2011": 1,
+      "2012": 2,
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2016": 2,
+      "2018": 3,
+      "2019": 2,
+      "2021": 2,
+      "2022": 1,
+      "2024": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

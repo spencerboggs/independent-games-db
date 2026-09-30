@@ -1,0 +1,56 @@
+{
+  "id": "le-catnip-collective",
+  "name": "Le Catnip Collective",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "jumping-jazz-cats"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 188,
+    "averagePositivePercentage": 76.1,
+    "weightedPositivePercentage": 76.1,
+    "mostReviewedGame": "jumping-jazz-cats",
+    "mostRecentRelease": "jumping-jazz-cats",
+    "firstRelease": "jumping-jazz-cats",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

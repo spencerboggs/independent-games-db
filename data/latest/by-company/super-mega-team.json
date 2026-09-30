@@ -1,0 +1,38 @@
+{
+  "id": "super-mega-team",
+  "name": "Super Mega Team",
+  "developed": [
+    {
+      "id": "the-knight-witch",
+      "title": "The Knight Witch",
+      "type": "game",
+      "releaseDate": "2022-11-29",
+      "developers": [
+        "super-mega-team"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "bullet-hell",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "1872680",
+      "reviewCount": 970,
+      "positivePercentage": 72.4
+    }
+  ],
+  "published": []
+}

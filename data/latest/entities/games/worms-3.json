@@ -1,0 +1,67 @@
+{
+  "id": "worms-3",
+  "title": "Worms 3",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2014-05-28",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios",
+    "macos"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q16983695",
+    "igdb": "worms-3"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16983695"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16983695",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

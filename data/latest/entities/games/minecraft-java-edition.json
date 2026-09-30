@@ -1,0 +1,89 @@
+{
+  "id": "minecraft-java-edition",
+  "title": "Minecraft: Java Edition",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2009-05-17",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang"
+  ],
+  "publishers": [
+    "mojang",
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action-adventure",
+    "sandbox",
+    "survival"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "java-virtual-machine",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q105729297",
+    "igdb": "minecraft-java-edition"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105729297"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [
+      {
+        "id": "java",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q105729297",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "tools": []
+  },
+  "franchise": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "series": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105729297",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

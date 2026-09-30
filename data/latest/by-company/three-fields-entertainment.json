@@ -1,0 +1,34 @@
+{
+  "id": "three-fields-entertainment",
+  "name": "Three Fields Entertainment",
+  "developed": [
+    {
+      "id": "lethal-vr",
+      "title": "Lethal VR",
+      "type": "game",
+      "releaseDate": "2016-11-08",
+      "developers": [
+        "three-fields-entertainment"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "532270",
+      "reviewCount": 205,
+      "positivePercentage": 79.5
+    }
+  ],
+  "published": []
+}

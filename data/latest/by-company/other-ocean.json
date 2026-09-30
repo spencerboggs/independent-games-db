@@ -1,0 +1,32 @@
+{
+  "id": "other-ocean",
+  "name": "Other Ocean",
+  "developed": [
+    {
+      "id": "minecraft-new-nintendo-3ds-edition",
+      "title": "Minecraft: New Nintendo 3DS Edition",
+      "type": "game",
+      "releaseDate": "2017-09-13",
+      "developers": [
+        "mojang",
+        "other-ocean"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "nintendo-3ds"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

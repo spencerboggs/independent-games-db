@@ -1,0 +1,40 @@
+{
+  "id": "iron-gate-ab",
+  "name": "Iron Gate AB",
+  "developed": [
+    {
+      "id": "valheim",
+      "title": "Valheim",
+      "type": "game",
+      "releaseDate": "2026-09-09",
+      "developers": [
+        "iron-gate-ab"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "survival"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "892970",
+      "reviewCount": 555550,
+      "positivePercentage": 93.7
+    }
+  ],
+  "published": []
+}

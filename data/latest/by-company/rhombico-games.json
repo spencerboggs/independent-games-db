@@ -1,0 +1,32 @@
+{
+  "id": "rhombico-games",
+  "name": "Rhombico Games",
+  "developed": [
+    {
+      "id": "automachef",
+      "title": "Automachef",
+      "type": "game",
+      "releaseDate": "2019-07-23",
+      "developers": [
+        "rhombico-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "984800",
+      "reviewCount": 926,
+      "positivePercentage": 71.7
+    }
+  ],
+  "published": []
+}

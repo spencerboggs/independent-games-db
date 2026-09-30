@@ -1,0 +1,187 @@
+{
+  "id": "deadbolt",
+  "title": "DEADBOLT",
+  "alternateTitles": [
+    "Deadbolt"
+  ],
+  "type": "game",
+  "releaseDate": "2016-03-14",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "hopoo-games"
+  ],
+  "publishers": [
+    "hopoo-games"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "DEADBOLT is an extremely challenging stealth-action hybrid that allows you to take control of the reaper to quell the recent undead uprising.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/394970/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "science-fiction-video-game",
+    "side-scrolling-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "includes-level-editor",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "nintendo-switch",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q23074354",
+    "igdb": "deadbolt",
+    "steam": "394970"
+  },
+  "links": {
+    "official": "http://playdeadbolt.com/",
+    "steam": "https://store.steampowered.com/app/394970/",
+    "wikidata": "https://www.wikidata.org/wiki/Q23074354"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/394970",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_2493823a6ca3ba88cadbeec3c623e58ccc93b662.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_a357729053dfe3ce0fa8f042482023f244d131c7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_7f396e654f09ab19cd22c31ed1763134d4aadc73.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_0c897f3e5f675e2192f450d079e7582fc1751256.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_538ce191990d9e04ec1604ac6d9690d36cb3f99a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_3bd7202cd75454ba923a3cbb43965850f7196335.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "gamemaker",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q23074354",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 5647,
+      "positiveCount": 5412,
+      "negativeCount": 235,
+      "positivePercentage": 95.8,
+      "negativePercentage": 4.2,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 5,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.47,
+      "reviewsPerMonth": 44.6,
+      "windowDays": 3852,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/394970/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q23074354",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

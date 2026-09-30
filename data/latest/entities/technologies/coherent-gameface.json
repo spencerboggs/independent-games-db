@@ -1,0 +1,32 @@
+{
+  "id": "coherent-gameface",
+  "name": "Coherent Gameface",
+  "aliases": [],
+  "category": "middleware",
+  "subcategory": "ui",
+  "developer": "Coherent Labs",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q131431990"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

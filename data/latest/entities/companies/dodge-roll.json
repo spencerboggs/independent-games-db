@@ -1,0 +1,77 @@
+{
+  "id": "dodge-roll",
+  "name": "Dodge Roll",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q62508098",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "x": "https://x.com/DodgeRollGames"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q62508098"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "enter-the-gungeon",
+      "enter-the-gungeon-2"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 89921,
+    "averagePositivePercentage": 95.1,
+    "weightedPositivePercentage": 95.1,
+    "mostReviewedGame": "enter-the-gungeon",
+    "mostRecentRelease": "enter-the-gungeon",
+    "firstRelease": "enter-the-gungeon",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62508098",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

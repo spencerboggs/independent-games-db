@@ -1,0 +1,71 @@
+{
+  "id": "worms-armageddon-anniversary-edition",
+  "title": "Worms Armageddon: Anniversary Edition",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2024-09-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "turn-based-strategy-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q129938539",
+    "igdb": "worms-armageddon-anniversary-edition"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129938539"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q129938539",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

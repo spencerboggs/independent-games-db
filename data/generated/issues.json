@@ -1,0 +1,2988 @@
+[
+  {
+    "kind": "ambiguous-match",
+    "entityType": "company",
+    "subject": "fumi-games",
+    "related": [],
+    "field": "externalIds",
+    "message": "Seed has no wikidata ID; found 0 candidates.",
+    "details": {
+      "candidates": []
+    }
+  },
+  {
+    "kind": "ambiguous-match",
+    "entityType": "company",
+    "subject": "nuggets-entertainment",
+    "related": [],
+    "field": "externalIds",
+    "message": "Seed has no wikidata ID; found 0 candidates.",
+    "details": {
+      "candidates": []
+    }
+  },
+  {
+    "kind": "ambiguous-match",
+    "entityType": "company",
+    "subject": "sidekick-publishing",
+    "related": [],
+    "field": "externalIds",
+    "message": "Seed has no wikidata ID; found 0 candidates.",
+    "details": {
+      "candidates": []
+    }
+  },
+  {
+    "kind": "potential-duplicate",
+    "entityType": "game",
+    "subject": "worms",
+    "related": [
+      "worms-2007"
+    ],
+    "message": "\"Worms\" (worms) and \"Worms\" (worms-2007) share a title and developer",
+    "details": {
+      "a": {
+        "steam": "70640",
+        "wikidata": "Q278771",
+        "igdb": "worms"
+      },
+      "b": {
+        "wikidata": "Q2268746",
+        "igdb": "worms--6"
+      }
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "a-story-about-my-uncle",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"A Story About My Uncle\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "age-of-darkness-final-stand",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Age of Darkness: Final Stand\" (\"PlaySide Studios\" may be playside)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "PlaySide"
+        ],
+        "ids": [
+          "playside"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "PlaySide Studios"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "PlaySide Studios",
+          "ids": {
+            "wikidata": "Q109610462"
+          },
+          "suggestions": [
+            {
+              "id": "playside",
+              "name": "PlaySide",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "age-of-darkness-final-stand",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Age of Darkness: Final Stand\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "PlaySide"
+        ],
+        "ids": [
+          "playside"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "alan-wake",
+    "related": [
+      "xbox-game-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Alan Wake\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Remedy Entertainment"
+        ],
+        "ids": [
+          "remedy-entertainment"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Xbox Game Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "always-sometimes-monsters",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Always Sometimes Monsters\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Vagabond Dog"
+        ],
+        "ids": [
+          "vagabond-dog"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "apache-longbow",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Apache  Longbow\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "MicroProse Software"
+        ],
+        "ids": [
+          "microprose-software"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Interactive Magic",
+          "Team17"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Interactive Magic",
+          "ids": {
+            "wikidata": "Q3153086"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "automachef",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Automachef\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Rhombico Games"
+        ],
+        "ids": [
+          "rhombico-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Hermes Interactive"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Hermes Interactive",
+          "ids": {
+            "wikidata": "Q110865864"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "bastion",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Bastion\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Supergiant Games"
+        ],
+        "ids": [
+          "supergiant-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Warner Bros. Games"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Warner Bros. Games",
+          "ids": {
+            "wikidata": "Q2319420"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "beyond-divinity",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Beyond Divinity\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Larian Studios"
+        ],
+        "ids": [
+          "larian-studios"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "PulluP Entertainment"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "PulluP Entertainment",
+          "ids": {
+            "wikidata": "Q921944"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "broken-roads",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Broken Roads\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Versus Evil",
+          "tinyBuild"
+        ],
+        "ids": [
+          "tinybuild",
+          "versus-evil"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "brotato",
+    "related": [
+      "evil-empire"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Brotato\" (\"Blobfish Games\" may be blobfish)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Blobfish"
+        ],
+        "ids": [
+          "blobfish"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Blobfish Games",
+          "Evil Empire"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Blobfish Games",
+          "ids": {
+            "wikidata": "Q125450618"
+          },
+          "suggestions": [
+            {
+              "id": "blobfish",
+              "name": "Blobfish",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "brotato",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Brotato\" (\"Blobfish Games\" may be blobfish)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Blobfish"
+        ],
+        "ids": [
+          "blobfish"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Blobfish Games"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Blobfish Games",
+          "ids": {
+            "wikidata": "Q125450618"
+          },
+          "suggestions": [
+            {
+              "id": "blobfish",
+              "name": "Blobfish",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "cobalt",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Cobalt\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Oxeye Game Studio"
+        ],
+        "ids": [
+          "oxeye-game-studio"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Fatshark"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Fatshark",
+          "ids": {
+            "wikidata": "Q5437954"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "content-warning",
+    "related": [
+      "landfall"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Content Warning\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Zorro",
+          "Wilnyl",
+          "Philip",
+          "thePetHen",
+          "Skog"
+        ],
+        "ids": [
+          "philip",
+          "skog",
+          "thepethen",
+          "wilnyl",
+          "zorro"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Landfall Games"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "content-warning",
+    "related": [
+      "landfall"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Content Warning\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Evil Landfall?"
+        ],
+        "ids": [
+          "evil-landfall"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Landfall Games"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "control-ultimate-edition",
+    "related": [
+      "505-games"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"CONTROL Ultimate Edition\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Remedy Entertainment"
+        ],
+        "ids": [
+          "remedy-entertainment"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "505 Games"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "crossing-souls",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Crossing Souls\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Fourattic"
+        ],
+        "ids": [
+          "fourattic"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "death-rally-classic",
+    "related": [
+      "3d-realms"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Death Rally (Classic)\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "3D Realms (Apogee Software)"
+        ],
+        "ids": [
+          "3d-realms-apogee-software"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "3D Realms"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-dark-future-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - Dark Future Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-dawn-of-the-dread-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - Dawn of the Dread Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-megacorp-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - MegaCorp Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-rival-tech-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - Rival Tech Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-robot-rebellion-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - Robot Rebellion Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic-roughneck-pack",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic - Roughneck Pack\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "deep-rock-galactic",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Deep Rock Galactic\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "disc-room",
+    "related": [
+      "doseone",
+      "terri-vellmann"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Disc Room\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Terri",
+          "Dose",
+          "Kitty",
+          "JW"
+        ],
+        "ids": [
+          "dose",
+          "jw",
+          "kitty",
+          "terri"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Doseone",
+          "Jan Willem Nijman",
+          "Jan-Willem Nijman en Kitty Calis",
+          "Kitty Calis",
+          "Terri Vellmann"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Jan Willem Nijman",
+          "ids": {
+            "wikidata": "Q60690895"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jan-Willem Nijman en Kitty Calis",
+          "ids": {
+            "wikidata": "Q138133415"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Kitty Calis",
+          "ids": {
+            "wikidata": "Q60691036"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "divine-divinity",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Divine Divinity\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Larian Studios"
+        ],
+        "ids": [
+          "larian-studios"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "cdv Software Entertainment"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "cdv Software Entertainment",
+          "ids": {
+            "wikidata": "Q28255"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "divinity-ii-developers-cut",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Divinity II: Developer's Cut\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Larian Studios",
+          "Focus Home Interactive"
+        ],
+        "ids": [
+          "focus-home-interactive",
+          "larian-studios"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "DTP entertainment"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "DTP entertainment",
+          "ids": {
+            "wikidata": "Q174891"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "due-process",
+    "related": [
+      "annapurna-interactive"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Due Process\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Giant Enemy Crab"
+        ],
+        "ids": [
+          "giant-enemy-crab"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Annapurna Interactive"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "forged-battalion",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Forged Battalion\" (\"Petroglyph Games\" may be petroglyph)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Petroglyph"
+        ],
+        "ids": [
+          "petroglyph"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Petroglyph Games"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Petroglyph Games",
+          "ids": {
+            "wikidata": "Q655493"
+          },
+          "suggestions": [
+            {
+              "id": "petroglyph",
+              "name": "Petroglyph",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "forged-battalion",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Forged Battalion\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Petroglyph"
+        ],
+        "ids": [
+          "petroglyph"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "foul-play",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Foul Play\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Mediatonic"
+        ],
+        "ids": [
+          "mediatonic"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "foul-play",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Foul Play\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Epic Games"
+        ],
+        "ids": [
+          "epic-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "haste",
+    "related": [
+      "landfall"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Haste\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Evil Landfall?"
+        ],
+        "ids": [
+          "evil-landfall"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Landfall Games"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "hatoful-boyfriend-holiday-star",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Hatoful Boyfriend: Holiday Star\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Epic Games"
+        ],
+        "ids": [
+          "epic-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "hatoful-boyfriend",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Hatoful Boyfriend\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Epic Games"
+        ],
+        "ids": [
+          "epic-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "heave-ho",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Heave Ho\" (\"Le Cartel\" may be le-cartel-studio)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Le Cartel Studio"
+        ],
+        "ids": [
+          "le-cartel-studio"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Le Cartel"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Le Cartel",
+          "ids": {
+            "wikidata": "Q66956879"
+          },
+          "suggestions": [
+            {
+              "id": "le-cartel-studio",
+              "name": "Le Cartel Studio",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "hell-let-loose",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Hell Let Loose\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Expression Games"
+        ],
+        "ids": [
+          "expression-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Black Matter"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Black Matter",
+          "ids": {
+            "wikidata": "Q108444709"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "hokko-life",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Hokko Life\" (\"Wonderscope\" may be wonderscope-games)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Wonderscope Games"
+        ],
+        "ids": [
+          "wonderscope-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Wonderscope"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Wonderscope",
+          "ids": {
+            "wikidata": "Q114244646"
+          },
+          "suggestions": [
+            {
+              "id": "wonderscope-games",
+              "name": "Wonderscope Games",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "i-hate-running-backwards",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"I Hate Running Backwards\" (\"Binx Interactive\" may be binx-games)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Binx Games",
+          "Croteam Incubator",
+          "Croteam"
+        ],
+        "ids": [
+          "binx-games",
+          "croteam",
+          "croteam-incubator"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Binx Interactive"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Binx Interactive",
+          "ids": {
+            "wikidata": "Q101617829"
+          },
+          "suggestions": [
+            {
+              "id": "binx-games",
+              "name": "Binx Games",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "kill-knight",
+    "related": [
+      "evil-empire"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"KILL KNIGHT\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "PlaySide"
+        ],
+        "ids": [
+          "playside"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Evil Empire"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "kill-knight",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"KILL KNIGHT\" (\"PlaySide Studios\" may be playside)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "PlaySide"
+        ],
+        "ids": [
+          "playside"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "PlaySide Studios"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "PlaySide Studios",
+          "ids": {
+            "wikidata": "Q109610462"
+          },
+          "suggestions": [
+            {
+              "id": "playside",
+              "name": "PlaySide",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "light",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"LIGHT\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Indie Light"
+        ],
+        "ids": [
+          "indie-light"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "main-assembly",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Main Assembly\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Bad Yolk Games"
+        ],
+        "ids": [
+          "bad-yolk-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Ember Trail"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Ember Trail",
+          "ids": {
+            "wikidata": "Q119395746"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "mcpixel-3",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"McPixel 3\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Sos Sosowski"
+        ],
+        "ids": [
+          "sos-sosowski"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Mikołaj Kamiński"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Mikołaj Kamiński",
+          "ids": {
+            "wikidata": "Q87628538"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "miasmata",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Miasmata\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "IonFX Studios"
+        ],
+        "ids": [
+          "ionfx-studios"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "minit-fun-racer",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Minit Fun Racer\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "JW",
+          "Kitty",
+          "Jukio",
+          "Dom"
+        ],
+        "ids": [
+          "dom",
+          "jukio",
+          "jw",
+          "kitty"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Dominik Johann",
+          "Jan Willem Nijman",
+          "Jan-Willem Nijman en Kitty Calis",
+          "Jukio Kallio",
+          "Kitty Calis"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Dominik Johann",
+          "ids": {
+            "wikidata": "Q60691224"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jan Willem Nijman",
+          "ids": {
+            "wikidata": "Q60690895"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jan-Willem Nijman en Kitty Calis",
+          "ids": {
+            "wikidata": "Q138133415"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jukio Kallio",
+          "ids": {
+            "wikidata": "Q60691114"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Kitty Calis",
+          "ids": {
+            "wikidata": "Q60691036"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "minit",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Minit\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "JW",
+          "Kitty",
+          "Jukio",
+          "Dom"
+        ],
+        "ids": [
+          "dom",
+          "jukio",
+          "jw",
+          "kitty"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Dominik Johann",
+          "Jan Willem Nijman",
+          "Jan-Willem Nijman en Kitty Calis",
+          "Jukio Kallio",
+          "Kitty Calis"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Dominik Johann",
+          "ids": {
+            "wikidata": "Q60691224"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jan Willem Nijman",
+          "ids": {
+            "wikidata": "Q60690895"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jan-Willem Nijman en Kitty Calis",
+          "ids": {
+            "wikidata": "Q138133415"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Jukio Kallio",
+          "ids": {
+            "wikidata": "Q60691114"
+          },
+          "suggestions": []
+        },
+        {
+          "name": "Kitty Calis",
+          "ids": {
+            "wikidata": "Q60691036"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "mother-russia-bleeds",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Mother Russia Bleeds\" (\"Le Cartel\" may be le-cartel-studio)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Le Cartel Studio"
+        ],
+        "ids": [
+          "le-cartel-studio"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Le Cartel"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Le Cartel",
+          "ids": {
+            "wikidata": "Q66956879"
+          },
+          "suggestions": [
+            {
+              "id": "le-cartel-studio",
+              "name": "Le Cartel Studio",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "mouse-p-i-for-hire",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"MOUSE: P.I. For Hire\" (\"PlaySide Studios\" may be playside)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "PlaySide"
+        ],
+        "ids": [
+          "playside"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "PlaySide Studios"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "PlaySide Studios",
+          "ids": {
+            "wikidata": "Q109610462"
+          },
+          "suggestions": [
+            {
+              "id": "playside",
+              "name": "PlaySide",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "my-time-at-portia",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"My Time at Portia\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Focus Entertainment"
+        ],
+        "ids": [
+          "focus-entertainment"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "neon-white",
+    "related": [
+      "ben-esposito"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Neon White\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Angel Matrix"
+        ],
+        "ids": [
+          "angel-matrix"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Ben Esposito"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "open-roads",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Open Roads\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Open Roads Team"
+        ],
+        "ids": [
+          "open-roads-team"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Fullbright"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Fullbright",
+          "ids": {
+            "wikidata": "Q17561297"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "peak",
+    "related": [
+      "aggro-crab",
+      "landfall"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"PEAK\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Team PEAK"
+        ],
+        "ids": [
+          "team-peak"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Aggro Crab",
+          "Landfall Games"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "risk-of-rain-2013",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Risk of Rain (2013)\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Gearbox Publishing",
+          "2K"
+        ],
+        "ids": [
+          "2k",
+          "gearbox-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Chucklefish"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Chucklefish",
+          "ids": {
+            "wikidata": "Q21563289"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "risk-of-rain-2",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Risk of Rain 2\" (\"Gearbox Software\" may be gearbox-publishing)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Gearbox Publishing",
+          "2K"
+        ],
+        "ids": [
+          "2k",
+          "gearbox-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Gearbox Software"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Gearbox Software",
+          "ids": {
+            "wikidata": "Q1046593"
+          },
+          "suggestions": [
+            {
+              "id": "gearbox-publishing",
+              "name": "Gearbox Publishing",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "rockbeasts",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"ROCKBEASTS\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "LICHTHUND",
+          "Critical Role"
+        ],
+        "ids": [
+          "critical-role",
+          "lichthund"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "ronin",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"RONIN\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Crunching Koalas"
+        ],
+        "ids": [
+          "crunching-koalas"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "ruiner",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"RUINER\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Reikon Games"
+        ],
+        "ids": [
+          "reikon-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Benedykt Szneider"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Benedykt Szneider",
+          "ids": {
+            "wikidata": "Q9168756"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "sanctum-2",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Sanctum 2\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "satisfactory",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Satisfactory\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "selfietennis",
+    "related": [
+      "devolver-digital"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"#SelfieTennis\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Bandello"
+        ],
+        "ids": [
+          "bandello"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Devolver Digital"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "serious-sam-3-vr-bfe",
+    "related": [
+      "croteam"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Serious Sam 3 VR: BFE\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Croteam VR"
+        ],
+        "ids": [
+          "croteam-vr"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Croteam"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "serious-sam-tormental",
+    "related": [
+      "gungrounds"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Serious Sam: Tormental\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Gungrounds (Macanga Games j.d.o.o.)",
+          "Croteam"
+        ],
+        "ids": [
+          "croteam",
+          "gungrounds-macanga-games-j-d-o-o"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Gungrounds"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "serious-sam-vr-the-first-encounter",
+    "related": [
+      "croteam"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The First Encounter\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Croteam VR"
+        ],
+        "ids": [
+          "croteam-vr"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Croteam"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "serious-sam-vr-the-last-hope",
+    "related": [
+      "croteam"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The Last Hope\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Croteam VR"
+        ],
+        "ids": [
+          "croteam-vr"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Croteam"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "serious-sam-vr-the-second-encounter",
+    "related": [
+      "croteam"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The Second Encounter\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Croteam VR"
+        ],
+        "ids": [
+          "croteam-vr"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Croteam"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "sheltered",
+    "related": [
+      "team17"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Sheltered\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Unicube",
+          "Team 17 Digital Ltd"
+        ],
+        "ids": [
+          "team-17-digital-ltd",
+          "unicube"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "slay-the-spire",
+    "related": [],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Slay the Spire\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Mega Crit"
+        ],
+        "ids": [
+          "mega-crit"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Humble Bundle, Inc."
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Humble Bundle, Inc.",
+          "ids": {
+            "wikidata": "Q267427"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "snap-and-grab",
+    "related": [
+      "annapurna-interactive"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Snap & Grab\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "No Goblin"
+        ],
+        "ids": [
+          "no-goblin"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Annapurna Interactive"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "songs-of-conquest",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Songs of Conquest\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "stories-untold",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Stories Untold\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Screen Burn"
+        ],
+        "ids": [
+          "screen-burn"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "No Code"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "No Code",
+          "ids": {
+            "wikidata": "Q659941"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "sword-legacy-omen",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Sword Legacy: Omen\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Firecast Studio"
+        ],
+        "ids": [
+          "firecast-studio"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "tentacular",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Tentacular\" (\"Firepunchd\" may be firepunchd-games-ug)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Firepunchd Games UG"
+        ],
+        "ids": [
+          "firepunchd-games-ug"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Firepunchd"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Firepunchd",
+          "ids": {
+            "wikidata": "Q111053350"
+          },
+          "suggestions": [
+            {
+              "id": "firepunchd-games-ug",
+              "name": "Firepunchd Games UG",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "the-knight-witch",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"The Knight Witch\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Super Mega Team"
+        ],
+        "ids": [
+          "super-mega-team"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Super Awesome Hyper Dimensional Mega Team"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Super Awesome Hyper Dimensional Mega Team",
+          "ids": {
+            "wikidata": "Q52130127"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "the-messenger-picnic-panic-dlc",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"The Messenger - Picnic Panic DLC\" (\"Sabotage Studio\" may be sabotage)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Sabotage"
+        ],
+        "ids": [
+          "sabotage"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Sabotage Studio"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Sabotage Studio",
+          "ids": {
+            "wikidata": "Q122277804"
+          },
+          "suggestions": [
+            {
+              "id": "sabotage",
+              "name": "Sabotage",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "the-messenger",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"The Messenger\" (\"Sabotage Studio\" may be sabotage)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Sabotage"
+        ],
+        "ids": [
+          "sabotage"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Sabotage Studio"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Sabotage Studio",
+          "ids": {
+            "wikidata": "Q122277804"
+          },
+          "suggestions": [
+            {
+              "id": "sabotage",
+              "name": "Sabotage",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "the-talos-principle-vr",
+    "related": [
+      "croteam"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"The Talos Principle VR\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Croteam VR"
+        ],
+        "ids": [
+          "croteam-vr"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Croteam"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "the-westport-independent",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"The Westport Independent\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Double Zero One Zero"
+        ],
+        "ids": [
+          "double-zero-one-zero"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "valheim",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Valheim\" (\"Iron Gate Studio\" may be iron-gate-ab)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Iron Gate AB"
+        ],
+        "ids": [
+          "iron-gate-ab"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Iron Gate Studio"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Iron Gate Studio",
+          "ids": {
+            "wikidata": "Q105725001"
+          },
+          "suggestions": [
+            {
+              "id": "iron-gate-ab",
+              "name": "Iron Gate AB",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "valheim",
+    "related": [
+      "coffee-stain-studios"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Valheim\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Coffee Stain Publishing"
+        ],
+        "ids": [
+          "coffee-stain-publishing"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Coffee Stain Studios"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "wardogs",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"WARDOGS\" (\"Bulkhead Interactive\" may be bulkhead)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "BULKHEAD"
+        ],
+        "ids": [
+          "bulkhead"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Bulkhead Interactive"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Bulkhead Interactive",
+          "ids": {
+            "wikidata": "Q141493974"
+          },
+          "suggestions": [
+            {
+              "id": "bulkhead",
+              "name": "BULKHEAD",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "what-goes-up",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"What Goes Up\" (\"Bossa Studios\" may be bossa-games)",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Bossa Games"
+        ],
+        "ids": [
+          "bossa-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Bossa Studios"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Bossa Studios",
+          "ids": {
+            "wikidata": "Q4947547"
+          },
+          "suggestions": [
+            {
+              "id": "bossa-games",
+              "name": "Bossa Games",
+              "score": 0.95
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "worms-blast",
+    "related": [
+      "ubisoft"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Worms Blast\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Team17 Digital Ltd"
+        ],
+        "ids": [
+          "team17"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Ubisoft"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "worms-galactic-tactics",
+    "related": [
+      "team17"
+    ],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Worms: Galactic Tactics\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Absolutely Games"
+        ],
+        "ids": [
+          "absolutely-games"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "worms",
+    "related": [
+      "ocean-software"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Worms\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Team17 Digital Ltd"
+        ],
+        "ids": [
+          "team17"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Ocean Software"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "yooka-laylee-and-the-impossible-lair",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Yooka-Laylee and the Impossible Lair\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Playtonic Friends"
+        ],
+        "ids": [
+          "playtonic-friends"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
+    "subject": "yooka-laylee",
+    "related": [
+      "team17"
+    ],
+    "field": "publishers",
+    "message": "steam and wikidata disagree on publishers for \"Yooka-Laylee\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Playtonic Friends"
+        ],
+        "ids": [
+          "playtonic-friends"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Team17"
+        ]
+      },
+      "unmatched": []
+    }
+  },
+  {
+    "kind": "unmatched-technology",
+    "entityType": "technology",
+    "subject": "unity-2018",
+    "related": [
+      "risk-of-rain-2"
+    ],
+    "message": "wikidata reports technology \"Unity 2018\" which is not in data/seeds/technologies.yaml",
+    "details": {
+      "name": "Unity 2018",
+      "role": "engines",
+      "source": "wikidata"
+    }
+  }
+]

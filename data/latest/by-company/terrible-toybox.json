@@ -1,0 +1,37 @@
+{
+  "id": "terrible-toybox",
+  "name": "Terrible Toybox",
+  "developed": [
+    {
+      "id": "return-to-monkey-island",
+      "title": "Return to Monkey Island",
+      "type": "game",
+      "releaseDate": "2022-09-19",
+      "developers": [
+        "terrible-toybox"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "2060130",
+      "reviewCount": 9117,
+      "positivePercentage": 91.1
+    }
+  ],
+  "published": []
+}

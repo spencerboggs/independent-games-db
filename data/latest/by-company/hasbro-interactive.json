@@ -1,0 +1,51 @@
+{
+  "id": "hasbro-interactive",
+  "name": "Hasbro Interactive",
+  "developed": [],
+  "published": [
+    {
+      "id": "arcade-pool",
+      "title": "Arcade Pool",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "hasbro-interactive"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32",
+        "dos"
+      ],
+      "genres": [
+        "pool-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "phoenix",
+      "title": "Phoenix",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "hasbro-interactive",
+        "microprose",
+        "team17"
+      ],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

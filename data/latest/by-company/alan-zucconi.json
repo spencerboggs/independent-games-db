@@ -1,0 +1,41 @@
+{
+  "id": "alan-zucconi",
+  "name": "Alan Zucconi",
+  "developed": [
+    {
+      "id": "pikuniku",
+      "title": "Pikuniku",
+      "type": "game",
+      "releaseDate": "2019-01-24",
+      "developers": [
+        "alan-zucconi",
+        "arnaud-de-bock",
+        "calum-bowen",
+        "remi-forcadell",
+        "sectordub"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "572890",
+      "reviewCount": 11883,
+      "positivePercentage": 95.9
+    }
+  ],
+  "published": []
+}

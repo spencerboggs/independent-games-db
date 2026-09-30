@@ -1,0 +1,46 @@
+{
+  "name": "independent-game-database",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public dataset of independent and non-AAA games, companies, and technologies.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spencerboggs/independent-games-db.git"
+  },
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "discover": "tsx src/cli/index.ts discover",
+    "enrich": "tsx src/cli/index.ts enrich",
+    "resolve": "tsx src/cli/index.ts resolve",
+    "stats": "tsx src/cli/index.ts stats",
+    "report": "tsx src/cli/index.ts report",
+    "review": "tsx src/cli/index.ts review",
+    "validate": "tsx src/cli/index.ts validate",
+    "validate:output": "tsx src/cli/index.ts validate --check-output",
+    "build:data": "tsx src/cli/index.ts build",
+    "snapshot": "tsx src/cli/index.ts snapshot",
+    "release": "tsx src/cli/index.ts release",
+    "update": "tsx src/cli/index.ts update",
+    "demo": "tsx src/cli/index.ts demo",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "npm run typecheck && npm test && npm run validate:output"
+  },
+  "dependencies": {
+    "fflate": "^0.8.3",
+    "tar": "^7.5.22",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.2"
+  }
+}

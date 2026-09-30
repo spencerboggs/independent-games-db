@@ -1,0 +1,101 @@
+{
+  "id": "larian-studios",
+  "name": "Larian Studios",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Belgian video game development company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q4042609",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://larian.com/",
+  "socialLinks": {
+    "x": "https://x.com/larianstudios",
+    "youtube": "https://www.youtube.com/channel/UCQ-AAXSt0M5Gx0-A9UGut8g"
+  },
+  "location": {
+    "headquarters": "Ghent",
+    "country": "BE",
+    "countryName": "Belgium"
+  },
+  "founded": 1996,
+  "foundedDate": "1996",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q4042609",
+    "igdb": "larian-studios"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-large",
+    "notes": "Founder-controlled. Tencent holds a minority stake. Large headcount but no parent publisher."
+  },
+  "games": {
+    "developed": [
+      "baldurs-gate-3",
+      "beyond-divinity",
+      "divine-divinity",
+      "divinity",
+      "divinity-dragon-commander",
+      "divinity-ii-developers-cut",
+      "divinity-original-sin-2-definitive-edition",
+      "divinity-original-sin-classic",
+      "divinity-original-sin-enhanced-edition",
+      "monkey-tales-the-abbey-of-aviath",
+      "superia",
+      "the-l-e-d-wars"
+    ],
+    "published": [
+      "baldurs-gate-3",
+      "beyond-divinity",
+      "divine-divinity",
+      "divinity",
+      "divinity-dragon-commander",
+      "divinity-ii-developers-cut",
+      "divinity-original-sin-2-definitive-edition",
+      "divinity-original-sin-classic",
+      "divinity-original-sin-enhanced-edition"
+    ]
+  },
+  "statistics": {
+    "gameCount": 12,
+    "developedCount": 12,
+    "publishedCount": 9,
+    "totalSteamReviews": 1124198,
+    "averagePositivePercentage": 83.6,
+    "weightedPositivePercentage": 96.1,
+    "mostReviewedGame": "baldurs-gate-3",
+    "mostRecentRelease": "baldurs-gate-3",
+    "firstRelease": "the-l-e-d-wars",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4042609",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

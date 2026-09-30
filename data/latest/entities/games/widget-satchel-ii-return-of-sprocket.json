@@ -1,0 +1,69 @@
+{
+  "id": "widget-satchel-ii-return-of-sprocket",
+  "title": "Widget Satchel II: Return of Sprocket",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [
+    "noble-robot"
+  ],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "platformer"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playdate"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q107317080",
+    "igdb": "widget-satchel-ii-return-of-sprocket"
+  },
+  "links": {
+    "official": "https://noblerobot.com/widgetsatchel-ii",
+    "wikidata": "https://www.wikidata.org/wiki/Q107317080"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q107317080",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

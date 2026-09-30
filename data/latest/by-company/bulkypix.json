@@ -1,0 +1,66 @@
+{
+  "id": "bulkypix",
+  "name": "Bulkypix",
+  "developed": [
+    {
+      "id": "my-brute",
+      "title": "My Brute",
+      "type": "game",
+      "releaseDate": "2009-03",
+      "developers": [
+        "bulkypix",
+        "motion-twin"
+      ],
+      "publishers": [
+        "bulkypix"
+      ],
+      "platforms": [
+        "ios",
+        "web",
+        "windows"
+      ],
+      "genres": [
+        "casual-game",
+        "fighting-game",
+        "rpg"
+      ],
+      "engines": [
+        "adobe-flash"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "my-brute",
+      "title": "My Brute",
+      "type": "game",
+      "releaseDate": "2009-03",
+      "developers": [
+        "bulkypix",
+        "motion-twin"
+      ],
+      "publishers": [
+        "bulkypix"
+      ],
+      "platforms": [
+        "ios",
+        "web",
+        "windows"
+      ],
+      "genres": [
+        "casual-game",
+        "fighting-game",
+        "rpg"
+      ],
+      "engines": [
+        "adobe-flash"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

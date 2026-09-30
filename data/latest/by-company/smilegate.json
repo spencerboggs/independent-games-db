@@ -1,0 +1,62 @@
+{
+  "id": "smilegate",
+  "name": "Smilegate",
+  "developed": [
+    {
+      "id": "crossfirex",
+      "title": "CrossfireX",
+      "type": "game",
+      "releaseDate": "2022-02-10",
+      "developers": [
+        "remedy-entertainment",
+        "smilegate"
+      ],
+      "publishers": [
+        "smilegate",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "crossfirex",
+      "title": "CrossfireX",
+      "type": "game",
+      "releaseDate": "2022-02-10",
+      "developers": [
+        "remedy-entertainment",
+        "smilegate"
+      ],
+      "publishers": [
+        "smilegate",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

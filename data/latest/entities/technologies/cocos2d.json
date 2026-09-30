@@ -1,0 +1,45 @@
+{
+  "id": "cocos2d",
+  "name": "Cocos2d",
+  "aliases": [
+    "Cocos Creator",
+    "Cocos2d-x"
+  ],
+  "category": "framework",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q1525915"
+  },
+  "games": [
+    "raging-justice"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 163,
+    "mostReviewedGames": [
+      {
+        "id": "raging-justice",
+        "title": "Raging Justice",
+        "value": 163
+      }
+    ],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {
+      "2018": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

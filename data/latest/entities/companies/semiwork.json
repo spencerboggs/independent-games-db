@@ -1,0 +1,80 @@
+{
+  "id": "semiwork",
+  "name": "semiwork",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q133247129",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://semiwork.se/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q133247129"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Swedish studio."
+  },
+  "games": {
+    "developed": [
+      "r-e-p-o",
+      "voidigo"
+    ],
+    "published": [
+      "r-e-p-o",
+      "voidigo"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 2,
+    "totalSteamReviews": 431146,
+    "averagePositivePercentage": 96.3,
+    "weightedPositivePercentage": 96,
+    "mostReviewedGame": "r-e-p-o",
+    "mostRecentRelease": "r-e-p-o",
+    "firstRelease": "voidigo",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q133247129",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "sidekick-publishing",
+  "name": "Sidekick Publishing",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-publisher",
+    "notes": "Berlin publisher established in 2025."
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "9-kings",
+      "asgards-fall-viking-survivors",
+      "deadly-days-roadtrip",
+      "die-in-the-dungeon",
+      "dwarves-glory-death-and-loot",
+      "megaloot",
+      "terrascape"
+    ]
+  },
+  "statistics": {
+    "gameCount": 7,
+    "developedCount": 0,
+    "publishedCount": 7,
+    "totalSteamReviews": 40410,
+    "averagePositivePercentage": 85,
+    "weightedPositivePercentage": 88.6,
+    "mostReviewedGame": "9-kings",
+    "mostRecentRelease": "asgards-fall-viking-survivors",
+    "firstRelease": "terrascape",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,37 @@
+name: Suggest a company
+description: Propose a studio or publisher for the curated set.
+labels: [seed]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: wikidata
+    attributes:
+      label: Wikidata ID
+      description: The Q-number from wikidata.org, if one exists. It makes discovery unambiguous.
+      placeholder: Q12345
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested classification
+      options:
+        - independent
+        - independent-large
+        - independent-publisher
+        - acquired-independent
+        - subsidiary
+        - AAA-adjacent
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Notes and sources
+      description: Ownership information and links that support the classification.
+    validations:
+      required: true

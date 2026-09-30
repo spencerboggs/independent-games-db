@@ -1,0 +1,28 @@
+# Fictional seed companies used by tests and `npm run demo`.
+companies:
+  - id: hollow-lantern-studio
+    name: Hollow Lantern Studio
+    roles: [developer]
+    classification:
+      category: independent
+      notes: Fictional two-person studio.
+    externalIds:
+      wikidata: Q900001
+
+  - id: brightmoss-publishing
+    name: Brightmoss Publishing
+    aliases: [Brightmoss]
+    roles: [publisher]
+    classification:
+      category: independent-publisher
+      notes: Fictional boutique publisher.
+    externalIds:
+      wikidata: Q900002
+
+  - id: pixelforge-collective
+    name: PixelForge Collective
+    roles: [developer]
+    classification:
+      category: independent
+    externalIds:
+      wikidata: Q900003

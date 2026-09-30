@@ -1,0 +1,61 @@
+{
+  "id": "i-love-strawberries",
+  "title": "I Love Strawberries",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2010",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "coffee-stain-studios"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q136405753",
+    "igdb": "i-love-strawberries"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136405753"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q136405753",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "other-ocean",
+  "name": "Other Ocean",
+  "aliases": [
+    "Other Ocean Interactive"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q31641433",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://otherocean.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Emeryville",
+    "country": "CA",
+    "countryName": "Canada"
+  },
+  "founded": 2006,
+  "foundedDate": "2006",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q31641433"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "minecraft-new-nintendo-3ds-edition"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "minecraft-new-nintendo-3ds-edition",
+    "firstRelease": "minecraft-new-nintendo-3ds-edition",
+    "technologyCount": 1,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q31641433",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

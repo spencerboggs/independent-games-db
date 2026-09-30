@@ -1,0 +1,79 @@
+{
+  "id": "black-salt-games",
+  "name": "Black Salt Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q123054017",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.blacksaltgames.com/",
+  "socialLinks": {
+    "x": "https://x.com/BlackSaltGames",
+    "youtube": "https://www.youtube.com/channel/UCclejWHTcmFMncMXJ1mPbQw"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "NZ",
+    "countryName": "New Zealand"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q123054017"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "dredge",
+      "dredge-the-iron-rig",
+      "dredge-the-pale-reach"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 59085,
+    "averagePositivePercentage": 82.6,
+    "weightedPositivePercentage": 95.2,
+    "mostReviewedGame": "dredge",
+    "mostRecentRelease": "dredge-the-iron-rig",
+    "firstRelease": "dredge",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123054017",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

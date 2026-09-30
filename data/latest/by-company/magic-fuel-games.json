@@ -1,0 +1,32 @@
+{
+  "id": "magic-fuel-games",
+  "name": "Magic Fuel Games",
+  "developed": [
+    {
+      "id": "star-trek-outposts-unknown",
+      "title": "Star Trek: Outposts Unknown",
+      "type": "game",
+      "releaseDate": "2026-10-20",
+      "developers": [
+        "magic-fuel-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "city-building-game",
+        "colony-management-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3469910",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

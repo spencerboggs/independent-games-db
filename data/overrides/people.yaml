@@ -1,0 +1,22 @@
+# People are created manually only. Nothing is scraped automatically.
+# Only add people with public, professional credits and a source.
+#
+# Example:
+#   - id: jane-doe
+#     create: true
+#     set:
+#       name: Jane Doe
+#       roles: [composer]
+#       affiliations:
+#         - company: some-studio
+#           role: Audio director
+#           startYear: 2019
+#           endYear: null
+#           source: { type: official, url: https://example.com/team }
+#       credits:
+#         - game: some-game
+#           role: Composer
+#           source: { type: official, url: https://example.com/credits }
+#     source: { type: official, url: https://example.com/team }
+
+people: []

@@ -1,0 +1,65 @@
+{
+  "id": "oom",
+  "title": "Oom",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2023-06-10",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "dungeon-crawl"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playdate"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q123290796",
+    "igdb": "oom"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123290796"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123290796",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

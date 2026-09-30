@@ -1,0 +1,74 @@
+{
+  "id": "next-studios",
+  "name": "NExT Studios",
+  "aliases": [
+    "NEXT Studios"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "https://www.nextstudios.com/",
+  "socialLinks": {
+    "x": "https://x.com/NEXTStudios",
+    "youtube": "https://www.youtube.com/channel/UCKE_CfoSegV4sJZxLhHgYWg"
+  },
+  "location": {
+    "headquarters": "Shanghai",
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Tencent Games",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q97300197"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "crown-trick"
+    ],
+    "published": [
+      "crown-trick"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 1,
+    "totalSteamReviews": 5395,
+    "averagePositivePercentage": 85.3,
+    "weightedPositivePercentage": 85.3,
+    "mostReviewedGame": "crown-trick",
+    "mostRecentRelease": "crown-trick",
+    "firstRelease": "crown-trick",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q97300197",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

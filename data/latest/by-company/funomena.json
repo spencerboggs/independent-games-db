@@ -1,0 +1,35 @@
+{
+  "id": "funomena",
+  "name": "Funomena",
+  "developed": [
+    {
+      "id": "wattam",
+      "title": "Wattam",
+      "type": "game",
+      "releaseDate": "2020-12-18",
+      "developers": [
+        "funomena"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "702680",
+      "reviewCount": 600,
+      "positivePercentage": 84.7
+    }
+  ],
+  "published": []
+}

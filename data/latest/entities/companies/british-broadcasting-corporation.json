@@ -1,0 +1,77 @@
+{
+  "id": "british-broadcasting-corporation",
+  "name": "British Broadcasting Corporation",
+  "aliases": [
+    "BBC"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "British public service broadcaster",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q9531",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://bbc.co.uk",
+  "socialLinks": {
+    "x": "https://x.com/BBC",
+    "youtube": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w"
+  },
+  "location": {
+    "headquarters": "Broadcasting House",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 1927,
+  "foundedDate": "1927-01-01",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Department for Digital, Culture, Media and Sport",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q9531"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "superia"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": null,
+    "firstRelease": null,
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q9531",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

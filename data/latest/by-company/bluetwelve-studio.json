@@ -1,0 +1,44 @@
+{
+  "id": "bluetwelve-studio",
+  "name": "BlueTwelve Studio",
+  "developed": [
+    {
+      "id": "stray",
+      "title": "Stray",
+      "type": "game",
+      "releaseDate": "2022-07-19",
+      "developers": [
+        "bluetwelve-studio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cyberpunk-video-game",
+        "graphic-adventure-game",
+        "post-apocalyptic-video-game",
+        "puzzle",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1332010",
+      "reviewCount": 178725,
+      "positivePercentage": 97.2
+    }
+  ],
+  "published": []
+}

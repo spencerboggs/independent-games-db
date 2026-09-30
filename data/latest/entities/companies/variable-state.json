@@ -1,0 +1,66 @@
+{
+  "id": "variable-state",
+  "name": "Variable State",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "http://variablestate.com",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "London",
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2014,
+  "foundedDate": "2014",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q26966356"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "last-stop"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 370,
+    "averagePositivePercentage": 78.9,
+    "weightedPositivePercentage": 78.9,
+    "mostReviewedGame": "last-stop",
+    "mostRecentRelease": "last-stop",
+    "firstRelease": "last-stop",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q26966356",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

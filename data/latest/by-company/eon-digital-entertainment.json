@@ -1,0 +1,31 @@
+{
+  "id": "eon-digital-entertainment",
+  "name": "Eon Digital Entertainment",
+  "developed": [],
+  "published": [
+    {
+      "id": "stunt-gp",
+      "title": "Stunt GP",
+      "type": "game",
+      "releaseDate": "2001-04-06",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "eon-digital-entertainment"
+      ],
+      "platforms": [
+        "dreamcast",
+        "playstation-2",
+        "windows"
+      ],
+      "genres": [
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

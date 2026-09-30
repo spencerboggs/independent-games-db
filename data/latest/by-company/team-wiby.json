@@ -1,0 +1,33 @@
+{
+  "id": "team-wiby",
+  "name": "Team WIBY",
+  "developed": [
+    {
+      "id": "phantom-abyss",
+      "title": "Phantom Abyss",
+      "type": "game",
+      "releaseDate": "2024-01-25",
+      "developers": [
+        "team-wiby"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "mmo"
+      ],
+      "engines": [],
+      "steamAppId": "989440",
+      "reviewCount": 2239,
+      "positivePercentage": 81.2
+    }
+  ],
+  "published": []
+}

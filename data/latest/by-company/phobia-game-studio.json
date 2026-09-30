@@ -1,0 +1,40 @@
+{
+  "id": "phobia-game-studio",
+  "name": "Phobia Game Studio",
+  "developed": [
+    {
+      "id": "carrion",
+      "title": "CARRION",
+      "type": "game",
+      "releaseDate": "2020-07-23",
+      "developers": [
+        "phobia-game-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "horror-video-game",
+        "platformer",
+        "reverse-horror-video-game"
+      ],
+      "engines": [
+        "monogame"
+      ],
+      "steamAppId": "953490",
+      "reviewCount": 36070,
+      "positivePercentage": 94.4
+    }
+  ],
+  "published": []
+}

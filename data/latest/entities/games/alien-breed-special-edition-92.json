@@ -1,0 +1,65 @@
+{
+  "id": "alien-breed-special-edition-92",
+  "title": "Alien Breed: Special Edition 92",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1992",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "commodore-amiga"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q140183324"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140183324"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "alien-breed",
+    "name": "Alien Breed"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140183324",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

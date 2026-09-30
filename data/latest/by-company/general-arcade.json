@@ -1,0 +1,64 @@
+{
+  "id": "general-arcade",
+  "name": "General Arcade",
+  "developed": [
+    {
+      "id": "marc-eckos-getting-up-contents-under-pressure",
+      "title": "Marc Eckō's Getting Up: Contents Under Pressure",
+      "type": "game",
+      "releaseDate": "2013-12-13",
+      "developers": [
+        "general-arcade",
+        "the-collective"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "260190",
+      "reviewCount": 2514,
+      "positivePercentage": 89
+    },
+    {
+      "id": "olliolli",
+      "title": "OlliOlli",
+      "type": "game",
+      "releaseDate": "2014-07-22",
+      "developers": [
+        "general-arcade",
+        "roll7"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows"
+      ],
+      "genres": [
+        "skateboarding-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "274250",
+      "reviewCount": 863,
+      "positivePercentage": 78.2
+    }
+  ],
+  "published": []
+}

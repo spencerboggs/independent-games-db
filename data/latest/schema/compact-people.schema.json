@@ -1,0 +1,35 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/compact-people.schema.json",
+  "title": "People (compact)",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "name": {
+        "type": "string"
+      },
+      "companies": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "maxLength": 96,
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+          "description": "Stable internal database identifier. Never derived at read time; never reused."
+        }
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "companies"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "alan-wake-remastered",
+  "title": "Alan Wake Remastered",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2021-10-05",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "epic-games"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q108416797",
+    "igdb": "alan-wake-remastered"
+  },
+  "links": {
+    "official": "https://www.alanwake.com/remastered",
+    "wikidata": "https://www.wikidata.org/wiki/Q108416797"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "alan-wake",
+    "name": "Alan Wake"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q108416797",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kepler-ghost",
+  "name": "Kepler Ghost",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "windblown"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 10402,
+    "averagePositivePercentage": 88.7,
+    "weightedPositivePercentage": 88.7,
+    "mostReviewedGame": "windblown",
+    "mostRecentRelease": "windblown",
+    "firstRelease": "windblown",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

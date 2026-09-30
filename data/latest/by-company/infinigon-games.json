@@ -1,0 +1,36 @@
+{
+  "id": "infinigon-games",
+  "name": "Infinigon Games",
+  "developed": [
+    {
+      "id": "epic-chef",
+      "title": "Epic Chef",
+      "type": "game",
+      "releaseDate": "2021-11-11",
+      "developers": [
+        "infinigon-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1312960",
+      "reviewCount": 759,
+      "positivePercentage": 78
+    }
+  ],
+  "published": []
+}

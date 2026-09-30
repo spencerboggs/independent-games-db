@@ -1,0 +1,58 @@
+{
+  "id": "codemasters",
+  "name": "Codemasters",
+  "developed": [],
+  "published": [
+    {
+      "id": "leisure-suit-larry-box-office-bust",
+      "title": "Leisure Suit Larry: Box Office Bust",
+      "type": "game",
+      "releaseDate": "2009-03-27",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "codemasters"
+      ],
+      "platforms": [
+        "playstation-3",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-4-mayhem",
+      "title": "Worms 4: Mayhem",
+      "type": "game",
+      "releaseDate": "2005-07-29",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "codemasters"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

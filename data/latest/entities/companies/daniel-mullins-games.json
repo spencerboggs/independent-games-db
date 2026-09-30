@@ -1,0 +1,77 @@
+{
+  "id": "daniel-mullins-games",
+  "name": "Daniel Mullins Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer and publisher based in Vancouver, BC, Canada",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q24081023",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.danielmullinsgames.com/",
+  "socialLinks": {
+    "x": "https://x.com/DMullinsGames"
+  },
+  "location": {
+    "headquarters": "Vancouver",
+    "country": "CA",
+    "countryName": "Canada"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q24081023",
+    "igdb": "daniel-mullins-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "inscryption"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 148837,
+    "averagePositivePercentage": 96.8,
+    "weightedPositivePercentage": 96.8,
+    "mostReviewedGame": "inscryption",
+    "mostRecentRelease": "inscryption",
+    "firstRelease": "inscryption",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q24081023",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

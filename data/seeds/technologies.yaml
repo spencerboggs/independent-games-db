@@ -1,0 +1,693 @@
+# Technology catalog: engines, middleware, languages and tools.
+#
+# Provider-reported technologies are matched against this list by Wikidata ID
+# first, then by name/alias (case- and punctuation-insensitive). Anything that
+# does not match becomes a review candidate ("unmatched technology").
+#
+# Only add a Wikidata ID after checking it on wikidata.org. Leave it out when
+# unsure; name/alias matching still works.
+#
+# category: engine | middleware | language | tool | framework | service | other
+
+technologies:
+  # ---- Engines ------------------------------------------------------------
+  - id: unity
+    name: Unity
+    aliases: [Unity3D, Unity 3D, Unity Engine, Unity game engine, Unity 5, Unity 6]
+    category: engine
+    developer: Unity Technologies
+    website: https://unity.com
+    license: proprietary
+    externalIds: { wikidata: Q63966 }
+
+  - id: unreal-engine
+    name: Unreal Engine
+    aliases: [UE, UE3, UE4, UE5, Unreal Engine 2, Unreal Engine 3, Unreal Engine 4, Unreal Engine 5]
+    category: engine
+    developer: Epic Games
+    website: https://www.unrealengine.com
+    license: source-available
+    externalIds: { wikidata: Q608276 }
+    description: Version-specific Wikidata items (e.g. Unreal Engine 4, Q13156652) are matched by name.
+
+  - id: godot
+    name: Godot
+    aliases: [Godot Engine, Godot 3, Godot 4]
+    category: engine
+    website: https://godotengine.org
+    license: open-source
+    externalIds: { wikidata: Q16972633 }
+
+  - id: gamemaker
+    name: GameMaker
+    aliases: [GameMaker Studio, GameMaker Studio 2, Game Maker, GameMaker Language, GML]
+    category: engine
+    developer: YoYo Games
+    website: https://gamemaker.io
+    license: proprietary
+    externalIds: { wikidata: Q243720 }
+
+  - id: construct
+    name: Construct
+    aliases: [Construct 2, Construct 3, Construct Classic]
+    category: engine
+    developer: Scirra
+    website: https://www.construct.net
+    license: proprietary
+    externalIds: { wikidata: Q5164395 }
+
+  - id: clickteam-fusion
+    name: Clickteam Fusion
+    aliases: [Clickteam Fusion 2.5, Multimedia Fusion, Multimedia Fusion 2]
+    category: engine
+    developer: Clickteam
+    license: proprietary
+    externalIds: { wikidata: Q86074521 }
+
+  - id: rpg-maker
+    name: RPG Maker
+    aliases: [RPG Maker MV, RPG Maker MZ, RPG Maker VX Ace, RPG Maker XP]
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q260080 }
+
+  - id: renpy
+    name: Ren'Py
+    aliases: [RenPy, Ren Py]
+    category: engine
+    subcategory: visual-novel
+    website: https://www.renpy.org
+    license: open-source
+    externalIds: { wikidata: Q1196014 }
+
+  - id: adventure-game-studio
+    name: Adventure Game Studio
+    aliases: [AGS]
+    category: engine
+    license: open-source
+    externalIds: { wikidata: Q379950 }
+
+  - id: visionaire-studio
+    name: Visionaire Studio
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q2528330 }
+
+  - id: defold
+    name: Defold
+    category: engine
+    website: https://defold.com
+    license: source-available
+    externalIds: { wikidata: Q122556836 }
+
+  - id: bevy
+    name: Bevy
+    aliases: [Bevy Engine]
+    category: engine
+    website: https://bevyengine.org
+    license: open-source
+    externalIds: { wikidata: Q103819131 }
+
+  - id: love2d
+    name: LÖVE
+    aliases: [LOVE, Love2D, LÖVE2D]
+    category: engine
+    website: https://love2d.org
+    license: open-source
+    externalIds: { wikidata: Q3269846 }
+
+  - id: stencyl
+    name: Stencyl
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q7607505 }
+
+  - id: flax-engine
+    name: Flax Engine
+    aliases: [Flax]
+    category: engine
+    license: source-available
+    externalIds: { wikidata: Q124325873 }
+
+  - id: open-3d-engine
+    name: Open 3D Engine
+    aliases: [O3DE]
+    category: engine
+    license: open-source
+    externalIds: { wikidata: Q107610458 }
+
+  - id: amazon-lumberyard
+    name: Amazon Lumberyard
+    aliases: [Lumberyard]
+    category: engine
+    developer: Amazon
+    license: source-available
+    externalIds: { wikidata: Q22949502 }
+
+  - id: cryengine
+    name: CryEngine
+    aliases: [CRYENGINE, CryEngine 3, CryEngine V]
+    category: engine
+    developer: Crytek
+    license: source-available
+
+  - id: source-engine
+    name: Source
+    aliases: [Source engine, Source 2]
+    category: engine
+    developer: Valve
+    license: proprietary
+    externalIds: { wikidata: Q643572 }
+
+  - id: id-tech
+    name: id Tech
+    aliases: [id Tech 3, id Tech 4, id Tech 6, id Tech 7]
+    category: engine
+    developer: id Software
+    license: proprietary
+    externalIds: { wikidata: Q288655 }
+
+  - id: unigine
+    name: Unigine
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q2564057 }
+
+  - id: leadwerks
+    name: Leadwerks
+    aliases: [Leadwerks Game Engine]
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q28957023 }
+
+  - id: wintermute-engine
+    name: Wintermute Engine
+    category: engine
+    license: open-source
+    externalIds: { wikidata: Q841283 }
+
+  - id: wolf-rpg-editor
+    name: Wolf RPG Editor
+    aliases: [WOLF RPG Editor]
+    category: engine
+    license: proprietary
+    externalIds: { wikidata: Q11253808 }
+
+  - id: pico-8
+    name: PICO-8
+    aliases: [Pico-8, Pico8]
+    category: engine
+    subcategory: fantasy-console
+    developer: Lexaloffle Games
+    license: proprietary
+    externalIds: { wikidata: Q28456260 }
+
+  - id: divinity-engine
+    name: Divinity Engine
+    aliases: [Divinity Engine 2]
+    category: engine
+    developer: Larian Studios
+    license: proprietary
+    externalIds: { wikidata: Q127075702 }
+
+  - id: northlight-engine
+    name: Northlight Engine
+    aliases: [Northlight]
+    category: engine
+    developer: Remedy Entertainment
+    license: proprietary
+
+  - id: custom-engine
+    name: Custom engine
+    aliases: [In-house engine, Proprietary engine, Custom game engine, Proprietary game engine]
+    category: engine
+    license: proprietary
+    description: A studio's own engine that is not listed separately.
+
+  # ---- Frameworks / libraries ----------------------------------------------
+  - id: monogame
+    name: MonoGame
+    category: framework
+    website: https://monogame.net
+    license: open-source
+    externalIds: { wikidata: Q13218967 }
+
+  - id: microsoft-xna
+    name: Microsoft XNA
+    aliases: [XNA, XNA Game Studio, XNA Framework]
+    category: framework
+    developer: Microsoft
+    license: proprietary
+    externalIds: { wikidata: Q949728 }
+
+  - id: fna
+    name: FNA
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q133287989 }
+
+  - id: libgdx
+    name: libGDX
+    aliases: [LibGDX, libgdx]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q16321264 }
+
+  - id: heaps
+    name: Heaps
+    aliases: [Heaps.io]
+    category: framework
+    website: https://heaps.io
+    license: open-source
+    externalIds: { wikidata: Q110373086 }
+
+  - id: openfl
+    name: OpenFL
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q6954720 }
+
+  - id: haxeflixel
+    name: HaxeFlixel
+    category: framework
+    license: open-source
+
+  - id: phaser
+    name: Phaser
+    aliases: [Phaser.js]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q48851432 }
+
+  - id: cocos2d
+    name: Cocos2d
+    aliases: [Cocos2d-x, Cocos Creator]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q1525915 }
+
+  - id: raylib
+    name: Raylib
+    aliases: [raylib]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q104843174 }
+
+  - id: sdl
+    name: Simple DirectMedia Layer
+    aliases: [SDL, SDL2, SDL3]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q727439 }
+
+  - id: sfml
+    name: SFML
+    aliases: [Simple and Fast Multimedia Library]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q919155 }
+
+  - id: allegro
+    name: Allegro
+    aliases: [Allegro library]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q1503415 }
+
+  - id: irrlicht
+    name: Irrlicht Engine
+    aliases: [Irrlicht]
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q1423300 }
+
+  - id: babylonjs
+    name: Babylon.js
+    category: framework
+    license: open-source
+    externalIds: { wikidata: Q25380625 }
+
+  - id: adobe-flash
+    name: Adobe Flash
+    aliases: [Flash, Macromedia Flash, Adobe Animate]
+    category: framework
+    license: proprietary
+    externalIds: { wikidata: Q165658 }
+
+  - id: adobe-air
+    name: Adobe AIR
+    aliases: [AIR]
+    category: framework
+    license: proprietary
+    externalIds: { wikidata: Q360310 }
+
+  # ---- Middleware -----------------------------------------------------------
+  - id: fmod
+    name: FMOD
+    aliases: [FMOD Studio, FMOD Ex]
+    category: middleware
+    subcategory: audio
+    developer: Firelight Technologies
+    website: https://www.fmod.com
+    license: proprietary
+    externalIds: { wikidata: Q913522 }
+
+  - id: wwise
+    name: Wwise
+    aliases: [Audiokinetic Wwise]
+    category: middleware
+    subcategory: audio
+    developer: Audiokinetic
+    website: https://www.audiokinetic.com
+    license: proprietary
+    externalIds: { wikidata: Q4819910 }
+
+  - id: havok
+    name: Havok
+    aliases: [Havok Physics]
+    category: middleware
+    subcategory: physics
+    license: proprietary
+    externalIds: { wikidata: Q616957 }
+
+  - id: physx
+    name: PhysX
+    aliases: [NVIDIA PhysX]
+    category: middleware
+    subcategory: physics
+    developer: NVIDIA
+    license: open-source
+    externalIds: { wikidata: Q705442 }
+
+  - id: box2d
+    name: Box2D
+    category: middleware
+    subcategory: physics
+    license: open-source
+    externalIds: { wikidata: Q2579122 }
+
+  - id: bink-video
+    name: Bink Video
+    aliases: [Bink, Bink 2]
+    category: middleware
+    subcategory: video
+    developer: RAD Game Tools
+    license: proprietary
+    externalIds: { wikidata: Q863883 }
+
+  - id: speedtree
+    name: SpeedTree
+    category: middleware
+    subcategory: vegetation
+    license: proprietary
+    externalIds: { wikidata: Q1470268 }
+
+  - id: coherent-gameface
+    name: Coherent Gameface
+    category: middleware
+    subcategory: ui
+    developer: Coherent Labs
+    license: proprietary
+    externalIds: { wikidata: Q131431990 }
+
+  - id: ink
+    name: Ink
+    aliases: [inkle ink]
+    category: middleware
+    subcategory: narrative
+    developer: inkle
+    license: open-source
+    externalIds: { wikidata: Q125523460 }
+
+  - id: yarn-spinner
+    name: Yarn Spinner
+    category: middleware
+    subcategory: narrative
+    license: open-source
+    externalIds: { wikidata: Q130725093 }
+
+  - id: steamworks
+    name: Steamworks
+    aliases: [Steamworks SDK]
+    category: service
+    developer: Valve
+    license: proprietary
+    externalIds: { wikidata: Q124418177 }
+
+  - id: directx
+    name: DirectX
+    aliases: [Direct3D, DirectX 11, DirectX 12]
+    category: middleware
+    subcategory: graphics-api
+    developer: Microsoft
+    license: proprietary
+    externalIds: { wikidata: Q188695 }
+
+  - id: opengl
+    name: OpenGL
+    category: middleware
+    subcategory: graphics-api
+    license: open-source
+    externalIds: { wikidata: Q178570 }
+
+  - id: vulkan
+    name: Vulkan
+    category: middleware
+    subcategory: graphics-api
+    license: open-source
+    externalIds: { wikidata: Q19407678 }
+
+  # ---- Languages -----------------------------------------------------------
+  - id: csharp
+    name: C#
+    aliases: [C Sharp, CSharp]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q2370 }
+
+  - id: cpp
+    name: C++
+    aliases: [CPP, C plus plus]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q2407 }
+
+  - id: c
+    name: C
+    aliases: [C programming language, C language]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q15777 }
+
+  - id: lua
+    name: Lua
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q207316 }
+
+  - id: python
+    name: Python
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q28865 }
+
+  - id: rust
+    name: Rust
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q575650 }
+
+  - id: java
+    name: Java
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q251 }
+
+  - id: javascript
+    name: JavaScript
+    aliases: [JS, ECMAScript]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q2005 }
+
+  - id: typescript
+    name: TypeScript
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q978185 }
+
+  - id: haxe
+    name: Haxe
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q285886 }
+
+  - id: gdscript
+    name: GDScript
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q28942599 }
+
+  - id: kotlin
+    name: Kotlin
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q3816639 }
+
+  - id: swift
+    name: Swift
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q17118377 }
+
+  - id: objective-c
+    name: Objective-C
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q188531 }
+
+  - id: go
+    name: Go
+    aliases: [Golang]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q37227 }
+
+  - id: actionscript
+    name: ActionScript
+    aliases: [ActionScript 3, ActionScript 3.0]
+    category: language
+    license: proprietary
+    externalIds: { wikidata: Q234657 }
+
+  - id: zig
+    name: Zig
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q51885456 }
+
+  - id: odin
+    name: Odin
+    aliases: [Odin programming language]
+    category: language
+    license: open-source
+    externalIds: { wikidata: Q64840933 }
+
+  - id: unrealscript
+    name: UnrealScript
+    category: language
+    developer: Epic Games
+    license: proprietary
+    externalIds: { wikidata: Q1191442 }
+
+  # ---- Tools ---------------------------------------------------------------
+  - id: blender
+    name: Blender
+    category: tool
+    subcategory: 3d-modeling
+    license: open-source
+    externalIds: { wikidata: Q173136 }
+
+  - id: autodesk-maya
+    name: Autodesk Maya
+    aliases: [Maya]
+    category: tool
+    subcategory: 3d-modeling
+    developer: Autodesk
+    license: proprietary
+    externalIds: { wikidata: Q272597 }
+
+  - id: autodesk-3ds-max
+    name: Autodesk 3ds Max
+    aliases: [3ds Max, 3D Studio Max]
+    category: tool
+    subcategory: 3d-modeling
+    developer: Autodesk
+    license: proprietary
+    externalIds: { wikidata: Q212324 }
+
+  - id: cinema-4d
+    name: Cinema 4D
+    category: tool
+    subcategory: 3d-modeling
+    developer: Maxon
+    license: proprietary
+    externalIds: { wikidata: Q1092448 }
+
+  - id: houdini
+    name: Houdini
+    aliases: [SideFX Houdini]
+    category: tool
+    subcategory: procedural
+    developer: SideFX
+    license: proprietary
+    externalIds: { wikidata: Q2595529 }
+
+  - id: zbrush
+    name: ZBrush
+    category: tool
+    subcategory: sculpting
+    developer: Maxon
+    license: proprietary
+    externalIds: { wikidata: Q135964 }
+
+  - id: substance-3d
+    name: Adobe Substance 3D
+    aliases: [Substance Painter, Substance Designer, Substance 3D Painter, Substance 3D Designer, Allegorithmic Substance]
+    category: tool
+    subcategory: texturing
+    developer: Adobe
+    license: proprietary
+
+  - id: adobe-photoshop
+    name: Adobe Photoshop
+    aliases: [Photoshop]
+    category: tool
+    subcategory: 2d-art
+    developer: Adobe
+    license: proprietary
+    externalIds: { wikidata: Q129793 }
+
+  - id: krita
+    name: Krita
+    category: tool
+    subcategory: 2d-art
+    license: open-source
+    externalIds: { wikidata: Q604945 }
+
+  - id: aseprite
+    name: Aseprite
+    category: tool
+    subcategory: pixel-art
+    license: source-available
+    externalIds: { wikidata: Q65620047 }
+
+  - id: spine
+    name: Spine
+    aliases: [Spine 2D, Esoteric Spine]
+    category: tool
+    subcategory: 2d-animation
+    developer: Esoteric Software
+    license: proprietary
+
+  - id: twine
+    name: Twine
+    category: tool
+    subcategory: narrative
+    license: open-source
+    externalIds: { wikidata: Q15411624 }
+
+  - id: git
+    name: Git
+    category: tool
+    subcategory: version-control
+    license: open-source
+    externalIds: { wikidata: Q186055 }
+
+  - id: plastic-scm
+    name: Plastic SCM
+    aliases: [Unity Version Control]
+    category: tool
+    subcategory: version-control
+    license: proprietary
+    externalIds: { wikidata: Q5403883 }

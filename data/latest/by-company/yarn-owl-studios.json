@@ -1,0 +1,35 @@
+{
+  "id": "yarn-owl-studios",
+  "name": "Yarn Owl Studios",
+  "developed": [
+    {
+      "id": "demi-and-the-fractured-dream",
+      "title": "Demi and the Fractured Dream",
+      "type": "game",
+      "releaseDate": "2027-02",
+      "developers": [
+        "yarn-owl-studios"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1725710",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

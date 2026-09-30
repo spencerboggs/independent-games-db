@@ -1,0 +1,31 @@
+{
+  "id": "brigada-games",
+  "name": "Brigada Games",
+  "developed": [
+    {
+      "id": "quarantine-zone-the-last-check",
+      "title": "Quarantine Zone: The Last Check",
+      "type": "game",
+      "releaseDate": "2026-01-12",
+      "developers": [
+        "brigada-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "post-apocalyptic-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3419520",
+      "reviewCount": 13388,
+      "positivePercentage": 81.8
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sole-survivor-games",
+  "name": "Sole Survivor Games",
+  "developed": [
+    {
+      "id": "honey-i-joined-a-cult",
+      "title": "Honey, I Joined a Cult",
+      "type": "game",
+      "releaseDate": "2022-11-03",
+      "developers": [
+        "sole-survivor-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "business-simulation-game",
+        "casual",
+        "city-building-game",
+        "sandbox",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "841190",
+      "reviewCount": 1938,
+      "positivePercentage": 72.4
+    }
+  ],
+  "published": []
+}

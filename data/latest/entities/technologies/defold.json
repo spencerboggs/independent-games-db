@@ -1,0 +1,32 @@
+{
+  "id": "defold",
+  "name": "Defold",
+  "aliases": [],
+  "category": "engine",
+  "subcategory": null,
+  "developer": null,
+  "website": "https://defold.com",
+  "license": "source-available",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q122556836"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

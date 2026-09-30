@@ -1,0 +1,617 @@
+{
+  "id": "coffee-stain-publishing",
+  "name": "Coffee Stain Publishing",
+  "developed": [],
+  "published": [
+    {
+      "id": "a-story-about-my-uncle",
+      "title": "A Story About My Uncle",
+      "type": "game",
+      "releaseDate": "2014-05-28",
+      "developers": [
+        "gone-north-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "platformer"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "278360",
+      "reviewCount": 29243,
+      "positivePercentage": 91.5
+    },
+    {
+      "id": "as-we-descend",
+      "title": "As We Descend",
+      "type": "game",
+      "releaseDate": "2025-05-28",
+      "developers": [
+        "box-dragon"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1769830",
+      "reviewCount": 1432,
+      "positivePercentage": 86.7
+    },
+    {
+      "id": "deep-rock-galactic",
+      "title": "Deep Rock Galactic",
+      "type": "game",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "horde-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "548430",
+      "reviewCount": 380471,
+      "positivePercentage": 97.1
+    },
+    {
+      "id": "deep-rock-galactic-dark-future-pack",
+      "title": "Deep Rock Galactic - Dark Future Pack",
+      "type": "dlc",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1283090",
+      "reviewCount": 581,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "deep-rock-galactic-dawn-of-the-dread-pack",
+      "title": "Deep Rock Galactic - Dawn of the Dread Pack",
+      "type": "dlc",
+      "releaseDate": "2021-02-04",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1530640",
+      "reviewCount": 393,
+      "positivePercentage": 93.4
+    },
+    {
+      "id": "deep-rock-galactic-megacorp-pack",
+      "title": "Deep Rock Galactic - MegaCorp Pack",
+      "type": "dlc",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1283091",
+      "reviewCount": 486,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "deep-rock-galactic-rival-tech-pack",
+      "title": "Deep Rock Galactic - Rival Tech Pack",
+      "type": "dlc",
+      "releaseDate": "2021-11-04",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1797340",
+      "reviewCount": 660,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "deep-rock-galactic-robot-rebellion-pack",
+      "title": "Deep Rock Galactic - Robot Rebellion Pack",
+      "type": "dlc",
+      "releaseDate": "2022-04-28",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1946960",
+      "reviewCount": 328,
+      "positivePercentage": 92.1
+    },
+    {
+      "id": "deep-rock-galactic-roughneck-pack",
+      "title": "Deep Rock Galactic - Roughneck Pack",
+      "type": "dlc",
+      "releaseDate": "2020-10-22",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1430610",
+      "reviewCount": 550,
+      "positivePercentage": 98
+    },
+    {
+      "id": "goat-simulator",
+      "title": "Goat Simulator",
+      "type": "game",
+      "releaseDate": "2014-04-01",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "265930",
+      "reviewCount": 70299,
+      "positivePercentage": 90.9
+    },
+    {
+      "id": "goat-simulator-3",
+      "title": "Goat Simulator 3",
+      "type": "game",
+      "releaseDate": "2024-02-15",
+      "developers": [
+        "coffee-stain-north"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "850190",
+      "reviewCount": 16046,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "goat-simulator-remastered",
+      "title": "Goat Simulator: Remastered",
+      "type": "game",
+      "releaseDate": "2024-11-07",
+      "developers": [
+        "coffee-stain-north",
+        "coffee-stain-studios",
+        "deep-silver-fishlabs"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1762930",
+      "reviewCount": 1225,
+      "positivePercentage": 88.3
+    },
+    {
+      "id": "huntdown",
+      "title": "HUNTDOWN",
+      "type": "game",
+      "releaseDate": "2021-05-12",
+      "developers": [
+        "easy-trigger-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "598550",
+      "reviewCount": 4436,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "huntdown-overtime",
+      "title": "HUNTDOWN: OVERTIME",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "easy-trigger-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "2473350",
+      "reviewCount": 903,
+      "positivePercentage": 89
+    },
+    {
+      "id": "into-the-unwell",
+      "title": "Into The Unwell",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "she-was-such-a-good-horse"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "2024600",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "midnight-ghost-hunt",
+      "title": "Midnight Ghost Hunt",
+      "type": "game",
+      "releaseDate": "2024-03-21",
+      "developers": [
+        "vaulted-sky-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "915810",
+      "reviewCount": 7532,
+      "positivePercentage": 76.5
+    },
+    {
+      "id": "puppet-fever",
+      "title": "Puppet Fever",
+      "type": "game",
+      "releaseDate": "2018-04-19",
+      "developers": [
+        "coastalbyte-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "800390",
+      "reviewCount": 37,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "sanctum",
+      "title": "Sanctum",
+      "type": "game",
+      "releaseDate": "2011-04-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "91600",
+      "reviewCount": 3363,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "sanctum-2",
+      "title": "Sanctum 2",
+      "type": "game",
+      "releaseDate": "2013-05-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-3",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "210770",
+      "reviewCount": 14391,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "satisfactory",
+      "title": "Satisfactory",
+      "type": "game",
+      "releaseDate": "2024-09-10",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "factory-simulation-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "526870",
+      "reviewCount": 280143,
+      "positivePercentage": 97.3
+    },
+    {
+      "id": "songs-of-conquest",
+      "title": "Songs of Conquest",
+      "type": "game",
+      "releaseDate": "2024-05-20",
+      "developers": [
+        "lavapotion"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "867210",
+      "reviewCount": 13570,
+      "positivePercentage": 85.6
+    },
+    {
+      "id": "super-sanctum-td",
+      "title": "Super Sanctum TD",
+      "type": "game",
+      "releaseDate": "2013-05-09",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "strategy",
+        "tower-defense"
+      ],
+      "engines": [],
+      "steamAppId": "235250",
+      "reviewCount": 1582,
+      "positivePercentage": 86.5
+    },
+    {
+      "id": "valheim",
+      "title": "Valheim",
+      "type": "game",
+      "releaseDate": "2026-09-09",
+      "developers": [
+        "iron-gate-ab"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "survival"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "892970",
+      "reviewCount": 555550,
+      "positivePercentage": 93.7
+    }
+  ]
+}

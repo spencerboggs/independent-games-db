@@ -1,0 +1,22 @@
+# Manual game corrections. Overrides always win over generated data.
+#
+# Every entry needs an `id` (see data/latest/index.json). Supported keys:
+#   set:     deep-merged into the record (arrays are replaced)
+#   append:  values added to array fields (deduplicated)
+#   remove:  values removed from array fields
+#   exclude: true   remove the game from the public dataset
+#   create:  true   add a game that no provider knows about (set title etc.)
+#   source:  { type, url, retrievedAt }   required for factual changes
+#   note:    free text explaining the change
+#
+# Example:
+#   - id: hollow-knight
+#     set:
+#       descriptions:
+#         custom: A hand-drawn action-adventure through a ruined insect kingdom.
+#     append:
+#       tags: [metroidvania]
+#     source: { type: official, url: https://www.teamcherry.com.au/ }
+#     note: Custom description written for the database.
+
+games: []

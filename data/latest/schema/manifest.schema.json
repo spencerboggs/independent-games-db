@@ -1,0 +1,267 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/manifest.schema.json",
+  "title": "Manifest",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "datasetVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "schemaVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "generatedAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp (UTC)"
+    },
+    "contentHash": {
+      "type": "string",
+      "description": "sha256 over all data files; generatedAt only changes when this changes."
+    },
+    "repository": {
+      "type": "string"
+    },
+    "license": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "data": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "code",
+        "data",
+        "notes"
+      ],
+      "additionalProperties": false
+    },
+    "counts": {
+      "type": "object",
+      "properties": {
+        "games": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "companies": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "people": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "engines": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "technologies": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "relationships": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "games",
+        "companies",
+        "people",
+        "engines",
+        "technologies",
+        "relationships"
+      ],
+      "additionalProperties": false
+    },
+    "files": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "string"
+      },
+      "description": "Standard variant files, relative to data/latest/."
+    },
+    "variants": {
+      "type": "object",
+      "properties": {
+        "standard": {
+          "type": "object",
+          "propertyNames": {
+            "type": "string"
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "full": {
+          "type": "object",
+          "propertyNames": {
+            "type": "string"
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "compact": {
+          "type": "object",
+          "propertyNames": {
+            "type": "string"
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "standard",
+        "full",
+        "compact"
+      ],
+      "additionalProperties": false
+    },
+    "entities": {
+      "type": "string",
+      "description": "Path template for per-entity files."
+    },
+    "schemas": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "checksums": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "bytes": {
+            "type": "integer",
+            "minimum": -9007199254740991,
+            "maximum": 9007199254740991
+          },
+          "sha256": {
+            "type": "string"
+          },
+          "records": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "path",
+          "bytes",
+          "sha256",
+          "records"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https?:\\/\\/\\S+$"
+          },
+          "license": {
+            "type": "string"
+          },
+          "usage": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "url",
+          "license",
+          "usage"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "urls": {
+      "type": "object",
+      "properties": {
+        "latest": {
+          "type": "string"
+        },
+        "pinned": {
+          "type": "string"
+        },
+        "releases": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "latest",
+        "pinned",
+        "releases"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "name",
+    "description",
+    "datasetVersion",
+    "schemaVersion",
+    "generatedAt",
+    "contentHash",
+    "repository",
+    "license",
+    "counts",
+    "files",
+    "variants",
+    "entities",
+    "schemas",
+    "checksums",
+    "sources",
+    "urls"
+  ],
+  "additionalProperties": false
+}

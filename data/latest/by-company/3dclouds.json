@@ -1,0 +1,35 @@
+{
+  "id": "3dclouds",
+  "name": "3DClouds",
+  "developed": [
+    {
+      "id": "king-of-seas",
+      "title": "King of Seas",
+      "type": "game",
+      "releaseDate": "2021-05-25",
+      "developers": [
+        "3dclouds"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1209410",
+      "reviewCount": 782,
+      "positivePercentage": 58.7
+    }
+  ],
+  "published": []
+}

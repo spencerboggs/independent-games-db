@@ -1,0 +1,37 @@
+{
+  "id": "light-brick-studio",
+  "name": "Light Brick Studio",
+  "developed": [
+    {
+      "id": "lego-voyagers",
+      "title": "LEGO® Voyagers",
+      "type": "game",
+      "releaseDate": "2025-09-15",
+      "developers": [
+        "light-brick-studio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "1538550",
+      "reviewCount": 3248,
+      "positivePercentage": 88.4
+    }
+  ],
+  "published": []
+}

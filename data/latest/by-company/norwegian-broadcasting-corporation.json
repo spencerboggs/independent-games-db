@@ -1,0 +1,30 @@
+{
+  "id": "norwegian-broadcasting-corporation",
+  "name": "Norwegian Broadcasting Corporation",
+  "developed": [],
+  "published": [
+    {
+      "id": "superia",
+      "title": "Superia",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "british-broadcasting-corporation",
+        "larian-studios"
+      ],
+      "publishers": [
+        "norwegian-broadcasting-corporation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

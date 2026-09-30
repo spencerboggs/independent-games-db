@@ -1,0 +1,36 @@
+{
+  "id": "by-sam-eng",
+  "name": "by Sam Eng",
+  "developed": [
+    {
+      "id": "skate-story",
+      "title": "Skate Story",
+      "type": "game",
+      "releaseDate": "2025-12-08",
+      "developers": [
+        "by-sam-eng"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "skateboarding-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "1263240",
+      "reviewCount": 3124,
+      "positivePercentage": 96.6
+    }
+  ],
+  "published": []
+}

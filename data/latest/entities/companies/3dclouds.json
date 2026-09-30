@@ -1,0 +1,78 @@
+{
+  "id": "3dclouds",
+  "name": "3DClouds",
+  "aliases": [
+    "3D Clouds",
+    "3DClouds S.r.l."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Italian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q109658900",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.3dclouds.it/",
+  "socialLinks": {
+    "x": "https://x.com/3DClouds",
+    "youtube": "https://www.youtube.com/channel/UC7nMNp8qOY-wZcX9sWot2bw"
+  },
+  "location": {
+    "headquarters": "Milan",
+    "country": "IT",
+    "countryName": "Italy"
+  },
+  "founded": 2014,
+  "foundedDate": "2014",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q109658900"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "king-of-seas"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 782,
+    "averagePositivePercentage": 58.7,
+    "weightedPositivePercentage": 58.7,
+    "mostReviewedGame": "king-of-seas",
+    "mostRecentRelease": "king-of-seas",
+    "firstRelease": "king-of-seas",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109658900",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

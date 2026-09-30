@@ -1,0 +1,68 @@
+{
+  "id": "dungeon-hearts-blitz",
+  "title": "Dungeon Hearts Blitz",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2014-07-09",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "match-three-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q130528259"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130528259"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "dungeon-hearts",
+    "name": "Dungeon Hearts"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q130528259",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

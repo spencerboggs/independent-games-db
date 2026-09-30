@@ -1,0 +1,33 @@
+{
+  "id": "all-possible-futures",
+  "name": "All Possible Futures",
+  "developed": [
+    {
+      "id": "the-plucky-squire",
+      "title": "The Plucky Squire",
+      "type": "game",
+      "releaseDate": "2024-09-17",
+      "developers": [
+        "all-possible-futures"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1627570",
+      "reviewCount": 4249,
+      "positivePercentage": 84.8
+    }
+  ],
+  "published": []
+}

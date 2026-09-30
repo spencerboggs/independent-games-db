@@ -1,0 +1,34 @@
+{
+  "id": "open-roads-team",
+  "name": "Open Roads Team",
+  "developed": [
+    {
+      "id": "open-roads",
+      "title": "Open Roads",
+      "type": "game",
+      "releaseDate": "2024-03-28",
+      "developers": [
+        "open-roads-team"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1497360",
+      "reviewCount": 362,
+      "positivePercentage": 77.9
+    }
+  ],
+  "published": []
+}

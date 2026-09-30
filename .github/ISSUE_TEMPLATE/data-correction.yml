@@ -1,0 +1,27 @@
+name: Data correction
+description: Something in the dataset is wrong or missing.
+labels: [data]
+body:
+  - type: input
+    id: entity
+    attributes:
+      label: Entity ID
+      description: From data/latest/index.json, e.g. `hollow-knight` or `team-cherry`.
+      placeholder: hollow-knight
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Which field, what it says now, and what it should say.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Official site, press kit, credits or interview. Corrections without a source cannot be accepted.
+      placeholder: https://
+    validations:
+      required: true

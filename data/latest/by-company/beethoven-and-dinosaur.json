@@ -1,0 +1,63 @@
+{
+  "id": "beethoven-and-dinosaur",
+  "name": "Beethoven and Dinosaur",
+  "developed": [
+    {
+      "id": "mixtape",
+      "title": "Mixtape",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "beethoven-and-dinosaur"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2582320",
+      "reviewCount": 8644,
+      "positivePercentage": 87.9
+    },
+    {
+      "id": "the-artful-escape",
+      "title": "The Artful Escape",
+      "type": "game",
+      "releaseDate": "2021-09-09",
+      "developers": [
+        "beethoven-and-dinosaur"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1122680",
+      "reviewCount": 2029,
+      "positivePercentage": 91.9
+    }
+  ],
+  "published": []
+}

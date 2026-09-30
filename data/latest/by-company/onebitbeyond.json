@@ -1,0 +1,40 @@
+{
+  "id": "onebitbeyond",
+  "name": "onebitbeyond",
+  "developed": [
+    {
+      "id": "the-swords-of-ditto-mormos-curse",
+      "title": "The Swords of Ditto: Mormo's Curse",
+      "type": "game",
+      "releaseDate": "2018-04-24",
+      "developers": [
+        "onebitbeyond"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "619780",
+      "reviewCount": 2379,
+      "positivePercentage": 63.4
+    }
+  ],
+  "published": []
+}

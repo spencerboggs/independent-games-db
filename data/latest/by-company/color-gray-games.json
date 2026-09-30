@@ -1,0 +1,73 @@
+{
+  "id": "color-gray-games",
+  "name": "Color Gray Games",
+  "developed": [
+    {
+      "id": "the-case-of-the-golden-idol",
+      "title": "The Case of the Golden Idol",
+      "type": "game",
+      "releaseDate": "2022-10-13",
+      "developers": [
+        "color-gray-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "1677770",
+      "reviewCount": 11014,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "the-rise-of-the-golden-idol",
+      "title": "The Rise of the Golden Idol",
+      "type": "game",
+      "releaseDate": "2024-11-12",
+      "developers": [
+        "color-gray-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "detective-video-game"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "2716400",
+      "reviewCount": 4156,
+      "positivePercentage": 92.6
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "heart-machine",
+  "name": "Heart Machine",
+  "developed": [
+    {
+      "id": "possessor-s",
+      "title": "Possessor(s)",
+      "type": "game",
+      "releaseDate": "2025-11-11",
+      "developers": [
+        "heart-machine"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "side-scrolling-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2132890",
+      "reviewCount": 806,
+      "positivePercentage": 76.1
+    },
+    {
+      "id": "solar-ash",
+      "title": "Solar Ash",
+      "type": "game",
+      "releaseDate": "2022-12-08",
+      "developers": [
+        "heart-machine"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1867530",
+      "reviewCount": 1518,
+      "positivePercentage": 89.9
+    }
+  ],
+  "published": []
+}

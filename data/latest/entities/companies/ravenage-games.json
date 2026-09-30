@@ -1,0 +1,56 @@
+{
+  "id": "ravenage-games",
+  "name": "Ravenage Games",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "megaloot"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 4011,
+    "averagePositivePercentage": 71.7,
+    "weightedPositivePercentage": 71.7,
+    "mostReviewedGame": "megaloot",
+    "mostRecentRelease": "megaloot",
+    "firstRelease": "megaloot",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

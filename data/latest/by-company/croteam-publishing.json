@@ -1,0 +1,58 @@
+{
+  "id": "croteam-publishing",
+  "name": "Croteam Publishing",
+  "developed": [],
+  "published": [
+    {
+      "id": "serious-sam-3-vr-bfe",
+      "title": "Serious Sam 3 VR: BFE",
+      "type": "game",
+      "releaseDate": "2017-11-09",
+      "developers": [
+        "croteam-vr"
+      ],
+      "publishers": [
+        "croteam-publishing",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "567670",
+      "reviewCount": 625,
+      "positivePercentage": 85.4
+    },
+    {
+      "id": "the-talos-principle-vr",
+      "title": "The Talos Principle VR",
+      "type": "game",
+      "releaseDate": "2017-10-17",
+      "developers": [
+        "croteam-vr"
+      ],
+      "publishers": [
+        "croteam-publishing",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "552440",
+      "reviewCount": 861,
+      "positivePercentage": 83.5
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Review decisions (written by `npm run review`). Decided candidates are
+# hidden from the review queue. The actual data changes live in the seed,
+# override and mapping files; this is the audit log.
+
+decisions: []

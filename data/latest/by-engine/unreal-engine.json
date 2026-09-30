@@ -1,0 +1,907 @@
+{
+  "id": "unreal-engine",
+  "name": "Unreal Engine",
+  "games": [
+    {
+      "id": "a-story-about-my-uncle",
+      "title": "A Story About My Uncle",
+      "type": "game",
+      "releaseDate": "2014-05-28",
+      "developers": [
+        "gone-north-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "platformer"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "278360",
+      "reviewCount": 29243,
+      "positivePercentage": 91.5
+    },
+    {
+      "id": "absolver",
+      "title": "Absolver",
+      "type": "game",
+      "releaseDate": "2017-08-29",
+      "developers": [
+        "sloclap"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "473690",
+      "reviewCount": 14826,
+      "positivePercentage": 72.6
+    },
+    {
+      "id": "alien-breed-2-assault",
+      "title": "Alien Breed 2: Assault",
+      "type": "game",
+      "releaseDate": "2010-09-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22650",
+      "reviewCount": 1060,
+      "positivePercentage": 70.7
+    },
+    {
+      "id": "alien-breed-3-descent",
+      "title": "Alien Breed 3: Descent",
+      "type": "game",
+      "releaseDate": "2010-11-17",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22670",
+      "reviewCount": 626,
+      "positivePercentage": 74.3
+    },
+    {
+      "id": "ashen",
+      "title": "Ashen",
+      "type": "game",
+      "releaseDate": "2019-12-09",
+      "developers": [
+        "a44"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "649950",
+      "reviewCount": 3867,
+      "positivePercentage": 66.8
+    },
+    {
+      "id": "crossfirex",
+      "title": "CrossfireX",
+      "type": "game",
+      "releaseDate": "2022-02-10",
+      "developers": [
+        "remedy-entertainment",
+        "smilegate"
+      ],
+      "publishers": [
+        "smilegate",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "deep-rock-galactic",
+      "title": "Deep Rock Galactic",
+      "type": "game",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "horde-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "548430",
+      "reviewCount": 380471,
+      "positivePercentage": 97.1
+    },
+    {
+      "id": "genesis-alpha-one-deluxe-edition",
+      "title": "Genesis Alpha One Deluxe Edition",
+      "type": "game",
+      "releaseDate": "2020-02-25",
+      "developers": [
+        "radiation-blue"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "personal-computer",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "roguelike",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "712190",
+      "reviewCount": 2523,
+      "positivePercentage": 68.5
+    },
+    {
+      "id": "goat-simulator",
+      "title": "Goat Simulator",
+      "type": "game",
+      "releaseDate": "2014-04-01",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "265930",
+      "reviewCount": 70299,
+      "positivePercentage": 90.9
+    },
+    {
+      "id": "hell-let-loose",
+      "title": "Hell Let Loose",
+      "type": "game",
+      "releaseDate": "2021-07-27",
+      "developers": [
+        "expression-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "686810",
+      "reviewCount": 149957,
+      "positivePercentage": 81.8
+    },
+    {
+      "id": "i-am-dead",
+      "title": "I Am Dead",
+      "type": "game",
+      "releaseDate": "2020-10-08",
+      "developers": [
+        "hollow-ponds",
+        "richard-hogg"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "951750",
+      "reviewCount": 468,
+      "positivePercentage": 81.6
+    },
+    {
+      "id": "leisure-suit-larry-box-office-bust",
+      "title": "Leisure Suit Larry: Box Office Bust",
+      "type": "game",
+      "releaseDate": "2009-03-27",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "codemasters"
+      ],
+      "platforms": [
+        "playstation-3",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "lethal-vr",
+      "title": "Lethal VR",
+      "type": "game",
+      "releaseDate": "2016-11-08",
+      "developers": [
+        "three-fields-entertainment"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "532270",
+      "reviewCount": 205,
+      "positivePercentage": 79.5
+    },
+    {
+      "id": "lushfoil-photography-sim",
+      "title": "Lushfoil Photography Sim",
+      "type": "game",
+      "releaseDate": "2025-04-15",
+      "developers": [
+        "matt2"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1749860",
+      "reviewCount": 1846,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "main-assembly",
+      "title": "Main Assembly",
+      "type": "game",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "bad-yolk-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "vehicle-simulation-game",
+        "vehicular-combat-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1078920",
+      "reviewCount": 1354,
+      "positivePercentage": 82.9
+    },
+    {
+      "id": "midnight-ghost-hunt",
+      "title": "Midnight Ghost Hunt",
+      "type": "game",
+      "releaseDate": "2024-03-21",
+      "developers": [
+        "vaulted-sky-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "915810",
+      "reviewCount": 7532,
+      "positivePercentage": 76.5
+    },
+    {
+      "id": "minecraft-dungeons",
+      "title": "Minecraft Dungeons",
+      "type": "game",
+      "releaseDate": "2021-09-22",
+      "developers": [
+        "double-eleven",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "dungeon-crawl",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1672970",
+      "reviewCount": 19809,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "mortal-shell",
+      "title": "Mortal Shell",
+      "type": "game",
+      "releaseDate": "2021-08-18",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1110910",
+      "reviewCount": 12066,
+      "positivePercentage": 67.3
+    },
+    {
+      "id": "planet-alpha",
+      "title": "PLANET ALPHA",
+      "type": "game",
+      "releaseDate": "2018-09-04",
+      "developers": [
+        "planet-alpha-aps"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "485030",
+      "reviewCount": 1136,
+      "positivePercentage": 70
+    },
+    {
+      "id": "ruiner",
+      "title": "RUINER",
+      "type": "game",
+      "releaseDate": "2017-09-26",
+      "developers": [
+        "reikon-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "cyberpunk-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "464060",
+      "reviewCount": 12536,
+      "positivePercentage": 88.9
+    },
+    {
+      "id": "sanctum",
+      "title": "Sanctum",
+      "type": "game",
+      "releaseDate": "2011-04-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "91600",
+      "reviewCount": 3363,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "sanctum-2",
+      "title": "Sanctum 2",
+      "type": "game",
+      "releaseDate": "2013-05-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-3",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "210770",
+      "reviewCount": 14391,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "satisfactory",
+      "title": "Satisfactory",
+      "type": "game",
+      "releaseDate": "2024-09-10",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "factory-simulation-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "526870",
+      "reviewCount": 280143,
+      "positivePercentage": 97.3
+    },
+    {
+      "id": "shadow-warrior-3-definitive-edition",
+      "title": "Shadow Warrior 3: Definitive Edition",
+      "type": "game",
+      "releaseDate": "2022-03-01",
+      "developers": [
+        "flying-wild-hog"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1036890",
+      "reviewCount": 5682,
+      "positivePercentage": 68.8
+    },
+    {
+      "id": "silent-hill-townfall",
+      "title": "SILENT HILL: Townfall",
+      "type": "game",
+      "releaseDate": "2026-09-23",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "annapurna-interactive",
+        "konami"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1636440",
+      "reviewCount": 4064,
+      "positivePercentage": 66.3
+    },
+    {
+      "id": "stray",
+      "title": "Stray",
+      "type": "game",
+      "releaseDate": "2022-07-19",
+      "developers": [
+        "bluetwelve-studio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cyberpunk-video-game",
+        "graphic-adventure-game",
+        "post-apocalyptic-video-game",
+        "puzzle",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1332010",
+      "reviewCount": 178725,
+      "positivePercentage": 97.2
+    },
+    {
+      "id": "the-pathless",
+      "title": "The Pathless",
+      "type": "game",
+      "releaseDate": "2021-11-16",
+      "developers": [
+        "giant-squid"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1492680",
+      "reviewCount": 2217,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-talos-principle-2",
+      "title": "The Talos Principle 2",
+      "type": "game",
+      "releaseDate": "2023-11-02",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "835960",
+      "reviewCount": 13433,
+      "positivePercentage": 94.9
+    },
+    {
+      "id": "viscera-cleanup-detail-shadow-warrior",
+      "title": "Viscera Cleanup Detail: Shadow Warrior",
+      "type": "game",
+      "releaseDate": "2013-10-11",
+      "developers": [
+        "runestorm"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "255520",
+      "reviewCount": 4662,
+      "positivePercentage": 80.5
+    },
+    {
+      "id": "what-remains-of-edith-finch",
+      "title": "What Remains of Edith Finch",
+      "type": "game",
+      "releaseDate": "2017-04-24",
+      "developers": [
+        "giant-sparrow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "501300",
+      "reviewCount": 53011,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "worms-rumble",
+      "title": "Worms Rumble",
+      "type": "game",
+      "releaseDate": "2020-12-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1186040",
+      "reviewCount": 2488,
+      "positivePercentage": 56.5
+    }
+  ]
+}

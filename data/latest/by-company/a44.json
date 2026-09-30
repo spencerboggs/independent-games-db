@@ -1,0 +1,37 @@
+{
+  "id": "a44",
+  "name": "A44",
+  "developed": [
+    {
+      "id": "ashen",
+      "title": "Ashen",
+      "type": "game",
+      "releaseDate": "2019-12-09",
+      "developers": [
+        "a44"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "649950",
+      "reviewCount": 3867,
+      "positivePercentage": 66.8
+    }
+  ],
+  "published": []
+}

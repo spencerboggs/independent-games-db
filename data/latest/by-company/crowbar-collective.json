@@ -1,0 +1,30 @@
+{
+  "id": "crowbar-collective",
+  "name": "Crowbar Collective",
+  "developed": [
+    {
+      "id": "rogue-point",
+      "title": "Rogue Point",
+      "type": "game",
+      "releaseDate": "2026-08-04",
+      "developers": [
+        "crowbar-collective"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1843840",
+      "reviewCount": 1231,
+      "positivePercentage": 63.9
+    }
+  ],
+  "published": []
+}

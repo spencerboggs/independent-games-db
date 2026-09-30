@@ -1,0 +1,35 @@
+{
+  "id": "sengi-games",
+  "name": "Sengi Games",
+  "developed": [
+    {
+      "id": "the-serpent-rogue",
+      "title": "The Serpent Rogue",
+      "type": "game",
+      "releaseDate": "2022-04-26",
+      "developers": [
+        "sengi-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1453790",
+      "reviewCount": 331,
+      "positivePercentage": 55.6
+    }
+  ],
+  "published": []
+}

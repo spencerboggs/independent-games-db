@@ -1,0 +1,104 @@
+{
+  "id": "nuggets-entertainment",
+  "name": "Nuggets Entertainment",
+  "developed": [
+    {
+      "id": "among-the-wild",
+      "title": "AMONG THE WILD",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "nuggets-entertainment"
+      ],
+      "publishers": [
+        "nuggets-entertainment"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2400980",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "rv-there-yet",
+      "title": "RV There Yet?",
+      "type": "game",
+      "releaseDate": "2025-10-21",
+      "developers": [
+        "nuggets-entertainment"
+      ],
+      "publishers": [
+        "nuggets-entertainment"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3949040",
+      "reviewCount": 87794,
+      "positivePercentage": 90.2
+    }
+  ],
+  "published": [
+    {
+      "id": "among-the-wild",
+      "title": "AMONG THE WILD",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "nuggets-entertainment"
+      ],
+      "publishers": [
+        "nuggets-entertainment"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2400980",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "rv-there-yet",
+      "title": "RV There Yet?",
+      "type": "game",
+      "releaseDate": "2025-10-21",
+      "developers": [
+        "nuggets-entertainment"
+      ],
+      "publishers": [
+        "nuggets-entertainment"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3949040",
+      "reviewCount": 87794,
+      "positivePercentage": 90.2
+    }
+  ]
+}

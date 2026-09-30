@@ -1,0 +1,36 @@
+{
+  "id": "gone-north-games",
+  "name": "Gone North Games",
+  "developed": [
+    {
+      "id": "a-story-about-my-uncle",
+      "title": "A Story About My Uncle",
+      "type": "game",
+      "releaseDate": "2014-05-28",
+      "developers": [
+        "gone-north-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "platformer"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "278360",
+      "reviewCount": 29243,
+      "positivePercentage": 91.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "cold-symmetry",
+  "name": "Cold Symmetry",
+  "developed": [
+    {
+      "id": "mortal-shell",
+      "title": "Mortal Shell",
+      "type": "game",
+      "releaseDate": "2021-08-18",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1110910",
+      "reviewCount": 12066,
+      "positivePercentage": 67.3
+    },
+    {
+      "id": "mortal-shell-enhanced-edition",
+      "title": "Mortal Shell: Enhanced Edition",
+      "type": "game",
+      "releaseDate": "2021-03-04",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "mortal-shell-ii",
+      "title": "Mortal Shell II",
+      "type": "game",
+      "releaseDate": "2026-08-20",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "2584270",
+      "reviewCount": 21308,
+      "positivePercentage": 78.9
+    }
+  ],
+  "published": []
+}

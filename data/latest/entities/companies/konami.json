@@ -1,0 +1,85 @@
+{
+  "id": "konami",
+  "name": "Konami",
+  "aliases": [
+    "KONAMI",
+    "Konami Holdings Corporation",
+    "Konica Enix"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Japanese entertainment and video game company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q45700",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.konami.com/en/",
+  "socialLinks": {
+    "x": "https://x.com/KONAMI573ch",
+    "youtube": "https://www.youtube.com/channel/UCWSPqhLRvqjC-vLYA5_n4LQ"
+  },
+  "location": {
+    "headquarters": "Tokyo",
+    "country": "JP",
+    "countryName": "Japan"
+  },
+  "founded": 1969,
+  "foundedDate": "1969-03-21",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q45700"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "castlevania-belmonts-curse"
+    ],
+    "published": [
+      "castlevania-belmonts-curse",
+      "silent-hill-townfall"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 1,
+    "publishedCount": 2,
+    "totalSteamReviews": 4064,
+    "averagePositivePercentage": 66.3,
+    "weightedPositivePercentage": 66.3,
+    "mostReviewedGame": "silent-hill-townfall",
+    "mostRecentRelease": "silent-hill-townfall",
+    "firstRelease": "silent-hill-townfall",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45700",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

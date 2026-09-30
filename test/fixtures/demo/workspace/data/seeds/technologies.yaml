@@ -1,0 +1,24 @@
+technologies:
+  - id: unity
+    name: Unity
+    aliases: [Unity3D, Unity Engine]
+    category: engine
+    developer: Unity Technologies
+    license: proprietary
+  - id: godot
+    name: Godot
+    aliases: [Godot Engine]
+    category: engine
+    license: open-source
+  - id: fmod
+    name: FMOD
+    aliases: [FMOD Studio]
+    category: middleware
+    subcategory: audio
+    developer: Firelight Technologies
+    license: proprietary
+  - id: csharp
+    name: C#
+    aliases: [C Sharp]
+    category: language
+    license: open-source

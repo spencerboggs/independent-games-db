@@ -1,0 +1,34 @@
+{
+  "id": "irrlicht",
+  "name": "Irrlicht Engine",
+  "aliases": [
+    "Irrlicht"
+  ],
+  "category": "framework",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q1423300"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

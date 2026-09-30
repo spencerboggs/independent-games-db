@@ -1,0 +1,72 @@
+{
+  "id": "infinigon-games",
+  "name": "Infinigon Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Spanish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q109683325",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://infinigon.es/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Barcelona",
+    "country": "ES",
+    "countryName": "Spain"
+  },
+  "founded": 2014,
+  "foundedDate": "2014",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q109683325"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "epic-chef"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 759,
+    "averagePositivePercentage": 78,
+    "weightedPositivePercentage": 78,
+    "mostReviewedGame": "epic-chef",
+    "mostRecentRelease": "epic-chef",
+    "firstRelease": "epic-chef",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109683325",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,199 @@
+{
+  "id": "titan-souls",
+  "title": "Titan Souls",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2015-04-14",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "acid-nerve"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Between our world and the world beyond lie the Titan Souls, the spiritual source of all living things. Scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with a single arrow is assembling shards of the Titan Soul in a quest for truth and power.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/297130/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "action-adventure",
+    "adventure"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "android",
+    "macos",
+    "playstation-4",
+    "playstation-vita",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Portuguese - Brazil"
+  ],
+  "externalIds": {
+    "wikidata": "Q19896736",
+    "igdb": "titan-souls",
+    "steam": "297130"
+  },
+  "links": {
+    "official": "http://www.acidnerve.com",
+    "steam": "https://store.steampowered.com/app/297130/",
+    "wikidata": "https://www.wikidata.org/wiki/Q19896736"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/297130",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_398947374cbd6458f9fc3142975ce0a3ac4e5b33.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_eb9d4bf2bb096e03f05d075a4a6e06c59a10c096.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_fc59997150ca5dc2deeefc19c8bbbc93446fa419.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_b3487101e39d29a2e163778fea4d69e07fb1cf84.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_2ea750a86a5409e41eceb2c16a313683181c6a35.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_fcab7e27390b65d0abaf753ba6b14f1b67bfc73a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_95cce424fbf89e012fe29b7e0ab4466c0d502daf.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_1bc3fae1b1c3a9a6fbabb669000ca80e4bbc872a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/ss_415a16215da1e8e86fa4255765ca6f5bab26e5ec.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 13875,
+      "positiveCount": 10921,
+      "negativeCount": 2954,
+      "positivePercentage": 78.7,
+      "negativePercentage": 21.3,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 12,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 3.31,
+      "reviewsPerMonth": 100.9,
+      "windowDays": 4187,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/297130/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19896736",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "whitewater-wipeout",
+  "title": "Whitewater Wipeout",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2022-04-18",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "chuhai-labs"
+  ],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "sports-video-game",
+    "surfing-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playdate"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q107317079",
+    "igdb": "whitewater-wipeout"
+  },
+  "links": {
+    "official": "https://onplaydate.com/whitewater-wipeout",
+    "wikidata": "https://www.wikidata.org/wiki/Q107317079"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "playdate-season-1",
+    "name": "Playdate, Season 1"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q107317079",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

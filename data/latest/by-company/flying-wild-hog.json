@@ -1,0 +1,94 @@
+{
+  "id": "flying-wild-hog",
+  "name": "Flying Wild Hog",
+  "developed": [
+    {
+      "id": "shadow-warrior-2",
+      "title": "Shadow Warrior 2",
+      "type": "game",
+      "releaseDate": "2016-10-13",
+      "developers": [
+        "flying-wild-hog"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "324800",
+      "reviewCount": 28240,
+      "positivePercentage": 87
+    },
+    {
+      "id": "shadow-warrior-3-definitive-edition",
+      "title": "Shadow Warrior 3: Definitive Edition",
+      "type": "game",
+      "releaseDate": "2022-03-01",
+      "developers": [
+        "flying-wild-hog"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1036890",
+      "reviewCount": 5682,
+      "positivePercentage": 68.8
+    },
+    {
+      "id": "trek-to-yomi",
+      "title": "Trek to Yomi",
+      "type": "game",
+      "releaseDate": "2022-05-05",
+      "developers": [
+        "flying-wild-hog",
+        "leonard-menchiari"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1370050",
+      "reviewCount": 3098,
+      "positivePercentage": 71.2
+    }
+  ],
+  "published": []
+}

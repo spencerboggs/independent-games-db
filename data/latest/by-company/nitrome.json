@@ -1,0 +1,42 @@
+{
+  "id": "nitrome",
+  "name": "Nitrome",
+  "developed": [
+    {
+      "id": "shovel-knight-dig",
+      "title": "Shovel Knight Dig",
+      "type": "game",
+      "releaseDate": "2022-09-23",
+      "developers": [
+        "nitrome",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "simulation",
+        "sports",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1416050",
+      "reviewCount": 909,
+      "positivePercentage": 75.1
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,203 @@
+{
+  "id": "worms",
+  "title": "Worms",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2011-10-19",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Throw a grenade down memory lane with the original and classic turn-based strategy game Worms™! Up to 4 teams of worms do battle over an ever-changing battlefield with falling weapon crates, crazed exploding sheep and more besides. Winner of many industry awards, find out what all the fuss was about.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/70640/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "multi-player",
+    "pvp",
+    "remote-play-together",
+    "shared-split-screen-pvp",
+    "single-player"
+  ],
+  "platforms": [
+    "atari-jaguar",
+    "commodore-amiga",
+    "dos",
+    "game-boy",
+    "game-boy-color",
+    "playstation",
+    "sega-genesis",
+    "sega-saturn",
+    "super-nintendo-entertainment-system",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q278771",
+    "igdb": "worms",
+    "steam": "70640"
+  },
+  "links": {
+    "official": "http://www.facebook.com/WormsTeam17",
+    "steam": "https://store.steampowered.com/app/70640/",
+    "wikidata": "https://www.wikidata.org/wiki/Q278771"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/70640",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_80c22fb7f6202553d84fd2e7e82e2e0d53fe4b6b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_369cd5d007528c49ff35216c73f29881fe641892.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_cc5ad77f974f5b5503d6e6784a59fa81b6e0782d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_1510bde68190c75e92c763eca598446e90a14fc5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_19788f02bf0b50c8d3584dc1e281532b551da79f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_bd8cc7884f2bf99034038d518cdb6ce06358a42b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_caa0454063417f4c4f56347c7d57ada67a643e47.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_16850763a7e4e38cfc92eb76848af0ee2e9a58b4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70640/ss_4ad6950b2998f22be22bd9221ae39539775b7e1e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 707,
+      "positiveCount": 588,
+      "negativeCount": 119,
+      "positivePercentage": 83.2,
+      "negativePercentage": 16.8,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.13,
+      "reviewsPerMonth": 3.9,
+      "windowDays": 5460,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/70640/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q278771",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

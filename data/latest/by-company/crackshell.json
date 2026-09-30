@@ -1,0 +1,32 @@
+{
+  "id": "crackshell",
+  "name": "Crackshell",
+  "developed": [
+    {
+      "id": "serious-sams-bogus-detour",
+      "title": "Serious Sam's Bogus Detour",
+      "type": "game",
+      "releaseDate": "2017-06-20",
+      "developers": [
+        "crackshell",
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": "272620",
+      "reviewCount": 551,
+      "positivePercentage": 81.5
+    }
+  ],
+  "published": []
+}

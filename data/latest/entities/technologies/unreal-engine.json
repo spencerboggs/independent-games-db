@@ -1,0 +1,192 @@
+{
+  "id": "unreal-engine",
+  "name": "Unreal Engine",
+  "aliases": [
+    "UE",
+    "UE3",
+    "UE4",
+    "UE5",
+    "Unreal Engine 2",
+    "Unreal Engine 3",
+    "Unreal Engine 4",
+    "Unreal Engine 5"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Epic Games",
+  "website": "https://www.unrealengine.com",
+  "license": "source-available",
+  "description": {
+    "source": null,
+    "custom": "Version-specific Wikidata items (e.g. Unreal Engine 4, Q13156652) are matched by name."
+  },
+  "externalIds": {
+    "wikidata": "Q608276"
+  },
+  "games": [
+    "a-story-about-my-uncle",
+    "absolver",
+    "alien-breed-2-assault",
+    "alien-breed-3-descent",
+    "ashen",
+    "crossfirex",
+    "deep-rock-galactic",
+    "genesis-alpha-one-deluxe-edition",
+    "goat-simulator",
+    "hell-let-loose",
+    "i-am-dead",
+    "leisure-suit-larry-box-office-bust",
+    "lethal-vr",
+    "lushfoil-photography-sim",
+    "main-assembly",
+    "midnight-ghost-hunt",
+    "minecraft-dungeons",
+    "mortal-shell",
+    "planet-alpha",
+    "ruiner",
+    "sanctum",
+    "sanctum-2",
+    "satisfactory",
+    "shadow-warrior-3-definitive-edition",
+    "silent-hill-townfall",
+    "stray",
+    "the-pathless",
+    "the-talos-principle-2",
+    "viscera-cleanup-detail-shadow-warrior",
+    "what-remains-of-edith-finch",
+    "worms-rumble"
+  ],
+  "statistics": {
+    "gameCount": 31,
+    "companyCount": 28,
+    "totalSteamReviews": 1272003,
+    "mostReviewedGames": [
+      {
+        "id": "deep-rock-galactic",
+        "title": "Deep Rock Galactic",
+        "value": 380471
+      },
+      {
+        "id": "satisfactory",
+        "title": "Satisfactory",
+        "value": 280143
+      },
+      {
+        "id": "stray",
+        "title": "Stray",
+        "value": 178725
+      },
+      {
+        "id": "hell-let-loose",
+        "title": "Hell Let Loose",
+        "value": 149957
+      },
+      {
+        "id": "goat-simulator",
+        "title": "Goat Simulator",
+        "value": 70299
+      },
+      {
+        "id": "what-remains-of-edith-finch",
+        "title": "What Remains of Edith Finch",
+        "value": 53011
+      },
+      {
+        "id": "a-story-about-my-uncle",
+        "title": "A Story About My Uncle",
+        "value": 29243
+      },
+      {
+        "id": "minecraft-dungeons",
+        "title": "Minecraft Dungeons",
+        "value": 19809
+      },
+      {
+        "id": "absolver",
+        "title": "Absolver",
+        "value": 14826
+      },
+      {
+        "id": "sanctum-2",
+        "title": "Sanctum 2",
+        "value": 14391
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "satisfactory",
+        "title": "Satisfactory",
+        "value": 8902
+      },
+      {
+        "id": "deep-rock-galactic",
+        "title": "Deep Rock Galactic",
+        "value": 3673
+      },
+      {
+        "id": "hell-let-loose",
+        "title": "Hell Let Loose",
+        "value": 1584
+      },
+      {
+        "id": "silent-hill-townfall",
+        "title": "SILENT HILL: Townfall",
+        "value": 1518
+      },
+      {
+        "id": "minecraft-dungeons",
+        "title": "Minecraft Dungeons",
+        "value": 745
+      },
+      {
+        "id": "stray",
+        "title": "Stray",
+        "value": 199
+      },
+      {
+        "id": "goat-simulator",
+        "title": "Goat Simulator",
+        "value": 71
+      },
+      {
+        "id": "the-talos-principle-2",
+        "title": "The Talos Principle 2",
+        "value": 55
+      },
+      {
+        "id": "what-remains-of-edith-finch",
+        "title": "What Remains of Edith Finch",
+        "value": 46
+      },
+      {
+        "id": "mortal-shell",
+        "title": "Mortal Shell",
+        "value": 42
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2009": 1,
+      "2010": 2,
+      "2011": 1,
+      "2013": 2,
+      "2014": 2,
+      "2016": 1,
+      "2017": 3,
+      "2018": 1,
+      "2019": 1,
+      "2020": 4,
+      "2021": 5,
+      "2022": 3,
+      "2023": 1,
+      "2024": 2,
+      "2025": 1,
+      "2026": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

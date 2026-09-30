@@ -1,0 +1,79 @@
+{
+  "id": "deconstructeam",
+  "name": "Deconstructeam",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "independent video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q51834381",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://deconstructeam.com",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Valencia",
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2012,
+  "foundedDate": "2012",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q51834381",
+    "igdb": "deconstructeam"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "essays-on-empathy",
+      "gods-will-be-watching",
+      "the-cosmic-wheel-sisterhood",
+      "the-red-strings-club",
+      "virtue-and-a-sledgehammer"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 5,
+    "publishedCount": 0,
+    "totalSteamReviews": 23895,
+    "averagePositivePercentage": 84.1,
+    "weightedPositivePercentage": 90.4,
+    "mostReviewedGame": "the-red-strings-club",
+    "mostRecentRelease": "the-cosmic-wheel-sisterhood",
+    "firstRelease": "gods-will-be-watching",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q51834381",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

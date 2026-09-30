@@ -1,0 +1,31 @@
+{
+  "id": "maze-theory",
+  "name": "Maze Theory",
+  "developed": [
+    {
+      "id": "doctor-who-the-edge-of-time",
+      "title": "Doctor Who: The Edge Of Time",
+      "type": "game",
+      "releaseDate": "2019-11-12",
+      "developers": [
+        "maze-theory"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1075400",
+      "reviewCount": 282,
+      "positivePercentage": 63.5
+    }
+  ],
+  "published": []
+}

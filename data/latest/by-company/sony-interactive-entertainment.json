@@ -1,0 +1,30 @@
+{
+  "id": "sony-interactive-entertainment",
+  "name": "Sony Interactive Entertainment",
+  "developed": [],
+  "published": [
+    {
+      "id": "worms-battle-islands",
+      "title": "Worms: Battle Islands",
+      "type": "game",
+      "releaseDate": "2010-11-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "sony-interactive-entertainment"
+      ],
+      "platforms": [
+        "playstation-portable",
+        "wii"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

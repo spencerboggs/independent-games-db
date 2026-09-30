@@ -1,0 +1,177 @@
+{
+  "id": "deep-rock-galactic-dark-future-pack",
+  "title": "Deep Rock Galactic - Dark Future Pack",
+  "alternateTitles": [],
+  "type": "dlc",
+  "releaseDate": "2020-05-13",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "ghost-ship-games"
+  ],
+  "publishers": [
+    "coffee-stain-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Wanna look your best, Miners? Well, then maybe the Dark Future Pack is for you! The lads down in R&D went all-out on putting together a hard-edged and tactical set of kit especially for our most discerning employees.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1283090/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "captions-available",
+    "co-op",
+    "downloadable-content",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-co-op",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Ukrainian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Turkish",
+    "Spanish - Latin America",
+    "Hungarian",
+    "Romanian"
+  ],
+  "externalIds": {
+    "wikidata": "Q113179275",
+    "igdb": "deep-rock-galactic-dark-future-pack",
+    "steam": "1283090"
+  },
+  "links": {
+    "official": "http://deeprockgalactic.com",
+    "steam": "https://store.steampowered.com/app/1283090/",
+    "wikidata": "https://www.wikidata.org/wiki/Q113179275"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1283090",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/ss_d0c623180b8cf6152a0536a1d5bf0e2a17cce097.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/ss_4a0b8817efe117b3b1f81e244f33f344cdbe4a70.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/ss_0d847198d413e104f46fd6a7c7a9da50734e8093.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/ss_ea3269778cf9f9e0f52b7750353beff643048435.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "deep-rock-galactic",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 581,
+      "positiveCount": 551,
+      "negativeCount": 30,
+      "positivePercentage": 94.8,
+      "negativePercentage": 5.2,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.25,
+      "reviewsPerMonth": 7.6,
+      "windowDays": 2331,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1283090/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q113179275",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

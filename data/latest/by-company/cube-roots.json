@@ -1,0 +1,36 @@
+{
+  "id": "cube-roots",
+  "name": "Cube Roots",
+  "developed": [
+    {
+      "id": "dungeon-hearts",
+      "title": "Dungeon Hearts",
+      "type": "game",
+      "releaseDate": "2013-03-28",
+      "developers": [
+        "cube-roots"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "wii-u",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "229520",
+      "reviewCount": 545,
+      "positivePercentage": 61.8
+    }
+  ],
+  "published": []
+}

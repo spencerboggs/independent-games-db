@@ -1,0 +1,37 @@
+{
+  "id": "fourattic",
+  "name": "Fourattic",
+  "developed": [
+    {
+      "id": "crossing-souls",
+      "title": "Crossing Souls",
+      "type": "game",
+      "releaseDate": "2018-02-13",
+      "developers": [
+        "fourattic"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "331690",
+      "reviewCount": 1552,
+      "positivePercentage": 78.7
+    }
+  ],
+  "published": []
+}

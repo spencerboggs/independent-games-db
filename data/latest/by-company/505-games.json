@@ -1,0 +1,61 @@
+{
+  "id": "505-games",
+  "name": "505 Games",
+  "developed": [],
+  "published": [
+    {
+      "id": "control-awe",
+      "title": "Control: AWE",
+      "type": "expansion",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-the-foundation",
+      "title": "Control: The Foundation",
+      "type": "dlc",
+      "releaseDate": "2020-03-26",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

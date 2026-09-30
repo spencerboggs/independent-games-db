@@ -1,0 +1,44 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/compact-technologies.schema.json",
+  "title": "Technologies (compact)",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "name": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "engine",
+          "middleware",
+          "language",
+          "tool",
+          "framework",
+          "service",
+          "other"
+        ]
+      },
+      "gameCount": {
+        "type": "integer",
+        "minimum": -9007199254740991,
+        "maximum": 9007199254740991
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "category",
+      "gameCount"
+    ],
+    "additionalProperties": false
+  }
+}

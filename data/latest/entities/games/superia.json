@@ -1,0 +1,68 @@
+{
+  "id": "superia",
+  "title": "Superia",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [
+    "british-broadcasting-corporation",
+    "larian-studios"
+  ],
+  "publishers": [
+    "norwegian-broadcasting-corporation"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "adventure-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q7643451",
+    "igdb": "superia"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7643451"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7643451",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

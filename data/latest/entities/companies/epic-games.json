@@ -1,0 +1,80 @@
+{
+  "id": "epic-games",
+  "name": "Epic Games",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game and software developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q739711",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.epicgames.com/",
+  "socialLinks": {
+    "x": "https://x.com/EpicGames"
+  },
+  "location": {
+    "headquarters": "Cary",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 1991,
+  "foundedDate": "1991-01-15",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Sony Group",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q739711",
+    "igdb": "epic-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "alan-wake-2",
+      "alan-wake-ii-night-springs",
+      "alan-wake-ii-the-lake-house",
+      "alan-wake-remastered"
+    ]
+  },
+  "statistics": {
+    "gameCount": 4,
+    "developedCount": 0,
+    "publishedCount": 4,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "alan-wake-ii-the-lake-house",
+    "firstRelease": "alan-wake-remastered",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "northlight-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q739711",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

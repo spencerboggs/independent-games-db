@@ -1,0 +1,77 @@
+{
+  "id": "noct",
+  "title": "Noct",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "post-apocalyptic-video-game",
+    "survival-horror"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q19824810",
+    "igdb": "noct"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19824810"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19824810",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19824810",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

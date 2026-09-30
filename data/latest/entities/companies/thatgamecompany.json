@@ -1,0 +1,75 @@
+{
+  "id": "thatgamecompany",
+  "name": "thatgamecompany",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q286780",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.thatgamecompany.com/",
+  "socialLinks": {
+    "x": "https://x.com/thatgamecompany",
+    "youtube": "https://www.youtube.com/channel/UCMg7SUyZguPQfhygxj2Cj4A"
+  },
+  "location": {
+    "headquarters": "Santa Monica",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2006,
+  "foundedDate": "2006-05-15",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q286780"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "journey"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 38627,
+    "averagePositivePercentage": 94.1,
+    "weightedPositivePercentage": 94.1,
+    "mostReviewedGame": "journey",
+    "mostRecentRelease": "journey",
+    "firstRelease": "journey",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q286780",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

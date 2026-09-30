@@ -1,0 +1,38 @@
+{
+  "id": "outerloop-games",
+  "name": "Outerloop Games",
+  "developed": [
+    {
+      "id": "thirsty-suitors",
+      "title": "Thirsty Suitors",
+      "type": "game",
+      "releaseDate": "2023-11-02",
+      "developers": [
+        "outerloop-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1617220",
+      "reviewCount": 305,
+      "positivePercentage": 95.4
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,215 @@
+{
+  "id": "pikuniku-2",
+  "title": "Pikuniku 2",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2027",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "upcoming",
+  "developers": [
+    "calum-bowen",
+    "remi-forcadell",
+    "sectordub"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Absurd puzzle-exploration adventure Pikuniku 2 brings the whimsy! Wander, solve, and gossip your way through a weird and wonderful world where not everything is as happy as it seems. Protect the potato!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2676350/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "casual",
+    "puzzle"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "single-player"
+  ],
+  "platforms": [
+    "nintendo-switch-2",
+    "personal-computer",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q140139993",
+    "steam": "2676350"
+  },
+  "links": {
+    "official": "http://pikuniku2.com/",
+    "steam": "https://store.steampowered.com/app/2676350/",
+    "wikidata": "https://www.wikidata.org/wiki/Q140139993"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/8141de572ab8af4fd74180b0de510e8a4f91e2fb/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/d27f502b136ca9213bea0509eacecbaffa9f11ac/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2676350",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/6ba655d137aa1e6eca783e12b9c4237133478f96/ss_6ba655d137aa1e6eca783e12b9c4237133478f96.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/a5023007e293f1ccd039d002e5f596c7cae83776/ss_a5023007e293f1ccd039d002e5f596c7cae83776.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/e77f1ba90cca1687287cb71e9c76c8a61ba9d85e/ss_e77f1ba90cca1687287cb71e9c76c8a61ba9d85e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/d0c4cdb673308fb08b76c718702372e365308fbe/ss_d0c4cdb673308fb08b76c718702372e365308fbe.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/f90ab3022f42e7f538002fe14fe1501563257dd0/ss_f90ab3022f42e7f538002fe14fe1501563257dd0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/450015b7e2e22f4f4902b0fd51557fe139b8aba2/ss_450015b7e2e22f4f4902b0fd51557fe139b8aba2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/ac90ba52625a4c740a70265ea0e5e4f3f7ce6118/ss_ac90ba52625a4c740a70265ea0e5e4f3f7ce6118.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/3aa6602fb307a8b70eaf992fd8f5507ba59defb6/ss_3aa6602fb307a8b70eaf992fd8f5507ba59defb6.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/58fc4d67b375c6769116cfe690867db13968f638/ss_58fc4d67b375c6769116cfe690867db13968f638.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/36ded27c118c1eb2403e2c4fa9f4530f0188827a/ss_36ded27c118c1eb2403e2c4fa9f4530f0188827a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/e262d1f51d092503ad585aff57455a6a1ce77bd5/ss_e262d1f51d092503ad585aff57455a6a1ce77bd5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676350/47126bf7898d19822c349b6eaf3b03b3e32f026f/ss_47126bf7898d19822c349b6eaf3b03b3e32f026f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "pikuniku",
+    "name": "Pikuniku"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2676350/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140139993",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

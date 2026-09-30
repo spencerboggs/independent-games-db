@@ -1,0 +1,188 @@
+{
+  "id": "sidekick-publishing",
+  "name": "Sidekick Publishing",
+  "developed": [],
+  "published": [
+    {
+      "id": "9-kings",
+      "title": "9 Kings",
+      "type": "game",
+      "releaseDate": "2025-05-23",
+      "developers": [
+        "sad-socket"
+      ],
+      "publishers": [
+        "hooded-horse",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2784470",
+      "reviewCount": 23385,
+      "positivePercentage": 92.4
+    },
+    {
+      "id": "asgards-fall-viking-survivors",
+      "title": "Asgard's Fall — Viking Survivors",
+      "type": "game",
+      "releaseDate": "2026-09-09",
+      "developers": [
+        "soulpotion"
+      ],
+      "publishers": [
+        "assemble-entertainment",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2780710",
+      "reviewCount": 1435,
+      "positivePercentage": 80.3
+    },
+    {
+      "id": "deadly-days-roadtrip",
+      "title": "Deadly Days: Roadtrip",
+      "type": "game",
+      "releaseDate": "2025-09-22",
+      "developers": [
+        "pixelsplit"
+      ],
+      "publishers": [
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "3026450",
+      "reviewCount": 3013,
+      "positivePercentage": 87.6
+    },
+    {
+      "id": "die-in-the-dungeon",
+      "title": "Die in the Dungeon",
+      "type": "game",
+      "releaseDate": "2026-05-01",
+      "developers": [
+        "atico"
+      ],
+      "publishers": [
+        "hypetrain-digital",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2026820",
+      "reviewCount": 3597,
+      "positivePercentage": 92.1
+    },
+    {
+      "id": "dwarves-glory-death-and-loot",
+      "title": "Dwarves: Glory, Death and Loot",
+      "type": "game",
+      "releaseDate": "2026-01-22",
+      "developers": [
+        "hamma-studios"
+      ],
+      "publishers": [
+        "gamersky-games",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2205850",
+      "reviewCount": 2719,
+      "positivePercentage": 82.3
+    },
+    {
+      "id": "megaloot",
+      "title": "Megaloot",
+      "type": "game",
+      "releaseDate": "2024-08-30",
+      "developers": [
+        "axilirate"
+      ],
+      "publishers": [
+        "ravenage-games",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2440380",
+      "reviewCount": 4011,
+      "positivePercentage": 71.7
+    },
+    {
+      "id": "terrascape",
+      "title": "TerraScape",
+      "type": "game",
+      "releaseDate": "2024-07-17",
+      "developers": [
+        "bitfall-studios"
+      ],
+      "publishers": [
+        "sidekick-publishing",
+        "stray-fawn-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2290000",
+      "reviewCount": 2250,
+      "positivePercentage": 88.6
+    }
+  ]
+}

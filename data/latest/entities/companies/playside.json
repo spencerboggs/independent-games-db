@@ -1,0 +1,58 @@
+{
+  "id": "playside",
+  "name": "PlaySide",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "mouse-p-i-for-hire"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 15864,
+    "averagePositivePercentage": 93.8,
+    "weightedPositivePercentage": 93.8,
+    "mostReviewedGame": "mouse-p-i-for-hire",
+    "mostRecentRelease": "mouse-p-i-for-hire",
+    "firstRelease": "mouse-p-i-for-hire",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

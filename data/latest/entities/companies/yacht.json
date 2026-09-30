@@ -1,0 +1,79 @@
+{
+  "id": "yacht",
+  "name": "Yacht",
+  "aliases": [
+    "YACHT",
+    "Y▲CHT",
+    "Y△CHT"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American band",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2655601",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://teamyacht.com",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/teamyacht.com",
+    "x": "https://x.com/YACHT"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2655601"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "blippo"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 425,
+    "averagePositivePercentage": 95.5,
+    "weightedPositivePercentage": 95.5,
+    "mostReviewedGame": "blippo",
+    "mostRecentRelease": "blippo",
+    "firstRelease": "blippo",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2655601",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

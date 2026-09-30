@@ -1,0 +1,39 @@
+{
+  "id": "wonderscope-games",
+  "name": "Wonderscope Games",
+  "developed": [
+    {
+      "id": "hokko-life",
+      "title": "Hokko Life",
+      "type": "game",
+      "releaseDate": "2022-09-27",
+      "developers": [
+        "wonderscope-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "life-simulation-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "824000",
+      "reviewCount": 2673,
+      "positivePercentage": 66.2
+    }
+  ],
+  "published": []
+}

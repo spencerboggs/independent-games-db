@@ -1,0 +1,40 @@
+{
+  "id": "lavapotion",
+  "name": "Lavapotion",
+  "developed": [
+    {
+      "id": "songs-of-conquest",
+      "title": "Songs of Conquest",
+      "type": "game",
+      "releaseDate": "2024-05-20",
+      "developers": [
+        "lavapotion"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "867210",
+      "reviewCount": 13570,
+      "positivePercentage": 85.6
+    }
+  ],
+  "published": []
+}

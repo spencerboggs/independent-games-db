@@ -1,0 +1,35 @@
+{
+  "id": "ubisoft",
+  "name": "Ubisoft",
+  "developed": [],
+  "published": [
+    {
+      "id": "the-rogue-prince-of-persia",
+      "title": "The Rogue Prince of Persia",
+      "type": "game",
+      "releaseDate": "2025-08-20",
+      "developers": [
+        "evil-empire"
+      ],
+      "publishers": [
+        "ubisoft"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "2717880",
+      "reviewCount": 2920,
+      "positivePercentage": 89.9
+    }
+  ]
+}

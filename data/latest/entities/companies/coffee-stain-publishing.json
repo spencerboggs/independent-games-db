@@ -1,0 +1,102 @@
+{
+  "id": "coffee-stain-publishing",
+  "name": "Coffee Stain Publishing",
+  "aliases": [
+    "Coffee Stain Publishing AB"
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q116983863",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.coffeestainpublishing.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q116983863"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-publisher",
+    "notes": "Publishing arm of the Coffee Stain group (previously owned by Embracer Group). Separate entity from Coffee Stain Studios."
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "a-story-about-my-uncle",
+      "as-we-descend",
+      "deep-rock-galactic",
+      "deep-rock-galactic-dark-future-pack",
+      "deep-rock-galactic-dawn-of-the-dread-pack",
+      "deep-rock-galactic-megacorp-pack",
+      "deep-rock-galactic-rival-tech-pack",
+      "deep-rock-galactic-robot-rebellion-pack",
+      "deep-rock-galactic-roughneck-pack",
+      "goat-simulator",
+      "goat-simulator-3",
+      "goat-simulator-remastered",
+      "huntdown",
+      "huntdown-overtime",
+      "into-the-unwell",
+      "midnight-ghost-hunt",
+      "puppet-fever",
+      "sanctum",
+      "sanctum-2",
+      "satisfactory",
+      "songs-of-conquest",
+      "super-sanctum-td",
+      "valheim"
+    ]
+  },
+  "statistics": {
+    "gameCount": 23,
+    "developedCount": 0,
+    "publishedCount": 23,
+    "totalSteamReviews": 1383221,
+    "averagePositivePercentage": 91.7,
+    "weightedPositivePercentage": 95,
+    "mostReviewedGame": "valheim",
+    "mostRecentRelease": "valheim",
+    "firstRelease": "sanctum",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116983863",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

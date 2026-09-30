@@ -1,0 +1,59 @@
+{
+  "id": "artificer",
+  "name": "Artificer",
+  "developed": [
+    {
+      "id": "minos",
+      "title": "MINOS",
+      "type": "game",
+      "releaseDate": "2026-04-09",
+      "developers": [
+        "artificer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelite",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3181650",
+      "reviewCount": 608,
+      "positivePercentage": 89.3
+    },
+    {
+      "id": "sumerian-six",
+      "title": "Sumerian Six",
+      "type": "game",
+      "releaseDate": "2024-09-02",
+      "developers": [
+        "artificer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1429850",
+      "reviewCount": 1280,
+      "positivePercentage": 94.5
+    }
+  ],
+  "published": []
+}

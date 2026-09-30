@@ -1,0 +1,33 @@
+{
+  "id": "iridium-studios",
+  "name": "Iridium Studios",
+  "developed": [
+    {
+      "id": "people-of-note",
+      "title": "People of Note",
+      "type": "game",
+      "releaseDate": "2026-04-07",
+      "developers": [
+        "iridium-studios"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "rpg",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [],
+      "steamAppId": "1626170",
+      "reviewCount": 472,
+      "positivePercentage": 90.7
+    }
+  ],
+  "published": []
+}

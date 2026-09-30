@@ -1,0 +1,76 @@
+{
+  "id": "mouldy-toof-studios",
+  "name": "Mouldy Toof Studios",
+  "developed": [
+    {
+      "id": "the-escapists",
+      "title": "The Escapists",
+      "type": "game",
+      "releaseDate": "2015-02-13",
+      "developers": [
+        "mouldy-toof-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "christmas-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "298630",
+      "reviewCount": 16209,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "the-escapists-2",
+      "title": "The Escapists 2",
+      "type": "game",
+      "releaseDate": "2017-08-21",
+      "developers": [
+        "mouldy-toof-studios",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "christmas-video-game",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "641990",
+      "reviewCount": 33846,
+      "positivePercentage": 90.6
+    }
+  ],
+  "published": []
+}

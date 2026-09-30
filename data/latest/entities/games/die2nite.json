@@ -1,0 +1,64 @@
+{
+  "id": "die2nite",
+  "title": "Die2Nite",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2008-07-15",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "motion-twin"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "survival"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q6171491",
+    "igdb": "die2nite"
+  },
+  "links": {
+    "official": "http://www.die2nite.com/",
+    "wikidata": "https://www.wikidata.org/wiki/Q6171491"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6171491",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

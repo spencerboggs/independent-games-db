@@ -1,0 +1,183 @@
+{
+  "id": "death-rally",
+  "title": "Death Rally",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2012-08-03",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "cornfox-and-brothers",
+    "mountain-sheep",
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "remedy-entertainment"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Load your guns, start your engines...THE CLASSIC IS BACK! Brought to you from Remedy, renowned developers of Max Payne and Alan Wake, Remedy's Death Rally classic top down racer is back, stronger and more vicious than ever.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/108700/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "racing",
+    "racing-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "multi-player",
+    "single-player"
+  ],
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q132166495",
+    "igdb": "death-rally--1",
+    "steam": "108700"
+  },
+  "links": {
+    "official": "http://www.remedygames.com",
+    "steam": "https://store.steampowered.com/app/108700/",
+    "wikidata": "https://www.wikidata.org/wiki/Q132166495"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/108700",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_fe1b54a7e591ab1fbf70dd1c18572c8cb6ea65eb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_b60d8988d7f0d385030d8b23b17a5cc7b4458cd3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_484cc898523fd6a969f8e1fb5833fd6a08aea416.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_f7039e0d8b9f1e4398598e1760386490d5dafcc7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_f618cb445d32c6fba734d51ab85caf7a55f5cb8a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_42a5a46f03f740ad2aede91a928aedbddddcc569.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108700/ss_0db2aba6537517fccfd7144b58b649976191643c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "death-rally",
+    "name": "Death Rally"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 909,
+      "positiveCount": 644,
+      "negativeCount": 265,
+      "positivePercentage": 70.8,
+      "negativePercentage": 29.2,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.18,
+      "reviewsPerMonth": 5.4,
+      "windowDays": 5171,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/108700/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q132166495",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

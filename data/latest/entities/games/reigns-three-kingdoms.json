@@ -1,0 +1,190 @@
+{
+  "id": "reigns-three-kingdoms",
+  "title": "Reigns: Three Kingdoms",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2024-01-11",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "nerial"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Swipe through military negotiations, marry to strengthen alliances and recruit soldiers to fight in turn-based card battles in this historical epic.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2437040/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "casual",
+    "casual-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "online-pvp",
+    "pvp",
+    "single-player",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "android",
+    "ios",
+    "nintendo-switch",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Korean",
+    "Spanish - Latin America",
+    "Japanese",
+    "Polish",
+    "Portuguese - Portugal",
+    "Thai",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q124154756",
+    "igdb": "reigns-three-kingdoms",
+    "steam": "2437040"
+  },
+  "links": {
+    "official": "https://www.reignsgame.com/",
+    "steam": "https://store.steampowered.com/app/2437040/",
+    "wikidata": "https://www.wikidata.org/wiki/Q124154756"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2437040",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_076407c31b1a6d46eed6d16836671885c4800887.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_44921ba10a1d89175e1eec86f9f0f756f1310193.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_bf88db449cb0a9e4f679633fdd436e373f6a44dc.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_f8c7f30286fa98c2b7dbe0112f85a0f65930d0ad.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_915e5b6cbced83965364fe3d5e6bc1b230ce4c25.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437040/ss_fb2214d9c4ac328e101078ae748c6fa328a6218f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 362,
+      "positiveCount": 193,
+      "negativeCount": 169,
+      "positivePercentage": 53.3,
+      "negativePercentage": 46.7,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.36,
+      "reviewsPerMonth": 11.1,
+      "windowDays": 993,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2437040/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q124154756",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

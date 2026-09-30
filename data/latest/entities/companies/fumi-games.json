@@ -1,0 +1,66 @@
+{
+  "id": "fumi-games",
+  "name": "Fumi Games",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Independent studio in Warsaw."
+  },
+  "games": {
+    "developed": [
+      "galaxi-taxi",
+      "mouse-p-i-for-hire"
+    ],
+    "published": [
+      "galaxi-taxi"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 1,
+    "totalSteamReviews": 15864,
+    "averagePositivePercentage": 93.8,
+    "weightedPositivePercentage": 93.8,
+    "mostReviewedGame": "mouse-p-i-for-hire",
+    "mostRecentRelease": "mouse-p-i-for-hire",
+    "firstRelease": "mouse-p-i-for-hire",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

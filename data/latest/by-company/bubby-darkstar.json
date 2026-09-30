@@ -1,0 +1,32 @@
+{
+  "id": "bubby-darkstar",
+  "name": "Bubby Darkstar",
+  "developed": [
+    {
+      "id": "subway-midnight",
+      "title": "Subway Midnight",
+      "type": "game",
+      "releaseDate": "2021-10-28",
+      "developers": [
+        "bubby-darkstar"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "detective-video-game",
+        "horror-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1750570",
+      "reviewCount": 1330,
+      "positivePercentage": 77.4
+    }
+  ],
+  "published": []
+}

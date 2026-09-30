@@ -1,0 +1,77 @@
+{
+  "id": "stormind-games",
+  "name": "Stormind Games",
+  "aliases": [
+    "Stormind S.R.L"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Italian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q100343122",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.stormindgames.com",
+  "socialLinks": {
+    "x": "https://x.com/stormindgames"
+  },
+  "location": {
+    "headquarters": "Catania",
+    "country": "IT",
+    "countryName": "Italy"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q100343122",
+    "igdb": "stormind-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "batora-lost-haven"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 453,
+    "averagePositivePercentage": 65.1,
+    "weightedPositivePercentage": 65.1,
+    "mostReviewedGame": "batora-lost-haven",
+    "mostRecentRelease": "batora-lost-haven",
+    "firstRelease": "batora-lost-haven",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q100343122",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

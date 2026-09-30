@@ -1,0 +1,35 @@
+{
+  "id": "tinybuild",
+  "name": "tinyBuild",
+  "developed": [],
+  "published": [
+    {
+      "id": "clustertruck",
+      "title": "Clustertruck",
+      "type": "game",
+      "releaseDate": "2016-09-27",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "tinybuild"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "397950",
+      "reviewCount": 18589,
+      "positivePercentage": 93.5
+    }
+  ]
+}

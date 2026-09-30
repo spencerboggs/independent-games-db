@@ -1,0 +1,64 @@
+{
+  "id": "dodge-roll",
+  "name": "Dodge Roll",
+  "developed": [
+    {
+      "id": "enter-the-gungeon",
+      "title": "Enter the Gungeon",
+      "type": "game",
+      "releaseDate": "2016-04-05",
+      "developers": [
+        "dodge-roll"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelike",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "311690",
+      "reviewCount": 89921,
+      "positivePercentage": 95.1
+    },
+    {
+      "id": "enter-the-gungeon-2",
+      "title": "Enter the Gungeon 2",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "dodge-roll"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike",
+        "adventure",
+        "bullet-hell"
+      ],
+      "engines": [],
+      "steamAppId": "2339840",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

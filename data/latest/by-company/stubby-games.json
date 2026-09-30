@@ -1,0 +1,65 @@
+{
+  "id": "stubby-games",
+  "name": "Stubby Games",
+  "developed": [
+    {
+      "id": "the-entropy-centre",
+      "title": "The Entropy Centre",
+      "type": "game",
+      "releaseDate": "2022-11-03",
+      "developers": [
+        "stubby-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1730590",
+      "reviewCount": 4470,
+      "positivePercentage": 89
+    },
+    {
+      "id": "void-breaker",
+      "title": "VOID/BREAKER",
+      "type": "game",
+      "releaseDate": "2025-08-19",
+      "developers": [
+        "stubby-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "rpg",
+        "simulation",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "2615540",
+      "reviewCount": 2755,
+      "positivePercentage": 91.5
+    }
+  ],
+  "published": []
+}

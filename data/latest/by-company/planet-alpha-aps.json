@@ -1,0 +1,37 @@
+{
+  "id": "planet-alpha-aps",
+  "name": "Planet Alpha ApS",
+  "developed": [
+    {
+      "id": "planet-alpha",
+      "title": "PLANET ALPHA",
+      "type": "game",
+      "releaseDate": "2018-09-04",
+      "developers": [
+        "planet-alpha-aps"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "485030",
+      "reviewCount": 1136,
+      "positivePercentage": 70
+    }
+  ],
+  "published": []
+}

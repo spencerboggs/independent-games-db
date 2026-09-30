@@ -1,0 +1,33 @@
+{
+  "id": "fusionplay",
+  "name": "FusionPlay",
+  "developed": [
+    {
+      "id": "nice-day-for-fishing",
+      "title": "Nice Day for Fishing",
+      "type": "game",
+      "releaseDate": "2025-05-29",
+      "developers": [
+        "fusionplay"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "2393160",
+      "reviewCount": 3213,
+      "positivePercentage": 83.3
+    }
+  ],
+  "published": []
+}

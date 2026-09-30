@@ -1,0 +1,58 @@
+{
+  "id": "planet-alpha-aps",
+  "name": "Planet Alpha ApS",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "planet-alpha"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1136,
+    "averagePositivePercentage": 70,
+    "weightedPositivePercentage": 70,
+    "mostReviewedGame": "planet-alpha",
+    "mostRecentRelease": "planet-alpha",
+    "firstRelease": "planet-alpha",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

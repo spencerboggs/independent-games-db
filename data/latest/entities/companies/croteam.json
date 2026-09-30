@@ -1,0 +1,108 @@
+{
+  "id": "croteam",
+  "name": "Croteam",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Croatian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2340010",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.croteam.com",
+  "socialLinks": {
+    "x": "https://x.com/croteam"
+  },
+  "location": {
+    "headquarters": "Zagreb",
+    "country": "HR",
+    "countryName": "Croatia"
+  },
+  "founded": 1993,
+  "foundedDate": "1993",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": "devolver-digital",
+    "parentCompanyName": "Devolver Digital",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2340010",
+    "igdb": "croteam"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "i-hate-running-backwards",
+      "serious-sam-3-bfe",
+      "serious-sam-3-bonus-content-dlc",
+      "serious-sam-4",
+      "serious-sam-classic-the-first-encounter",
+      "serious-sam-classics-revolution",
+      "serious-sam-double-d-xxl",
+      "serious-sam-fusion-2017-beta",
+      "serious-sam-hd-gold-edition",
+      "serious-sam-hd-the-first-encounter",
+      "serious-sam-hd-the-second-encounter",
+      "serious-sam-hd-the-second-encounter-serious-8-dlc",
+      "serious-sam-ii",
+      "serious-sam-siberian-mayhem",
+      "serious-sam-the-random-encounter",
+      "serious-sam-tormental",
+      "serious-sams-bogus-detour",
+      "the-talos-principle",
+      "the-talos-principle-2",
+      "the-talos-principle-3",
+      "the-talos-principle-reawakened",
+      "the-talos-principle-road-to-gehenna"
+    ],
+    "published": [
+      "serious-sam-fusion-2017-beta",
+      "serious-sam-vr-the-first-encounter",
+      "serious-sam-vr-the-last-hope",
+      "serious-sam-vr-the-second-encounter",
+      "the-talos-principle"
+    ]
+  },
+  "statistics": {
+    "gameCount": 25,
+    "developedCount": 22,
+    "publishedCount": 5,
+    "totalSteamReviews": 143278,
+    "averagePositivePercentage": 86.4,
+    "weightedPositivePercentage": 90.6,
+    "mostReviewedGame": "the-talos-principle",
+    "mostRecentRelease": "the-talos-principle-reawakened",
+    "firstRelease": "serious-sam-hd-the-first-encounter",
+    "technologyCount": 4,
+    "engineCount": 4,
+    "engines": [
+      "gamemaker",
+      "microsoft-xna",
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2340010",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

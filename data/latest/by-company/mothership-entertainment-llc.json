@@ -1,0 +1,33 @@
+{
+  "id": "mothership-entertainment-llc",
+  "name": "Mothership Entertainment LLC",
+  "developed": [
+    {
+      "id": "aven-colony",
+      "title": "Aven Colony",
+      "type": "game",
+      "releaseDate": "2017-07-25",
+      "developers": [
+        "mothership-entertainment-llc"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "city-building-game",
+        "science-fiction-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "484900",
+      "reviewCount": 2789,
+      "positivePercentage": 72
+    }
+  ],
+  "published": []
+}

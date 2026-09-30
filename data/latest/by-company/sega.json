@@ -1,0 +1,32 @@
+{
+  "id": "sega",
+  "name": "Sega",
+  "developed": [],
+  "published": [
+    {
+      "id": "worms-forts-under-siege",
+      "title": "Worms Forts: Under Siege",
+      "type": "game",
+      "releaseDate": "2004-11-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "sega"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "cold-symmetry",
+  "name": "Cold Symmetry",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q124300214",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.coldsymmetry.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2017,
+  "foundedDate": "2017",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q124300214",
+    "igdb": "cold-symmetry"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "mortal-shell",
+      "mortal-shell-enhanced-edition",
+      "mortal-shell-ii"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 33374,
+    "averagePositivePercentage": 73.1,
+    "weightedPositivePercentage": 74.7,
+    "mostReviewedGame": "mortal-shell-ii",
+    "mostRecentRelease": "mortal-shell-ii",
+    "firstRelease": "mortal-shell-enhanced-edition",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q124300214",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

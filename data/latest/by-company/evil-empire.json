@@ -1,0 +1,149 @@
+{
+  "id": "evil-empire",
+  "name": "Evil Empire",
+  "developed": [
+    {
+      "id": "castlevania-belmonts-curse",
+      "title": "Castlevania: Belmont's Curse",
+      "type": "game",
+      "releaseDate": "2026-10-14",
+      "developers": [
+        "evil-empire",
+        "konami"
+      ],
+      "publishers": [
+        "konami"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "4231820",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "dead-cells-fatal-falls",
+      "title": "Dead Cells: Fatal Falls",
+      "type": "dlc",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "evil-empire",
+        "motion-twin"
+      ],
+      "publishers": [
+        "motion-twin"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1451460",
+      "reviewCount": 560,
+      "positivePercentage": 93.6
+    },
+    {
+      "id": "dead-cells-the-bad-seed",
+      "title": "Dead Cells: The Bad Seed",
+      "type": "dlc",
+      "releaseDate": "2020-02-11",
+      "developers": [
+        "evil-empire",
+        "motion-twin"
+      ],
+      "publishers": [
+        "motion-twin"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1204130",
+      "reviewCount": 815,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "dead-cells-the-queen-and-the-sea",
+      "title": "Dead Cells: The Queen and the Sea",
+      "type": "dlc",
+      "releaseDate": "2022-01-06",
+      "developers": [
+        "evil-empire",
+        "motion-twin"
+      ],
+      "publishers": [
+        "motion-twin"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "1580050",
+      "reviewCount": 631,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "the-rogue-prince-of-persia",
+      "title": "The Rogue Prince of Persia",
+      "type": "game",
+      "releaseDate": "2025-08-20",
+      "developers": [
+        "evil-empire"
+      ],
+      "publishers": [
+        "ubisoft"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "2717880",
+      "reviewCount": 2920,
+      "positivePercentage": 89.9
+    }
+  ],
+  "published": []
+}

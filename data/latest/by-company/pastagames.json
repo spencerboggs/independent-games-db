@@ -1,0 +1,34 @@
+{
+  "id": "pastagames",
+  "name": "Pastagames",
+  "developed": [
+    {
+      "id": "karmazoo",
+      "title": "KarmaZoo",
+      "type": "game",
+      "releaseDate": "2023-11-14",
+      "developers": [
+        "pastagames"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "1661630",
+      "reviewCount": 1420,
+      "positivePercentage": 86.5
+    }
+  ],
+  "published": []
+}

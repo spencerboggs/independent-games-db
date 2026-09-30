@@ -1,0 +1,195 @@
+{
+  "id": "rise-of-the-slime",
+  "title": "Rise of the Slime",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2021-05-20",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "bunkovsky-games"
+  ],
+  "publishers": [
+    "playstack"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Be the hero that no-one saw coming. Help Slime defy the odds by playing insanely powerful cards in this charming, relaxing and strategic deckbuilding adventure.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/826740/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "collectible-card-video-game",
+    "roguelike",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements"
+  ],
+  "platforms": [
+    "playstation-4",
+    "playstation-5",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q122353970",
+    "igdb": "rise-of-the-slime",
+    "steam": "826740"
+  },
+  "links": {
+    "official": "http://www.riseoftheslime.com/",
+    "steam": "https://store.steampowered.com/app/826740/",
+    "wikidata": "https://www.wikidata.org/wiki/Q122353970"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_06572947cd4603dc4ccb24967aedc98a5a43f2a2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_71d8a63cb4cafa010c7f70a5989e841256110c6a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_d90f717346d8753d0396c859054cb90d559c92ac.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_6821707163a90a1558b46b31d301da56f6ac4c39.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_ec10da447de2abf581f1656ddbd4aff4f83a2da1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_2117da0b41bfca74fbefc02c9b68a41788ee5083.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_667f9b3bb7f5c50be791e8acd052c79b1b0ca1c2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_646f54fbe2b604c7b58b11ae7bed063a79e763d9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/826740/ss_a9f8f86242bf29d44182c6dd33096ef6d33cc6d9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 147,
+      "positiveCount": 90,
+      "negativeCount": 57,
+      "positivePercentage": 61.2,
+      "negativePercentage": 38.8,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.08,
+      "reviewsPerMonth": 2.3,
+      "windowDays": 1959,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/826740/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q122353970",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

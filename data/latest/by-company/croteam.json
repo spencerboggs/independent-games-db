@@ -1,0 +1,713 @@
+{
+  "id": "croteam",
+  "name": "Croteam",
+  "developed": [
+    {
+      "id": "i-hate-running-backwards",
+      "title": "I Hate Running Backwards",
+      "type": "game",
+      "releaseDate": "2018-05-22",
+      "developers": [
+        "binx-games",
+        "croteam",
+        "croteam-incubator"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "575820",
+      "reviewCount": 245,
+      "positivePercentage": 74.7
+    },
+    {
+      "id": "serious-sam-3-bfe",
+      "title": "Serious Sam 3: BFE",
+      "type": "game",
+      "releaseDate": "2011-11-22",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-3",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "41070",
+      "reviewCount": 28750,
+      "positivePercentage": 88.2
+    },
+    {
+      "id": "serious-sam-3-bonus-content-dlc",
+      "title": "Serious Sam 3 Bonus Content DLC",
+      "type": "dlc",
+      "releaseDate": null,
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "616060",
+      "reviewCount": 0,
+      "positivePercentage": null
+    },
+    {
+      "id": "serious-sam-4",
+      "title": "Serious Sam 4",
+      "type": "game",
+      "releaseDate": "2020-09-24",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "257420",
+      "reviewCount": 17823,
+      "positivePercentage": 83.3
+    },
+    {
+      "id": "serious-sam-classic-the-first-encounter",
+      "title": "Serious Sam Classic: The First Encounter",
+      "type": "game",
+      "releaseDate": "2019-08-30",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "41050",
+      "reviewCount": 3506,
+      "positivePercentage": 95.8
+    },
+    {
+      "id": "serious-sam-classics-revolution",
+      "title": "Serious Sam Classics: Revolution",
+      "type": "game",
+      "releaseDate": "2019-08-30",
+      "developers": [
+        "alligator-pit",
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "227780",
+      "reviewCount": 3854,
+      "positivePercentage": 89.8
+    },
+    {
+      "id": "serious-sam-double-d-xxl",
+      "title": "Serious Sam Double D XXL",
+      "type": "game",
+      "releaseDate": "2011-08-30",
+      "developers": [
+        "croteam",
+        "mommys-best-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "microsoft-xna"
+      ],
+      "steamAppId": "111600",
+      "reviewCount": 886,
+      "positivePercentage": 82.2
+    },
+    {
+      "id": "serious-sam-fusion-2017-beta",
+      "title": "Serious Sam Fusion 2017 (beta)",
+      "type": "game",
+      "releaseDate": "2017-03-20",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "564310",
+      "reviewCount": 5616,
+      "positivePercentage": 92.7
+    },
+    {
+      "id": "serious-sam-hd-gold-edition",
+      "title": "Serious Sam HD: Gold Edition",
+      "type": "game",
+      "releaseDate": "2010-09-23",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "901553",
+      "reviewCount": 0,
+      "positivePercentage": null
+    },
+    {
+      "id": "serious-sam-hd-the-first-encounter",
+      "title": "Serious Sam HD: The First Encounter",
+      "type": "game",
+      "releaseDate": "2009-11-24",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "41000",
+      "reviewCount": 9027,
+      "positivePercentage": 93
+    },
+    {
+      "id": "serious-sam-hd-the-second-encounter",
+      "title": "Serious Sam HD: The Second Encounter",
+      "type": "game",
+      "releaseDate": "2010-04-28",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "41014",
+      "reviewCount": 978,
+      "positivePercentage": 91.3
+    },
+    {
+      "id": "serious-sam-hd-the-second-encounter-serious-8-dlc",
+      "title": "Serious Sam HD: The Second Encounter - Serious 8 DLC",
+      "type": "dlc",
+      "releaseDate": "2011",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "41046",
+      "reviewCount": 0,
+      "positivePercentage": null
+    },
+    {
+      "id": "serious-sam-ii",
+      "title": "Serious Sam II",
+      "type": "game",
+      "releaseDate": "2012-01-31",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "204340",
+      "reviewCount": 14326,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "serious-sam-siberian-mayhem",
+      "title": "Serious Sam: Siberian Mayhem",
+      "type": "game",
+      "releaseDate": "2022-01-25",
+      "developers": [
+        "croteam",
+        "timelock-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1792250",
+      "reviewCount": 5262,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "serious-sam-the-random-encounter",
+      "title": "Serious Sam: The Random Encounter",
+      "type": "game",
+      "releaseDate": "2011-10-24",
+      "developers": [
+        "croteam",
+        "vlambeer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "shoot-em-up",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "201480",
+      "reviewCount": 819,
+      "positivePercentage": 49
+    },
+    {
+      "id": "serious-sam-tormental",
+      "title": "Serious Sam: Tormental",
+      "type": "game",
+      "releaseDate": "2022-04-08",
+      "developers": [
+        "croteam",
+        "gungrounds-macanga-games-j-d-o-o"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "640340",
+      "reviewCount": 267,
+      "positivePercentage": 75.7
+    },
+    {
+      "id": "serious-sams-bogus-detour",
+      "title": "Serious Sam's Bogus Detour",
+      "type": "game",
+      "releaseDate": "2017-06-20",
+      "developers": [
+        "crackshell",
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": "272620",
+      "reviewCount": 551,
+      "positivePercentage": 81.5
+    },
+    {
+      "id": "the-talos-principle",
+      "title": "The Talos Principle",
+      "type": "game",
+      "releaseDate": "2014-12-11",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "puzzle",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "257510",
+      "reviewCount": 33077,
+      "positivePercentage": 95.3
+    },
+    {
+      "id": "the-talos-principle-2",
+      "title": "The Talos Principle 2",
+      "type": "game",
+      "releaseDate": "2023-11-02",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "835960",
+      "reviewCount": 13433,
+      "positivePercentage": 94.9
+    },
+    {
+      "id": "the-talos-principle-3",
+      "title": "The Talos Principle 3",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "3703630",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "the-talos-principle-reawakened",
+      "title": "The Talos Principle: Reawakened",
+      "type": "game",
+      "releaseDate": "2025-04-10",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "2806640",
+      "reviewCount": 1197,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-talos-principle-road-to-gehenna",
+      "title": "The Talos Principle: Road To Gehenna",
+      "type": "dlc",
+      "releaseDate": "2015-07-23",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "358470",
+      "reviewCount": 1220,
+      "positivePercentage": 95.4
+    }
+  ],
+  "published": [
+    {
+      "id": "serious-sam-fusion-2017-beta",
+      "title": "Serious Sam Fusion 2017 (beta)",
+      "type": "game",
+      "releaseDate": "2017-03-20",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "564310",
+      "reviewCount": 5616,
+      "positivePercentage": 92.7
+    },
+    {
+      "id": "serious-sam-vr-the-first-encounter",
+      "title": "Serious Sam VR: The First Encounter",
+      "type": "game",
+      "releaseDate": "2017-03-30",
+      "developers": [
+        "croteam-vr"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "552450",
+      "reviewCount": 753,
+      "positivePercentage": 87.8
+    },
+    {
+      "id": "serious-sam-vr-the-last-hope",
+      "title": "Serious Sam VR: The Last Hope",
+      "type": "game",
+      "releaseDate": "2017-09-20",
+      "developers": [
+        "croteam-vr"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "465240",
+      "reviewCount": 1433,
+      "positivePercentage": 84.8
+    },
+    {
+      "id": "serious-sam-vr-the-second-encounter",
+      "title": "Serious Sam VR: The Second Encounter",
+      "type": "game",
+      "releaseDate": "2017-04-04",
+      "developers": [
+        "croteam-vr"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "552460",
+      "reviewCount": 255,
+      "positivePercentage": 85.9
+    },
+    {
+      "id": "the-talos-principle",
+      "title": "The Talos Principle",
+      "type": "game",
+      "releaseDate": "2014-12-11",
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "croteam",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "puzzle",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "257510",
+      "reviewCount": 33077,
+      "positivePercentage": 95.3
+    }
+  ]
+}

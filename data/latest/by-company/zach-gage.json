@@ -1,0 +1,29 @@
+{
+  "id": "zach-gage",
+  "name": "Zach Gage",
+  "developed": [
+    {
+      "id": "snak",
+      "title": "Snak",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "zach-gage"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

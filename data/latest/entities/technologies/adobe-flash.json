@@ -1,0 +1,54 @@
+{
+  "id": "adobe-flash",
+  "name": "Adobe Flash",
+  "aliases": [
+    "Adobe Animate",
+    "Flash",
+    "Macromedia Flash"
+  ],
+  "category": "framework",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q165658"
+  },
+  "games": [
+    "luftrausers",
+    "my-brute"
+  ],
+  "statistics": {
+    "gameCount": 2,
+    "companyCount": 3,
+    "totalSteamReviews": 4527,
+    "mostReviewedGames": [
+      {
+        "id": "luftrausers",
+        "title": "LUFTRAUSERS",
+        "value": 4527
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "luftrausers",
+        "title": "LUFTRAUSERS",
+        "value": 1
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2009": 1,
+      "2014": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

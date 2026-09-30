@@ -1,0 +1,75 @@
+{
+  "id": "funomena",
+  "name": "Funomena",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "game studio in San Francisco",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q84493878",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.funomena.com",
+  "socialLinks": {
+    "x": "https://x.com/funomena"
+  },
+  "location": {
+    "headquarters": "San Francisco",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2013,
+  "foundedDate": "2013-01",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q84493878",
+    "igdb": "funomena"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "wattam"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 600,
+    "averagePositivePercentage": 84.7,
+    "weightedPositivePercentage": 84.7,
+    "mostReviewedGame": "wattam",
+    "mostRecentRelease": "wattam",
+    "firstRelease": "wattam",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q84493878",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

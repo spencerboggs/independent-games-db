@@ -1,0 +1,61 @@
+{
+  "id": "jw",
+  "name": "JW",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "disc-room",
+      "minit",
+      "minit-fun-racer"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 4360,
+    "averagePositivePercentage": 92.9,
+    "weightedPositivePercentage": 90.8,
+    "mostReviewedGame": "minit",
+    "mostRecentRelease": "minit-fun-racer",
+    "firstRelease": "minit",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "gamemaker",
+      "unity"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

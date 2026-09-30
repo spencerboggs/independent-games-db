@@ -1,0 +1,35 @@
+{
+  "id": "landfall-west",
+  "name": "Landfall West",
+  "developed": [
+    {
+      "id": "stick-fight-the-game",
+      "title": "Stick Fight: The Game",
+      "type": "game",
+      "releaseDate": "2017-09-28",
+      "developers": [
+        "landfall-west"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "fighting-game"
+      ],
+      "engines": [],
+      "steamAppId": "674940",
+      "reviewCount": 125466,
+      "positivePercentage": 93.5
+    }
+  ],
+  "published": []
+}

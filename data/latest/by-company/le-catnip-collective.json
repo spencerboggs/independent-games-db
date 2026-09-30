@@ -1,0 +1,31 @@
+{
+  "id": "le-catnip-collective",
+  "name": "Le Catnip Collective",
+  "developed": [
+    {
+      "id": "jumping-jazz-cats",
+      "title": "Jumping Jazz Cats",
+      "type": "game",
+      "releaseDate": "2025-05-20",
+      "developers": [
+        "le-catnip-collective"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "party-video-game",
+        "racing"
+      ],
+      "engines": [],
+      "steamAppId": "1951780",
+      "reviewCount": 188,
+      "positivePercentage": 76.1
+    }
+  ],
+  "published": []
+}

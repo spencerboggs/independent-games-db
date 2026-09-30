@@ -1,0 +1,35 @@
+{
+  "id": "coffee-powered-machine",
+  "name": "Coffee Powered Machine",
+  "developed": [
+    {
+      "id": "okhlos-omega",
+      "title": "Okhlos: Omega",
+      "type": "game",
+      "releaseDate": "2016-08-18",
+      "developers": [
+        "coffee-powered-machine"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "400180",
+      "reviewCount": 868,
+      "positivePercentage": 76.5
+    }
+  ],
+  "published": []
+}

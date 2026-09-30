@@ -1,0 +1,109 @@
+{
+  "id": "mojang",
+  "name": "Mojang Studios",
+  "aliases": [
+    "Mojang",
+    "Mojang AB",
+    "Mojang Specifications"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1129295",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.mojang.com/",
+  "socialLinks": {
+    "x": "https://x.com/Mojang"
+  },
+  "location": {
+    "headquarters": "Stockholm",
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": 2009,
+  "foundedDate": "2009",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Xbox",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q1129295",
+    "igdb": "mojang-studios"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "acquired-independent",
+    "notes": "Independent origins; acquired by Microsoft in 2014 and now part of Xbox Game Studios."
+  },
+  "games": {
+    "developed": [
+      "0x10c",
+      "callers-bane",
+      "catacomb-snatch",
+      "crown-and-council",
+      "minecraft-bedrock-edition",
+      "minecraft-blast",
+      "minecraft-china",
+      "minecraft-dungeons",
+      "minecraft-dungeons-ii",
+      "minecraft-earth",
+      "minecraft-education",
+      "minecraft-java-edition",
+      "minecraft-legacy-console-edition",
+      "minecraft-legends",
+      "minecraft-new-nintendo-3ds-edition"
+    ],
+    "published": [
+      "callers-bane",
+      "cobalt",
+      "cobalt-wasd",
+      "crown-and-council",
+      "minecraft-bedrock-edition",
+      "minecraft-earth",
+      "minecraft-java-edition",
+      "minecraft-new-nintendo-3ds-edition"
+    ]
+  },
+  "statistics": {
+    "gameCount": 17,
+    "developedCount": 15,
+    "publishedCount": 8,
+    "totalSteamReviews": 27898,
+    "averagePositivePercentage": 75.5,
+    "weightedPositivePercentage": 82.3,
+    "mostReviewedGame": "minecraft-dungeons",
+    "mostRecentRelease": "minecraft-dungeons-ii",
+    "firstRelease": "minecraft-java-edition",
+    "technologyCount": 4,
+    "engineCount": 2,
+    "engines": [
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1129295",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

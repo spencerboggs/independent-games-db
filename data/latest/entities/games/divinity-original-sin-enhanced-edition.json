@@ -1,0 +1,197 @@
+{
+  "id": "divinity-original-sin-enhanced-edition",
+  "title": "Divinity: Original Sin - Enhanced Edition",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2015-10-27",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "larian-studios"
+  ],
+  "publishers": [
+    "larian-studios"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Gather your party and get ready for the kick-ass new version of GameSpot's PC Game of the Year 2014. With hours of new content, new game modes, full voiceovers, split-screen multiplayer, and thousands of improvements, there's never been a better time to explore the epic world of Rivellon!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/373420/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "rpg",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "captions-available",
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "full-controller-support",
+    "multi-player",
+    "remote-play-together",
+    "shared-split-screen",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "playstation-4",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Polish",
+    "Czech",
+    "Simplified Chinese",
+    "Korean",
+    "Portuguese - Brazil"
+  ],
+  "externalIds": {
+    "wikidata": "Q92204031",
+    "igdb": "divinity-original-sin-enhanced-edition",
+    "steam": "373420"
+  },
+  "links": {
+    "official": "https://divinity.com/original-sin",
+    "steam": "https://store.steampowered.com/app/373420/",
+    "wikidata": "https://www.wikidata.org/wiki/Q92204031"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_5e4938344260fca90c0fea0b8e4ef0222324bd07.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_8cb82c98fda0edfc5bedbdffa6abdc432ed6549d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_3d789d4ceccec2e2f5f7937c6b862415864391fa.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_e4011e6c30a09a2cf27894f70fa518933a111108.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_3db4a0531a1bc6f33aab653060020a90f967a5c9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_02cdac36b98e2be855a1f007345aed6a3eccfff4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_7ee20173081d4d143fc71fff648053f4625eb7f5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 33169,
+      "positiveCount": 29584,
+      "negativeCount": 3585,
+      "positivePercentage": 89.2,
+      "negativePercentage": 10.8,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 550,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 8.31,
+      "reviewsPerMonth": 253,
+      "windowDays": 3991,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/373420/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q92204031",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "geometric-interactive",
+  "name": "Geometric Interactive",
+  "developed": [
+    {
+      "id": "cocoon",
+      "title": "COCOON",
+      "type": "game",
+      "releaseDate": "2023-09-29",
+      "developers": [
+        "geometric-interactive"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1497440",
+      "reviewCount": 9123,
+      "positivePercentage": 94.8
+    }
+  ],
+  "published": []
+}

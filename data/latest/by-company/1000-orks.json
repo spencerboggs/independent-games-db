@@ -1,0 +1,30 @@
+{
+  "id": "1000-orks",
+  "name": "1000 Orks",
+  "developed": [
+    {
+      "id": "warcana",
+      "title": "WARCANA",
+      "type": "game",
+      "releaseDate": "2024-08-29",
+      "developers": [
+        "1000-orks"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "real-time-strategy",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2022930",
+      "reviewCount": 508,
+      "positivePercentage": 62.6
+    }
+  ],
+  "published": []
+}

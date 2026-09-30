@@ -1,0 +1,41 @@
+{
+  "id": "blacklight-interactive",
+  "name": "Blacklight Interactive",
+  "developed": [
+    {
+      "id": "golf-with-your-friends",
+      "title": "Golf With Your Friends",
+      "type": "game",
+      "releaseDate": "2020-05-19",
+      "developers": [
+        "blacklight-interactive",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "miniature-golf-video-game",
+        "sports"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "431240",
+      "reviewCount": 75854,
+      "positivePercentage": 87.3
+    }
+  ],
+  "published": []
+}

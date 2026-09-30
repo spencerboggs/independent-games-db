@@ -1,0 +1,79 @@
+{
+  "id": "a44",
+  "name": "A44",
+  "aliases": [
+    "Aurora44"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "New Zealand video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q59821480",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.a44games.com/",
+  "socialLinks": {
+    "x": "https://x.com/A44games"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "NZ",
+    "countryName": "New Zealand"
+  },
+  "founded": 2013,
+  "foundedDate": "2013-09-30",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q59821480",
+    "igdb": "a44"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "ashen"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 3867,
+    "averagePositivePercentage": 66.8,
+    "weightedPositivePercentage": 66.8,
+    "mostReviewedGame": "ashen",
+    "mostRecentRelease": "ashen",
+    "firstRelease": "ashen",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q59821480",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

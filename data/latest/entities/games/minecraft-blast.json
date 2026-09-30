@@ -1,0 +1,67 @@
+{
+  "id": "minecraft-blast",
+  "title": "Minecraft Blast",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [
+    "king",
+    "mojang"
+  ],
+  "publishers": [
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q137787317",
+    "igdb": "minecraft-blast"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137787317"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137787317",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

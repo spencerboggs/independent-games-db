@@ -1,0 +1,31 @@
+{
+  "id": "deepnight-games",
+  "name": "Deepnight Games",
+  "developed": [
+    {
+      "id": "tenjutsu",
+      "title": "Tenjutsu",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "deepnight-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1363940",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

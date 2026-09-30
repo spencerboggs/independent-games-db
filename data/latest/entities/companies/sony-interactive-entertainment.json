@@ -1,0 +1,78 @@
+{
+  "id": "sony-interactive-entertainment",
+  "name": "Sony Interactive Entertainment",
+  "aliases": [
+    "Sony Computer Entertainment",
+    "Sony Interactive",
+    "Sony Interactive Entertainment Inc.",
+    "Sony Interactive Entertainment LLC"
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American multinational software company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q18594",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://sonyinteractive.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Tokyo",
+    "country": "JP",
+    "countryName": "Japan"
+  },
+  "founded": 1993,
+  "foundedDate": "1993-11-15",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Sony Corporation of America",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q18594",
+    "igdb": "sony-interactive-entertainment"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "worms-battle-islands"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "worms-battle-islands",
+    "firstRelease": "worms-battle-islands",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18594",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

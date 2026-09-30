@@ -1,0 +1,36 @@
+{
+  "id": "radical-forge",
+  "name": "Radical Forge",
+  "developed": [
+    {
+      "id": "golf-with-your-friends-2",
+      "title": "Golf With Your Friends 2",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "radical-forge",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "golf-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "3209660",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "vlambeer",
+  "name": "Vlambeer",
+  "developed": [
+    {
+      "id": "luftrausers",
+      "title": "LUFTRAUSERS",
+      "type": "game",
+      "releaseDate": "2014-03-18",
+      "developers": [
+        "vlambeer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "playstation-3",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "arcade",
+        "casual",
+        "shoot-em-up",
+        "simulation"
+      ],
+      "engines": [
+        "adobe-flash",
+        "gamemaker"
+      ],
+      "steamAppId": "233150",
+      "reviewCount": 4527,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "serious-sam-the-random-encounter",
+      "title": "Serious Sam: The Random Encounter",
+      "type": "game",
+      "releaseDate": "2011-10-24",
+      "developers": [
+        "croteam",
+        "vlambeer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "shoot-em-up",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "201480",
+      "reviewCount": 819,
+      "positivePercentage": 49
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "studio-koba",
+  "name": "Studio Koba",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "https://studiokoba.com/",
+  "socialLinks": {
+    "x": "https://x.com/studiokobagame",
+    "youtube": "https://www.youtube.com/channel/UCuCFG2SQPrjBvo-ITDpnXAw"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "ES",
+    "countryName": "Spain"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q88008773"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "narita-boy"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1853,
+    "averagePositivePercentage": 77.8,
+    "weightedPositivePercentage": 77.8,
+    "mostReviewedGame": "narita-boy",
+    "mostRecentRelease": "narita-boy",
+    "firstRelease": "narita-boy",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q88008773",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

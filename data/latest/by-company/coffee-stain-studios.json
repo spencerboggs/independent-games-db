@@ -1,0 +1,197 @@
+{
+  "id": "coffee-stain-studios",
+  "name": "Coffee Stain Studios",
+  "developed": [
+    {
+      "id": "goat-simulator",
+      "title": "Goat Simulator",
+      "type": "game",
+      "releaseDate": "2014-04-01",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "265930",
+      "reviewCount": 70299,
+      "positivePercentage": 90.9
+    },
+    {
+      "id": "goat-simulator-remastered",
+      "title": "Goat Simulator: Remastered",
+      "type": "game",
+      "releaseDate": "2024-11-07",
+      "developers": [
+        "coffee-stain-north",
+        "coffee-stain-studios",
+        "deep-silver-fishlabs"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1762930",
+      "reviewCount": 1225,
+      "positivePercentage": 88.3
+    },
+    {
+      "id": "i-love-strawberries",
+      "title": "I Love Strawberries",
+      "type": "game",
+      "releaseDate": "2010",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "sanctum",
+      "title": "Sanctum",
+      "type": "game",
+      "releaseDate": "2011-04-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "91600",
+      "reviewCount": 3363,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "sanctum-2",
+      "title": "Sanctum 2",
+      "type": "game",
+      "releaseDate": "2013-05-15",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-3",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "210770",
+      "reviewCount": 14391,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "satisfactory",
+      "title": "Satisfactory",
+      "type": "game",
+      "releaseDate": "2024-09-10",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "factory-simulation-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "526870",
+      "reviewCount": 280143,
+      "positivePercentage": 97.3
+    },
+    {
+      "id": "super-sanctum-td",
+      "title": "Super Sanctum TD",
+      "type": "game",
+      "releaseDate": "2013-05-09",
+      "developers": [
+        "coffee-stain-studios"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "strategy",
+        "tower-defense"
+      ],
+      "engines": [],
+      "steamAppId": "235250",
+      "reviewCount": 1582,
+      "positivePercentage": 86.5
+    }
+  ],
+  "published": []
+}

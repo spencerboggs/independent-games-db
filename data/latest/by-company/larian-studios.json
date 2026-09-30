@@ -1,0 +1,524 @@
+{
+  "id": "larian-studios",
+  "name": "Larian Studios",
+  "developed": [
+    {
+      "id": "baldurs-gate-3",
+      "title": "Baldur's Gate 3",
+      "type": "game",
+      "releaseDate": "2023-08-03",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1086940",
+      "reviewCount": 859875,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "beyond-divinity",
+      "title": "Beyond Divinity",
+      "type": "game",
+      "releaseDate": "2012-10-29",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "219760",
+      "reviewCount": 890,
+      "positivePercentage": 48.7
+    },
+    {
+      "id": "divine-divinity",
+      "title": "Divine Divinity",
+      "type": "game",
+      "releaseDate": "2012-07-05",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [],
+      "steamAppId": "214170",
+      "reviewCount": 4062,
+      "positivePercentage": 87.8
+    },
+    {
+      "id": "divinity",
+      "title": "Divinity",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "divinity-dragon-commander",
+      "title": "Divinity: Dragon Commander",
+      "type": "game",
+      "releaseDate": "2013-08-06",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "strategy",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "243950",
+      "reviewCount": 2547,
+      "positivePercentage": 74.1
+    },
+    {
+      "id": "divinity-ii-developers-cut",
+      "title": "Divinity II: Developer's Cut",
+      "type": "game",
+      "releaseDate": "2012-10-29",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "focus-home-interactive",
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "219780",
+      "reviewCount": 5343,
+      "positivePercentage": 84.8
+    },
+    {
+      "id": "divinity-original-sin-2-definitive-edition",
+      "title": "Divinity: Original Sin 2 - Definitive Edition",
+      "type": "game",
+      "releaseDate": "2017-09-14",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [],
+      "steamAppId": "435150",
+      "reviewCount": 206395,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "divinity-original-sin-classic",
+      "title": "Divinity: Original Sin (Classic)",
+      "type": "game",
+      "releaseDate": "2014-06-30",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "230230",
+      "reviewCount": 11917,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "divinity-original-sin-enhanced-edition",
+      "title": "Divinity: Original Sin - Enhanced Edition",
+      "type": "game",
+      "releaseDate": "2015-10-27",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "373420",
+      "reviewCount": 33169,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "monkey-tales-the-abbey-of-aviath",
+      "title": "Monkey Tales: The Abbey of Aviath",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "superia",
+      "title": "Superia",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "british-broadcasting-corporation",
+        "larian-studios"
+      ],
+      "publishers": [
+        "norwegian-broadcasting-corporation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "the-l-e-d-wars",
+      "title": "The L.E.D. Wars",
+      "type": "game",
+      "releaseDate": "1997",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "real-time-strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "baldurs-gate-3",
+      "title": "Baldur's Gate 3",
+      "type": "game",
+      "releaseDate": "2023-08-03",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1086940",
+      "reviewCount": 859875,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "beyond-divinity",
+      "title": "Beyond Divinity",
+      "type": "game",
+      "releaseDate": "2012-10-29",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "219760",
+      "reviewCount": 890,
+      "positivePercentage": 48.7
+    },
+    {
+      "id": "divine-divinity",
+      "title": "Divine Divinity",
+      "type": "game",
+      "releaseDate": "2012-07-05",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [],
+      "steamAppId": "214170",
+      "reviewCount": 4062,
+      "positivePercentage": 87.8
+    },
+    {
+      "id": "divinity",
+      "title": "Divinity",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "divinity-dragon-commander",
+      "title": "Divinity: Dragon Commander",
+      "type": "game",
+      "releaseDate": "2013-08-06",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "strategy",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "243950",
+      "reviewCount": 2547,
+      "positivePercentage": 74.1
+    },
+    {
+      "id": "divinity-ii-developers-cut",
+      "title": "Divinity II: Developer's Cut",
+      "type": "game",
+      "releaseDate": "2012-10-29",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "focus-home-interactive",
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "219780",
+      "reviewCount": 5343,
+      "positivePercentage": 84.8
+    },
+    {
+      "id": "divinity-original-sin-2-definitive-edition",
+      "title": "Divinity: Original Sin 2 - Definitive Edition",
+      "type": "game",
+      "releaseDate": "2017-09-14",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [],
+      "steamAppId": "435150",
+      "reviewCount": 206395,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "divinity-original-sin-classic",
+      "title": "Divinity: Original Sin (Classic)",
+      "type": "game",
+      "releaseDate": "2014-06-30",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "230230",
+      "reviewCount": 11917,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "divinity-original-sin-enhanced-edition",
+      "title": "Divinity: Original Sin - Enhanced Edition",
+      "type": "game",
+      "releaseDate": "2015-10-27",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "larian-studios"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "373420",
+      "reviewCount": 33169,
+      "positivePercentage": 89.2
+    }
+  ]
+}

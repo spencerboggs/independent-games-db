@@ -1,0 +1,52 @@
+{
+  "id": "love2d",
+  "name": "LÖVE",
+  "aliases": [
+    "LOVE",
+    "Love2D",
+    "LÖVE2D"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": null,
+  "website": "https://love2d.org",
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q3269846"
+  },
+  "games": [
+    "balatro"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 199214,
+    "mostReviewedGames": [
+      {
+        "id": "balatro",
+        "title": "Balatro",
+        "value": 199214
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "balatro",
+        "title": "Balatro",
+        "value": 5261
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2024": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

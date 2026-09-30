@@ -1,0 +1,55 @@
+{
+  "id": "uvula-llc",
+  "name": "Uvula",
+  "developed": [
+    {
+      "id": "crankins-time-travel-adventure",
+      "title": "Crankin's Time Travel Adventure",
+      "type": "game",
+      "releaseDate": "2021",
+      "developers": [
+        "uvula-llc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "to-a-t",
+      "title": "to a T",
+      "type": "game",
+      "releaseDate": "2025-05-28",
+      "developers": [
+        "uvula-llc"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1875320",
+      "reviewCount": 268,
+      "positivePercentage": 86.2
+    }
+  ],
+  "published": []
+}

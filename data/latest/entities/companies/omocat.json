@@ -1,0 +1,87 @@
+{
+  "id": "omocat",
+  "name": "OMOCAT",
+  "aliases": [
+    "OMOCAT, LLC",
+    "Omocat",
+    "omocat"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American artist",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q104532882",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.omocat.com/",
+  "socialLinks": {
+    "x": "https://x.com/_omocat",
+    "youtube": "https://www.youtube.com/channel/UCh3IvbL9ms6963lEx9d4HPg"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q104532882"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Individual developer of Omori."
+  },
+  "games": {
+    "developed": [
+      "omori"
+    ],
+    "published": [
+      "omori"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 1,
+    "totalSteamReviews": 88833,
+    "averagePositivePercentage": 97.1,
+    "weightedPositivePercentage": 97.1,
+    "mostReviewedGame": "omori",
+    "mostRecentRelease": "omori",
+    "firstRelease": "omori",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "rpg-maker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q104532882",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

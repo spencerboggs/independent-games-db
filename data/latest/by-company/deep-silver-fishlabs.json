@@ -1,0 +1,37 @@
+{
+  "id": "deep-silver-fishlabs",
+  "name": "Deep Silver Fishlabs",
+  "developed": [
+    {
+      "id": "goat-simulator-remastered",
+      "title": "Goat Simulator: Remastered",
+      "type": "game",
+      "releaseDate": "2024-11-07",
+      "developers": [
+        "coffee-stain-north",
+        "coffee-stain-studios",
+        "deep-silver-fishlabs"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1762930",
+      "reviewCount": 1225,
+      "positivePercentage": 88.3
+    }
+  ],
+  "published": []
+}

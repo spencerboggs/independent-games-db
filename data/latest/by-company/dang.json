@@ -1,0 +1,32 @@
+{
+  "id": "dang",
+  "name": "DANG!",
+  "developed": [
+    {
+      "id": "boomerang-x",
+      "title": "Boomerang X",
+      "type": "game",
+      "releaseDate": "2021-07-08",
+      "developers": [
+        "dang"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1170060",
+      "reviewCount": 1383,
+      "positivePercentage": 95.2
+    }
+  ],
+  "published": []
+}

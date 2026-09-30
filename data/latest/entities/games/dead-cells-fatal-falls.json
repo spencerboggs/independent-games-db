@@ -1,0 +1,197 @@
+{
+  "id": "dead-cells-fatal-falls",
+  "title": "Dead Cells: Fatal Falls",
+  "alternateTitles": [
+    "Fatal Falls"
+  ],
+  "type": "dlc",
+  "releaseDate": "2021-01-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "evil-empire",
+    "motion-twin"
+  ],
+  "publishers": [
+    "motion-twin"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Take on two new levels and a boss as you dodge new traps and enemies.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1451460/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "downloadable-content",
+    "family-sharing",
+    "full-controller-support",
+    "remote-play-on-phone",
+    "remote-play-on-tablet",
+    "remote-play-on-tv",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "nintendo-switch",
+    "playstation-4",
+    "windows",
+    "xbox-one"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Simplified Chinese",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Portuguese - Portugal",
+    "Russian",
+    "Turkish",
+    "Korean",
+    "Traditional Chinese",
+    "Portuguese - Brazil"
+  ],
+  "externalIds": {
+    "wikidata": "Q104793373",
+    "igdb": "dead-cells-fatal-falls",
+    "steam": "1451460"
+  },
+  "links": {
+    "official": "https://dead-cells.com/",
+    "steam": "https://store.steampowered.com/app/1451460/",
+    "wikidata": "https://www.wikidata.org/wiki/Q104793373"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_632bc5c203c37dcf5cd05d161792eee231383b1c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_a7e5595ea532cf3670a3167f23cdbfc5f4197c66.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_b002a064fec416013f0d4e4e2e2db204c55259df.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_c9dd8ba5f12ea51264d415b7b4ddc88fd4a28740.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_2816e6dc336c2086aca1af90b614bd9435da5976.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451460/ss_4289a61b90400bbe84fe58d7e42077bb0dc14a86.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "dead-cells",
+    "name": "Dead Cells"
+  },
+  "relations": {
+    "parentGame": "dead-cells",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 560,
+      "positiveCount": 524,
+      "negativeCount": 36,
+      "positivePercentage": 93.6,
+      "negativePercentage": 6.4,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.27,
+      "reviewsPerMonth": 8.2,
+      "windowDays": 2073,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1451460/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q104793373",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

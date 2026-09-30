@@ -1,0 +1,91 @@
+{
+  "id": "studio-mdhr",
+  "name": "Studio MDHR",
+  "aliases": [
+    "Studio MDHR Entertainment",
+    "Studio MDHR Entertainment Inc.",
+    "Studio Moldenhauer",
+    "StudioMDHR",
+    "StudioMDHR Entertainment Inc."
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "Canadian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105450826",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://studiomdhr.com",
+  "socialLinks": {
+    "x": "https://x.com/StudioMDHR"
+  },
+  "location": {
+    "headquarters": "Oakville",
+    "country": "CA",
+    "countryName": "Canada"
+  },
+  "founded": 2013,
+  "foundedDate": "2013",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q105450826",
+    "igdb": "studio-mdhr"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "cuphead",
+      "cuphead-the-delicious-last-course"
+    ],
+    "published": [
+      "cuphead",
+      "cuphead-the-delicious-last-course"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 2,
+    "totalSteamReviews": 226985,
+    "averagePositivePercentage": 95.4,
+    "weightedPositivePercentage": 96.1,
+    "mostReviewedGame": "cuphead",
+    "mostRecentRelease": "cuphead-the-delicious-last-course",
+    "firstRelease": "cuphead",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105450826",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

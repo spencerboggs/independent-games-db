@@ -1,0 +1,74 @@
+{
+  "id": "pastagames",
+  "name": "Pastagames",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3368440",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.pastagames.com/",
+  "socialLinks": {
+    "x": "https://x.com/pastagames"
+  },
+  "location": {
+    "headquarters": "Paris",
+    "country": "FR",
+    "countryName": "France"
+  },
+  "founded": 2001,
+  "foundedDate": "2001",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q3368440"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "karmazoo"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1420,
+    "averagePositivePercentage": 86.5,
+    "weightedPositivePercentage": 86.5,
+    "mostReviewedGame": "karmazoo",
+    "mostRecentRelease": "karmazoo",
+    "firstRelease": "karmazoo",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3368440",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

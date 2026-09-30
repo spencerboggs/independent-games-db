@@ -1,0 +1,92 @@
+{
+  "id": "landfall",
+  "name": "Landfall",
+  "aliases": [
+    "Landfall Games",
+    "Landfall Games AB"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "game company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q27961665",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://landfall.se/",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/landfall.se",
+    "x": "https://x.com/LandfallGames",
+    "youtube": "https://www.youtube.com/channel/UCIlwIUzgQz7wEJAXwZf73lg"
+  },
+  "location": {
+    "headquarters": "Stockholm",
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q27961665"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Swedish studio. The name is ambiguous; always resolve through the Wikidata ID."
+  },
+  "games": {
+    "developed": [
+      "clustertruck",
+      "haste",
+      "totally-accurate-battle-simulator",
+      "totally-accurate-battlegrounds"
+    ],
+    "published": [
+      "stick-fight-the-game",
+      "totally-accurate-battle-simulator",
+      "totally-accurate-battlegrounds"
+    ]
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 4,
+    "publishedCount": 3,
+    "totalSteamReviews": 400438,
+    "averagePositivePercentage": 93.1,
+    "weightedPositivePercentage": 94,
+    "mostReviewedGame": "totally-accurate-battle-simulator",
+    "mostRecentRelease": "haste",
+    "firstRelease": "clustertruck",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q27961665",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

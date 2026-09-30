@@ -1,0 +1,36 @@
+{
+  "id": "coal-supper",
+  "name": "Coal Supper",
+  "developed": [
+    {
+      "id": "thank-goodness-youre-here",
+      "title": "Thank Goodness You're Here!",
+      "type": "game",
+      "releaseDate": "2024-08-01",
+      "developers": [
+        "coal-supper"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "2366980",
+      "reviewCount": 8526,
+      "positivePercentage": 96.2
+    }
+  ],
+  "published": []
+}

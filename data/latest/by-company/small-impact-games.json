@@ -1,0 +1,33 @@
+{
+  "id": "small-impact-games",
+  "name": "Small Impact Games",
+  "developed": [
+    {
+      "id": "marauders",
+      "title": "Marauders",
+      "type": "game",
+      "releaseDate": "2022-10-03",
+      "developers": [
+        "small-impact-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "extraction-shooter",
+        "looter-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1789480",
+      "reviewCount": 21449,
+      "positivePercentage": 67.1
+    }
+  ],
+  "published": []
+}

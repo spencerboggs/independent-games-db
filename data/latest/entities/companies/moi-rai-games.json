@@ -1,0 +1,79 @@
+{
+  "id": "moi-rai-games",
+  "name": "Moi Rai Games",
+  "aliases": [
+    "Mo Rai Games",
+    "moi rai games"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q68209981",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://moi-rai.com/",
+  "socialLinks": {
+    "x": "https://x.com/moi_rai_",
+    "youtube": "https://www.youtube.com/channel/UC5GhVyRedVUbuWoeEtpRqeA"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "DE",
+    "countryName": "Germany"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q68209981",
+    "igdb": "moi-rai-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "monster-sanctuary"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 12704,
+    "averagePositivePercentage": 91.2,
+    "weightedPositivePercentage": 91.2,
+    "mostReviewedGame": "monster-sanctuary",
+    "mostRecentRelease": "monster-sanctuary",
+    "firstRelease": "monster-sanctuary",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q68209981",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

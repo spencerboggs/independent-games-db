@@ -1,0 +1,37 @@
+{
+  "id": "id-tech",
+  "name": "id Tech",
+  "aliases": [
+    "id Tech 3",
+    "id Tech 4",
+    "id Tech 6",
+    "id Tech 7"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "id Software",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q288655"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,345 @@
+{
+  "id": "xbox-game-studios",
+  "name": "Xbox Game Studios",
+  "developed": [
+    {
+      "id": "minecraft-bedrock-edition",
+      "title": "Minecraft: Bedrock Edition",
+      "type": "game",
+      "releaseDate": "2011-10-09",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "windows-phone",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure-video-game",
+        "construction-and-management-simulation",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-education",
+      "title": "Minecraft Education",
+      "type": "game",
+      "releaseDate": "2016-11-01",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [],
+      "platforms": [
+        "chromeos",
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "crossfirex",
+      "title": "CrossfireX",
+      "type": "game",
+      "releaseDate": "2022-02-10",
+      "developers": [
+        "remedy-entertainment",
+        "smilegate"
+      ],
+      "publishers": [
+        "smilegate",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-bedrock-edition",
+      "title": "Minecraft: Bedrock Edition",
+      "type": "game",
+      "releaseDate": "2011-10-09",
+      "developers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "windows-phone",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure-video-game",
+        "construction-and-management-simulation",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-blast",
+      "title": "Minecraft Blast",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "king",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-dungeons",
+      "title": "Minecraft Dungeons",
+      "type": "game",
+      "releaseDate": "2021-09-22",
+      "developers": [
+        "double-eleven",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "dungeon-crawl",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1672970",
+      "reviewCount": 19809,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "minecraft-dungeons-ii",
+      "title": "Minecraft Dungeons II",
+      "type": "game",
+      "releaseDate": "2026-09-29",
+      "developers": [
+        "double-eleven",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1912410",
+      "reviewCount": 3400,
+      "positivePercentage": 56.7
+    },
+    {
+      "id": "minecraft-earth",
+      "title": "Minecraft Earth",
+      "type": "game",
+      "releaseDate": "2019",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [
+        "augmented-reality-video-game",
+        "location-based-game",
+        "sandbox"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-java-edition",
+      "title": "Minecraft: Java Edition",
+      "type": "game",
+      "releaseDate": "2009-05-17",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang",
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "java-virtual-machine",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "sandbox",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "minecraft-legends",
+      "title": "Minecraft Legends",
+      "type": "game",
+      "releaseDate": "2023-04-18",
+      "developers": [
+        "blackbird-interactive",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1928870",
+      "reviewCount": 2873,
+      "positivePercentage": 57.8
+    },
+    {
+      "id": "quantum-break",
+      "title": "Quantum Break",
+      "type": "game",
+      "releaseDate": "2016-09-29",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "474960",
+      "reviewCount": 31101,
+      "positivePercentage": 85.7
+    },
+    {
+      "id": "worms-2007",
+      "title": "Worms",
+      "type": "game",
+      "releaseDate": "2007-03-07",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "ios"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

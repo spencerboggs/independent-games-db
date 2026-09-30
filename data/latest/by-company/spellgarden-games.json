@@ -1,0 +1,31 @@
+{
+  "id": "spellgarden-games",
+  "name": "Spellgarden Games",
+  "developed": [
+    {
+      "id": "ritual-of-raven",
+      "title": "Ritual of Raven",
+      "type": "game",
+      "releaseDate": "2025-08-07",
+      "developers": [
+        "spellgarden-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2066520",
+      "reviewCount": 379,
+      "positivePercentage": 89.2
+    }
+  ],
+  "published": []
+}

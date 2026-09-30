@@ -1,0 +1,140 @@
+{
+  "id": "deconstructeam",
+  "name": "Deconstructeam",
+  "developed": [
+    {
+      "id": "essays-on-empathy",
+      "title": "Essays on Empathy",
+      "type": "game",
+      "releaseDate": "2021-05-18",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "casual",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1586880",
+      "reviewCount": 211,
+      "positivePercentage": 79.6
+    },
+    {
+      "id": "gods-will-be-watching",
+      "title": "Gods Will Be Watching",
+      "type": "game",
+      "releaseDate": "2014-07-24",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "274290",
+      "reviewCount": 2950,
+      "positivePercentage": 70.4
+    },
+    {
+      "id": "the-cosmic-wheel-sisterhood",
+      "title": "The Cosmic Wheel Sisterhood",
+      "type": "game",
+      "releaseDate": "2023-08-16",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1340480",
+      "reviewCount": 6414,
+      "positivePercentage": 93.1
+    },
+    {
+      "id": "the-red-strings-club",
+      "title": "The Red Strings Club",
+      "type": "game",
+      "releaseDate": "2018-01-22",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cyberpunk-video-game",
+        "lgbt-themed-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "589780",
+      "reviewCount": 14320,
+      "positivePercentage": 93.4
+    },
+    {
+      "id": "virtue-and-a-sledgehammer",
+      "title": "Virtue and a Sledgehammer",
+      "type": "game",
+      "releaseDate": "2026-10-27",
+      "developers": [
+        "deconstructeam",
+        "selkie-harbour"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3743260",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

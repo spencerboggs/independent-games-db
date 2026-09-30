@@ -1,0 +1,36 @@
+{
+  "id": "variable-state",
+  "name": "Variable State",
+  "developed": [
+    {
+      "id": "last-stop",
+      "title": "Last Stop",
+      "type": "game",
+      "releaseDate": "2021-07-22",
+      "developers": [
+        "variable-state"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122690",
+      "reviewCount": 370,
+      "positivePercentage": 78.9
+    }
+  ],
+  "published": []
+}

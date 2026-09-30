@@ -1,0 +1,89 @@
+{
+  "id": "coffee-stain-studios",
+  "name": "Coffee Stain Studios",
+  "aliases": [
+    "Coffee Stain Studios AB"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Swedish video game developer and publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3178586",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.coffeestainstudios.com/",
+  "socialLinks": {
+    "x": "https://x.com/Coffee_Stain",
+    "youtube": "https://www.youtube.com/channel/UCnXVz_l-_r_sLXNe1ESDhHA"
+  },
+  "location": {
+    "headquarters": "Skövde",
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": 2010,
+  "foundedDate": "2010",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Embracer Group",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q3178586",
+    "igdb": "coffee-stain-studios"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "acquired-independent",
+    "notes": "Acquired by THQ Nordic (later Embracer Group) in 2018. Separate entity from Coffee Stain Publishing."
+  },
+  "games": {
+    "developed": [
+      "goat-simulator",
+      "goat-simulator-remastered",
+      "i-love-strawberries",
+      "sanctum",
+      "sanctum-2",
+      "satisfactory",
+      "super-sanctum-td"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 7,
+    "developedCount": 7,
+    "publishedCount": 0,
+    "totalSteamReviews": 371003,
+    "averagePositivePercentage": 90.3,
+    "weightedPositivePercentage": 95.6,
+    "mostReviewedGame": "satisfactory",
+    "mostRecentRelease": "goat-simulator-remastered",
+    "firstRelease": "i-love-strawberries",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3178586",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

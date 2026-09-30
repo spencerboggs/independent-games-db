@@ -1,0 +1,79 @@
+{
+  "id": "giant-squid",
+  "name": "Giant Squid",
+  "aliases": [
+    "Giant Squid Studios"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q55003844",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://giantsquidstudios.com/",
+  "socialLinks": {
+    "x": "https://x.com/GiantSquidology"
+  },
+  "location": {
+    "headquarters": "West Los Angeles",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2013,
+  "foundedDate": "2013",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q55003844",
+    "igdb": "giant-squid"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "the-pathless"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2217,
+    "averagePositivePercentage": 90.6,
+    "weightedPositivePercentage": 90.6,
+    "mostReviewedGame": "the-pathless",
+    "mostRecentRelease": "the-pathless",
+    "firstRelease": "the-pathless",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55003844",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

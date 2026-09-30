@@ -1,0 +1,33 @@
+{
+  "id": "rocketbrush-games",
+  "name": "RocketBrush Games",
+  "developed": [
+    {
+      "id": "the-unliving",
+      "title": "The Unliving",
+      "type": "game",
+      "releaseDate": "2023-10-26",
+      "developers": [
+        "rocketbrush-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "986040",
+      "reviewCount": 903,
+      "positivePercentage": 62.3
+    }
+  ],
+  "published": []
+}

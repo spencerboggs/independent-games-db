@@ -1,0 +1,53 @@
+{
+  "id": "davemakes",
+  "name": "davemakes",
+  "developed": [
+    {
+      "id": "executive-golf-dx",
+      "title": "Executive Golf DX",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "davemakes"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "golf-video-game",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "robot-fishing",
+      "title": "Robot Fishing",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "davemakes"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "fishing-video-game",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

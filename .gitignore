@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.demo/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+
+# Raw provider responses are a local cache only. Provider terms do not
+# generally allow redistributing raw responses, so they are never committed.
+data/raw/
+
+# Intermediate pipeline state (discover -> enrich -> resolve). Regenerable.
+data/work/
+
+.DS_Store
+Thumbs.db

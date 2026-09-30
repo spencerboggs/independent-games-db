@@ -1,0 +1,236 @@
+{
+  "id": "control-resonant",
+  "title": "CONTROL Resonant",
+  "alternateTitles": [
+    "Control Resonant"
+  ],
+  "type": "game",
+  "releaseDate": "2026-09-24",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "remedy-entertainment"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and our survival against a reality-bending cosmic threat.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3669870/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "action-rpg",
+    "adventure",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [
+    "adjustable-difficulty",
+    "camera-comfort",
+    "category-contrast-controls",
+    "color-alternatives",
+    "custom-volume-controls",
+    "dualsense-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "hdr-available",
+    "keyboard-only-option",
+    "playable-without-timed-input",
+    "save-anytime",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards",
+    "subtitle-options"
+  ],
+  "platforms": [
+    "macos",
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Polish",
+    "Russian",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "externalIds": {
+    "wikidata": "Q116947317",
+    "igdb": "control-resonant--1",
+    "steam": "3669870"
+  },
+  "links": {
+    "official": "https://www.remedygames.com/games/control-2",
+    "steam": "https://store.steampowered.com/app/3669870/",
+    "wikidata": "https://www.wikidata.org/wiki/Q116947317"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/867a73afa5f21c28aaa14e9b0a4d895c540d4a0c/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/bcda7ae5b393697f658d82aa5ffedaac7511130d/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/422f3eed36d3033c4b0f4fde485c29b980e49454/ss_422f3eed36d3033c4b0f4fde485c29b980e49454.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/195a46fccb4276003092c87c9d6d034a0dfbe355/ss_195a46fccb4276003092c87c9d6d034a0dfbe355.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13/ss_e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/4ce55d730791b45afae9fe2573ff764b34103a75/ss_4ce55d730791b45afae9fe2573ff764b34103a75.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/b4160022502f74d3647d3eb1d43e41d17bbd6c52/ss_b4160022502f74d3647d3eb1d43e41d17bbd6c52.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/75b1cde9947eea89eed52cf8f6471683f2e666a9/ss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/3ce961567ea1fd039c684adab3f19eed9f8b52bd/ss_3ce961567ea1fd039c684adab3f19eed9f8b52bd.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/3cd16ad00ff2e2f7a2e5c5d7781597fdd32ed6c0/ss_3cd16ad00ff2e2f7a2e5c5d7781597fdd32ed6c0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/8b78ebe9024b52aded07863c0da0cbb08c1a966f/ss_8b78ebe9024b52aded07863c0da0cbb08c1a966f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "northlight-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q116947317",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "control",
+    "name": "Control"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 8953,
+      "positiveCount": 8051,
+      "negativeCount": 902,
+      "positivePercentage": 89.9,
+      "negativePercentage": 10.1,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 10960,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1388.97,
+      "reviewsPerMonth": 42280.4,
+      "windowDays": 6,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3669870/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116947317",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

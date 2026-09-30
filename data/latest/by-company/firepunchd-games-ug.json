@@ -1,0 +1,33 @@
+{
+  "id": "firepunchd-games-ug",
+  "name": "Firepunchd Games UG",
+  "developed": [
+    {
+      "id": "tentacular",
+      "title": "Tentacular",
+      "type": "game",
+      "releaseDate": "2022-03-24",
+      "developers": [
+        "firepunchd-games-ug"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1220100",
+      "reviewCount": 102,
+      "positivePercentage": 92.2
+    }
+  ],
+  "published": []
+}

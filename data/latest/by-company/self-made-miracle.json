@@ -1,0 +1,31 @@
+{
+  "id": "self-made-miracle",
+  "name": "Self Made Miracle",
+  "developed": [
+    {
+      "id": "penarium",
+      "title": "Penarium",
+      "type": "game",
+      "releaseDate": "2015-09-22",
+      "developers": [
+        "self-made-miracle"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "307590",
+      "reviewCount": 420,
+      "positivePercentage": 83.3
+    }
+  ],
+  "published": []
+}

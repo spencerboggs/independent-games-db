@@ -1,0 +1,32 @@
+{
+  "id": "4j-studios",
+  "name": "4J Studios",
+  "developed": [
+    {
+      "id": "minecraft-legacy-console-edition",
+      "title": "Minecraft: Legacy Console Edition",
+      "type": "game",
+      "releaseDate": "2015-12-17",
+      "developers": [
+        "4j-studios",
+        "mojang"
+      ],
+      "publishers": [],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "xbox-360",
+        "xbox-one"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

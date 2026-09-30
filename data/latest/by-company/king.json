@@ -1,0 +1,29 @@
+{
+  "id": "king",
+  "name": "King",
+  "developed": [
+    {
+      "id": "minecraft-blast",
+      "title": "Minecraft Blast",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "king",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

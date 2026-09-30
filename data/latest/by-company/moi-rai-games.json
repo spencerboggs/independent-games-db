@@ -1,0 +1,37 @@
+{
+  "id": "moi-rai-games",
+  "name": "Moi Rai Games",
+  "developed": [
+    {
+      "id": "monster-sanctuary",
+      "title": "Monster Sanctuary",
+      "type": "game",
+      "releaseDate": "2020-12-08",
+      "developers": [
+        "moi-rai-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "814370",
+      "reviewCount": 12704,
+      "positivePercentage": 91.2
+    }
+  ],
+  "published": []
+}

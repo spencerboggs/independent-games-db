@@ -1,0 +1,79 @@
+{
+  "id": "doinksoft",
+  "name": "doinksoft",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q64222333",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "x": "https://x.com/doinksoft"
+  },
+  "location": {
+    "headquarters": "Eugene",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2018,
+  "foundedDate": "2018",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q64222333"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "dark-scrolls",
+      "devolver-bootleg",
+      "gato-roboto",
+      "gunbrella"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 4,
+    "developedCount": 4,
+    "publishedCount": 0,
+    "totalSteamReviews": 7660,
+    "averagePositivePercentage": 82.1,
+    "weightedPositivePercentage": 91.4,
+    "mostReviewedGame": "gato-roboto",
+    "mostRecentRelease": "dark-scrolls",
+    "firstRelease": "gato-roboto",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q64222333",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

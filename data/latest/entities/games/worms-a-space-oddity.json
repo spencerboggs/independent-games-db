@@ -1,0 +1,71 @@
+{
+  "id": "worms-a-space-oddity",
+  "title": "Worms: A Space Oddity",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2008-03-18",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "thq"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "java-virtual-machine",
+    "wii"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q680785",
+    "igdb": "worms-a-space-oddity"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q680785"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q680785",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

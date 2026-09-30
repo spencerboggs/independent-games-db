@@ -1,0 +1,85 @@
+{
+  "id": "minecraft-legacy-console-edition",
+  "title": "Minecraft: Legacy Console Edition",
+  "alternateTitles": [
+    "Minecraft Wii U Edition",
+    "Minecraft: Console Edition",
+    "Minecraft: PlayStation 3 Edition",
+    "Minecraft: PlayStation 4 Edition",
+    "Minecraft: PlayStation Vita Edition",
+    "Minecraft: Switch Edition",
+    "Minecraft: Wii  Edition",
+    "Minecraft: Xbox 360 Edition",
+    "Minecraft: Xbox One Edition"
+  ],
+  "type": "game",
+  "releaseDate": "2015-12-17",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "4j-studios",
+    "mojang"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-3",
+    "playstation-4",
+    "playstation-vita",
+    "wii-u",
+    "xbox-360",
+    "xbox-one"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q105729657"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105729657"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "series": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105729657",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

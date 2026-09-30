@@ -1,0 +1,34 @@
+{
+  "id": "daniel-benmergui",
+  "name": "Daniel Benmergui",
+  "developed": [
+    {
+      "id": "storyteller",
+      "title": "Storyteller",
+      "type": "game",
+      "releaseDate": "2023-03-23",
+      "developers": [
+        "daniel-benmergui"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1624540",
+      "reviewCount": 9232,
+      "positivePercentage": 88.6
+    }
+  ],
+  "published": []
+}

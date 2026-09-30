@@ -1,0 +1,29 @@
+{
+  "id": "digital-extremes",
+  "name": "Digital Extremes",
+  "developed": [
+    {
+      "id": "silverball",
+      "title": "Silverball",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "digital-extremes"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ms-dos"
+      ],
+      "genres": [
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

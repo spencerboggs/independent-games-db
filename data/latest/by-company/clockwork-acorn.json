@@ -1,0 +1,40 @@
+{
+  "id": "clockwork-acorn",
+  "name": "Clockwork Acorn",
+  "developed": [
+    {
+      "id": "terra-nil",
+      "title": "Terra Nil",
+      "type": "game",
+      "releaseDate": "2023-03-28",
+      "developers": [
+        "clockwork-acorn",
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1593030",
+      "reviewCount": 8854,
+      "positivePercentage": 87.4
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "xbox-game-studios",
+  "name": "Xbox Game Studios",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q73801",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.xbox.com/xbox-game-studios",
+  "socialLinks": {
+    "x": "https://x.com/MSStudiosBlog"
+  },
+  "location": {
+    "headquarters": "Redmond",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2000,
+  "foundedDate": "2000-03",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Microsoft",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q73801",
+    "igdb": "xbox-game-studios"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "minecraft-bedrock-edition",
+      "minecraft-education"
+    ],
+    "published": [
+      "crossfirex",
+      "minecraft-bedrock-edition",
+      "minecraft-blast",
+      "minecraft-dungeons",
+      "minecraft-dungeons-ii",
+      "minecraft-earth",
+      "minecraft-java-edition",
+      "minecraft-legends",
+      "quantum-break",
+      "worms-2007"
+    ]
+  },
+  "statistics": {
+    "gameCount": 11,
+    "developedCount": 2,
+    "publishedCount": 10,
+    "totalSteamReviews": 57183,
+    "averagePositivePercentage": 72.6,
+    "weightedPositivePercentage": 84.2,
+    "mostReviewedGame": "quantum-break",
+    "mostRecentRelease": "minecraft-dungeons-ii",
+    "firstRelease": "worms-2007",
+    "technologyCount": 4,
+    "engineCount": 2,
+    "engines": [
+      "northlight-engine",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q73801",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

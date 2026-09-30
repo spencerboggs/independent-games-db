@@ -1,0 +1,38 @@
+{
+  "id": "construct",
+  "name": "Construct",
+  "games": [
+    {
+      "id": "cyber-shadow",
+      "title": "Cyber Shadow",
+      "type": "game",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "aarne-mekaskull-hunziker"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "post-apocalyptic-video-game"
+      ],
+      "engines": [
+        "construct"
+      ],
+      "steamAppId": "861250",
+      "reviewCount": 1559,
+      "positivePercentage": 83.5
+    }
+  ]
+}

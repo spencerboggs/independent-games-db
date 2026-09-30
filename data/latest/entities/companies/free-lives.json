@@ -1,0 +1,82 @@
+{
+  "id": "free-lives",
+  "name": "Free Lives",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "South African video game developer and publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q28223113",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://freelives.net/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Cape Town",
+    "country": "ZA",
+    "countryName": "South Africa"
+  },
+  "founded": 2012,
+  "foundedDate": "2012-04-01",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q28223113"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "anger-foot",
+      "broforce",
+      "cricket-through-the-ages",
+      "genital-jousting",
+      "gorn",
+      "gorn-2",
+      "stick-it-to-the-stickman",
+      "terra-nil",
+      "the-expendabros"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 9,
+    "developedCount": 9,
+    "publishedCount": 0,
+    "totalSteamReviews": 121523,
+    "averagePositivePercentage": 92.6,
+    "weightedPositivePercentage": 95.3,
+    "mostReviewedGame": "broforce",
+    "mostRecentRelease": "stick-it-to-the-stickman",
+    "firstRelease": "the-expendabros",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28223113",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

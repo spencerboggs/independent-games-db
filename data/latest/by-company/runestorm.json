@@ -1,0 +1,34 @@
+{
+  "id": "runestorm",
+  "name": "RuneStorm",
+  "developed": [
+    {
+      "id": "viscera-cleanup-detail-shadow-warrior",
+      "title": "Viscera Cleanup Detail: Shadow Warrior",
+      "type": "game",
+      "releaseDate": "2013-10-11",
+      "developers": [
+        "runestorm"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "255520",
+      "reviewCount": 4662,
+      "positivePercentage": 80.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "doraccoon",
+  "name": "Doraccoon",
+  "developed": [
+    {
+      "id": "raccoin-coin-pusher-roguelike",
+      "title": "RACCOIN: Coin Pusher Roguelike",
+      "type": "game",
+      "releaseDate": "2026-03-31",
+      "developers": [
+        "doraccoon"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "roguelike-deck-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3784030",
+      "reviewCount": 4674,
+      "positivePercentage": 82.4
+    }
+  ],
+  "published": []
+}

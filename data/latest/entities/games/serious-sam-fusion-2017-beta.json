@@ -1,0 +1,225 @@
+{
+  "id": "serious-sam-fusion-2017-beta",
+  "title": "Serious Sam Fusion 2017 (beta)",
+  "alternateTitles": [
+    "Serious Sam Fusion 2017"
+  ],
+  "type": "game",
+  "releaseDate": "2017-03-20",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "unknown",
+  "developers": [
+    "croteam"
+  ],
+  "publishers": [
+    "croteam",
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Serious Sam Fusion is a central hub for several existing Serious Sam games developed by Croteam. Cool new features, engine upgrades, patches and updates will be released to existing owners for FREE!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/564310/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "first-person-shooter"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "full-controller-support",
+    "includes-level-editor",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "shared-split-screen-pvp",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards",
+    "steam-workshop",
+    "tracked-controller-support",
+    "vr-supported"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian"
+  ],
+  "externalIds": {
+    "wikidata": "Q60559650",
+    "igdb": "serious-sam-fusion-2017",
+    "steam": "564310"
+  },
+  "links": {
+    "official": "http://www.croteam.com",
+    "steam": "https://store.steampowered.com/app/564310/",
+    "wikidata": "https://www.wikidata.org/wiki/Q60559650"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/564310",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_7cd5b78190e6d1d3149dd1c1832dd77ab950fb15.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_251587738f0cd449d94e50a84eaa35c709945217.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_59bd3543b2aa49bd2ea59c81fd28056edb4c6faf.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_838f2f9b84f3fb2dabc8bd507e6348be4959048c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_be15ed695c98e02e871ebf059a80975ae64c5fe1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_410f3bf7c09088c3d0910e58c01852148273fce9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_048bb5238fb593628205cd2e1ad2af35fb1cb8eb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_af59dd395dc12e15fdb474f13ffa1b2fa31059f6.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_01ad800350971be213860cf4a6c7dcfda2b57074.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/ss_cf1fa73591b5a31a95e68778d68ef16acf6cc108.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "serious-sam",
+    "name": "Serious Sam"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 5616,
+      "positiveCount": 5208,
+      "negativeCount": 408,
+      "positivePercentage": 92.7,
+      "negativePercentage": 7.3,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 42,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.61,
+      "reviewsPerMonth": 49.1,
+      "windowDays": 3481,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/564310/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60559650",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

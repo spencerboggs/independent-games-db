@@ -1,0 +1,78 @@
+{
+  "id": "behaviour-interactive-inc",
+  "name": "Behaviour Interactive",
+  "aliases": [
+    "Behaviour Interactive Inc."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2080076",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.bhvr.com/",
+  "socialLinks": {
+    "x": "https://x.com/behaviour",
+    "youtube": "https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ"
+  },
+  "location": {
+    "headquarters": "Montreal",
+    "country": "CA",
+    "countryName": "Canada"
+  },
+  "founded": 1992,
+  "foundedDate": "1992",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2080076",
+    "igdb": "behaviour-interactive"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "serious-sam-shatterverse"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 776,
+    "averagePositivePercentage": 52.6,
+    "weightedPositivePercentage": 52.6,
+    "mostReviewedGame": "serious-sam-shatterverse",
+    "mostRecentRelease": "serious-sam-shatterverse",
+    "firstRelease": "serious-sam-shatterverse",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2080076",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

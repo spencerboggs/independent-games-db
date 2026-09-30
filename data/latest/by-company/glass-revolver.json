@@ -1,0 +1,31 @@
+{
+  "id": "glass-revolver",
+  "name": "Glass Revolver",
+  "developed": [
+    {
+      "id": "we-kill-monsters",
+      "title": "We Kill Monsters",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "glass-revolver"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1792460",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

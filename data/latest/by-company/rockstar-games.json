@@ -1,0 +1,63 @@
+{
+  "id": "rockstar-games",
+  "name": "Rockstar Games",
+  "developed": [],
+  "published": [
+    {
+      "id": "max-payne",
+      "title": "Max Payne",
+      "type": "game",
+      "releaseDate": "2011-01-06",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "rockstar-games"
+      ],
+      "platforms": [
+        "android",
+        "game-boy-advance",
+        "ios",
+        "macos",
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "neo-noir-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "12140",
+      "reviewCount": 15898,
+      "positivePercentage": 88.7
+    },
+    {
+      "id": "max-payne-2-the-fall-of-max-payne",
+      "title": "Max Payne 2: The Fall of Max Payne",
+      "type": "game",
+      "releaseDate": "2008-01-04",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "rockstar-games"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "action",
+        "neo-noir-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "12150",
+      "reviewCount": 14781,
+      "positivePercentage": 94.4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "heliocentric-studios",
+  "name": "Heliocentric Studios",
+  "developed": [
+    {
+      "id": "rogue-heroes-ruins-of-tasos",
+      "title": "Rogue Heroes: Ruins of Tasos",
+      "type": "game",
+      "releaseDate": "2021-02-23",
+      "developers": [
+        "heliocentric-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "roguelike",
+        "rpg"
+      ],
+      "engines": [
+        "monogame"
+      ],
+      "steamAppId": "787810",
+      "reviewCount": 3723,
+      "positivePercentage": 78.1
+    }
+  ],
+  "published": []
+}

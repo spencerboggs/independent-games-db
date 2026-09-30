@@ -1,0 +1,31 @@
+{
+  "id": "sarepta-studio",
+  "name": "Sarepta Studio",
+  "developed": [
+    {
+      "id": "thalassa-edge-of-the-abyss",
+      "title": "Thalassa: Edge of the Abyss",
+      "type": "game",
+      "releaseDate": "2024-08-01",
+      "developers": [
+        "sarepta-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1783680",
+      "reviewCount": 373,
+      "positivePercentage": 88.7
+    }
+  ],
+  "published": []
+}

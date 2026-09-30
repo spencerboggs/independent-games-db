@@ -1,0 +1,72 @@
+{
+  "id": "mortal-shell-enhanced-edition",
+  "title": "Mortal Shell: Enhanced Edition",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2021-03-04",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "cold-symmetry"
+  ],
+  "publishers": [
+    "playstack"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-4",
+    "playstation-5",
+    "windows",
+    "xbox-one",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q115471029",
+    "igdb": "mortal-shell-enhanced-edition"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115471029"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q115471029",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

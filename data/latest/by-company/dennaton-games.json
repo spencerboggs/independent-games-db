@@ -1,0 +1,68 @@
+{
+  "id": "dennaton-games",
+  "name": "Dennaton Games",
+  "developed": [
+    {
+      "id": "hotline-miami",
+      "title": "Hotline Miami",
+      "type": "game",
+      "releaseDate": "2012-10-23",
+      "developers": [
+        "dennaton-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-3",
+        "playstation-4",
+        "playstation-5",
+        "playstation-vita",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "219150",
+      "reviewCount": 128476,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "hotline-miami-2-wrong-number",
+      "title": "Hotline Miami 2: Wrong Number",
+      "type": "game",
+      "releaseDate": "2015-03-10",
+      "developers": [
+        "dennaton-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "274170",
+      "reviewCount": 80436,
+      "positivePercentage": 94.1
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,299 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/people.schema.json",
+  "title": "People",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "roles": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "affiliations": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "company": {
+              "type": "string",
+              "maxLength": 96,
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+              "description": "Stable internal database identifier. Never derived at read time; never reused."
+            },
+            "role": {
+              "type": "string"
+            },
+            "startYear": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "endYear": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "source": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "official",
+                    "steam",
+                    "igdb",
+                    "wikidata",
+                    "developer-interview",
+                    "job-posting",
+                    "technical-article",
+                    "community",
+                    "inferred",
+                    "manual"
+                  ]
+                },
+                "url": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^https?:\\/\\/\\S+$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "retrievedAt": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "note": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "type"
+              ],
+              "additionalProperties": false,
+              "description": "Where a fact came from."
+            }
+          },
+          "required": [
+            "company",
+            "role",
+            "startYear",
+            "endYear",
+            "source"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "credits": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "game": {
+              "type": "string",
+              "maxLength": 96,
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+              "description": "Stable internal database identifier. Never derived at read time; never reused."
+            },
+            "role": {
+              "type": "string"
+            },
+            "source": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "official",
+                    "steam",
+                    "igdb",
+                    "wikidata",
+                    "developer-interview",
+                    "job-posting",
+                    "technical-article",
+                    "community",
+                    "inferred",
+                    "manual"
+                  ]
+                },
+                "url": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^https?:\\/\\/\\S+$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "retrievedAt": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "note": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "type"
+              ],
+              "additionalProperties": false,
+              "description": "Where a fact came from."
+            }
+          },
+          "required": [
+            "game",
+            "role",
+            "source"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "externalIds": {
+        "type": "object",
+        "properties": {
+          "wikidata": {
+            "type": "string",
+            "pattern": "^Q\\d+$"
+          },
+          "igdb": {
+            "type": "string"
+          },
+          "steam": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": {
+          "type": "string"
+        },
+        "description": "Identifiers of this entity in external databases, keyed by provider."
+      },
+      "links": {
+        "type": "object",
+        "propertyNames": {
+          "type": "string"
+        },
+        "additionalProperties": {
+          "type": "string",
+          "pattern": "^https?:\\/\\/\\S+$"
+        },
+        "description": "Named URLs, e.g. official, steam, wikidata, igdb."
+      },
+      "sources": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": [
+                "official",
+                "steam",
+                "igdb",
+                "wikidata",
+                "developer-interview",
+                "job-posting",
+                "technical-article",
+                "community",
+                "inferred",
+                "manual"
+              ]
+            },
+            "url": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^https?:\\/\\/\\S+$"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "retrievedAt": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "note": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "type"
+          ],
+          "additionalProperties": false,
+          "description": "Where a fact came from."
+        }
+      },
+      "lastUpdated": {
+        "type": "string",
+        "description": "ISO 8601 timestamp (UTC)"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "aliases",
+      "roles",
+      "affiliations",
+      "credits",
+      "externalIds",
+      "links",
+      "sources",
+      "lastUpdated"
+    ],
+    "additionalProperties": false
+  }
+}

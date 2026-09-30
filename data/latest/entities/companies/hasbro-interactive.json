@@ -1,0 +1,76 @@
+{
+  "id": "hasbro-interactive",
+  "name": "Hasbro Interactive",
+  "aliases": [
+    "Hasbro Electronic Entertainment",
+    "Hasbro Interactive, Inc."
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game producer and publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q579796",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Beverly",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 1995,
+  "foundedDate": "1995",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Hasbro",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q579796"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "arcade-pool",
+      "phoenix"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 0,
+    "publishedCount": 2,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "arcade-pool",
+    "firstRelease": "arcade-pool",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q579796",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

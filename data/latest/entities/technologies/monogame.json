@@ -1,0 +1,84 @@
+{
+  "id": "monogame",
+  "name": "MonoGame",
+  "aliases": [],
+  "category": "framework",
+  "subcategory": null,
+  "developer": null,
+  "website": "https://monogame.net",
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q13218967"
+  },
+  "games": [
+    "bastion",
+    "carrion",
+    "rogue-heroes-ruins-of-tasos",
+    "transistor"
+  ],
+  "statistics": {
+    "gameCount": 4,
+    "companyCount": 3,
+    "totalSteamReviews": 109280,
+    "mostReviewedGames": [
+      {
+        "id": "bastion",
+        "title": "Bastion",
+        "value": 38212
+      },
+      {
+        "id": "carrion",
+        "title": "CARRION",
+        "value": 36070
+      },
+      {
+        "id": "transistor",
+        "title": "Transistor",
+        "value": 31275
+      },
+      {
+        "id": "rogue-heroes-ruins-of-tasos",
+        "title": "Rogue Heroes: Ruins of Tasos",
+        "value": 3723
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "carrion",
+        "title": "CARRION",
+        "value": 66
+      },
+      {
+        "id": "bastion",
+        "title": "Bastion",
+        "value": 12
+      },
+      {
+        "id": "transistor",
+        "title": "Transistor",
+        "value": 9
+      },
+      {
+        "id": "rogue-heroes-ruins-of-tasos",
+        "title": "Rogue Heroes: Ruins of Tasos",
+        "value": 6
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2011": 1,
+      "2014": 1,
+      "2020": 1,
+      "2021": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

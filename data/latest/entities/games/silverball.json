@@ -1,0 +1,67 @@
+{
+  "id": "silverball",
+  "title": "Silverball",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1993",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "digital-extremes"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "sports-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "ms-dos"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q16267078",
+    "igdb": "silverball"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16267078"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16267078",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

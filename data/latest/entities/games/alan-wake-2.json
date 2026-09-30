@@ -1,0 +1,87 @@
+{
+  "id": "alan-wake-2",
+  "title": "Alan Wake 2",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2023-10-27",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "epic-games"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "survival-horror",
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q108417001",
+    "igdb": "alan-wake-ii"
+  },
+  "links": {
+    "official": "https://www.alanwake.com/alan-wake-2",
+    "wikidata": "https://www.wikidata.org/wiki/Q108417001"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "northlight-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108417001",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "alan-wake",
+    "name": "Alan Wake"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [
+      "alan-wake-ii-night-springs",
+      "alan-wake-ii-the-lake-house"
+    ],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q108417001",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "serious-sam-classic-the-first-encounter",
+  "title": "Serious Sam Classic: The First Encounter",
+  "alternateTitles": [
+    "Serious Sam",
+    "Serious Sam: The First Encounter"
+  ],
+  "type": "game",
+  "releaseDate": "2019-08-30",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "croteam"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Serious Sam is a high-adrenaline single-play and 16-player co-operative arcade-action FPS and Gamespot's Game of the Year 2001!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/41050/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "first-person-shooter"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "family-sharing",
+    "includes-level-editor",
+    "lan-co-op",
+    "lan-pvp",
+    "multi-player",
+    "online-co-op",
+    "online-pvp",
+    "pvp",
+    "remote-play-together",
+    "shared-split-screen",
+    "shared-split-screen-co-op",
+    "shared-split-screen-pvp",
+    "single-player",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "windows",
+    "xbox"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q948180",
+    "igdb": "serious-sam-the-first-encounter",
+    "steam": "41050"
+  },
+  "links": {
+    "official": "http://serioussam.com/",
+    "steam": "https://store.steampowered.com/app/41050/",
+    "wikidata": "https://www.wikidata.org/wiki/Q948180"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/3ad3c32f7689572d7d691b998a6bdfcf9c34a913/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/675cb620e8935e2cbd955bab45bd88cfe55e29f3/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/6e15ef2fe1027f8db6e2909f0ec2df2e6abb4661/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/ss_158cbb8f44cdc8fbcd19a8b7720856a6415b3c0d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/ss_cddfa9b66fed1c2d69ca0b0633e6eb30fabcf43c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/ss_2957d7aeb944169d10b5cd53948ff4c8404f0ac1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/ss_6073b54fd4079d91b4b156cc264a9562b2f21de9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41050/ss_ed56fbddbf780abc053f791c17500bcf201023b4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "serious-sam",
+    "name": "Serious Sam"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 3506,
+      "positiveCount": 3357,
+      "negativeCount": 149,
+      "positivePercentage": 95.8,
+      "negativePercentage": 4.2,
+      "reviewScoreDescription": "Overwhelmingly Positive",
+      "currentPlayers": 7,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.35,
+      "reviewsPerMonth": 41.2,
+      "windowDays": 2588,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/41050/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q948180",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

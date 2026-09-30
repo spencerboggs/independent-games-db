@@ -1,0 +1,34 @@
+{
+  "id": "divinity-engine",
+  "name": "Divinity Engine",
+  "aliases": [
+    "Divinity Engine 2"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Larian Studios",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q127075702"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "blendo-games",
+  "name": "Blendo Games",
+  "developed": [
+    {
+      "id": "skin-deep",
+      "title": "Skin Deep",
+      "type": "game",
+      "releaseDate": "2025-04-30",
+      "developers": [
+        "blendo-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "301280",
+      "reviewCount": 1783,
+      "positivePercentage": 94.3
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "next-studios",
+  "name": "NExT Studios",
+  "developed": [
+    {
+      "id": "crown-trick",
+      "title": "Crown Trick",
+      "type": "game",
+      "releaseDate": "2020-10-16",
+      "developers": [
+        "next-studios"
+      ],
+      "publishers": [
+        "next-studios",
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelite",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1000010",
+      "reviewCount": 5395,
+      "positivePercentage": 85.3
+    }
+  ],
+  "published": [
+    {
+      "id": "crown-trick",
+      "title": "Crown Trick",
+      "type": "game",
+      "releaseDate": "2020-10-16",
+      "developers": [
+        "next-studios"
+      ],
+      "publishers": [
+        "next-studios",
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelite",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1000010",
+      "reviewCount": 5395,
+      "positivePercentage": 85.3
+    }
+  ]
+}

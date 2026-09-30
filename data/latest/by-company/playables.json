@@ -1,0 +1,33 @@
+{
+  "id": "playables",
+  "name": "Playables",
+  "developed": [
+    {
+      "id": "time-flies",
+      "title": "Time Flies",
+      "type": "game",
+      "releaseDate": "2025-07-31",
+      "developers": [
+        "playables"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2000120",
+      "reviewCount": 401,
+      "positivePercentage": 96.8
+    }
+  ],
+  "published": []
+}

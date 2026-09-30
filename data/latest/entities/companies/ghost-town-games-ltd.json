@@ -1,0 +1,80 @@
+{
+  "id": "ghost-town-games-ltd",
+  "name": "Ghost Town Games",
+  "aliases": [
+    "Ghost Town Games Ltd."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video games developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q29159298",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.ghosttowngames.com/",
+  "socialLinks": {
+    "x": "https://x.com/ghosttowngames"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 2015,
+  "foundedDate": "2015-03-06",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q29159298"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "overcooked",
+      "overcooked-2",
+      "overcooked-all-you-can-eat"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 109673,
+    "averagePositivePercentage": 84.3,
+    "weightedPositivePercentage": 89,
+    "mostReviewedGame": "overcooked-2",
+    "mostRecentRelease": "overcooked-all-you-can-eat",
+    "firstRelease": "overcooked",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29159298",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

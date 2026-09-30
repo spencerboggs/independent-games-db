@@ -1,0 +1,34 @@
+{
+  "id": "modern-dream",
+  "name": "Modern Dream",
+  "developed": [
+    {
+      "id": "la-cops",
+      "title": "LA Cops",
+      "type": "game",
+      "releaseDate": "2015-03-13",
+      "developers": [
+        "modern-dream"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "278810",
+      "reviewCount": 180,
+      "positivePercentage": 52.2
+    }
+  ],
+  "published": []
+}

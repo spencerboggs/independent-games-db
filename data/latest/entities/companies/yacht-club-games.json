@@ -1,0 +1,98 @@
+{
+  "id": "yacht-club-games",
+  "name": "Yacht Club Games",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q8046428",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://yachtclubgames.com/",
+  "socialLinks": {
+    "x": "https://x.com/YachtClubGames"
+  },
+  "location": {
+    "headquarters": "Valencia",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2011,
+  "foundedDate": "2011",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q8046428"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "American studio founded in 2011."
+  },
+  "games": {
+    "developed": [
+      "mina-the-hollower",
+      "shovel-knight-dig",
+      "shovel-knight-king-of-cards",
+      "shovel-knight-pocket-dungeon",
+      "shovel-knight-shovel-of-hope",
+      "shovel-knight-showdown",
+      "shovel-knight-specter-of-torment",
+      "shovel-knight-treasure-trove"
+    ],
+    "published": [
+      "cyber-shadow",
+      "mina-the-hollower",
+      "shovel-knight-dig",
+      "shovel-knight-king-of-cards",
+      "shovel-knight-pocket-dungeon",
+      "shovel-knight-shovel-of-hope",
+      "shovel-knight-showdown",
+      "shovel-knight-specter-of-torment",
+      "shovel-knight-treasure-trove"
+    ]
+  },
+  "statistics": {
+    "gameCount": 9,
+    "developedCount": 8,
+    "publishedCount": 9,
+    "totalSteamReviews": 30540,
+    "averagePositivePercentage": 89.2,
+    "weightedPositivePercentage": 92,
+    "mostReviewedGame": "shovel-knight-treasure-trove",
+    "mostRecentRelease": "mina-the-hollower",
+    "firstRelease": "shovel-knight-treasure-trove",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "construct",
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8046428",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "absolutely-games",
+  "name": "Absolutely Games",
+  "developed": [
+    {
+      "id": "classified-france-44",
+      "title": "Classified: France '44",
+      "type": "game",
+      "releaseDate": "2024-03-05",
+      "developers": [
+        "absolutely-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "rpg",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2085370",
+      "reviewCount": 1040,
+      "positivePercentage": 71.7
+    },
+    {
+      "id": "worms-galactic-tactics",
+      "title": "Worms: Galactic Tactics",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "absolutely-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "strategy",
+        "turn-based-tactics"
+      ],
+      "engines": [],
+      "steamAppId": "3278930",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

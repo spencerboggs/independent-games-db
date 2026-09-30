@@ -1,0 +1,33 @@
+{
+  "id": "the-water-museum",
+  "name": "The Water Museum",
+  "developed": [
+    {
+      "id": "about-fishing",
+      "title": "About Fishing",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "the-water-museum"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "fishing-video-game",
+        "mystery-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "3856530",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

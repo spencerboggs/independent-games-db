@@ -1,0 +1,83 @@
+{
+  "id": "control-awe",
+  "title": "Control: AWE",
+  "alternateTitles": [
+    "Control AWE",
+    "Control Expansion 2 AWE"
+  ],
+  "type": "expansion",
+  "releaseDate": "2020-08-27",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "505-games"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action-adventure",
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-4",
+    "windows",
+    "xbox-one"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q98308832",
+    "igdb": "control-awe"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98308832"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "northlight-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q98308832",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": "control-ultimate-edition",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q98308832",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

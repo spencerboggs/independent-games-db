@@ -1,0 +1,80 @@
+{
+  "id": "the-game-kitchen",
+  "name": "The Game Kitchen",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Spanish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q33509553",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://thegamekitchen.com",
+  "socialLinks": {
+    "x": "https://x.com/thegamekitchen",
+    "youtube": "https://www.youtube.com/channel/UCx1laWMckh7XdjzRo1NzKPw"
+  },
+  "location": {
+    "headquarters": "Seville",
+    "country": "ES",
+    "countryName": "Spain"
+  },
+  "founded": 2010,
+  "foundedDate": "2010",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q33509553",
+    "igdb": "the-game-kitchen"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "blasphemous",
+      "blasphemous-2",
+      "blasphemous-2-mea-culpa"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 90436,
+    "averagePositivePercentage": 77.4,
+    "weightedPositivePercentage": 89.6,
+    "mostReviewedGame": "blasphemous",
+    "mostRecentRelease": "blasphemous-2-mea-culpa",
+    "firstRelease": "blasphemous",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q33509553",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

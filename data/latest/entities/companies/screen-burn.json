@@ -1,0 +1,80 @@
+{
+  "id": "screen-burn",
+  "name": "Screen Burn",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q62604390",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://screenburn.com",
+  "socialLinks": {
+    "x": "https://x.com/_nocode"
+  },
+  "location": {
+    "headquarters": "Glasgow",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 2015,
+  "foundedDate": "2015",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q62604390",
+    "igdb": "no-code"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "observation",
+      "silent-hill-townfall",
+      "stories-untold"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 14824,
+    "averagePositivePercentage": 77.1,
+    "weightedPositivePercentage": 78.1,
+    "mostReviewedGame": "stories-untold",
+    "mostRecentRelease": "silent-hill-townfall",
+    "firstRelease": "stories-untold",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62604390",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

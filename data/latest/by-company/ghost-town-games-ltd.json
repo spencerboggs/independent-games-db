@@ -1,0 +1,97 @@
+{
+  "id": "ghost-town-games-ltd",
+  "name": "Ghost Town Games",
+  "developed": [
+    {
+      "id": "overcooked",
+      "title": "Overcooked",
+      "type": "game",
+      "releaseDate": "2016-08-03",
+      "developers": [
+        "ghost-town-games-ltd"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "448510",
+      "reviewCount": 16765,
+      "positivePercentage": 89.6
+    },
+    {
+      "id": "overcooked-2",
+      "title": "Overcooked! 2",
+      "type": "game",
+      "releaseDate": "2018-08-07",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "728880",
+      "reviewCount": 84605,
+      "positivePercentage": 90.4
+    },
+    {
+      "id": "overcooked-all-you-can-eat",
+      "title": "Overcooked! All You Can Eat",
+      "type": "game",
+      "releaseDate": "2021-03-23",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "party-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1243830",
+      "reviewCount": 8303,
+      "positivePercentage": 73
+    }
+  ],
+  "published": []
+}

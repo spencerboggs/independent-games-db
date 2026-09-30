@@ -1,0 +1,74 @@
+{
+  "id": "light-brick-studio",
+  "name": "Light Brick Studio",
+  "aliases": [
+    "Light Brick A/S"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q106610773",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.lightbrick.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Copenhagen",
+    "country": "DK",
+    "countryName": "Denmark"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q106610773"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "lego-voyagers"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 3248,
+    "averagePositivePercentage": 88.4,
+    "weightedPositivePercentage": 88.4,
+    "mostReviewedGame": "lego-voyagers",
+    "mostRecentRelease": "lego-voyagers",
+    "firstRelease": "lego-voyagers",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106610773",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "expression-games",
+  "name": "Expression Games",
+  "developed": [
+    {
+      "id": "hell-let-loose",
+      "title": "Hell Let Loose",
+      "type": "game",
+      "releaseDate": "2021-07-27",
+      "developers": [
+        "expression-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "686810",
+      "reviewCount": 149957,
+      "positivePercentage": 81.8
+    },
+    {
+      "id": "hell-let-loose-vietnam",
+      "title": "Hell Let Loose: Vietnam",
+      "type": "game",
+      "releaseDate": "2026-08-13",
+      "developers": [
+        "expression-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation",
+        "strategy",
+        "vietnam-war-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "3079210",
+      "reviewCount": 12589,
+      "positivePercentage": 61.8
+    }
+  ],
+  "published": []
+}

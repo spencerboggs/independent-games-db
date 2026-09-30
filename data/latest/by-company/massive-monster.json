@@ -1,0 +1,69 @@
+{
+  "id": "massive-monster",
+  "name": "Massive Monster",
+  "developed": [
+    {
+      "id": "cult-of-the-lamb",
+      "title": "Cult of the Lamb",
+      "type": "game",
+      "releaseDate": "2022-08-11",
+      "developers": [
+        "massive-monster"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "construction-and-management-simulation",
+        "dungeon-crawl",
+        "roguelike",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1313140",
+      "reviewCount": 130078,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "cult-of-the-lamb-woolhaven",
+      "title": "Cult of the Lamb: Woolhaven",
+      "type": "dlc",
+      "releaseDate": "2026-01-22",
+      "developers": [
+        "massive-monster"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3840050",
+      "reviewCount": 1356,
+      "positivePercentage": 93.1
+    }
+  ],
+  "published": []
+}

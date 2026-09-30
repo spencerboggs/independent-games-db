@@ -1,0 +1,67 @@
+{
+  "id": "nuggets-entertainment",
+  "name": "Nuggets Entertainment",
+  "aliases": [
+    "NUGGETS ENTERTAINMENT"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Independent studio in Skovde, Sweden, founded in 2023."
+  },
+  "games": {
+    "developed": [
+      "among-the-wild",
+      "rv-there-yet"
+    ],
+    "published": [
+      "among-the-wild",
+      "rv-there-yet"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 2,
+    "totalSteamReviews": 87794,
+    "averagePositivePercentage": 90.2,
+    "weightedPositivePercentage": 90.2,
+    "mostReviewedGame": "rv-there-yet",
+    "mostRecentRelease": "rv-there-yet",
+    "firstRelease": "rv-there-yet",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

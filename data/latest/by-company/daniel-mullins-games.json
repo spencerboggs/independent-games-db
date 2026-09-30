@@ -1,0 +1,40 @@
+{
+  "id": "daniel-mullins-games",
+  "name": "Daniel Mullins Games",
+  "developed": [
+    {
+      "id": "inscryption",
+      "title": "Inscryption",
+      "type": "game",
+      "releaseDate": "2021-10-19",
+      "developers": [
+        "daniel-mullins-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1092790",
+      "reviewCount": 148837,
+      "positivePercentage": 96.8
+    }
+  ],
+  "published": []
+}

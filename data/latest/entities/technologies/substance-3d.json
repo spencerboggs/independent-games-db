@@ -1,0 +1,36 @@
+{
+  "id": "substance-3d",
+  "name": "Adobe Substance 3D",
+  "aliases": [
+    "Allegorithmic Substance",
+    "Substance 3D Designer",
+    "Substance 3D Painter",
+    "Substance Designer",
+    "Substance Painter"
+  ],
+  "category": "tool",
+  "subcategory": "texturing",
+  "developer": "Adobe",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {},
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

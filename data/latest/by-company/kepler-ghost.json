@@ -1,0 +1,31 @@
+{
+  "id": "kepler-ghost",
+  "name": "Kepler Ghost",
+  "developed": [],
+  "published": [
+    {
+      "id": "windblown",
+      "title": "Windblown",
+      "type": "game",
+      "releaseDate": "2024-10-24",
+      "developers": [
+        "motion-twin"
+      ],
+      "publishers": [
+        "kepler-ghost",
+        "motion-twin"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "1911610",
+      "reviewCount": 10402,
+      "positivePercentage": 88.7
+    }
+  ]
+}

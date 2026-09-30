@@ -1,0 +1,30 @@
+{
+  "id": "dadako",
+  "name": "Dadako",
+  "developed": [
+    {
+      "id": "questy-chess",
+      "title": "Questy Chess",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "dadako"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "chess-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chuck-jordan",
+  "name": "Chuck Jordan",
+  "developed": [
+    {
+      "id": "sasquatchers",
+      "title": "Sasquatchers",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "chuck-jordan"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "julian-cordero",
+  "name": "Julián Cordero",
+  "developed": [
+    {
+      "id": "despelote",
+      "title": "despelote",
+      "type": "game",
+      "releaseDate": "2025-05-01",
+      "developers": [
+        "julian-cordero",
+        "sebastian-valbuena"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "association-football-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "2367820",
+      "reviewCount": 1169,
+      "positivePercentage": 94.6
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "gungrounds",
+  "name": "Gungrounds",
+  "developed": [
+    {
+      "id": "galaxi-taxi",
+      "title": "Galaxi Taxi",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "fumi-games",
+        "gungrounds"
+      ],
+      "publishers": [
+        "fumi-games"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1695330",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

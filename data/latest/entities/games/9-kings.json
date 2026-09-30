@@ -1,0 +1,243 @@
+{
+  "id": "9-kings",
+  "title": "9 Kings",
+  "alternateTitles": [
+    "9Kings"
+  ],
+  "type": "game",
+  "releaseDate": "2025-05-23",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "early-access",
+  "developers": [
+    "sad-socket"
+  ],
+  "publishers": [
+    "hooded-horse",
+    "sidekick-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2784470/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "rpg",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "adjustable-difficulty",
+    "camera-comfort",
+    "custom-volume-controls",
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "mouse-only-option",
+    "multi-player",
+    "online-pvp",
+    "pvp",
+    "save-anytime",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-input-api-support",
+    "steam-trading-cards",
+    "touch-only-option"
+  ],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "German",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Korean",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Spanish - Spain",
+    "Spanish - Latin America",
+    "French",
+    "Italian",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Indonesian",
+    "Norwegian",
+    "Polish",
+    "Romanian",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Ukrainian",
+    "Filipino",
+    "Malay",
+    "Slovak"
+  ],
+  "externalIds": {
+    "wikidata": "Q134699489",
+    "igdb": "9-kings",
+    "steam": "2784470"
+  },
+  "links": {
+    "official": "https://www.sadsocket.com",
+    "steam": "https://store.steampowered.com/app/2784470/",
+    "wikidata": "https://www.wikidata.org/wiki/Q134699489"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/696583b4634bfd2777a516cfc59b752f06150c62/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/52914cecbaa148fd0533aff3c5297306757cd4a0/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/4efeb0699f39870d31d2d733a09d2fc4b2d5a56f/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/5702336d94fbe69df85acd0e8fc66178ac5596a2/ss_5702336d94fbe69df85acd0e8fc66178ac5596a2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/61532c75356e52838cc74ba64977ba837d1f8c80/ss_61532c75356e52838cc74ba64977ba837d1f8c80.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/70324907375a2dae2ec16e3b2baf1c2eb8721ab5/ss_70324907375a2dae2ec16e3b2baf1c2eb8721ab5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d217eea521c15ce3a9dcb093325f61455186e55c/ss_d217eea521c15ce3a9dcb093325f61455186e55c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/8f08bcf564c6e906c9163f7508cc567e57fe7d46/ss_8f08bcf564c6e906c9163f7508cc567e57fe7d46.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a29c24822c8c4296d1bbcdd0480b3fcaf3150409/ss_a29c24822c8c4296d1bbcdd0480b3fcaf3150409.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27/ss_d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/f6ac181ad0553aefbaebe98ea11bc1772f4a71ea/ss_f6ac181ad0553aefbaebe98ea11bc1772f4a71ea.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d7fc773dfc691536b9ed32b5e57169dea30d7c90/ss_d7fc773dfc691536b9ed32b5e57169dea30d7c90.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 23385,
+      "positiveCount": 21605,
+      "negativeCount": 1780,
+      "positivePercentage": 92.4,
+      "negativePercentage": 7.6,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 572,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 47.2,
+      "reviewsPerMonth": 1436.8,
+      "windowDays": 495,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2784470/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q134699489",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

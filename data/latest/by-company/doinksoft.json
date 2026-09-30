@@ -1,0 +1,115 @@
+{
+  "id": "doinksoft",
+  "name": "doinksoft",
+  "developed": [
+    {
+      "id": "dark-scrolls",
+      "title": "Dark Scrolls",
+      "type": "game",
+      "releaseDate": "2026-06-22",
+      "developers": [
+        "doinksoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "action-roguelike",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "2912550",
+      "reviewCount": 159,
+      "positivePercentage": 60.4
+    },
+    {
+      "id": "devolver-bootleg",
+      "title": "Devolver Bootleg",
+      "type": "game",
+      "releaseDate": "2019-06-09",
+      "developers": [
+        "doinksoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "sports",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1066260",
+      "reviewCount": 1178,
+      "positivePercentage": 88.5
+    },
+    {
+      "id": "gato-roboto",
+      "title": "Gato Roboto",
+      "type": "game",
+      "releaseDate": "2019-05-30",
+      "developers": [
+        "doinksoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "916730",
+      "reviewCount": 5267,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "gunbrella",
+      "title": "Gunbrella",
+      "type": "game",
+      "releaseDate": "2023-09-13",
+      "developers": [
+        "doinksoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1580180",
+      "reviewCount": 1056,
+      "positivePercentage": 85.3
+    }
+  ],
+  "published": []
+}

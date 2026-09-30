@@ -1,0 +1,192 @@
+{
+  "id": "about-fishing",
+  "title": "About Fishing",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2026",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "upcoming",
+  "developers": [
+    "the-water-museum"
+  ],
+  "publishers": [
+    "playstack"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Cast your line into calm waters and feel the quiet pull beneath the surface. Each cast brings rewards, but some things you reel in were never meant to be found.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3856530/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game",
+    "fishing-video-game",
+    "mystery-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "playstation-5",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English"
+  ],
+  "externalIds": {
+    "wikidata": "Q137213422",
+    "igdb": "about-fishing",
+    "steam": "3856530"
+  },
+  "links": {
+    "official": "https://about-fishing.com",
+    "steam": "https://store.steampowered.com/app/3856530/",
+    "wikidata": "https://www.wikidata.org/wiki/Q137213422"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/17dd9a1b8f8eed378743c7212688d1e615a03365/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/8c8de4dc02faa708dd1c743041ecedff71a931ed/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1e6666eebd7e29fe557ca054d591795ad02104df/ss_1e6666eebd7e29fe557ca054d591795ad02104df.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/d8eade7bcffbe20d800939d4a4ce0b89cdbbe378/ss_d8eade7bcffbe20d800939d4a4ce0b89cdbbe378.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/53b99748340d9d983ab0c12a76d2fab8906e66ad/ss_53b99748340d9d983ab0c12a76d2fab8906e66ad.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/e94167be8278f1828fa26dbfbed9140d9d89a926/ss_e94167be8278f1828fa26dbfbed9140d9d89a926.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/dd9111b468ef325400e56cb1cb8762495e344071/ss_dd9111b468ef325400e56cb1cb8762495e344071.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/d727b79413228cf959ecc52b59da4f127e5828c0/ss_d727b79413228cf959ecc52b59da4f127e5828c0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/cf91b5cfc808af351ec9262bcce998bf9d085e0b/ss_cf91b5cfc808af351ec9262bcce998bf9d085e0b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/9ac7861ce6f4af2ec45eacd1f3d656d6c37ab92c/ss_9ac7861ce6f4af2ec45eacd1f3d656d6c37ab92c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/c7d8a0c257feaf6cae91c7a943ecfc7f69adff7f/ss_c7d8a0c257feaf6cae91c7a943ecfc7f69adff7f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/bf88b1db9f339f828d2525ee3bcb0898723e0e3d/ss_bf88b1db9f339f828d2525ee3bcb0898723e0e3d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/26c15526c0db6be952f7dd28697fcd2d7a859ae8/ss_26c15526c0db6be952f7dd28697fcd2d7a859ae8.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3856530/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137213422",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

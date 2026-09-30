@@ -1,0 +1,31 @@
+{
+  "id": "box-dragon",
+  "name": "Box Dragon",
+  "developed": [
+    {
+      "id": "as-we-descend",
+      "title": "As We Descend",
+      "type": "game",
+      "releaseDate": "2025-05-28",
+      "developers": [
+        "box-dragon"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "roguelike-deck-building-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1769830",
+      "reviewCount": 1432,
+      "positivePercentage": 86.7
+    }
+  ],
+  "published": []
+}

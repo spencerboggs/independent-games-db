@@ -1,0 +1,95 @@
+{
+  "id": "minecraft-bedrock-edition",
+  "title": "Minecraft: Bedrock Edition",
+  "alternateTitles": [
+    "Minecraft for Windows"
+  ],
+  "type": "game",
+  "releaseDate": "2011-10-09",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang",
+    "xbox-game-studios"
+  ],
+  "publishers": [
+    "mojang",
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure-video-game",
+    "construction-and-management-simulation",
+    "sandbox",
+    "survival"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios",
+    "nintendo-switch",
+    "playstation-4",
+    "windows",
+    "windows-phone",
+    "xbox-one"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q6016926",
+    "igdb": "minecraft--1"
+  },
+  "links": {
+    "official": "https://minecraftspe.com/",
+    "wikidata": "https://www.wikidata.org/wiki/Q6016926"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [
+      {
+        "id": "cpp",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6016926",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6016926",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

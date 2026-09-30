@@ -1,0 +1,49 @@
+name: Release
+
+# Triggered by pushing a tag created after `npm run release`
+# (e.g. `git tag v0.2.0 && git push --tags`). Packages the committed
+# data/latest and publishes a GitHub release with archives and assets.
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check tag matches datasetVersion
+        run: |
+          version=$(node -p "require('./dataset.config.json').datasetVersion")
+          if [ "v${version}" != "${GITHUB_REF_NAME}" ]; then
+            echo "::error::Tag ${GITHUB_REF_NAME} does not match datasetVersion ${version}. Run 'npm run release' before tagging."
+            exit 1
+          fi
+
+      - name: Check data/latest is current
+        run: npm run validate:output
+
+      - name: Package
+        run: npm run release -- --package-only
+
+      - name: Publish GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" dist/release/* \
+            --title "Dataset ${GITHUB_REF_NAME}" \
+            --notes-file dist/release/RELEASE_NOTES.md \
+            --verify-tag

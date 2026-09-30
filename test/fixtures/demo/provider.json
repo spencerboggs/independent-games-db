@@ -1,0 +1,200 @@
+{
+  "discovery": [
+    { "company": "hollow-lantern-studio", "role": "developer", "ids": { "wikidata": "Q900101" }, "title": "Lanternfall" },
+    { "company": "hollow-lantern-studio", "role": "developer", "ids": { "wikidata": "Q900102" }, "title": "Lanternfall: Embers" },
+    { "company": "brightmoss-publishing", "role": "publisher", "ids": { "wikidata": "Q900101" }, "title": "Lanternfall" },
+    { "company": "pixelforge-collective", "role": "developer", "ids": { "steam": "990003" }, "title": "Circuit Garden" }
+  ],
+  "games": [
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900101", "steam": "990001" },
+      "url": "https://www.wikidata.org/wiki/Q900101",
+      "retrievedAt": "2026-01-15",
+      "title": "Lanternfall",
+      "type": "game",
+      "releaseDate": "2024-03-14",
+      "developers": [{ "name": "Hollow Lantern Studio", "ids": { "wikidata": "Q900001" } }],
+      "publishers": [{ "name": "Brightmoss Publishing", "ids": { "wikidata": "Q900002" } }],
+      "genres": ["Metroidvania", "action-adventure game"],
+      "platforms": ["Microsoft Windows", "Nintendo Switch"],
+      "technology": [{ "name": "Unity", "role": "engines", "ids": {} }],
+      "dlc": [{ "wikidata": "Q900102" }],
+      "series": "Lanternfall"
+    },
+    {
+      "provider": "steam",
+      "sourceType": "steam",
+      "ids": { "steam": "990001" },
+      "url": "https://store.steampowered.com/app/990001/",
+      "retrievedAt": "2026-01-15",
+      "title": "Lanternfall",
+      "type": "game",
+      "releaseDate": "2024-03-14",
+      "releaseStatus": "released",
+      "developers": [{ "name": "Hollow Lantern Studio", "ids": {} }],
+      "publishers": [{ "name": "Brightmoss", "ids": {} }],
+      "description": {
+        "text": "Descend through a drowned lighthouse city with nothing but a flickering lantern.",
+        "license": "third-party",
+        "source": { "type": "steam", "url": "https://store.steampowered.com/app/990001/", "retrievedAt": "2026-01-15" }
+      },
+      "genres": ["Action", "Adventure", "Indie"],
+      "features": ["Single-player", "Steam Achievements", "Full controller support"],
+      "platforms": ["windows", "mac"],
+      "supportedLanguages": ["English", "French", "Japanese"],
+      "website": "https://example.com/lanternfall",
+      "media": {
+        "header": {
+          "url": "https://example.com/media/lanternfall/header.jpg",
+          "type": "header",
+          "source": "steam",
+          "retrievedAt": "2026-01-15",
+          "rights": "reference-only",
+          "notes": null
+        }
+      },
+      "steamStatistics": {
+        "reviewCount": 12840,
+        "positiveCount": 12011,
+        "negativeCount": 829,
+        "positivePercentage": 93.54,
+        "negativePercentage": 6.46,
+        "reviewScoreDescription": "Very Positive",
+        "currentPlayers": 412,
+        "retrievedAt": "2026-01-15"
+      }
+    },
+    {
+      "provider": "igdb",
+      "sourceType": "igdb",
+      "ids": { "igdb": "lanternfall", "steam": "990001" },
+      "url": "https://www.igdb.com/games/lanternfall",
+      "retrievedAt": "2026-01-15",
+      "title": "Lanternfall",
+      "type": "game",
+      "releaseDate": "2024-03-14",
+      "developers": [{ "name": "Hollow Lantern Studios", "ids": { "igdb": "hollow-lantern-studios" } }],
+      "publishers": [{ "name": "Brightmoss Publishing", "ids": { "igdb": "brightmoss-publishing" } }],
+      "genres": ["Platform", "Adventure"],
+      "platforms": ["PC (Microsoft Windows)", "Nintendo Switch", "Mac"],
+      "technology": [{ "name": "Unity", "role": "engines", "ids": {} }]
+    },
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900102" },
+      "url": "https://www.wikidata.org/wiki/Q900102",
+      "retrievedAt": "2026-01-15",
+      "title": "Lanternfall: Embers",
+      "type": "expansion",
+      "releaseDate": "2025-02",
+      "developers": [{ "name": "Hollow Lantern Studio", "ids": { "wikidata": "Q900001" } }],
+      "publishers": [{ "name": "Brightmoss Publishing", "ids": { "wikidata": "Q900002" } }],
+      "platforms": ["Microsoft Windows"],
+      "parent": { "wikidata": "Q900101" }
+    },
+    {
+      "provider": "steam",
+      "sourceType": "steam",
+      "ids": { "steam": "990003" },
+      "url": "https://store.steampowered.com/app/990003/",
+      "retrievedAt": "2026-01-15",
+      "title": "Circuit Garden",
+      "type": "game",
+      "releaseDate": "2025-11-02",
+      "releaseStatus": "early-access",
+      "developers": [{ "name": "PixelForge Collective Ltd.", "ids": {} }],
+      "publishers": [{ "name": "Quietwave Games", "ids": {} }],
+      "description": {
+        "text": "Grow a garden of self-assembling machines on a tiny orbital station.",
+        "license": "third-party",
+        "source": { "type": "steam", "url": "https://store.steampowered.com/app/990003/", "retrievedAt": "2026-01-15" }
+      },
+      "genres": ["Simulation", "Strategy", "Early Access"],
+      "tags": ["Automation", "Cozy"],
+      "features": ["Single-player"],
+      "platforms": ["windows", "linux"],
+      "supportedLanguages": ["English"],
+      "steamStatistics": {
+        "reviewCount": 1650,
+        "positiveCount": 1502,
+        "negativeCount": 148,
+        "positivePercentage": 91.03,
+        "negativePercentage": 8.97,
+        "reviewScoreDescription": "Very Positive",
+        "currentPlayers": 96,
+        "retrievedAt": "2026-01-15"
+      }
+    },
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900103", "steam": "990003" },
+      "url": "https://www.wikidata.org/wiki/Q900103",
+      "retrievedAt": "2026-01-15",
+      "title": "Circuit Garden",
+      "type": "game",
+      "releaseDate": "2025-11-02",
+      "developers": [{ "name": "PixelForge Collective", "ids": { "wikidata": "Q900003" } }],
+      "publishers": [{ "name": "Quietwave Games", "ids": { "wikidata": "Q900004" } }],
+      "technology": [
+        { "name": "Godot Engine", "role": "engines", "ids": {} },
+        { "name": "GDScript", "role": "languages", "ids": {} }
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900001" },
+      "url": "https://www.wikidata.org/wiki/Q900001",
+      "retrievedAt": "2026-01-15",
+      "name": "Hollow Lantern Studio",
+      "website": "https://example.com/hollow-lantern",
+      "socialLinks": { "bluesky": "https://bsky.app/profile/hollowlantern.example.com" },
+      "headquarters": "Wellington",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "foundedDate": "2017"
+    },
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900002" },
+      "url": "https://www.wikidata.org/wiki/Q900002",
+      "retrievedAt": "2026-01-15",
+      "name": "Brightmoss Publishing",
+      "website": "https://example.com/brightmoss",
+      "headquarters": "Bristol",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "foundedDate": "2012-06"
+    },
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900003" },
+      "url": "https://www.wikidata.org/wiki/Q900003",
+      "retrievedAt": "2026-01-15",
+      "name": "PixelForge Collective",
+      "country": "CA",
+      "countryName": "Canada",
+      "foundedDate": "2020"
+    },
+    {
+      "provider": "wikidata",
+      "sourceType": "wikidata",
+      "ids": { "wikidata": "Q900004" },
+      "url": "https://www.wikidata.org/wiki/Q900004",
+      "retrievedAt": "2026-01-15",
+      "name": "Quietwave Games",
+      "country": "SE",
+      "countryName": "Sweden",
+      "foundedDate": "2021",
+      "parent": { "name": "Brightmoss Publishing", "ids": { "wikidata": "Q900002" } }
+    }
+  ]
+}

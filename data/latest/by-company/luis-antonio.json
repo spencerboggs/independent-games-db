@@ -1,0 +1,37 @@
+{
+  "id": "luis-antonio",
+  "name": "Luis Antonio",
+  "developed": [
+    {
+      "id": "twelve-minutes",
+      "title": "Twelve Minutes",
+      "type": "game",
+      "releaseDate": "2021-08-19",
+      "developers": [
+        "luis-antonio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1097200",
+      "reviewCount": 8120,
+      "positivePercentage": 73
+    }
+  ],
+  "published": []
+}

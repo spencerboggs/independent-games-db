@@ -1,0 +1,36 @@
+{
+  "id": "marumittu-games",
+  "name": "Marumittu Games",
+  "developed": [
+    {
+      "id": "d-topia",
+      "title": "D-topia",
+      "type": "game",
+      "releaseDate": "2026-07-14",
+      "developers": [
+        "marumittu-games"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1895460",
+      "reviewCount": 158,
+      "positivePercentage": 88
+    }
+  ],
+  "published": []
+}

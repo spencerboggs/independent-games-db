@@ -1,0 +1,70 @@
+{
+  "id": "coffee-stain-north",
+  "name": "Coffee Stain North",
+  "developed": [
+    {
+      "id": "goat-simulator-3",
+      "title": "Goat Simulator 3",
+      "type": "game",
+      "releaseDate": "2024-02-15",
+      "developers": [
+        "coffee-stain-north"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "850190",
+      "reviewCount": 16046,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "goat-simulator-remastered",
+      "title": "Goat Simulator: Remastered",
+      "type": "game",
+      "releaseDate": "2024-11-07",
+      "developers": [
+        "coffee-stain-north",
+        "coffee-stain-studios",
+        "deep-silver-fishlabs"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1762930",
+      "reviewCount": 1225,
+      "positivePercentage": 88.3
+    }
+  ],
+  "published": []
+}

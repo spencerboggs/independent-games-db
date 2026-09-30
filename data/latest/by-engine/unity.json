@@ -1,0 +1,2892 @@
+{
+  "id": "unity",
+  "name": "Unity",
+  "games": [
+    {
+      "id": "a-memoir-blue",
+      "title": "A Memoir Blue",
+      "type": "game",
+      "releaseDate": "2022-03-24",
+      "developers": [
+        "cloisters-interactive"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1497450",
+      "reviewCount": 527,
+      "positivePercentage": 85.2
+    },
+    {
+      "id": "ape-out",
+      "title": "APE OUT",
+      "type": "game",
+      "releaseDate": "2019-02-28",
+      "developers": [
+        "bennett-foddy",
+        "gabe-cuzzillo",
+        "maxi-boch"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "beat-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "447150",
+      "reviewCount": 4128,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "arco",
+      "title": "Arco",
+      "type": "game",
+      "releaseDate": "2024-08-15",
+      "developers": [
+        "bibiki",
+        "fayer",
+        "franek",
+        "max-cahill"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "strategy",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2366970",
+      "reviewCount": 2319,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "automachef",
+      "title": "Automachef",
+      "type": "game",
+      "releaseDate": "2019-07-23",
+      "developers": [
+        "rhombico-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "984800",
+      "reviewCount": 926,
+      "positivePercentage": 71.7
+    },
+    {
+      "id": "ball-x-pit",
+      "title": "BALL x PIT",
+      "type": "game",
+      "releaseDate": "2025-10-15",
+      "developers": [
+        "kenny-sun-and-friends"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2062430",
+      "reviewCount": 27326,
+      "positivePercentage": 95.3
+    },
+    {
+      "id": "before-we-leave",
+      "title": "Before We Leave",
+      "type": "game",
+      "releaseDate": "2021-05-13",
+      "developers": [
+        "balancing-monkey-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1073910",
+      "reviewCount": 1731,
+      "positivePercentage": 78.1
+    },
+    {
+      "id": "beyond-eyes",
+      "title": "Beyond Eyes",
+      "type": "game",
+      "releaseDate": "2015-08-11",
+      "developers": [
+        "team17",
+        "tiger-and-squid"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "356050",
+      "reviewCount": 1616,
+      "positivePercentage": 68.3
+    },
+    {
+      "id": "blasphemous",
+      "title": "Blasphemous",
+      "type": "game",
+      "releaseDate": "2019-09-10",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "platformer",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "774361",
+      "reviewCount": 67504,
+      "positivePercentage": 89.8
+    },
+    {
+      "id": "blasphemous-2",
+      "title": "Blasphemous 2",
+      "type": "game",
+      "releaseDate": "2023-08-24",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2114740",
+      "reviewCount": 21788,
+      "positivePercentage": 90.7
+    },
+    {
+      "id": "blockhood",
+      "title": "Block'hood",
+      "type": "game",
+      "releaseDate": "2017-05-10",
+      "developers": [
+        "plethora-project"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "416210",
+      "reviewCount": 1256,
+      "positivePercentage": 74.4
+    },
+    {
+      "id": "boomerang-x",
+      "title": "Boomerang X",
+      "type": "game",
+      "releaseDate": "2021-07-08",
+      "developers": [
+        "dang"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1170060",
+      "reviewCount": 1383,
+      "positivePercentage": 95.2
+    },
+    {
+      "id": "broforce",
+      "title": "Broforce",
+      "type": "game",
+      "releaseDate": "2015-10-15",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "274190",
+      "reviewCount": 61048,
+      "positivePercentage": 96.9
+    },
+    {
+      "id": "callers-bane",
+      "title": "Caller's Bane",
+      "type": "game",
+      "releaseDate": "2013-06-03",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "mojang"
+      ],
+      "platforms": [
+        "android",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "clustertruck",
+      "title": "Clustertruck",
+      "type": "game",
+      "releaseDate": "2016-09-27",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "tinybuild"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "397950",
+      "reviewCount": 18589,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "crossing-souls",
+      "title": "Crossing Souls",
+      "type": "game",
+      "releaseDate": "2018-02-13",
+      "developers": [
+        "fourattic"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "331690",
+      "reviewCount": 1552,
+      "positivePercentage": 78.7
+    },
+    {
+      "id": "crown-trick",
+      "title": "Crown Trick",
+      "type": "game",
+      "releaseDate": "2020-10-16",
+      "developers": [
+        "next-studios"
+      ],
+      "publishers": [
+        "next-studios",
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelite",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1000010",
+      "reviewCount": 5395,
+      "positivePercentage": 85.3
+    },
+    {
+      "id": "cult-of-the-lamb",
+      "title": "Cult of the Lamb",
+      "type": "game",
+      "releaseDate": "2022-08-11",
+      "developers": [
+        "massive-monster"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "construction-and-management-simulation",
+        "dungeon-crawl",
+        "roguelike",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1313140",
+      "reviewCount": 130078,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "cuphead",
+      "title": "Cuphead",
+      "type": "game",
+      "releaseDate": "2017-09-29",
+      "developers": [
+        "studio-mdhr"
+      ],
+      "publishers": [
+        "studio-mdhr"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "run-and-gun"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "268910",
+      "reviewCount": 221971,
+      "positivePercentage": 96.1
+    },
+    {
+      "id": "deaths-door",
+      "title": "Death's Door",
+      "type": "game",
+      "releaseDate": "2021-07-20",
+      "developers": [
+        "acid-nerve"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "894020",
+      "reviewCount": 22254,
+      "positivePercentage": 93.1
+    },
+    {
+      "id": "detention",
+      "title": "Detention",
+      "type": "game",
+      "releaseDate": "2017-01-12",
+      "developers": [
+        "red-candle-games"
+      ],
+      "publishers": [
+        "red-candle-games"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle",
+        "survival-horror"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "555220",
+      "reviewCount": 11832,
+      "positivePercentage": 95.7
+    },
+    {
+      "id": "devotion",
+      "title": "Devotion",
+      "type": "game",
+      "releaseDate": "2019-02-19",
+      "developers": [
+        "red-candle-games"
+      ],
+      "publishers": [
+        "red-candle-games"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "psychological-horror-fiction",
+        "puzzle",
+        "survival-horror"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1006510",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "disc-room",
+      "title": "Disc Room",
+      "type": "game",
+      "releaseDate": "2020-10-22",
+      "developers": [
+        "dose",
+        "jw",
+        "kitty",
+        "terri"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1229580",
+      "reviewCount": 1164,
+      "positivePercentage": 92.9
+    },
+    {
+      "id": "donut-county",
+      "title": "Donut County",
+      "type": "game",
+      "releaseDate": "2018-08-28",
+      "developers": [
+        "ben-esposito"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "702670",
+      "reviewCount": 12173,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "dredge",
+      "title": "DREDGE",
+      "type": "game",
+      "releaseDate": "2023-03-30",
+      "developers": [
+        "black-salt-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cozy-game",
+        "fishing-video-game",
+        "horror-video-game",
+        "inventory-management-video-game",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1562430",
+      "reviewCount": 57206,
+      "positivePercentage": 95.8
+    },
+    {
+      "id": "dredge-the-iron-rig",
+      "title": "DREDGE - The Iron Rig",
+      "type": "dlc",
+      "releaseDate": "2024-08-15",
+      "developers": [
+        "black-salt-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cosmic-horror-video-game",
+        "fishing-video-game",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2561450",
+      "reviewCount": 757,
+      "positivePercentage": 81.5
+    },
+    {
+      "id": "dropsy",
+      "title": "Dropsy",
+      "type": "game",
+      "releaseDate": "2015-09-10",
+      "developers": [
+        "a-jolly-corpse",
+        "tendershoot"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "point-and-click-adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "274350",
+      "reviewCount": 2163,
+      "positivePercentage": 92.9
+    },
+    {
+      "id": "dungeon-hearts",
+      "title": "Dungeon Hearts",
+      "type": "game",
+      "releaseDate": "2013-03-28",
+      "developers": [
+        "cube-roots"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "wii-u",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "229520",
+      "reviewCount": 545,
+      "positivePercentage": 61.8
+    },
+    {
+      "id": "enter-the-gungeon",
+      "title": "Enter the Gungeon",
+      "type": "game",
+      "releaseDate": "2016-04-05",
+      "developers": [
+        "dodge-roll"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelike",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "311690",
+      "reviewCount": 89921,
+      "positivePercentage": 95.1
+    },
+    {
+      "id": "firewatch",
+      "title": "Firewatch",
+      "type": "game",
+      "releaseDate": "2016-02-09",
+      "developers": [
+        "campo-santo"
+      ],
+      "publishers": [
+        "campo-santo",
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "mystery-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "383870",
+      "reviewCount": 99563,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "florence",
+      "title": "Florence",
+      "type": "game",
+      "releaseDate": "2020-02-13",
+      "developers": [
+        "mountains"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1102130",
+      "reviewCount": 16495,
+      "positivePercentage": 93.2
+    },
+    {
+      "id": "genital-jousting",
+      "title": "Genital Jousting",
+      "type": "game",
+      "releaseDate": "2018-01-18",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "party-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "469820",
+      "reviewCount": 11278,
+      "positivePercentage": 92.1
+    },
+    {
+      "id": "golf-with-your-friends",
+      "title": "Golf With Your Friends",
+      "type": "game",
+      "releaseDate": "2020-05-19",
+      "developers": [
+        "blacklight-interactive",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "miniature-golf-video-game",
+        "sports"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "431240",
+      "reviewCount": 75854,
+      "positivePercentage": 87.3
+    },
+    {
+      "id": "gorn",
+      "title": "GORN",
+      "type": "game",
+      "releaseDate": "2019-07-18",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "578620",
+      "reviewCount": 8227,
+      "positivePercentage": 94
+    },
+    {
+      "id": "gorogoa",
+      "title": "Gorogoa",
+      "type": "game",
+      "releaseDate": "2017-12-14",
+      "developers": [
+        "buried-signal"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "557600",
+      "reviewCount": 20835,
+      "positivePercentage": 97.5
+    },
+    {
+      "id": "gris",
+      "title": "GRIS",
+      "type": "game",
+      "releaseDate": "2018-12-13",
+      "developers": [
+        "nomada-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "683320",
+      "reviewCount": 96511,
+      "positivePercentage": 96
+    },
+    {
+      "id": "heave-ho",
+      "title": "Heave Ho",
+      "type": "game",
+      "releaseDate": "2019-08-29",
+      "developers": [
+        "le-cartel-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "905340",
+      "reviewCount": 2607,
+      "positivePercentage": 91.3
+    },
+    {
+      "id": "heavy-bullets",
+      "title": "Heavy Bullets",
+      "type": "game",
+      "releaseDate": "2014-09-18",
+      "developers": [
+        "doseone",
+        "terri-vellmann"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "297120",
+      "reviewCount": 1568,
+      "positivePercentage": 81.8
+    },
+    {
+      "id": "hindsight",
+      "title": "Hindsight",
+      "type": "game",
+      "releaseDate": "2022-08-04",
+      "developers": [
+        "team-hindsight"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122700",
+      "reviewCount": 161,
+      "positivePercentage": 80.7
+    },
+    {
+      "id": "hokko-life",
+      "title": "Hokko Life",
+      "type": "game",
+      "releaseDate": "2022-09-27",
+      "developers": [
+        "wonderscope-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "life-simulation-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "824000",
+      "reviewCount": 2673,
+      "positivePercentage": 66.2
+    },
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "type": "game",
+      "releaseDate": "2017-02-24",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "adventure",
+        "metroidvania",
+        "soulsvania",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "367520",
+      "reviewCount": 563187,
+      "positivePercentage": 96.9
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "type": "game",
+      "releaseDate": "2025-09-04",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidvania",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1030300",
+      "reviewCount": 424061,
+      "positivePercentage": 89.5
+    },
+    {
+      "id": "huntdown",
+      "title": "HUNTDOWN",
+      "type": "game",
+      "releaseDate": "2021-05-12",
+      "developers": [
+        "easy-trigger-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "598550",
+      "reviewCount": 4436,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "i-hate-running-backwards",
+      "title": "I Hate Running Backwards",
+      "type": "game",
+      "releaseDate": "2018-05-22",
+      "developers": [
+        "binx-games",
+        "croteam",
+        "croteam-incubator"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "575820",
+      "reviewCount": 245,
+      "positivePercentage": 74.7
+    },
+    {
+      "id": "inscryption",
+      "title": "Inscryption",
+      "type": "game",
+      "releaseDate": "2021-10-19",
+      "developers": [
+        "daniel-mullins-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1092790",
+      "reviewCount": 148837,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "killer-frequency",
+      "title": "Killer Frequency",
+      "type": "game",
+      "releaseDate": "2023-06-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "horror-video-game",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1903620",
+      "reviewCount": 6241,
+      "positivePercentage": 93
+    },
+    {
+      "id": "last-stop",
+      "title": "Last Stop",
+      "type": "game",
+      "releaseDate": "2021-07-22",
+      "developers": [
+        "variable-state"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122690",
+      "reviewCount": 370,
+      "positivePercentage": 78.9
+    },
+    {
+      "id": "lumentale-memories-of-trey",
+      "title": "LumenTale: Memories of Trey",
+      "type": "game",
+      "releaseDate": "2026-05-26",
+      "developers": [
+        "beehive-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2261430",
+      "reviewCount": 1379,
+      "positivePercentage": 71.6
+    },
+    {
+      "id": "marauders",
+      "title": "Marauders",
+      "type": "game",
+      "releaseDate": "2022-10-03",
+      "developers": [
+        "small-impact-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "extraction-shooter",
+        "looter-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1789480",
+      "reviewCount": 21449,
+      "positivePercentage": 67.1
+    },
+    {
+      "id": "mother-russia-bleeds",
+      "title": "Mother Russia Bleeds",
+      "type": "game",
+      "releaseDate": "2016-09-05",
+      "developers": [
+        "le-cartel-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "beat-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "361300",
+      "reviewCount": 5422,
+      "positivePercentage": 86.6
+    },
+    {
+      "id": "mouse-p-i-for-hire",
+      "title": "MOUSE: P.I. For Hire",
+      "type": "game",
+      "releaseDate": "2026-04-16",
+      "developers": [
+        "fumi-games"
+      ],
+      "publishers": [
+        "playside"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2416450",
+      "reviewCount": 15864,
+      "positivePercentage": 93.8
+    },
+    {
+      "id": "moving-out",
+      "title": "Moving Out",
+      "type": "game",
+      "releaseDate": "2020-04-28",
+      "developers": [
+        "devm-games",
+        "smg-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "996770",
+      "reviewCount": 2359,
+      "positivePercentage": 80.2
+    },
+    {
+      "id": "mugsters",
+      "title": "Mugsters",
+      "type": "game",
+      "releaseDate": "2018-07-17",
+      "developers": [
+        "reinkout-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "712180",
+      "reviewCount": 104,
+      "positivePercentage": 69.2
+    },
+    {
+      "id": "mundaun",
+      "title": "Mundaun",
+      "type": "game",
+      "releaseDate": "2021-03-16",
+      "developers": [
+        "hidden-fields"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "720350",
+      "reviewCount": 1516,
+      "positivePercentage": 93.3
+    },
+    {
+      "id": "my-friend-pedro",
+      "title": "My Friend Pedro",
+      "type": "game",
+      "releaseDate": "2019-06-20",
+      "developers": [
+        "deadtoast-entertainment"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "557340",
+      "reviewCount": 28515,
+      "positivePercentage": 95.5
+    },
+    {
+      "id": "narita-boy",
+      "title": "Narita Boy",
+      "type": "game",
+      "releaseDate": "2021-03-30",
+      "developers": [
+        "studio-koba"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1069530",
+      "reviewCount": 1853,
+      "positivePercentage": 77.8
+    },
+    {
+      "id": "neon-abyss",
+      "title": "Neon Abyss",
+      "type": "game",
+      "releaseDate": "2020-07-14",
+      "developers": [
+        "veewo-games"
+      ],
+      "publishers": [
+        "team17",
+        "veewo-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer",
+        "roguelite",
+        "rpg",
+        "shooter-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "788100",
+      "reviewCount": 23629,
+      "positivePercentage": 85.9
+    },
+    {
+      "id": "neon-white",
+      "title": "Neon White",
+      "type": "game",
+      "releaseDate": "2022-06-16",
+      "developers": [
+        "angel-matrix"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1533420",
+      "reviewCount": 20905,
+      "positivePercentage": 97.9
+    },
+    {
+      "id": "neva",
+      "title": "Neva",
+      "type": "game",
+      "releaseDate": "2024-10-15",
+      "developers": [
+        "nomada-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2420660",
+      "reviewCount": 10722,
+      "positivePercentage": 93.6
+    },
+    {
+      "id": "nine-sols",
+      "title": "Nine Sols",
+      "type": "game",
+      "releaseDate": "2024-05-28",
+      "developers": [
+        "red-candle-games"
+      ],
+      "publishers": [
+        "red-candle-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "puzzle",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1809540",
+      "reviewCount": 45869,
+      "positivePercentage": 94.4
+    },
+    {
+      "id": "noct",
+      "title": "Noct",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "post-apocalyptic-video-game",
+        "survival-horror"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "observation",
+      "title": "Observation",
+      "type": "game",
+      "releaseDate": "2020-05-21",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle",
+        "science-fiction-video-game",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "906100",
+      "reviewCount": 5227,
+      "positivePercentage": 78.3
+    },
+    {
+      "id": "okhlos-omega",
+      "title": "Okhlos: Omega",
+      "type": "game",
+      "releaseDate": "2016-08-18",
+      "developers": [
+        "coffee-powered-machine"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "400180",
+      "reviewCount": 868,
+      "positivePercentage": 76.5
+    },
+    {
+      "id": "omnibus",
+      "title": "OmniBus",
+      "type": "game",
+      "releaseDate": "2016-05-26",
+      "developers": [
+        "buddy-cops-llc"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "racing",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "415740",
+      "reviewCount": 579,
+      "positivePercentage": 82
+    },
+    {
+      "id": "outer-wilds",
+      "title": "Outer Wilds",
+      "type": "game",
+      "releaseDate": "2020-06-18",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidbrainia",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "753640",
+      "reviewCount": 108571,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "outer-wilds-echoes-of-the-eye",
+      "title": "Outer Wilds - Echoes of the Eye",
+      "type": "dlc",
+      "releaseDate": "2021-09-28",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1622100",
+      "reviewCount": 6540,
+      "positivePercentage": 90.3
+    },
+    {
+      "id": "overcooked",
+      "title": "Overcooked",
+      "type": "game",
+      "releaseDate": "2016-08-03",
+      "developers": [
+        "ghost-town-games-ltd"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "448510",
+      "reviewCount": 16765,
+      "positivePercentage": 89.6
+    },
+    {
+      "id": "overcooked-2",
+      "title": "Overcooked! 2",
+      "type": "game",
+      "releaseDate": "2018-08-07",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "728880",
+      "reviewCount": 84605,
+      "positivePercentage": 90.4
+    },
+    {
+      "id": "pikuniku",
+      "title": "Pikuniku",
+      "type": "game",
+      "releaseDate": "2019-01-24",
+      "developers": [
+        "alan-zucconi",
+        "arnaud-de-bock",
+        "calum-bowen",
+        "remi-forcadell",
+        "sectordub"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "572890",
+      "reviewCount": 11883,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "reigns",
+      "title": "Reigns",
+      "type": "game",
+      "releaseDate": "2016-08-11",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "474750",
+      "reviewCount": 8137,
+      "positivePercentage": 86.8
+    },
+    {
+      "id": "reigns-game-of-thrones",
+      "title": "Reigns: Game of Thrones",
+      "type": "game",
+      "releaseDate": "2018-10-18",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "big-fan-games",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "897820",
+      "reviewCount": 1043,
+      "positivePercentage": 77.8
+    },
+    {
+      "id": "reigns-her-majesty",
+      "title": "Reigns: Her Majesty",
+      "type": "game",
+      "releaseDate": "2017-12-06",
+      "developers": [
+        "nerial",
+        "synaptic-insight-technology-systems"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "tvos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "717640",
+      "reviewCount": 1309,
+      "positivePercentage": 82.3
+    },
+    {
+      "id": "sayonara-wild-hearts",
+      "title": "Sayonara Wild Hearts",
+      "type": "game",
+      "releaseDate": "2019-12-12",
+      "developers": [
+        "simogo"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "music-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122720",
+      "reviewCount": 8942,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "serious-sam-kamikaze-attack",
+      "title": "Serious Sam: Kamikaze Attack!",
+      "type": "game",
+      "releaseDate": "2021-07-27",
+      "developers": [
+        "be-rad-entertainment"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "endless-runner-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1623420",
+      "reviewCount": 268,
+      "positivePercentage": 80.2
+    },
+    {
+      "id": "serious-sam-tormental",
+      "title": "Serious Sam: Tormental",
+      "type": "game",
+      "releaseDate": "2022-04-08",
+      "developers": [
+        "croteam",
+        "gungrounds-macanga-games-j-d-o-o"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "640340",
+      "reviewCount": 267,
+      "positivePercentage": 75.7
+    },
+    {
+      "id": "sludge-life",
+      "title": "SLUDGE LIFE",
+      "type": "game",
+      "releaseDate": "2021-06-02",
+      "developers": [
+        "doseone",
+        "terri-vellmann"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1144770",
+      "reviewCount": 5556,
+      "positivePercentage": 91.1
+    },
+    {
+      "id": "songs-of-conquest",
+      "title": "Songs of Conquest",
+      "type": "game",
+      "releaseDate": "2024-05-20",
+      "developers": [
+        "lavapotion"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "867210",
+      "reviewCount": 13570,
+      "positivePercentage": 85.6
+    },
+    {
+      "id": "stories-untold",
+      "title": "Stories Untold",
+      "type": "game",
+      "releaseDate": "2017-02-27",
+      "developers": [
+        "screen-burn"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "interactive-fiction",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "558420",
+      "reviewCount": 5533,
+      "positivePercentage": 86.6
+    },
+    {
+      "id": "strafe-gold-edition",
+      "title": "STRAFE: Gold Edition",
+      "type": "game",
+      "releaseDate": "2017-05-09",
+      "developers": [
+        "pixel-titans"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "442780",
+      "reviewCount": 2458,
+      "positivePercentage": 71.9
+    },
+    {
+      "id": "telling-lies",
+      "title": "Telling Lies",
+      "type": "game",
+      "releaseDate": "2019-08-23",
+      "developers": [
+        "furious-bee-limited",
+        "half-mermaid",
+        "sam-barlow"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "interactive-film",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "762830",
+      "reviewCount": 1326,
+      "positivePercentage": 63
+    },
+    {
+      "id": "tentacular",
+      "title": "Tentacular",
+      "type": "game",
+      "releaseDate": "2022-03-24",
+      "developers": [
+        "firepunchd-games-ug"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1220100",
+      "reviewCount": 102,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "terra-nil",
+      "title": "Terra Nil",
+      "type": "game",
+      "releaseDate": "2023-03-28",
+      "developers": [
+        "clockwork-acorn",
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1593030",
+      "reviewCount": 8854,
+      "positivePercentage": 87.4
+    },
+    {
+      "id": "the-escapists",
+      "title": "The Escapists",
+      "type": "game",
+      "releaseDate": "2015-02-13",
+      "developers": [
+        "mouldy-toof-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "christmas-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "298630",
+      "reviewCount": 16209,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "the-escapists-2",
+      "title": "The Escapists 2",
+      "type": "game",
+      "releaseDate": "2017-08-21",
+      "developers": [
+        "mouldy-toof-studios",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "christmas-video-game",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "641990",
+      "reviewCount": 33846,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-expendabros",
+      "title": "The Expendabros",
+      "type": "game",
+      "releaseDate": "2014-08-05",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "312990",
+      "reviewCount": 18261,
+      "positivePercentage": 97.2
+    },
+    {
+      "id": "the-last-faith",
+      "title": "The Last Faith",
+      "type": "game",
+      "releaseDate": "2023-11-15",
+      "developers": [
+        "kumi-souls-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1274600",
+      "reviewCount": 5696,
+      "positivePercentage": 84.6
+    },
+    {
+      "id": "the-messenger",
+      "title": "The Messenger",
+      "type": "game",
+      "releaseDate": "2018-08-30",
+      "developers": [
+        "sabotage"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "metroidvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "764790",
+      "reviewCount": 13286,
+      "positivePercentage": 92.6
+    },
+    {
+      "id": "the-serpent-rogue",
+      "title": "The Serpent Rogue",
+      "type": "game",
+      "releaseDate": "2022-04-26",
+      "developers": [
+        "sengi-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1453790",
+      "reviewCount": 331,
+      "positivePercentage": 55.6
+    },
+    {
+      "id": "totally-accurate-battle-simulator",
+      "title": "Totally Accurate Battle Simulator",
+      "type": "game",
+      "releaseDate": "2021-04-01",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "508440",
+      "reviewCount": 154318,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "totally-accurate-battlegrounds",
+      "title": "Totally Accurate Battlegrounds",
+      "type": "game",
+      "releaseDate": "2018-06-05",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "battle-royale-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "823130",
+      "reviewCount": 87798,
+      "positivePercentage": 88.5
+    },
+    {
+      "id": "twelve-minutes",
+      "title": "Twelve Minutes",
+      "type": "game",
+      "releaseDate": "2021-08-19",
+      "developers": [
+        "luis-antonio"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1097200",
+      "reviewCount": 8120,
+      "positivePercentage": 73
+    },
+    {
+      "id": "umiro",
+      "title": "Umiro",
+      "type": "game",
+      "releaseDate": "2018-03-28",
+      "developers": [
+        "diceroll-studios"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "platformer",
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "727760",
+      "reviewCount": 176,
+      "positivePercentage": 79
+    },
+    {
+      "id": "untitled-goose-game",
+      "title": "Untitled Goose Game",
+      "type": "game",
+      "releaseDate": "2020-09-23",
+      "developers": [
+        "house-house"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "puzzle",
+        "stealth-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "837470",
+      "reviewCount": 25278,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "valheim",
+      "title": "Valheim",
+      "type": "game",
+      "releaseDate": "2026-09-09",
+      "developers": [
+        "iron-gate-ab"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "survival"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "892970",
+      "reviewCount": 555550,
+      "positivePercentage": 93.7
+    },
+    {
+      "id": "wizard-with-a-gun",
+      "title": "Wizard with a Gun",
+      "type": "game",
+      "releaseDate": "2023-10-17",
+      "developers": [
+        "galvanic-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1150530",
+      "reviewCount": 4011,
+      "positivePercentage": 80.4
+    },
+    {
+      "id": "worms-revolution",
+      "title": "Worms Revolution",
+      "type": "game",
+      "releaseDate": "2012-10-10",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-3",
+        "playstation-portable",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "200170",
+      "reviewCount": 9130,
+      "positivePercentage": 87.2
+    }
+  ]
+}

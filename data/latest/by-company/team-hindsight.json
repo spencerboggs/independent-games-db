@@ -1,0 +1,39 @@
+{
+  "id": "team-hindsight",
+  "name": "Team Hindsight",
+  "developed": [
+    {
+      "id": "hindsight",
+      "title": "Hindsight",
+      "type": "game",
+      "releaseDate": "2022-08-04",
+      "developers": [
+        "team-hindsight"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122700",
+      "reviewCount": 161,
+      "positivePercentage": 80.7
+    }
+  ],
+  "published": []
+}

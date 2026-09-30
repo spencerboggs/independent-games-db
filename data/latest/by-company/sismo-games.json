@@ -1,0 +1,35 @@
+{
+  "id": "sismo-games",
+  "name": "SISMO Games",
+  "developed": [
+    {
+      "id": "skinwalker-first-blood",
+      "title": "SKINWALKER: First Blood",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "sismo-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "adventure",
+        "hack-and-slash"
+      ],
+      "engines": [],
+      "steamAppId": "3086670",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

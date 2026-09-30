@@ -1,0 +1,83 @@
+{
+  "id": "evil-empire",
+  "name": "Evil Empire",
+  "aliases": [
+    "Evil Empire Studio"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "French video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q104804747",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://evilempirestudio.com/",
+  "socialLinks": {
+    "x": "https://x.com/Studio_Evil"
+  },
+  "location": {
+    "headquarters": "Bordeaux",
+    "country": "FR",
+    "countryName": "France"
+  },
+  "founded": 2019,
+  "foundedDate": "2019-01-31",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q104804747"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Bordeaux studio that took over Dead Cells development. The name is ambiguous; always resolve through the Wikidata ID."
+  },
+  "games": {
+    "developed": [
+      "castlevania-belmonts-curse",
+      "dead-cells-fatal-falls",
+      "dead-cells-the-bad-seed",
+      "dead-cells-the-queen-and-the-sea",
+      "the-rogue-prince-of-persia"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 5,
+    "publishedCount": 0,
+    "totalSteamReviews": 4926,
+    "averagePositivePercentage": 91.6,
+    "weightedPositivePercentage": 90.8,
+    "mostReviewedGame": "the-rogue-prince-of-persia",
+    "mostRecentRelease": "the-rogue-prince-of-persia",
+    "firstRelease": "dead-cells-the-bad-seed",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q104804747",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,202 @@
+{
+  "id": "landfall",
+  "name": "Landfall",
+  "developed": [
+    {
+      "id": "clustertruck",
+      "title": "Clustertruck",
+      "type": "game",
+      "releaseDate": "2016-09-27",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "tinybuild"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "397950",
+      "reviewCount": 18589,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "haste",
+      "title": "Haste",
+      "type": "game",
+      "releaseDate": "2025-04-01",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "evil-landfall"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "racing",
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1796470",
+      "reviewCount": 14267,
+      "positivePercentage": 92.2
+    },
+    {
+      "id": "totally-accurate-battle-simulator",
+      "title": "Totally Accurate Battle Simulator",
+      "type": "game",
+      "releaseDate": "2021-04-01",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "508440",
+      "reviewCount": 154318,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "totally-accurate-battlegrounds",
+      "title": "Totally Accurate Battlegrounds",
+      "type": "game",
+      "releaseDate": "2018-06-05",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "battle-royale-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "823130",
+      "reviewCount": 87798,
+      "positivePercentage": 88.5
+    }
+  ],
+  "published": [
+    {
+      "id": "stick-fight-the-game",
+      "title": "Stick Fight: The Game",
+      "type": "game",
+      "releaseDate": "2017-09-28",
+      "developers": [
+        "landfall-west"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "fighting-game"
+      ],
+      "engines": [],
+      "steamAppId": "674940",
+      "reviewCount": 125466,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "totally-accurate-battle-simulator",
+      "title": "Totally Accurate Battle Simulator",
+      "type": "game",
+      "releaseDate": "2021-04-01",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "508440",
+      "reviewCount": 154318,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "totally-accurate-battlegrounds",
+      "title": "Totally Accurate Battlegrounds",
+      "type": "game",
+      "releaseDate": "2018-06-05",
+      "developers": [
+        "landfall"
+      ],
+      "publishers": [
+        "landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "battle-royale-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "823130",
+      "reviewCount": 87798,
+      "positivePercentage": 88.5
+    }
+  ]
+}

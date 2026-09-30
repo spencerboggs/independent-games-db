@@ -1,0 +1,34 @@
+{
+  "id": "jordan-mochi",
+  "name": "Jordan Mochi",
+  "developed": [
+    {
+      "id": "conscript-directors-cut",
+      "title": "CONSCRIPT: Director’s Cut",
+      "type": "game",
+      "releaseDate": "2024-07-23",
+      "developers": [
+        "catchweight-studio",
+        "jordan-mochi"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1286990",
+      "reviewCount": 2594,
+      "positivePercentage": 90.2
+    }
+  ],
+  "published": []
+}

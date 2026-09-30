@@ -1,0 +1,34 @@
+{
+  "id": "moon-kid",
+  "name": "Moon Kid",
+  "developed": [
+    {
+      "id": "witcheye",
+      "title": "Witcheye",
+      "type": "game",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "moon-kid"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1284950",
+      "reviewCount": 250,
+      "positivePercentage": 87.2
+    }
+  ],
+  "published": []
+}

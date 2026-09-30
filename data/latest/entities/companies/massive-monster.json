@@ -1,0 +1,75 @@
+{
+  "id": "massive-monster",
+  "name": "Massive Monster",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q114787057",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://massivemonster.co",
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": "AU",
+    "countryName": "Australia"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q114787057"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "cult-of-the-lamb",
+      "cult-of-the-lamb-woolhaven"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 131434,
+    "averagePositivePercentage": 94.5,
+    "weightedPositivePercentage": 95.9,
+    "mostReviewedGame": "cult-of-the-lamb",
+    "mostRecentRelease": "cult-of-the-lamb-woolhaven",
+    "firstRelease": "cult-of-the-lamb",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114787057",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

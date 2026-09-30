@@ -1,0 +1,39 @@
+{
+  "id": "synaptic-insight-technology-systems",
+  "name": "Synaptic Insight Technology Systems",
+  "developed": [
+    {
+      "id": "reigns-her-majesty",
+      "title": "Reigns: Her Majesty",
+      "type": "game",
+      "releaseDate": "2017-12-06",
+      "developers": [
+        "nerial",
+        "synaptic-insight-technology-systems"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "tvos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "717640",
+      "reviewCount": 1309,
+      "positivePercentage": 82.3
+    }
+  ],
+  "published": []
+}

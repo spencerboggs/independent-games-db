@@ -1,0 +1,531 @@
+{
+  "id": "playstack",
+  "name": "Playstack",
+  "developed": [],
+  "published": [
+    {
+      "id": "about-fishing",
+      "title": "About Fishing",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "the-water-museum"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "fishing-video-game",
+        "mystery-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "3856530",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "balatro",
+      "title": "Balatro",
+      "type": "game",
+      "releaseDate": "2024-02-20",
+      "developers": [
+        "localthunk"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "roguelike-deck-building-game",
+        "strategy"
+      ],
+      "engines": [
+        "love2d"
+      ],
+      "steamAppId": "2379780",
+      "reviewCount": 199214,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "dick-wilde",
+      "title": "Dick Wilde",
+      "type": "game",
+      "releaseDate": "2017-03-29",
+      "developers": [
+        "bolverk-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "585500",
+      "reviewCount": 57,
+      "positivePercentage": 84.2
+    },
+    {
+      "id": "dick-wilde-2",
+      "title": "Dick Wilde 2",
+      "type": "game",
+      "releaseDate": "2019-02-19",
+      "developers": [
+        "bolverk-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "975430",
+      "reviewCount": 62,
+      "positivePercentage": 80.6
+    },
+    {
+      "id": "doctor-who-the-edge-of-time",
+      "title": "Doctor Who: The Edge Of Time",
+      "type": "game",
+      "releaseDate": "2019-11-12",
+      "developers": [
+        "maze-theory"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1075400",
+      "reviewCount": 282,
+      "positivePercentage": 63.5
+    },
+    {
+      "id": "mortal-shell",
+      "title": "Mortal Shell",
+      "type": "game",
+      "releaseDate": "2021-08-18",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1110910",
+      "reviewCount": 12066,
+      "positivePercentage": 67.3
+    },
+    {
+      "id": "mortal-shell-enhanced-edition",
+      "title": "Mortal Shell: Enhanced Edition",
+      "type": "game",
+      "releaseDate": "2021-03-04",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "mortal-shell-ii",
+      "title": "Mortal Shell II",
+      "type": "game",
+      "releaseDate": "2026-08-20",
+      "developers": [
+        "cold-symmetry"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "2584270",
+      "reviewCount": 21308,
+      "positivePercentage": 78.9
+    },
+    {
+      "id": "one-move-away",
+      "title": "One Move Away",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "ramage-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3172440",
+      "reviewCount": 81,
+      "positivePercentage": 75.3
+    },
+    {
+      "id": "raccoin-coin-pusher-roguelike",
+      "title": "RACCOIN: Coin Pusher Roguelike",
+      "type": "game",
+      "releaseDate": "2026-03-31",
+      "developers": [
+        "doraccoon"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "roguelike-deck-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3784030",
+      "reviewCount": 4674,
+      "positivePercentage": 82.4
+    },
+    {
+      "id": "rise-of-the-slime",
+      "title": "Rise of the Slime",
+      "type": "game",
+      "releaseDate": "2021-05-20",
+      "developers": [
+        "bunkovsky-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "collectible-card-video-game",
+        "roguelike",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "826740",
+      "reviewCount": 147,
+      "positivePercentage": 61.2
+    },
+    {
+      "id": "star-trek-outposts-unknown",
+      "title": "Star Trek: Outposts Unknown",
+      "type": "game",
+      "releaseDate": "2026-10-20",
+      "developers": [
+        "magic-fuel-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "city-building-game",
+        "colony-management-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3469910",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "super-dodgeball-beats",
+      "title": "Super Dodgeball Beats",
+      "type": "game",
+      "releaseDate": "2019-09-11",
+      "developers": [
+        "finalboss-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "sports",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "881090",
+      "reviewCount": 31,
+      "positivePercentage": 83.9
+    },
+    {
+      "id": "the-case-of-the-golden-idol",
+      "title": "The Case of the Golden Idol",
+      "type": "game",
+      "releaseDate": "2022-10-13",
+      "developers": [
+        "color-gray-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "1677770",
+      "reviewCount": 11014,
+      "positivePercentage": 97.8
+    },
+    {
+      "id": "the-entropy-centre",
+      "title": "The Entropy Centre",
+      "type": "game",
+      "releaseDate": "2022-11-03",
+      "developers": [
+        "stubby-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1730590",
+      "reviewCount": 4470,
+      "positivePercentage": 89
+    },
+    {
+      "id": "the-last-faith",
+      "title": "The Last Faith",
+      "type": "game",
+      "releaseDate": "2023-11-15",
+      "developers": [
+        "kumi-souls-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1274600",
+      "reviewCount": 5696,
+      "positivePercentage": 84.6
+    },
+    {
+      "id": "the-rise-of-the-golden-idol",
+      "title": "The Rise of the Golden Idol",
+      "type": "game",
+      "releaseDate": "2024-11-12",
+      "developers": [
+        "color-gray-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "detective-video-game"
+      ],
+      "engines": [
+        "godot"
+      ],
+      "steamAppId": "2716400",
+      "reviewCount": 4156,
+      "positivePercentage": 92.6
+    },
+    {
+      "id": "unbeatable",
+      "title": "UNBEATABLE",
+      "type": "game",
+      "releaseDate": "2025-12-09",
+      "developers": [
+        "d-cell-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rhythm-game"
+      ],
+      "engines": [],
+      "steamAppId": "2240620",
+      "reviewCount": 7802,
+      "positivePercentage": 92.4
+    },
+    {
+      "id": "void-breaker",
+      "title": "VOID/BREAKER",
+      "type": "game",
+      "releaseDate": "2025-08-19",
+      "developers": [
+        "stubby-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "rpg",
+        "simulation",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "2615540",
+      "reviewCount": 2755,
+      "positivePercentage": 91.5
+    }
+  ]
+}

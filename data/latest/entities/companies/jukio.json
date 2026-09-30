@@ -1,0 +1,59 @@
+{
+  "id": "jukio",
+  "name": "Jukio",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "minit",
+      "minit-fun-racer"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 3196,
+    "averagePositivePercentage": 92.9,
+    "weightedPositivePercentage": 90,
+    "mostReviewedGame": "minit",
+    "mostRecentRelease": "minit-fun-racer",
+    "firstRelease": "minit",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "gamemaker"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

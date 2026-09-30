@@ -1,0 +1,29 @@
+{
+  "id": "that-silly-studio",
+  "name": "That Silly Studio",
+  "developed": [
+    {
+      "id": "game-of-thrones-tale-of-crows",
+      "title": "Game of Thrones: Tale of Crows",
+      "type": "game",
+      "releaseDate": "2020-08-07",
+      "developers": [
+        "that-silly-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "tvos"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

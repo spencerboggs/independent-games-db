@@ -1,0 +1,95 @@
+{
+  "id": "supergiant-games",
+  "name": "Supergiant Games",
+  "aliases": [
+    "Circle Confusion"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7643396",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.supergiantgames.com/",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/supergiantgames.bsky.social",
+    "x": "https://x.com/SupergiantGames",
+    "youtube": "https://www.youtube.com/channel/UCBq8CLRcJN8rgqHOkyL1ozg"
+  },
+  "location": {
+    "headquarters": "San Jose",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2009,
+  "foundedDate": "2009",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q7643396"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Self-owned; self-publishes on PC."
+  },
+  "games": {
+    "developed": [
+      "bastion",
+      "hades",
+      "hades-ii",
+      "pyre",
+      "transistor"
+    ],
+    "published": [
+      "bastion",
+      "hades",
+      "hades-ii",
+      "pyre",
+      "transistor"
+    ]
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 5,
+    "publishedCount": 5,
+    "totalSteamReviews": 511561,
+    "averagePositivePercentage": 94.6,
+    "weightedPositivePercentage": 96.9,
+    "mostReviewedGame": "hades",
+    "mostRecentRelease": "hades-ii",
+    "firstRelease": "bastion",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "microsoft-xna",
+      "monogame"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7643396",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

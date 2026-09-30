@@ -1,0 +1,76 @@
+{
+  "id": "housemarque",
+  "name": "Housemarque",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Finnish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2572761",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://housemarque.com",
+  "socialLinks": {
+    "x": "https://x.com/Housemarque",
+    "youtube": "https://www.youtube.com/channel/UC45wyOMS7ZvOAmMuW16BtXQ"
+  },
+  "location": {
+    "headquarters": "Helsinki",
+    "country": "FI",
+    "countryName": "Finland"
+  },
+  "founded": 1995,
+  "foundedDate": "1995",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "PlayStation Studios",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q2572761",
+    "igdb": "housemarque"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "super-stardust"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 0,
+    "averagePositivePercentage": null,
+    "weightedPositivePercentage": null,
+    "mostReviewedGame": null,
+    "mostRecentRelease": "super-stardust",
+    "firstRelease": "super-stardust",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2572761",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

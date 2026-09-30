@@ -1,0 +1,34 @@
+{
+  "id": "stray-fawn-publishing",
+  "name": "Stray Fawn Publishing",
+  "developed": [],
+  "published": [
+    {
+      "id": "terrascape",
+      "title": "TerraScape",
+      "type": "game",
+      "releaseDate": "2024-07-17",
+      "developers": [
+        "bitfall-studios"
+      ],
+      "publishers": [
+        "sidekick-publishing",
+        "stray-fawn-publishing"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2290000",
+      "reviewCount": 2250,
+      "positivePercentage": 88.6
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hamma-studios",
+  "name": "Hamma Studios",
+  "developed": [
+    {
+      "id": "dwarves-glory-death-and-loot",
+      "title": "Dwarves: Glory, Death and Loot",
+      "type": "game",
+      "releaseDate": "2026-01-22",
+      "developers": [
+        "hamma-studios"
+      ],
+      "publishers": [
+        "gamersky-games",
+        "sidekick-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2205850",
+      "reviewCount": 2719,
+      "positivePercentage": 82.3
+    }
+  ],
+  "published": []
+}

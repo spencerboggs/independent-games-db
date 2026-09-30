@@ -1,0 +1,85 @@
+{
+  "id": "minecraft-new-nintendo-3ds-edition",
+  "title": "Minecraft: New Nintendo 3DS Edition",
+  "alternateTitles": [
+    "Minecraft 3DS"
+  ],
+  "type": "game",
+  "releaseDate": "2017-09-13",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang",
+    "other-ocean"
+  ],
+  "publishers": [
+    "mojang"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action-adventure",
+    "sandbox",
+    "survival"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-3ds"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q105729501",
+    "igdb": "minecraft-new-nintendo-3ds-edition"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105729501"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [
+      {
+        "id": "cpp",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q105729501",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "tools": []
+  },
+  "franchise": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105729501",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

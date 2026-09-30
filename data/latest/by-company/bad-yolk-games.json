@@ -1,0 +1,33 @@
+{
+  "id": "bad-yolk-games",
+  "name": "Bad Yolk Games",
+  "developed": [
+    {
+      "id": "main-assembly",
+      "title": "Main Assembly",
+      "type": "game",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "bad-yolk-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "vehicle-simulation-game",
+        "vehicular-combat-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1078920",
+      "reviewCount": 1354,
+      "positivePercentage": 82.9
+    }
+  ],
+  "published": []
+}

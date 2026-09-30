@@ -1,0 +1,66 @@
+name: Build
+
+# Rebuilds data/latest from the committed generated layer + seeds + overrides
+# (no network access to providers). If the result differs from what is on
+# main, opens a pull request instead of pushing directly.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/seeds/**"
+      - "data/overrides/**"
+      - "data/mappings/**"
+      - "data/generated/**"
+      - "src/**"
+      - "dataset.config.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Validate sources
+        run: npm run validate
+
+      - name: Build data/latest
+        run: npm run build:data
+
+      - name: Upload dataset artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: data-latest
+          path: data/latest
+          retention-days: 14
+
+      - name: Open PR if the published data changed
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: automated/rebuild
+          delete-branch: true
+          commit-message: "Rebuild data/latest"
+          title: "Rebuild data/latest"
+          body: |
+            `data/latest` on `main` did not match a fresh build of the committed sources.
+            This PR contains the regenerated files. No provider data was fetched.
+          labels: automated
+          add-paths: |
+            data/latest

@@ -1,0 +1,30 @@
+{
+  "id": "tpm-co-soft-works",
+  "name": "TPM.CO Soft Works",
+  "developed": [
+    {
+      "id": "battleship-godios",
+      "title": "Battleship Godios",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "tpm-co-soft-works"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

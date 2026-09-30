@@ -1,0 +1,96 @@
+{
+  "id": "roll7",
+  "name": "Roll7",
+  "developed": [
+    {
+      "id": "not-a-hero",
+      "title": "NOT A HERO",
+      "type": "game",
+      "releaseDate": "2016-07-08",
+      "developers": [
+        "roll7"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "tactical-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "274270",
+      "reviewCount": 2051,
+      "positivePercentage": 87.1
+    },
+    {
+      "id": "olliolli",
+      "title": "OlliOlli",
+      "type": "game",
+      "releaseDate": "2014-07-22",
+      "developers": [
+        "general-arcade",
+        "roll7"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows"
+      ],
+      "genres": [
+        "skateboarding-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "274250",
+      "reviewCount": 863,
+      "positivePercentage": 78.2
+    },
+    {
+      "id": "olliolli2-welcome-to-olliwood",
+      "title": "OlliOlli2: Welcome to Olliwood",
+      "type": "game",
+      "releaseDate": "2015-08-11",
+      "developers": [
+        "roll7"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-4",
+        "playstation-vita",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "skateboarding-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "365660",
+      "reviewCount": 608,
+      "positivePercentage": 84
+    }
+  ],
+  "published": []
+}

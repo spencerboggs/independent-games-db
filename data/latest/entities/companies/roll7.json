@@ -1,0 +1,74 @@
+{
+  "id": "roll7",
+  "name": "Roll7",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q28803110",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.roll7.co.uk/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "London",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q28803110"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "not-a-hero",
+      "olliolli",
+      "olliolli2-welcome-to-olliwood"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 3,
+    "publishedCount": 0,
+    "totalSteamReviews": 3522,
+    "averagePositivePercentage": 83.1,
+    "weightedPositivePercentage": 84.4,
+    "mostReviewedGame": "not-a-hero",
+    "mostRecentRelease": "not-a-hero",
+    "firstRelease": "olliolli",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28803110",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

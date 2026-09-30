@@ -1,0 +1,76 @@
+{
+  "id": "thq",
+  "name": "THQ",
+  "developed": [],
+  "published": [
+    {
+      "id": "worms-a-space-oddity",
+      "title": "Worms: A Space Oddity",
+      "type": "game",
+      "releaseDate": "2008-03-18",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "java-virtual-machine",
+        "wii"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-open-warfare",
+      "title": "Worms: Open Warfare",
+      "type": "game",
+      "releaseDate": "2006-03-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "nintendo-ds",
+        "playstation-portable"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-open-warfare-2",
+      "title": "Worms: Open Warfare 2",
+      "type": "game",
+      "releaseDate": "2007-08-30",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "nintendo-ds",
+        "playstation-portable"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

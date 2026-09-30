@@ -1,0 +1,230 @@
+{
+  "id": "nerial",
+  "name": "Nerial",
+  "developed": [
+    {
+      "id": "card-shark",
+      "title": "Card Shark",
+      "type": "game",
+      "releaseDate": "2022-06-02",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure",
+        "board-video-game",
+        "side-scrolling-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1371720",
+      "reviewCount": 3246,
+      "positivePercentage": 90.1
+    },
+    {
+      "id": "reigns",
+      "title": "Reigns",
+      "type": "game",
+      "releaseDate": "2016-08-11",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "474750",
+      "reviewCount": 8137,
+      "positivePercentage": 86.8
+    },
+    {
+      "id": "reigns-beyond",
+      "title": "Reigns Beyond",
+      "type": "game",
+      "releaseDate": "2024-04-17",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "tvos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1663400",
+      "reviewCount": 80,
+      "positivePercentage": 82.5
+    },
+    {
+      "id": "reigns-game-of-thrones",
+      "title": "Reigns: Game of Thrones",
+      "type": "game",
+      "releaseDate": "2018-10-18",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "big-fan-games",
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "897820",
+      "reviewCount": 1043,
+      "positivePercentage": 77.8
+    },
+    {
+      "id": "reigns-her-majesty",
+      "title": "Reigns: Her Majesty",
+      "type": "game",
+      "releaseDate": "2017-12-06",
+      "developers": [
+        "nerial",
+        "synaptic-insight-technology-systems"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "tvos",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "717640",
+      "reviewCount": 1309,
+      "positivePercentage": 82.3
+    },
+    {
+      "id": "reigns-kings-and-queens",
+      "title": "Reigns: Kings & Queens",
+      "type": "game",
+      "releaseDate": "2018-09-20",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "reigns-three-kingdoms",
+      "title": "Reigns: Three Kingdoms",
+      "type": "game",
+      "releaseDate": "2024-01-11",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [],
+      "steamAppId": "2437040",
+      "reviewCount": 362,
+      "positivePercentage": 53.3
+    },
+    {
+      "id": "the-crush-house",
+      "title": "The Crush House",
+      "type": "game",
+      "releaseDate": "2024-08-09",
+      "developers": [
+        "nerial"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2337820",
+      "reviewCount": 546,
+      "positivePercentage": 74.5
+    }
+  ],
+  "published": []
+}

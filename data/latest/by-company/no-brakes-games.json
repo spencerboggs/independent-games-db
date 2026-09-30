@@ -1,0 +1,34 @@
+{
+  "id": "no-brakes-games",
+  "name": "No Brakes Games",
+  "developed": [
+    {
+      "id": "human-fall-flat-2",
+      "title": "Human Fall Flat 2",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "no-brakes-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1388550",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "to-fu-the-trials-of-chi",
+  "title": "To-Fu: The Trials of Chi",
+  "alternateTitles": [
+    "To-Fu: The Trials of Chi HD"
+  ],
+  "type": "game",
+  "releaseDate": "2011-05-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "hotgen"
+  ],
+  "publishers": [
+    "devolver-digital",
+    "hotgen"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "platformer"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q106009687"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106009687"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "to-fu",
+    "name": "To-Fu"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106009687",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

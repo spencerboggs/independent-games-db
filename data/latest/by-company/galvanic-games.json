@@ -1,0 +1,36 @@
+{
+  "id": "galvanic-games",
+  "name": "Galvanic Games",
+  "developed": [
+    {
+      "id": "wizard-with-a-gun",
+      "title": "Wizard with a Gun",
+      "type": "game",
+      "releaseDate": "2023-10-17",
+      "developers": [
+        "galvanic-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1150530",
+      "reviewCount": 4011,
+      "positivePercentage": 80.4
+    }
+  ],
+  "published": []
+}

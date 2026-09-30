@@ -1,0 +1,140 @@
+{
+  "id": "serious-sam-hd-the-second-encounter-serious-8-dlc",
+  "title": "Serious Sam HD: The Second Encounter - Serious 8 DLC",
+  "alternateTitles": [
+    "Serious Eight"
+  ],
+  "type": "dlc",
+  "releaseDate": "2011",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "unknown",
+  "developers": [
+    "croteam"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Serious 8 DLC contains eight player characters for Serious Sam HD: The Second Encounter multiplayer.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/41046/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "downloadable-content",
+    "family-sharing",
+    "full-controller-support",
+    "includes-level-editor",
+    "multi-player",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain"
+  ],
+  "externalIds": {
+    "wikidata": "Q60559708",
+    "steam": "41046"
+  },
+  "links": {
+    "official": "http://www.serioussamhd.com",
+    "steam": "https://store.steampowered.com/app/41046/",
+    "wikidata": "https://www.wikidata.org/wiki/Q60559708"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41046/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41046/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/41046",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41046/ss_50951de74953794c8ddfc09eba2fa0f091f4cf85.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "serious-sam",
+    "name": "Serious Sam"
+  },
+  "relations": {
+    "parentGame": "serious-sam-hd-the-second-encounter",
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 0,
+      "positiveCount": 0,
+      "negativeCount": 0,
+      "positivePercentage": null,
+      "negativePercentage": null,
+      "reviewScoreDescription": null,
+      "currentPlayers": 0,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/41046/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60559708",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "assemble-entertainment",
+  "name": "Assemble Entertainment",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "asgards-fall-viking-survivors"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 1435,
+    "averagePositivePercentage": 80.3,
+    "weightedPositivePercentage": 80.3,
+    "mostReviewedGame": "asgards-fall-viking-survivors",
+    "mostRecentRelease": "asgards-fall-viking-survivors",
+    "firstRelease": "asgards-fall-viking-survivors",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

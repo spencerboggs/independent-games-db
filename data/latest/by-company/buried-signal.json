@@ -1,0 +1,39 @@
+{
+  "id": "buried-signal",
+  "name": "Buried Signal",
+  "developed": [
+    {
+      "id": "gorogoa",
+      "title": "Gorogoa",
+      "type": "game",
+      "releaseDate": "2017-12-14",
+      "developers": [
+        "buried-signal"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "557600",
+      "reviewCount": 20835,
+      "positivePercentage": 97.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "buddy-cops-llc",
+  "name": "Buddy Cops, LLC",
+  "developed": [
+    {
+      "id": "omnibus",
+      "title": "OmniBus",
+      "type": "game",
+      "releaseDate": "2016-05-26",
+      "developers": [
+        "buddy-cops-llc"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "racing",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "415740",
+      "reviewCount": 579,
+      "positivePercentage": 82
+    }
+  ],
+  "published": []
+}

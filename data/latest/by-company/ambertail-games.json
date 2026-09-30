@@ -1,0 +1,34 @@
+{
+  "id": "ambertail-games",
+  "name": "Ambertail Games",
+  "developed": [
+    {
+      "id": "amber-isle",
+      "title": "Amber Isle",
+      "type": "game",
+      "releaseDate": "2024-10-10",
+      "developers": [
+        "ambertail-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "management-simulation-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1663040",
+      "reviewCount": 2115,
+      "positivePercentage": 82.3
+    }
+  ],
+  "published": []
+}

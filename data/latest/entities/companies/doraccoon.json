@@ -1,0 +1,72 @@
+{
+  "id": "doraccoon",
+  "name": "Doraccoon",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Chinese game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q140517573",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": "CN",
+    "countryName": "People's Republic of China"
+  },
+  "founded": 2024,
+  "foundedDate": "2024-07",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q140517573"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "raccoin-coin-pusher-roguelike"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 4674,
+    "averagePositivePercentage": 82.4,
+    "weightedPositivePercentage": 82.4,
+    "mostReviewedGame": "raccoin-coin-pusher-roguelike",
+    "mostRecentRelease": "raccoin-coin-pusher-roguelike",
+    "firstRelease": "raccoin-coin-pusher-roguelike",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140517573",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

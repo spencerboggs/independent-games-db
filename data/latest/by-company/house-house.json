@@ -1,0 +1,64 @@
+{
+  "id": "house-house",
+  "name": "House House",
+  "developed": [
+    {
+      "id": "big-walk",
+      "title": "Big Walk",
+      "type": "game",
+      "releaseDate": "2026-08-04",
+      "developers": [
+        "house-house"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1478500",
+      "reviewCount": 39806,
+      "positivePercentage": 96
+    },
+    {
+      "id": "untitled-goose-game",
+      "title": "Untitled Goose Game",
+      "type": "game",
+      "releaseDate": "2020-09-23",
+      "developers": [
+        "house-house"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "puzzle",
+        "stealth-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "837470",
+      "reviewCount": 25278,
+      "positivePercentage": 95.9
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "nomada-studio",
+  "name": "Nomada Studio",
+  "developed": [
+    {
+      "id": "gris",
+      "title": "GRIS",
+      "type": "game",
+      "releaseDate": "2018-12-13",
+      "developers": [
+        "nomada-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "683320",
+      "reviewCount": 96511,
+      "positivePercentage": 96
+    },
+    {
+      "id": "neva",
+      "title": "Neva",
+      "type": "game",
+      "releaseDate": "2024-10-15",
+      "developers": [
+        "nomada-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2420660",
+      "reviewCount": 10722,
+      "positivePercentage": 93.6
+    }
+  ],
+  "published": []
+}

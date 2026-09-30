@@ -1,0 +1,30 @@
+{
+  "id": "lucas-pope",
+  "name": "Lucas Pope",
+  "developed": [
+    {
+      "id": "mars-after-midnight",
+      "title": "Mars After Midnight",
+      "type": "game",
+      "releaseDate": "2024-03-12",
+      "developers": [
+        "lucas-pope"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

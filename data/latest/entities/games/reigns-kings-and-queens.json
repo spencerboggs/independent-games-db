@@ -1,0 +1,74 @@
+{
+  "id": "reigns-kings-and-queens",
+  "title": "Reigns: Kings & Queens",
+  "alternateTitles": [
+    "Reigns Kings & Queens",
+    "Reigns Kings and Queens",
+    "Reigns: Kings and Queens"
+  ],
+  "type": "game",
+  "releaseDate": "2018-09-20",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "nerial"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "nintendo-switch"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q105130839",
+    "igdb": "reigns-kings-and-queens"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105130839"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "reigns",
+    "name": "Reigns"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105130839",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

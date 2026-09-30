@@ -1,0 +1,35 @@
+{
+  "id": "jake-hollands",
+  "name": "Jake Hollands",
+  "developed": [
+    {
+      "id": "spaceplan",
+      "title": "SPACEPLAN",
+      "type": "game",
+      "releaseDate": "2017-05-03",
+      "developers": [
+        "jake-hollands"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "incremental-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "616110",
+      "reviewCount": 3439,
+      "positivePercentage": 91.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,169 @@
+{
+  "id": "ghost-ship-games",
+  "name": "Ghost Ship Games",
+  "developed": [
+    {
+      "id": "deep-rock-galactic",
+      "title": "Deep Rock Galactic",
+      "type": "game",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "horde-shooter"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "548430",
+      "reviewCount": 380471,
+      "positivePercentage": 97.1
+    },
+    {
+      "id": "deep-rock-galactic-dark-future-pack",
+      "title": "Deep Rock Galactic - Dark Future Pack",
+      "type": "dlc",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1283090",
+      "reviewCount": 581,
+      "positivePercentage": 94.8
+    },
+    {
+      "id": "deep-rock-galactic-dawn-of-the-dread-pack",
+      "title": "Deep Rock Galactic - Dawn of the Dread Pack",
+      "type": "dlc",
+      "releaseDate": "2021-02-04",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1530640",
+      "reviewCount": 393,
+      "positivePercentage": 93.4
+    },
+    {
+      "id": "deep-rock-galactic-megacorp-pack",
+      "title": "Deep Rock Galactic - MegaCorp Pack",
+      "type": "dlc",
+      "releaseDate": "2020-05-13",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1283091",
+      "reviewCount": 486,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "deep-rock-galactic-rival-tech-pack",
+      "title": "Deep Rock Galactic - Rival Tech Pack",
+      "type": "dlc",
+      "releaseDate": "2021-11-04",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1797340",
+      "reviewCount": 660,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "deep-rock-galactic-robot-rebellion-pack",
+      "title": "Deep Rock Galactic - Robot Rebellion Pack",
+      "type": "dlc",
+      "releaseDate": "2022-04-28",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1946960",
+      "reviewCount": 328,
+      "positivePercentage": 92.1
+    },
+    {
+      "id": "deep-rock-galactic-roughneck-pack",
+      "title": "Deep Rock Galactic - Roughneck Pack",
+      "type": "dlc",
+      "releaseDate": "2020-10-22",
+      "developers": [
+        "ghost-ship-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1430610",
+      "reviewCount": 550,
+      "positivePercentage": 98
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "haxe",
+  "name": "Haxe",
+  "aliases": [],
+  "category": "language",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "open-source",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q285886"
+  },
+  "games": [
+    "dead-cells"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 183848,
+    "mostReviewedGames": [
+      {
+        "id": "dead-cells",
+        "title": "Dead Cells",
+        "value": 183848
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "dead-cells",
+        "title": "Dead Cells",
+        "value": 2280
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2018": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

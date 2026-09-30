@@ -1,0 +1,36 @@
+{
+  "id": "studio-koba",
+  "name": "Studio Koba",
+  "developed": [
+    {
+      "id": "narita-boy",
+      "title": "Narita Boy",
+      "type": "game",
+      "releaseDate": "2021-03-30",
+      "developers": [
+        "studio-koba"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1069530",
+      "reviewCount": 1853,
+      "positivePercentage": 77.8
+    }
+  ],
+  "published": []
+}

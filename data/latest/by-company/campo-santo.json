@@ -1,0 +1,74 @@
+{
+  "id": "campo-santo",
+  "name": "Campo Santo",
+  "developed": [
+    {
+      "id": "firewatch",
+      "title": "Firewatch",
+      "type": "game",
+      "releaseDate": "2016-02-09",
+      "developers": [
+        "campo-santo"
+      ],
+      "publishers": [
+        "campo-santo",
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "mystery-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "383870",
+      "reviewCount": 99563,
+      "positivePercentage": 90.6
+    }
+  ],
+  "published": [
+    {
+      "id": "firewatch",
+      "title": "Firewatch",
+      "type": "game",
+      "releaseDate": "2016-02-09",
+      "developers": [
+        "campo-santo"
+      ],
+      "publishers": [
+        "campo-santo",
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "mystery-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "383870",
+      "reviewCount": 99563,
+      "positivePercentage": 90.6
+    }
+  ]
+}

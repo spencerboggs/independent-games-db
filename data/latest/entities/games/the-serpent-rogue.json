@@ -1,0 +1,193 @@
+{
+  "id": "the-serpent-rogue",
+  "title": "The Serpent Rogue",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2022-04-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "sengi-games"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "The Serpent Rogue is a botanical action-adventure game set in a medieval fantasy world. Master the art of alchemy, explore forgotten lands, tame wild beasts and protect the realm from impending disaster. You will craft, brew, boil, & concoct potions all in your stead to defeat an ominous danger!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1453790/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "action-adventure",
+    "adventure",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards"
+  ],
+  "platforms": [
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "Russian",
+    "Ukrainian",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q111893448",
+    "igdb": "the-serpent-rogue",
+    "steam": "1453790"
+  },
+  "links": {
+    "official": "http://sengigames.com/",
+    "steam": "https://store.steampowered.com/app/1453790/",
+    "wikidata": "https://www.wikidata.org/wiki/Q111893448"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_e2047059c96596c0eb98db6f092b59e6827d46f9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_ca8972b040a8b0308a768bd22e56df5456b87428.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_3a0c52979d75027c2f5fb22e985cb7dcb7d48cfb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_a4422abe2a9e69cdbe07528e910fe31992c44894.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_09092e104471cd676e9f64e91ed6004c3c33ba71.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453790/ss_544e814d97b65dcc7b356af8a228c1f31e4fcede.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q111893448",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 331,
+      "positiveCount": 184,
+      "negativeCount": 147,
+      "positivePercentage": 55.6,
+      "negativePercentage": 44.4,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 2,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.2,
+      "reviewsPerMonth": 6.2,
+      "windowDays": 1618,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1453790/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111893448",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

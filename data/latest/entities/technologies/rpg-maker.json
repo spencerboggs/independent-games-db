@@ -1,0 +1,53 @@
+{
+  "id": "rpg-maker",
+  "name": "RPG Maker",
+  "aliases": [
+    "RPG Maker MV",
+    "RPG Maker MZ",
+    "RPG Maker VX Ace",
+    "RPG Maker XP"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": null,
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q260080"
+  },
+  "games": [
+    "omori"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 88833,
+    "mostReviewedGames": [
+      {
+        "id": "omori",
+        "title": "OMORI",
+        "value": 88833
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "omori",
+        "title": "OMORI",
+        "value": 221
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2020": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

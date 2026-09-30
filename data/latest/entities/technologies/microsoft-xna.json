@@ -1,0 +1,63 @@
+{
+  "id": "microsoft-xna",
+  "name": "Microsoft XNA",
+  "aliases": [
+    "XNA",
+    "XNA Framework",
+    "XNA Game Studio"
+  ],
+  "category": "framework",
+  "subcategory": null,
+  "developer": "Microsoft",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q949728"
+  },
+  "games": [
+    "bastion",
+    "serious-sam-double-d-xxl"
+  ],
+  "statistics": {
+    "gameCount": 2,
+    "companyCount": 3,
+    "totalSteamReviews": 39098,
+    "mostReviewedGames": [
+      {
+        "id": "bastion",
+        "title": "Bastion",
+        "value": 38212
+      },
+      {
+        "id": "serious-sam-double-d-xxl",
+        "title": "Serious Sam Double D XXL",
+        "value": 886
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "bastion",
+        "title": "Bastion",
+        "value": 12
+      },
+      {
+        "id": "serious-sam-double-d-xxl",
+        "title": "Serious Sam Double D XXL",
+        "value": 2
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2011": 2
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

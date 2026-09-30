@@ -1,0 +1,75 @@
+{
+  "id": "jukio",
+  "name": "Jukio",
+  "developed": [
+    {
+      "id": "minit",
+      "title": "Minit",
+      "type": "game",
+      "releaseDate": "2018-04-03",
+      "developers": [
+        "dom",
+        "jukio",
+        "jw",
+        "kitty"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "arcade",
+        "puzzle"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "609490",
+      "reviewCount": 2907,
+      "positivePercentage": 89.3
+    },
+    {
+      "id": "minit-fun-racer",
+      "title": "Minit Fun Racer",
+      "type": "game",
+      "releaseDate": "2021-02-18",
+      "developers": [
+        "dom",
+        "jukio",
+        "jw",
+        "kitty"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "racing",
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1503530",
+      "reviewCount": 289,
+      "positivePercentage": 96.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,614 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/statistics.schema.json",
+  "title": "Dataset statistics",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "totals": {
+      "type": "object",
+      "properties": {
+        "games": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "companies": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "includedCompanies": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "technologies": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "people": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "gamesWithSteamStatistics": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "totalSteamReviews": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "games",
+        "companies",
+        "includedCompanies",
+        "technologies",
+        "people",
+        "gamesWithSteamStatistics",
+        "totalSteamReviews"
+      ],
+      "additionalProperties": false
+    },
+    "rankings": {
+      "type": "object",
+      "properties": {
+        "mostReviewed": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "highestRated": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "mostPlayed": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "recentlyPopular": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "mostRecent": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "mostEstablished": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "rank": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "game": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              "title": {
+                "type": "string"
+              },
+              "value": {
+                "type": [
+                  "number",
+                  "string"
+                ]
+              }
+            },
+            "required": [
+              "rank",
+              "game",
+              "title",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "mostReviewed",
+        "highestRated",
+        "mostPlayed",
+        "recentlyPopular",
+        "mostRecent",
+        "mostEstablished"
+      ],
+      "additionalProperties": false
+    },
+    "companies": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "gameCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "developedCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "publishedCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "totalSteamReviews": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "averagePositivePercentage": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "weightedPositivePercentage": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "mostReviewedGame": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "mostRecentRelease": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "firstRelease": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "technologyCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "engineCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "engines": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "maxLength": 96,
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+              "description": "Stable internal database identifier. Never derived at read time; never reused."
+            }
+          }
+        },
+        "required": [
+          "gameCount",
+          "developedCount",
+          "publishedCount",
+          "totalSteamReviews",
+          "averagePositivePercentage",
+          "weightedPositivePercentage",
+          "mostReviewedGame",
+          "mostRecentRelease",
+          "firstRelease",
+          "technologyCount",
+          "engineCount",
+          "engines"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "publishers": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "gamesPublished": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "totalReviews": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "mostReviewedGames": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "maxLength": 96,
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                  "description": "Stable internal database identifier. Never derived at read time; never reused."
+                },
+                "title": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "developersWorkedWith": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "maxLength": 96,
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+              "description": "Stable internal database identifier. Never derived at read time; never reused."
+            }
+          },
+          "releaseTimeline": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "maxLength": 96,
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                "description": "Stable internal database identifier. Never derived at read time; never reused."
+              }
+            }
+          }
+        },
+        "required": [
+          "gamesPublished",
+          "totalReviews",
+          "mostReviewedGames",
+          "developersWorkedWith",
+          "releaseTimeline"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "engines": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "gameCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "companyCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "totalSteamReviews": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "mostReviewedGames": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "maxLength": 96,
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                  "description": "Stable internal database identifier. Never derived at read time; never reused."
+                },
+                "title": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "mostPlayedGames": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "maxLength": 96,
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+                  "description": "Stable internal database identifier. Never derived at read time; never reused."
+                },
+                "title": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "gamesByReleaseYear": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {
+              "type": "integer",
+              "minimum": -9007199254740991,
+              "maximum": 9007199254740991
+            }
+          }
+        },
+        "required": [
+          "gameCount",
+          "companyCount",
+          "totalSteamReviews",
+          "mostReviewedGames",
+          "mostPlayedGames",
+          "gamesByReleaseYear"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "releasesByYear": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "integer",
+        "minimum": -9007199254740991,
+        "maximum": 9007199254740991
+      }
+    },
+    "methodology": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "totals",
+    "rankings",
+    "companies",
+    "publishers",
+    "engines",
+    "releasesByYear",
+    "methodology"
+  ],
+  "additionalProperties": false
+}

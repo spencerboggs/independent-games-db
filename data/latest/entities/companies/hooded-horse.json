@@ -1,0 +1,75 @@
+{
+  "id": "hooded-horse",
+  "name": "Hooded Horse",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q123181340",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.hoodedhorse.com",
+  "socialLinks": {
+    "x": "https://x.com/HoodedHorseInc",
+    "youtube": "https://www.youtube.com/channel/UCOchKaC3FN2G-odtv4DiVlA"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q123181340"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "9-kings"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 0,
+    "publishedCount": 1,
+    "totalSteamReviews": 23385,
+    "averagePositivePercentage": 92.4,
+    "weightedPositivePercentage": 92.4,
+    "mostReviewedGame": "9-kings",
+    "mostRecentRelease": "9-kings",
+    "firstRelease": "9-kings",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123181340",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

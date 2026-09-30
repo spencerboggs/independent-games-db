@@ -1,0 +1,75 @@
+{
+  "id": "sarepta-studio",
+  "name": "Sarepta Studio",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q62761254",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://sareptastudio.com/",
+  "socialLinks": {
+    "x": "https://x.com/sareptastudio"
+  },
+  "location": {
+    "headquarters": "Hamar Municipality",
+    "country": "NO",
+    "countryName": "Norway"
+  },
+  "founded": 2010,
+  "foundedDate": "2010",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q62761254",
+    "igdb": "sarepta-studio"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "thalassa-edge-of-the-abyss"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 373,
+    "averagePositivePercentage": 88.7,
+    "weightedPositivePercentage": 88.7,
+    "mostReviewedGame": "thalassa-edge-of-the-abyss",
+    "mostRecentRelease": "thalassa-edge-of-the-abyss",
+    "firstRelease": "thalassa-edge-of-the-abyss",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62761254",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

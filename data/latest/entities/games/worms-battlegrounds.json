@@ -1,0 +1,71 @@
+{
+  "id": "worms-battlegrounds",
+  "title": "Worms Battlegrounds",
+  "alternateTitles": [
+    "Worms Battlefield"
+  ],
+  "type": "game",
+  "releaseDate": "2014-06-03",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation-4",
+    "xbox-one"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q17397540",
+    "igdb": "worms-battlegrounds"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17397540"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17397540",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

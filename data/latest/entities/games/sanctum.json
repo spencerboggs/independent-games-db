@@ -1,0 +1,183 @@
+{
+  "id": "sanctum",
+  "title": "Sanctum",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2011-04-15",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "coffee-stain-studios"
+  ],
+  "publishers": [
+    "coffee-stain-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "You think Tower Defense games are all about building? You thought wrong. Sanctum is not your average Tower Defense title. When the havoc starts, you get to join the fray! As one of the world’s first First Person Shooter - Tower Defense games, Sanctum has taken the best of both worlds to deliver an epic, one-of-a-kind experience.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/91600/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "casual",
+    "first-person-shooter",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "multi-player",
+    "partial-controller-support",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-leaderboards"
+  ],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "Danish",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Swedish",
+    "Japanese",
+    "Polish",
+    "Dutch",
+    "Italian",
+    "Russian",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q2617354",
+    "igdb": "sanctum",
+    "steam": "91600"
+  },
+  "links": {
+    "official": "http://www.sanctumgame.com",
+    "steam": "https://store.steampowered.com/app/91600/",
+    "wikidata": "https://www.wikidata.org/wiki/Q2617354"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/91600",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/ss_ad467997f2c8b46b2d156ff0ea6466829411590a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/ss_336978817c904b9a633bba471da7420633eb5574.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/ss_098a2dc8e0896da29f56f6be946df55fd68eb601.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/ss_207611f72bb21b6b0d47a240b77a2e7ac5758906.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unreal-engine",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2617354",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 3363,
+      "positiveCount": 2999,
+      "negativeCount": 364,
+      "positivePercentage": 89.2,
+      "negativePercentage": 10.8,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 3,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.6,
+      "reviewsPerMonth": 18.1,
+      "windowDays": 5647,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/91600/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2617354",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

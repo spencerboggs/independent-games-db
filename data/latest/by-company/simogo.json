@@ -1,0 +1,68 @@
+{
+  "id": "simogo",
+  "name": "Simogo",
+  "developed": [
+    {
+      "id": "lorelei-and-the-laser-eyes",
+      "title": "Lorelei and the Laser Eyes",
+      "type": "game",
+      "releaseDate": "2024-05-16",
+      "developers": [
+        "simogo"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "2008920",
+      "reviewCount": 3287,
+      "positivePercentage": 93.9
+    },
+    {
+      "id": "sayonara-wild-hearts",
+      "title": "Sayonara Wild Hearts",
+      "type": "game",
+      "releaseDate": "2019-12-12",
+      "developers": [
+        "simogo"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "music-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1122720",
+      "reviewCount": 8942,
+      "positivePercentage": 96.5
+    }
+  ],
+  "published": []
+}

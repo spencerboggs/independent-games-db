@@ -1,0 +1,75 @@
+{
+  "id": "the-collective",
+  "name": "The Collective",
+  "aliases": [
+    "Collective",
+    "The Collective, Inc."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7726737",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.collectivestudios.com/default.asp",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Newport Beach",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 1997,
+  "foundedDate": "1997",
+  "ownership": {
+    "status": "defunct",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q7726737"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "marc-eckos-getting-up-contents-under-pressure"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2514,
+    "averagePositivePercentage": 89,
+    "weightedPositivePercentage": 89,
+    "mostReviewedGame": "marc-eckos-getting-up-contents-under-pressure",
+    "mostRecentRelease": "marc-eckos-getting-up-contents-under-pressure",
+    "firstRelease": "marc-eckos-getting-up-contents-under-pressure",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7726737",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

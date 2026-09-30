@@ -1,0 +1,51 @@
+{
+  "id": "sweet-baby-inc",
+  "name": "Sweet Baby Inc.",
+  "developed": [
+    {
+      "id": "lost-your-marbles",
+      "title": "Lost Your Marbles",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "sweet-baby-inc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "reel-steal",
+      "title": "Reel Steal",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "sweet-baby-inc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

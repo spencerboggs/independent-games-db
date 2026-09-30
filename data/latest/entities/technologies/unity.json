@@ -1,0 +1,253 @@
+{
+  "id": "unity",
+  "name": "Unity",
+  "aliases": [
+    "Unity 3D",
+    "Unity 5",
+    "Unity 6",
+    "Unity Engine",
+    "Unity game engine",
+    "Unity3D"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Unity Technologies",
+  "website": "https://unity.com",
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q63966"
+  },
+  "games": [
+    "a-memoir-blue",
+    "ape-out",
+    "arco",
+    "automachef",
+    "ball-x-pit",
+    "before-we-leave",
+    "beyond-eyes",
+    "blasphemous",
+    "blasphemous-2",
+    "blockhood",
+    "boomerang-x",
+    "broforce",
+    "callers-bane",
+    "clustertruck",
+    "crossing-souls",
+    "crown-trick",
+    "cult-of-the-lamb",
+    "cuphead",
+    "deaths-door",
+    "detention",
+    "devotion",
+    "disc-room",
+    "donut-county",
+    "dredge",
+    "dredge-the-iron-rig",
+    "dropsy",
+    "dungeon-hearts",
+    "enter-the-gungeon",
+    "firewatch",
+    "florence",
+    "genital-jousting",
+    "golf-with-your-friends",
+    "gorn",
+    "gorogoa",
+    "gris",
+    "heave-ho",
+    "heavy-bullets",
+    "hindsight",
+    "hokko-life",
+    "hollow-knight",
+    "hollow-knight-silksong",
+    "huntdown",
+    "i-hate-running-backwards",
+    "inscryption",
+    "killer-frequency",
+    "last-stop",
+    "lumentale-memories-of-trey",
+    "marauders",
+    "mother-russia-bleeds",
+    "mouse-p-i-for-hire",
+    "moving-out",
+    "mugsters",
+    "mundaun",
+    "my-friend-pedro",
+    "narita-boy",
+    "neon-abyss",
+    "neon-white",
+    "neva",
+    "nine-sols",
+    "noct",
+    "observation",
+    "okhlos-omega",
+    "omnibus",
+    "outer-wilds",
+    "outer-wilds-echoes-of-the-eye",
+    "overcooked",
+    "overcooked-2",
+    "pikuniku",
+    "reigns",
+    "reigns-game-of-thrones",
+    "reigns-her-majesty",
+    "sayonara-wild-hearts",
+    "serious-sam-kamikaze-attack",
+    "serious-sam-tormental",
+    "sludge-life",
+    "songs-of-conquest",
+    "stories-untold",
+    "strafe-gold-edition",
+    "telling-lies",
+    "tentacular",
+    "terra-nil",
+    "the-escapists",
+    "the-escapists-2",
+    "the-expendabros",
+    "the-last-faith",
+    "the-messenger",
+    "the-serpent-rogue",
+    "totally-accurate-battle-simulator",
+    "totally-accurate-battlegrounds",
+    "twelve-minutes",
+    "umiro",
+    "untitled-goose-game",
+    "valheim",
+    "wizard-with-a-gun",
+    "worms-revolution"
+  ],
+  "statistics": {
+    "gameCount": 95,
+    "companyCount": 94,
+    "totalSteamReviews": 3654300,
+    "mostReviewedGames": [
+      {
+        "id": "hollow-knight",
+        "title": "Hollow Knight",
+        "value": 563187
+      },
+      {
+        "id": "valheim",
+        "title": "Valheim",
+        "value": 555550
+      },
+      {
+        "id": "hollow-knight-silksong",
+        "title": "Hollow Knight: Silksong",
+        "value": 424061
+      },
+      {
+        "id": "cuphead",
+        "title": "Cuphead",
+        "value": 221971
+      },
+      {
+        "id": "totally-accurate-battle-simulator",
+        "title": "Totally Accurate Battle Simulator",
+        "value": 154318
+      },
+      {
+        "id": "inscryption",
+        "title": "Inscryption",
+        "value": 148837
+      },
+      {
+        "id": "cult-of-the-lamb",
+        "title": "Cult of the Lamb",
+        "value": 130078
+      },
+      {
+        "id": "outer-wilds",
+        "title": "Outer Wilds",
+        "value": 108571
+      },
+      {
+        "id": "firewatch",
+        "title": "Firewatch",
+        "value": 99563
+      },
+      {
+        "id": "gris",
+        "title": "GRIS",
+        "value": 96511
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "valheim",
+        "title": "Valheim",
+        "value": 62985
+      },
+      {
+        "id": "hollow-knight-silksong",
+        "title": "Hollow Knight: Silksong",
+        "value": 4801
+      },
+      {
+        "id": "hollow-knight",
+        "title": "Hollow Knight",
+        "value": 4630
+      },
+      {
+        "id": "overcooked-2",
+        "title": "Overcooked! 2",
+        "value": 3613
+      },
+      {
+        "id": "ball-x-pit",
+        "title": "BALL x PIT",
+        "value": 1284
+      },
+      {
+        "id": "totally-accurate-battle-simulator",
+        "title": "Totally Accurate Battle Simulator",
+        "value": 1253
+      },
+      {
+        "id": "cult-of-the-lamb",
+        "title": "Cult of the Lamb",
+        "value": 1088
+      },
+      {
+        "id": "cuphead",
+        "title": "Cuphead",
+        "value": 990
+      },
+      {
+        "id": "inscryption",
+        "title": "Inscryption",
+        "value": 665
+      },
+      {
+        "id": "outer-wilds",
+        "title": "Outer Wilds",
+        "value": 506
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2012": 1,
+      "2013": 2,
+      "2014": 2,
+      "2015": 4,
+      "2016": 8,
+      "2017": 9,
+      "2018": 11,
+      "2019": 10,
+      "2020": 9,
+      "2021": 13,
+      "2022": 9,
+      "2023": 6,
+      "2024": 5,
+      "2025": 2,
+      "2026": 3
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

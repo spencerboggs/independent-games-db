@@ -1,0 +1,210 @@
+{
+  "id": "autopsy-simulator",
+  "title": "Autopsy Simulator",
+  "alternateTitles": [
+    "AS"
+  ],
+  "type": "game",
+  "releaseDate": "2024-06-06",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "woodland-games"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Autopsy Simulator is a first-person horror-sim hybrid where players take on the role of a practice pathologist and study case files, created in collaboration with real-world forensic doctors, to help guide their dissection of anatomically accurate bodies to determine each subject’s cause of death.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/1283230/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure-video-game",
+    "horror-video-game",
+    "simulation"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "German",
+    "Polish",
+    "Russian",
+    "Traditional Chinese",
+    "Japanese",
+    "Simplified Chinese",
+    "French",
+    "Spanish - Spain",
+    "Korean"
+  ],
+  "externalIds": {
+    "wikidata": "Q113647984",
+    "igdb": "autopsy-simulator",
+    "steam": "1283230"
+  },
+  "links": {
+    "official": "https://www.autopsysimulator.com/",
+    "steam": "https://store.steampowered.com/app/1283230/",
+    "wikidata": "https://www.wikidata.org/wiki/Q113647984"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/995adceca6566cd2fa9d0d780a2b7267c1767951/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1283230",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_8c18c3685cf8a667a58d37acda3fd321fb6a6cb2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_4f9847580ea4033c94d830d12917378dd5f1f523.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_36ac5838c7017e67da3ff6ac439cd2f1e8b923e5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_7d50244560f9058d7c5f34721d1d6eee71097bf5.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_7818ff0fe1f34451f2c966b7157c03203cfeb4ea.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_341630438c4f4fab7c0ebc980b2ff2db3937c476.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_16773f957869ed47601e19db158ee0c42f64c1f3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_edd41611371d1729eb12070d44537411ef8c7311.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_a24c5e35dd006b21f0eee88649a566091687d693.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283230/ss_005c2c571625f141d80c4abeb5307de1eba5e6af.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 1629,
+      "positiveCount": 842,
+      "negativeCount": 787,
+      "positivePercentage": 51.7,
+      "negativePercentage": 48.3,
+      "reviewScoreDescription": "Mixed",
+      "currentPlayers": 6,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1.92,
+      "reviewsPerMonth": 58.6,
+      "windowDays": 846,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/1283230/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q113647984",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

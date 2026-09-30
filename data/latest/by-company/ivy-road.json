@@ -1,0 +1,35 @@
+{
+  "id": "ivy-road",
+  "name": "Ivy Road",
+  "developed": [
+    {
+      "id": "wanderstop",
+      "title": "Wanderstop",
+      "type": "game",
+      "releaseDate": "2025-03-11",
+      "developers": [
+        "ivy-road"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1299460",
+      "reviewCount": 3255,
+      "positivePercentage": 92.8
+    }
+  ],
+  "published": []
+}

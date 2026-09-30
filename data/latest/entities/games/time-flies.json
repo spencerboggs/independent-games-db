@@ -1,0 +1,202 @@
+{
+  "id": "time-flies",
+  "title": "Time Flies",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2025-07-31",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "playables"
+  ],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Time Flies is a little adventure about our limited time in this world.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2000120/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "adventure-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "macos",
+    "nintendo-switch",
+    "playstation-5",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish",
+    "Italian"
+  ],
+  "externalIds": {
+    "wikidata": "Q123739212",
+    "igdb": "time-flies",
+    "steam": "2000120"
+  },
+  "links": {
+    "official": "https://timeflies.buzz/",
+    "steam": "https://store.steampowered.com/app/2000120/",
+    "wikidata": "https://www.wikidata.org/wiki/Q123739212"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/a00d8201122469f1a4e2ddc45b311d2e8822779c/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/f8ebfdb011353e78e515b1527d42168b057650aa/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/c6beb791d9943705365791a4dcebc9241d64ea2f/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/73cb777dca02a346cdf1fbb5528b0a13ce0f76b1/ss_73cb777dca02a346cdf1fbb5528b0a13ce0f76b1.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/a570802141e8195e83af7deb82d388b853238711/ss_a570802141e8195e83af7deb82d388b853238711.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/51c236eaab3a687577aaf249ac327b7705198070/ss_51c236eaab3a687577aaf249ac327b7705198070.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/2cf93792736b5028b1fea3c74ab643aa07f3967e/ss_2cf93792736b5028b1fea3c74ab643aa07f3967e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/f9e49496f7077a2ddc4a50c8cee4002c5c8b961f/ss_f9e49496f7077a2ddc4a50c8cee4002c5c8b961f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/1b93dfb07b60571ab6bf2cd1023a497da25e1f27/ss_1b93dfb07b60571ab6bf2cd1023a497da25e1f27.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/b513032b164f7247732749c9e95aaf73590598b2/ss_b513032b164f7247732749c9e95aaf73590598b2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000120/78913369ad0afa38345eda5101b73c5cd0f78fe7/ss_78913369ad0afa38345eda5101b73c5cd0f78fe7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 401,
+      "positiveCount": 388,
+      "negativeCount": 13,
+      "positivePercentage": 96.8,
+      "negativePercentage": 3.2,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 1,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 0.94,
+      "reviewsPerMonth": 28.6,
+      "windowDays": 426,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2000120/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123739212",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

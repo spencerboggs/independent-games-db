@@ -1,0 +1,88 @@
+{
+  "id": "hopoo-games",
+  "name": "Hopoo Games",
+  "aliases": [
+    "LLC"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q33111933",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://hopoogames.com/",
+  "socialLinks": {
+    "x": "https://x.com/HopooGames"
+  },
+  "location": {
+    "headquarters": "Seattle",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2012,
+  "foundedDate": "2012",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q33111933"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Developer of Risk of Rain and Deadbolt."
+  },
+  "games": {
+    "developed": [
+      "deadbolt",
+      "risk-of-rain-2",
+      "risk-of-rain-2013",
+      "risk-of-rain-returns"
+    ],
+    "published": [
+      "deadbolt"
+    ]
+  },
+  "statistics": {
+    "gameCount": 4,
+    "developedCount": 4,
+    "publishedCount": 1,
+    "totalSteamReviews": 417490,
+    "averagePositivePercentage": 93.2,
+    "weightedPositivePercentage": 93.5,
+    "mostReviewedGame": "risk-of-rain-2",
+    "mostRecentRelease": "risk-of-rain-returns",
+    "firstRelease": "risk-of-rain-2013",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "gamemaker",
+      "unity-2018"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q33111933",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

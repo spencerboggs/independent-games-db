@@ -1,0 +1,74 @@
+{
+  "id": "worms-2-armageddon",
+  "title": "Worms 2: Armageddon",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2009-07-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "strategy",
+    "turn-based-strategy-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios",
+    "xbox-360"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q2046506",
+    "igdb": "worms-2-armageddon"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2046506"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2046506",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

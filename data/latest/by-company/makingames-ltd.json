@@ -1,0 +1,34 @@
+{
+  "id": "makingames-ltd",
+  "name": "MakinGames Ltd",
+  "developed": [
+    {
+      "id": "raging-justice",
+      "title": "Raging Justice",
+      "type": "game",
+      "releaseDate": "2018-05-08",
+      "developers": [
+        "makingames-ltd"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "cocos2d"
+      ],
+      "steamAppId": "384200",
+      "reviewCount": 163,
+      "positivePercentage": 73
+    }
+  ],
+  "published": []
+}

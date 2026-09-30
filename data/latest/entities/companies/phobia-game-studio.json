@@ -1,0 +1,69 @@
+{
+  "id": "phobia-game-studio",
+  "name": "Phobia Game Studio",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/phobiagamestudio.bsky.social"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "PL",
+    "countryName": "Poland"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q135910062",
+    "igdb": "phobia-game-studio"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "carrion"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 36070,
+    "averagePositivePercentage": 94.4,
+    "weightedPositivePercentage": 94.4,
+    "mostReviewedGame": "carrion",
+    "mostRecentRelease": "carrion",
+    "firstRelease": "carrion",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "monogame"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q135910062",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "northlight-engine",
+  "name": "Northlight Engine",
+  "games": [
+    {
+      "id": "alan-wake-2",
+      "title": "Alan Wake 2",
+      "type": "game",
+      "releaseDate": "2023-10-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "epic-games"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "survival-horror",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-awe",
+      "title": "Control: AWE",
+      "type": "expansion",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-resonant",
+      "title": "CONTROL Resonant",
+      "type": "game",
+      "releaseDate": "2026-09-24",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "3669870",
+      "reviewCount": 8953,
+      "positivePercentage": 89.9
+    },
+    {
+      "id": "control-the-foundation",
+      "title": "Control: The Foundation",
+      "type": "dlc",
+      "releaseDate": "2020-03-26",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "505-games"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "control-ultimate-edition",
+      "title": "CONTROL Ultimate Edition",
+      "type": "game",
+      "releaseDate": "2020-08-27",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "870780",
+      "reviewCount": 65139,
+      "positivePercentage": 86.1
+    },
+    {
+      "id": "fbc-firebreak",
+      "title": "FBC: Firebreak",
+      "type": "game",
+      "releaseDate": "2025-06-17",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "remedy-entertainment"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "2272540",
+      "reviewCount": 2349,
+      "positivePercentage": 64
+    },
+    {
+      "id": "quantum-break",
+      "title": "Quantum Break",
+      "type": "game",
+      "releaseDate": "2016-09-29",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "northlight-engine"
+      ],
+      "steamAppId": "474960",
+      "reviewCount": 31101,
+      "positivePercentage": 85.7
+    }
+  ]
+}

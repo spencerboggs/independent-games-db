@@ -1,0 +1,89 @@
+{
+  "id": "mega-crit",
+  "name": "Mega Crit",
+  "aliases": [
+    "Mega Crit Games",
+    "MegaCrit"
+  ],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "video game development company",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q87419925",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.megacrit.com/",
+  "socialLinks": {
+    "x": "https://x.com/MegaCrit"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2017,
+  "foundedDate": "2017",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q87419925",
+    "igdb": "mega-crit-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "slay-the-spire",
+      "slay-the-spire-2"
+    ],
+    "published": [
+      "slay-the-spire",
+      "slay-the-spire-2"
+    ]
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 2,
+    "totalSteamReviews": 422025,
+    "averagePositivePercentage": 79.4,
+    "weightedPositivePercentage": 80,
+    "mostReviewedGame": "slay-the-spire",
+    "mostRecentRelease": "slay-the-spire-2",
+    "firstRelease": "slay-the-spire",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "godot",
+      "libgdx"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q87419925",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

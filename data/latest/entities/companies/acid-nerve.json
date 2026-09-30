@@ -1,0 +1,78 @@
+{
+  "id": "acid-nerve",
+  "name": "Acid Nerve",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105221692",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.acidnerve.com/",
+  "socialLinks": {
+    "x": "https://x.com/acidnerve"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q105221692",
+    "igdb": "acid-nerve"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "deaths-door",
+      "titan-souls"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 36129,
+    "averagePositivePercentage": 85.9,
+    "weightedPositivePercentage": 87.6,
+    "mostReviewedGame": "deaths-door",
+    "mostRecentRelease": "deaths-door",
+    "firstRelease": "titan-souls",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105221692",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

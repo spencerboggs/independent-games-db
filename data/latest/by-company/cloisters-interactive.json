@@ -1,0 +1,39 @@
+{
+  "id": "cloisters-interactive",
+  "name": "Cloisters Interactive",
+  "developed": [
+    {
+      "id": "a-memoir-blue",
+      "title": "A Memoir Blue",
+      "type": "game",
+      "releaseDate": "2022-03-24",
+      "developers": [
+        "cloisters-interactive"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1497450",
+      "reviewCount": 527,
+      "positivePercentage": 85.2
+    }
+  ],
+  "published": []
+}

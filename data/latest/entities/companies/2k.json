@@ -1,0 +1,81 @@
+{
+  "id": "2k",
+  "name": "2K",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q94937",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.2k.com/en-US/",
+  "socialLinks": {
+    "x": "https://x.com/2K",
+    "youtube": "https://www.youtube.com/channel/UC0SBn2zaskenN1hl_PCtQWw"
+  },
+  "location": {
+    "headquarters": "Novato",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2005,
+  "foundedDate": "2005",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Take-Two Interactive",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q94937",
+    "igdb": "2k-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "risk-of-rain-2",
+      "risk-of-rain-2013",
+      "risk-of-rain-returns"
+    ]
+  },
+  "statistics": {
+    "gameCount": 3,
+    "developedCount": 0,
+    "publishedCount": 3,
+    "totalSteamReviews": 411843,
+    "averagePositivePercentage": 92.3,
+    "weightedPositivePercentage": 93.5,
+    "mostReviewedGame": "risk-of-rain-2",
+    "mostRecentRelease": "risk-of-rain-returns",
+    "firstRelease": "risk-of-rain-2013",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "gamemaker",
+      "unity-2018"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q94937",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

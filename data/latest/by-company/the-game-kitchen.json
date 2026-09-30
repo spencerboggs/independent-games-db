@@ -1,0 +1,102 @@
+{
+  "id": "the-game-kitchen",
+  "name": "The Game Kitchen",
+  "developed": [
+    {
+      "id": "blasphemous",
+      "title": "Blasphemous",
+      "type": "game",
+      "releaseDate": "2019-09-10",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "platformer",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "774361",
+      "reviewCount": 67504,
+      "positivePercentage": 89.8
+    },
+    {
+      "id": "blasphemous-2",
+      "title": "Blasphemous 2",
+      "type": "game",
+      "releaseDate": "2023-08-24",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2114740",
+      "reviewCount": 21788,
+      "positivePercentage": 90.7
+    },
+    {
+      "id": "blasphemous-2-mea-culpa",
+      "title": "Blasphemous 2 - Mea Culpa",
+      "type": "dlc",
+      "releaseDate": "2024-10-31",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "2879370",
+      "reviewCount": 1144,
+      "positivePercentage": 51.6
+    }
+  ],
+  "published": []
+}

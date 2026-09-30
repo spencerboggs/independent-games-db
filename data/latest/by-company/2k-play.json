@@ -1,0 +1,30 @@
+{
+  "id": "2k-play",
+  "name": "2K Play",
+  "developed": [],
+  "published": [
+    {
+      "id": "army-men-major-malfunction",
+      "title": "Army Men: Major Malfunction",
+      "type": "game",
+      "releaseDate": "2006-04-14",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "2k-play"
+      ],
+      "platforms": [
+        "playstation-2",
+        "xbox"
+      ],
+      "genres": [
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

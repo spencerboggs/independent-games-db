@@ -1,0 +1,78 @@
+{
+  "id": "general-arcade",
+  "name": "General Arcade",
+  "aliases": [
+    "General Arcade Pte. Ltd."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q61987093",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.generalarcade.com/",
+  "socialLinks": {
+    "x": "https://x.com/generalarcade"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "SG",
+    "countryName": "Singapore"
+  },
+  "founded": 2008,
+  "foundedDate": "2008",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q61987093",
+    "igdb": "general-arcade"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "marc-eckos-getting-up-contents-under-pressure",
+      "olliolli"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 3377,
+    "averagePositivePercentage": 83.6,
+    "weightedPositivePercentage": 86.2,
+    "mostReviewedGame": "marc-eckos-getting-up-contents-under-pressure",
+    "mostRecentRelease": "olliolli",
+    "firstRelease": "marc-eckos-getting-up-contents-under-pressure",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q61987093",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

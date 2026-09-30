@@ -1,0 +1,74 @@
+{
+  "id": "crankins-time-travel-adventure",
+  "title": "Crankin's Time Travel Adventure",
+  "alternateTitles": [
+    "Crankin presents Time Travel Adventure",
+    "Time Travel Adventure"
+  ],
+  "type": "game",
+  "releaseDate": "2021",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "uvula-llc"
+  ],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playdate"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q64495087",
+    "igdb": "crankins-time-travel-adventure"
+  },
+  "links": {
+    "official": "https://uvula.jp/crankin",
+    "wikidata": "https://www.wikidata.org/wiki/Q64495087"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "playdate-season-1",
+    "name": "Playdate, Season 1"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q64495087",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

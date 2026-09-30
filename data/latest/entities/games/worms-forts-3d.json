@@ -1,0 +1,71 @@
+{
+  "id": "worms-forts-3d",
+  "title": "Worms Forts 3D",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2005",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "thq-wireless"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "java-platform-micro-edition",
+    "symbian"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q2838656"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2838656"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2838656",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

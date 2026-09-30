@@ -1,0 +1,64 @@
+{
+  "id": "bitfall-studios",
+  "name": "Bitfall Studios",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "https://bitfallstudios.com",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Petersberg",
+    "country": "DE",
+    "countryName": "Germany"
+  },
+  "founded": 2022,
+  "foundedDate": "2022",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q131825998"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "terrascape"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2250,
+    "averagePositivePercentage": 88.6,
+    "weightedPositivePercentage": 88.6,
+    "mostReviewedGame": "terrascape",
+    "mostRecentRelease": "terrascape",
+    "firstRelease": "terrascape",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q131825998",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

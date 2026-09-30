@@ -1,0 +1,14 @@
+# Manual company corrections. Overrides always win over generated data.
+# Same keys as games.yaml: set / append / remove / exclude / create / source / note.
+#
+# Classification belongs in data/seeds/companies.yaml for seeded companies.
+# Use overrides for everything else (e.g. excluding a discovered company or
+# correcting a provider's headquarters).
+#
+# Example:
+#   - id: some-studio
+#     set:
+#       location: { headquarters: Montreal, country: CA, countryName: Canada }
+#     source: { type: official, url: https://example.com/about }
+
+companies: []

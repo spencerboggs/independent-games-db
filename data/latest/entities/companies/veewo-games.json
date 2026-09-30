@@ -1,0 +1,61 @@
+{
+  "id": "veewo-games",
+  "name": "Veewo Games",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "neon-abyss"
+    ],
+    "published": [
+      "neon-abyss"
+    ]
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 1,
+    "totalSteamReviews": 23629,
+    "averagePositivePercentage": 85.9,
+    "weightedPositivePercentage": 85.9,
+    "mostReviewedGame": "neon-abyss",
+    "mostRecentRelease": "neon-abyss",
+    "firstRelease": "neon-abyss",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

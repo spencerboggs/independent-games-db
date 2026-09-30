@@ -1,0 +1,63 @@
+{
+  "id": "le-cartel-studio",
+  "name": "Le Cartel Studio",
+  "developed": [
+    {
+      "id": "heave-ho",
+      "title": "Heave Ho",
+      "type": "game",
+      "releaseDate": "2019-08-29",
+      "developers": [
+        "le-cartel-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "905340",
+      "reviewCount": 2607,
+      "positivePercentage": 91.3
+    },
+    {
+      "id": "mother-russia-bleeds",
+      "title": "Mother Russia Bleeds",
+      "type": "game",
+      "releaseDate": "2016-09-05",
+      "developers": [
+        "le-cartel-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "beat-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "361300",
+      "reviewCount": 5422,
+      "positivePercentage": 86.6
+    }
+  ],
+  "published": []
+}

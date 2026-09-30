@@ -1,0 +1,251 @@
+{
+  "id": "free-lives",
+  "name": "Free Lives",
+  "developed": [
+    {
+      "id": "anger-foot",
+      "title": "Anger Foot",
+      "type": "game",
+      "releaseDate": "2024-07-11",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "twitch-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1978590",
+      "reviewCount": 4140,
+      "positivePercentage": 92.7
+    },
+    {
+      "id": "broforce",
+      "title": "Broforce",
+      "type": "game",
+      "releaseDate": "2015-10-15",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "274190",
+      "reviewCount": 61048,
+      "positivePercentage": 96.9
+    },
+    {
+      "id": "cricket-through-the-ages",
+      "title": "Cricket Through the Ages",
+      "type": "game",
+      "releaseDate": "2024-03-01",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "cricket-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "2657480",
+      "reviewCount": 77,
+      "positivePercentage": 90.9
+    },
+    {
+      "id": "genital-jousting",
+      "title": "Genital Jousting",
+      "type": "game",
+      "releaseDate": "2018-01-18",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "party-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "469820",
+      "reviewCount": 11278,
+      "positivePercentage": 92.1
+    },
+    {
+      "id": "gorn",
+      "title": "GORN",
+      "type": "game",
+      "releaseDate": "2019-07-18",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "578620",
+      "reviewCount": 8227,
+      "positivePercentage": 94
+    },
+    {
+      "id": "gorn-2",
+      "title": "GORN 2",
+      "type": "game",
+      "releaseDate": "2025-04-17",
+      "developers": [
+        "cortopia",
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "3391450",
+      "reviewCount": 697,
+      "positivePercentage": 86.5
+    },
+    {
+      "id": "stick-it-to-the-stickman",
+      "title": "Stick It to the Stickman",
+      "type": "game",
+      "releaseDate": "2026-09-23",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "beat-em-up",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "2085540",
+      "reviewCount": 8941,
+      "positivePercentage": 95.5
+    },
+    {
+      "id": "terra-nil",
+      "title": "Terra Nil",
+      "type": "game",
+      "releaseDate": "2023-03-28",
+      "developers": [
+        "clockwork-acorn",
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1593030",
+      "reviewCount": 8854,
+      "positivePercentage": 87.4
+    },
+    {
+      "id": "the-expendabros",
+      "title": "The Expendabros",
+      "type": "game",
+      "releaseDate": "2014-08-05",
+      "developers": [
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "312990",
+      "reviewCount": 18261,
+      "positivePercentage": 97.2
+    }
+  ],
+  "published": []
+}

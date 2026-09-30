@@ -1,0 +1,32 @@
+{
+  "id": "focus-home-interactive",
+  "name": "Focus Home Interactive",
+  "developed": [],
+  "published": [
+    {
+      "id": "divinity-ii-developers-cut",
+      "title": "Divinity II: Developer's Cut",
+      "type": "game",
+      "releaseDate": "2012-10-29",
+      "developers": [
+        "larian-studios"
+      ],
+      "publishers": [
+        "focus-home-interactive",
+        "larian-studios"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action-rpg",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "219780",
+      "reviewCount": 5343,
+      "positivePercentage": 84.8
+    }
+  ]
+}

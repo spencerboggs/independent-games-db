@@ -1,0 +1,181 @@
+{
+  "id": "divinity-original-sin-classic",
+  "title": "Divinity: Original Sin (Classic)",
+  "alternateTitles": [
+    "Divinity: Original Sin"
+  ],
+  "type": "game",
+  "releaseDate": "2014-06-30",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "larian-studios"
+  ],
+  "publishers": [
+    "larian-studios"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Gather your party and get ready for a new, back-to-the-roots RPG adventure! Discuss your decisions with companions; fight foes in turn-based combat; explore an open world and interact with everything and everyone you see. Join up with a friend to play online in co-op and make your own adventures with the powerful RPG toolkit.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/230230/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "rpg",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "captions-available",
+    "co-op",
+    "cross-platform-multiplayer",
+    "family-sharing",
+    "includes-level-editor",
+    "multi-player",
+    "remote-play-together",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "steam-trading-cards",
+    "steam-workshop"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "playstation-4",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Russian",
+    "Polish",
+    "Italian",
+    "Czech"
+  ],
+  "externalIds": {
+    "wikidata": "Q5284389",
+    "igdb": "divinity-original-sin",
+    "steam": "230230"
+  },
+  "links": {
+    "official": "https://divinity.com/original-sin",
+    "steam": "https://store.steampowered.com/app/230230/",
+    "wikidata": "https://www.wikidata.org/wiki/Q5284389"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/230230",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/ss_fa14df80126e1fd6bf91679303d22ee0d9486e7e.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/ss_43392efe819117a925fa3310dda4d3087876c868.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/ss_8d21b441d4abde7c6404e306ee34504df528b8b3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/ss_1634f81e377328acfce1fd3423627dd83c4a373d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230230/ss_b148c41d98a5b46a4400b6a7e0eef7257bbf6823.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 11917,
+      "positiveCount": 10925,
+      "negativeCount": 992,
+      "positivePercentage": 91.7,
+      "negativePercentage": 8.3,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 20,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 2.66,
+      "reviewsPerMonth": 81.1,
+      "windowDays": 4475,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/230230/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5284389",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

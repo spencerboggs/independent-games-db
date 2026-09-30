@@ -1,0 +1,44 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Tests (includes the offline end-to-end pipeline on fixtures)
+        run: npm test
+
+      - name: Validate seeds, overrides, mappings and generated data
+        run: npm run validate
+
+      - name: Check data/latest matches a fresh build
+        run: |
+          if ! npm run validate:output; then
+            echo "::error::data/latest is out of date or was edited by hand. Run 'npm run build:data' and commit the result."
+            exit 1
+          fi

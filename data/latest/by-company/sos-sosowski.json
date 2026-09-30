@@ -1,0 +1,39 @@
+{
+  "id": "sos-sosowski",
+  "name": "Sos Sosowski",
+  "developed": [
+    {
+      "id": "mcpixel-3",
+      "title": "McPixel 3",
+      "type": "game",
+      "releaseDate": "2022-11-14",
+      "developers": [
+        "sos-sosowski"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "haiku",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "comedy-video-game",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": "1338580",
+      "reviewCount": 1895,
+      "positivePercentage": 93.2
+    }
+  ],
+  "published": []
+}

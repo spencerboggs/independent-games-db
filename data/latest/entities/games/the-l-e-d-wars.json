@@ -1,0 +1,66 @@
+{
+  "id": "the-l-e-d-wars",
+  "title": "The L.E.D. Wars",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1997",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "larian-studios"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "real-time-strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q136336688",
+    "igdb": "the-led-wars"
+  },
+  "links": {
+    "official": "http://larian.com/ledwars.php",
+    "wikidata": "https://www.wikidata.org/wiki/Q136336688"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q136336688",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "angel-matrix",
+  "name": "Angel Matrix",
+  "developed": [
+    {
+      "id": "neon-white",
+      "title": "Neon White",
+      "type": "game",
+      "releaseDate": "2022-06-16",
+      "developers": [
+        "angel-matrix"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1533420",
+      "reviewCount": 20905,
+      "positivePercentage": 97.9
+    }
+  ],
+  "published": []
+}

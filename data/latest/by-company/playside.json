@@ -1,0 +1,38 @@
+{
+  "id": "playside",
+  "name": "PlaySide",
+  "developed": [],
+  "published": [
+    {
+      "id": "mouse-p-i-for-hire",
+      "title": "MOUSE: P.I. For Hire",
+      "type": "game",
+      "releaseDate": "2026-04-16",
+      "developers": [
+        "fumi-games"
+      ],
+      "publishers": [
+        "playside"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2416450",
+      "reviewCount": 15864,
+      "positivePercentage": 93.8
+    }
+  ]
+}

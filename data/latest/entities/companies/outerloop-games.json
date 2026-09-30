@@ -1,0 +1,79 @@
+{
+  "id": "outerloop-games",
+  "name": "Outerloop Games",
+  "aliases": [
+    "Outerloop Games LLC",
+    "Outerloop Games, LLC"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q110096226",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://outerloopgames.com",
+  "socialLinks": {
+    "x": "https://x.com/OuterloopGames",
+    "youtube": "https://www.youtube.com/channel/UCtzLOsaDmZ4q7_zTHVw3FAg"
+  },
+  "location": {
+    "headquarters": "Bothell",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q110096226",
+    "igdb": "outerloop-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "thirsty-suitors"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 305,
+    "averagePositivePercentage": 95.4,
+    "weightedPositivePercentage": 95.4,
+    "mostReviewedGame": "thirsty-suitors",
+    "mostRecentRelease": "thirsty-suitors",
+    "firstRelease": "thirsty-suitors",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q110096226",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

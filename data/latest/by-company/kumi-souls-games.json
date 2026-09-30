@@ -1,0 +1,38 @@
+{
+  "id": "kumi-souls-games",
+  "name": "Kumi Souls Games",
+  "developed": [
+    {
+      "id": "the-last-faith",
+      "title": "The Last Faith",
+      "type": "game",
+      "releaseDate": "2023-11-15",
+      "developers": [
+        "kumi-souls-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1274600",
+      "reviewCount": 5696,
+      "positivePercentage": 84.6
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cortopia",
+  "name": "Cortopia",
+  "developed": [
+    {
+      "id": "gorn-2",
+      "title": "GORN 2",
+      "type": "game",
+      "releaseDate": "2025-04-17",
+      "developers": [
+        "cortopia",
+        "free-lives"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "3391450",
+      "reviewCount": 697,
+      "positivePercentage": 86.5
+    }
+  ],
+  "published": []
+}

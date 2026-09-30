@@ -1,0 +1,125 @@
+{
+  "id": "annapurna-interactive",
+  "name": "Annapurna Interactive",
+  "aliases": [],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q38805988",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://annapurna.pictures/interactive/",
+  "socialLinks": {
+    "x": "https://x.com/A_i",
+    "youtube": "https://www.youtube.com/channel/UCoztP3NSW03Kd69KjQEIxeg"
+  },
+  "location": {
+    "headquarters": "Los Angeles",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2016,
+  "foundedDate": "2016-12-01",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": null,
+    "parentCompanyName": "Annapurna Pictures",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q38805988"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-publisher",
+    "notes": "Games division of Annapurna Pictures. Publishes mostly independent games."
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "a-memoir-blue",
+      "ashen",
+      "cocoon",
+      "d-topia",
+      "demi-and-the-fractured-dream",
+      "donut-county",
+      "faraway",
+      "flock",
+      "florence",
+      "gorogoa",
+      "hindsight",
+      "i-am-dead",
+      "if-found",
+      "journey",
+      "last-stop",
+      "lego-voyagers",
+      "lorelei-and-the-laser-eyes",
+      "lushfoil-photography-sim",
+      "maquette",
+      "mixtape",
+      "mundaun",
+      "neon-white",
+      "open-roads",
+      "outer-wilds",
+      "outer-wilds-echoes-of-the-eye",
+      "people-of-note",
+      "sayonara-wild-hearts",
+      "silent-hill-townfall",
+      "skin-deep",
+      "solar-ash",
+      "storyteller",
+      "stray",
+      "telling-lies",
+      "the-artful-escape",
+      "the-pathless",
+      "the-unfinished-swan",
+      "thirsty-suitors",
+      "to-a-t",
+      "twelve-minutes",
+      "uncanyon",
+      "wanderstop",
+      "wattam",
+      "we-kill-monsters",
+      "what-remains-of-edith-finch",
+      "wheel-world"
+    ]
+  },
+  "statistics": {
+    "gameCount": 45,
+    "developedCount": 0,
+    "publishedCount": 45,
+    "totalSteamReviews": 539766,
+    "averagePositivePercentage": 87.7,
+    "weightedPositivePercentage": 94.6,
+    "mostReviewedGame": "stray",
+    "mostRecentRelease": "silent-hill-townfall",
+    "firstRelease": "what-remains-of-edith-finch",
+    "technologyCount": 2,
+    "engineCount": 2,
+    "engines": [
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q38805988",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

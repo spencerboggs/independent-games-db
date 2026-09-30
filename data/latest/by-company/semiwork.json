@@ -1,0 +1,102 @@
+{
+  "id": "semiwork",
+  "name": "semiwork",
+  "developed": [
+    {
+      "id": "r-e-p-o",
+      "title": "R.E.P.O.",
+      "type": "game",
+      "releaseDate": "2025-02-26",
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "3241660",
+      "reviewCount": 426217,
+      "positivePercentage": 96
+    },
+    {
+      "id": "voidigo",
+      "title": "Voidigo",
+      "type": "game",
+      "releaseDate": "2023-06-08",
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelike",
+        "shooter-game"
+      ],
+      "engines": [],
+      "steamAppId": "1304680",
+      "reviewCount": 4929,
+      "positivePercentage": 96.5
+    }
+  ],
+  "published": [
+    {
+      "id": "r-e-p-o",
+      "title": "R.E.P.O.",
+      "type": "game",
+      "releaseDate": "2025-02-26",
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "3241660",
+      "reviewCount": 426217,
+      "positivePercentage": 96
+    },
+    {
+      "id": "voidigo",
+      "title": "Voidigo",
+      "type": "game",
+      "releaseDate": "2023-06-08",
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "roguelike",
+        "shooter-game"
+      ],
+      "engines": [],
+      "steamAppId": "1304680",
+      "reviewCount": 4929,
+      "positivePercentage": 96.5
+    }
+  ]
+}

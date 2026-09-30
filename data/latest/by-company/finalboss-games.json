@@ -1,0 +1,32 @@
+{
+  "id": "finalboss-games",
+  "name": "FinalBoss Games",
+  "developed": [
+    {
+      "id": "super-dodgeball-beats",
+      "title": "Super Dodgeball Beats",
+      "type": "game",
+      "releaseDate": "2019-09-11",
+      "developers": [
+        "finalboss-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "sports",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "881090",
+      "reviewCount": 31,
+      "positivePercentage": 83.9
+    }
+  ],
+  "published": []
+}

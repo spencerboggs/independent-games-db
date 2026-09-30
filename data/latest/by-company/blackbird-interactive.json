@@ -1,0 +1,36 @@
+{
+  "id": "blackbird-interactive",
+  "name": "Blackbird Interactive",
+  "developed": [
+    {
+      "id": "minecraft-legends",
+      "title": "Minecraft Legends",
+      "type": "game",
+      "releaseDate": "2023-04-18",
+      "developers": [
+        "blackbird-interactive",
+        "mojang"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1928870",
+      "reviewCount": 2873,
+      "positivePercentage": 57.8
+    }
+  ],
+  "published": []
+}

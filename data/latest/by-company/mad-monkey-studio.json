@@ -1,0 +1,29 @@
+{
+  "id": "mad-monkey-studio",
+  "name": "Mad Monkey Studio",
+  "developed": [],
+  "published": [
+    {
+      "id": "alphabounce",
+      "title": "AlphaBounce",
+      "type": "game",
+      "releaseDate": "2010-04-09",
+      "developers": [
+        "motion-twin"
+      ],
+      "publishers": [
+        "mad-monkey-studio"
+      ],
+      "platforms": [
+        "nintendo-ds"
+      ],
+      "genres": [
+        "breakout-clone"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "markus-persson",
+  "name": "Markus Persson",
+  "developed": [
+    {
+      "id": "0x10c",
+      "title": "0x10c",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "markus-persson",
+        "mojang"
+      ],
+      "publishers": [],
+      "platforms": [
+        "java-virtual-machine",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "space-flight-simulation-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

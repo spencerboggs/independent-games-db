@@ -1,0 +1,31 @@
+{
+  "id": "alligator-pit",
+  "name": "Alligator Pit",
+  "developed": [
+    {
+      "id": "serious-sam-classics-revolution",
+      "title": "Serious Sam Classics: Revolution",
+      "type": "game",
+      "releaseDate": "2019-08-30",
+      "developers": [
+        "alligator-pit",
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "227780",
+      "reviewCount": 3854,
+      "positivePercentage": 89.8
+    }
+  ],
+  "published": []
+}

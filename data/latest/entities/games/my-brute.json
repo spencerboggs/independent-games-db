@@ -1,0 +1,82 @@
+{
+  "id": "my-brute",
+  "title": "My Brute",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2009-03",
+  "releaseDatePrecision": "month",
+  "releaseStatus": "released",
+  "developers": [
+    "bulkypix",
+    "motion-twin"
+  ],
+  "publishers": [
+    "bulkypix"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "casual-game",
+    "fighting-game",
+    "rpg"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "ios",
+    "web",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q6945127",
+    "igdb": "my-brute"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6945127"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "adobe-flash",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q6945127",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6945127",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

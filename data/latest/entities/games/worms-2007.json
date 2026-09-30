@@ -1,0 +1,71 @@
+{
+  "id": "worms-2007",
+  "title": "Worms",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2007-03-07",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "artillery-game",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "ios"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q2268746",
+    "igdb": "worms--6"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2268746"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "worms",
+    "name": "Worms"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2268746",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

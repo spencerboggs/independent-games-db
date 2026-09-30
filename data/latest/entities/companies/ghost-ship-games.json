@@ -1,0 +1,83 @@
+{
+  "id": "ghost-ship-games",
+  "name": "Ghost Ship Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105080681",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.ghostship.dk/",
+  "socialLinks": {
+    "x": "https://x.com/GhostShip_Games",
+    "youtube": "https://www.youtube.com/channel/UCPmGHVe1Dg_GnxPvP3jYDxQ"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "DK",
+    "countryName": "Denmark"
+  },
+  "founded": 2016,
+  "foundedDate": "2016",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q105080681"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "deep-rock-galactic",
+      "deep-rock-galactic-dark-future-pack",
+      "deep-rock-galactic-dawn-of-the-dread-pack",
+      "deep-rock-galactic-megacorp-pack",
+      "deep-rock-galactic-rival-tech-pack",
+      "deep-rock-galactic-robot-rebellion-pack",
+      "deep-rock-galactic-roughneck-pack"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 7,
+    "developedCount": 7,
+    "publishedCount": 0,
+    "totalSteamReviews": 383469,
+    "averagePositivePercentage": 95.5,
+    "weightedPositivePercentage": 97.1,
+    "mostReviewedGame": "deep-rock-galactic",
+    "mostRecentRelease": "deep-rock-galactic-robot-rebellion-pack",
+    "firstRelease": "deep-rock-galactic",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105080681",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

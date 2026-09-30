@@ -1,0 +1,189 @@
+{
+  "id": "aggro-crab",
+  "name": "Aggro Crab",
+  "developed": [
+    {
+      "id": "another-crabs-treasure",
+      "title": "Another Crab's Treasure",
+      "type": "game",
+      "releaseDate": "2024-04-25",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "soulslike"
+      ],
+      "engines": [],
+      "steamAppId": "1887840",
+      "reviewCount": 21997,
+      "positivePercentage": 92.5
+    },
+    {
+      "id": "crashout-crew",
+      "title": "Crashout Crew",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "3583210",
+      "reviewCount": 1223,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "going-under",
+      "title": "Going Under",
+      "type": "game",
+      "releaseDate": "2020-09-24",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "dungeon-crawl",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "1154810",
+      "reviewCount": 4175,
+      "positivePercentage": 90.1
+    }
+  ],
+  "published": [
+    {
+      "id": "another-crabs-treasure",
+      "title": "Another Crab's Treasure",
+      "type": "game",
+      "releaseDate": "2024-04-25",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "soulslike"
+      ],
+      "engines": [],
+      "steamAppId": "1887840",
+      "reviewCount": 21997,
+      "positivePercentage": 92.5
+    },
+    {
+      "id": "crashout-crew",
+      "title": "Crashout Crew",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "3583210",
+      "reviewCount": 1223,
+      "positivePercentage": 93.5
+    },
+    {
+      "id": "peak",
+      "title": "PEAK",
+      "type": "game",
+      "releaseDate": "2025-06-16",
+      "developers": [
+        "team-peak"
+      ],
+      "publishers": [
+        "aggro-crab",
+        "evil-landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "3527290",
+      "reviewCount": 375864,
+      "positivePercentage": 94.4
+    },
+    {
+      "id": "subway-midnight",
+      "title": "Subway Midnight",
+      "type": "game",
+      "releaseDate": "2021-10-28",
+      "developers": [
+        "bubby-darkstar"
+      ],
+      "publishers": [
+        "aggro-crab"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "detective-video-game",
+        "horror-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1750570",
+      "reviewCount": 1330,
+      "positivePercentage": 77.4
+    }
+  ]
+}

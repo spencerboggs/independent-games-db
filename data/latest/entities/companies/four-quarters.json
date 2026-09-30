@@ -1,0 +1,77 @@
+{
+  "id": "four-quarters",
+  "name": "Four Quarters",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Russian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105683347",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "x": "https://x.com/_FQteam"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "RU",
+    "countryName": "Russia"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q105683347",
+    "igdb": "four-quarters"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "loop-hero"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 36571,
+    "averagePositivePercentage": 92.7,
+    "weightedPositivePercentage": 92.7,
+    "mostReviewedGame": "loop-hero",
+    "mostRecentRelease": "loop-hero",
+    "firstRelease": "loop-hero",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105683347",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,564 @@
+{
+  "id": "gamemaker",
+  "name": "GameMaker",
+  "games": [
+    {
+      "id": "conscript-directors-cut",
+      "title": "CONSCRIPT: Director’s Cut",
+      "type": "game",
+      "releaseDate": "2024-07-23",
+      "developers": [
+        "catchweight-studio",
+        "jordan-mochi"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1286990",
+      "reviewCount": 2594,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "deadbolt",
+      "title": "DEADBOLT",
+      "type": "game",
+      "releaseDate": "2016-03-14",
+      "developers": [
+        "hopoo-games"
+      ],
+      "publishers": [
+        "hopoo-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "394970",
+      "reviewCount": 5647,
+      "positivePercentage": 95.8
+    },
+    {
+      "id": "downwell",
+      "title": "Downwell",
+      "type": "game",
+      "releaseDate": "2015-10-15",
+      "developers": [
+        "moppin"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "platformer",
+        "roguelike",
+        "shooter-game",
+        "vertically-scrolling-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "360740",
+      "reviewCount": 8641,
+      "positivePercentage": 96.5
+    },
+    {
+      "id": "gato-roboto",
+      "title": "Gato Roboto",
+      "type": "game",
+      "releaseDate": "2019-05-30",
+      "developers": [
+        "doinksoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "916730",
+      "reviewCount": 5267,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "gods-will-be-watching",
+      "title": "Gods Will Be Watching",
+      "type": "game",
+      "releaseDate": "2014-07-24",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "274290",
+      "reviewCount": 2950,
+      "positivePercentage": 70.4
+    },
+    {
+      "id": "honey-i-joined-a-cult",
+      "title": "Honey, I Joined a Cult",
+      "type": "game",
+      "releaseDate": "2022-11-03",
+      "developers": [
+        "sole-survivor-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "business-simulation-game",
+        "casual",
+        "city-building-game",
+        "sandbox",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "841190",
+      "reviewCount": 1938,
+      "positivePercentage": 72.4
+    },
+    {
+      "id": "hotline-miami",
+      "title": "Hotline Miami",
+      "type": "game",
+      "releaseDate": "2012-10-23",
+      "developers": [
+        "dennaton-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "playstation-3",
+        "playstation-4",
+        "playstation-5",
+        "playstation-vita",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "219150",
+      "reviewCount": 128476,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "katana-zero",
+      "title": "Katana ZERO",
+      "type": "game",
+      "releaseDate": "2019-04-18",
+      "developers": [
+        "askiisoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "cyberpunk-video-game",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "460950",
+      "reviewCount": 76201,
+      "positivePercentage": 97.9
+    },
+    {
+      "id": "loop-hero",
+      "title": "Loop Hero",
+      "type": "game",
+      "releaseDate": "2021-03-04",
+      "developers": [
+        "four-quarters"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "existentialist-video-game",
+        "fantasy-video-game",
+        "post-apocalyptic-video-game",
+        "roguelike",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1282730",
+      "reviewCount": 36571,
+      "positivePercentage": 92.7
+    },
+    {
+      "id": "luftrausers",
+      "title": "LUFTRAUSERS",
+      "type": "game",
+      "releaseDate": "2014-03-18",
+      "developers": [
+        "vlambeer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "playstation-3",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "arcade",
+        "casual",
+        "shoot-em-up",
+        "simulation"
+      ],
+      "engines": [
+        "adobe-flash",
+        "gamemaker"
+      ],
+      "steamAppId": "233150",
+      "reviewCount": 4527,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "minit",
+      "title": "Minit",
+      "type": "game",
+      "releaseDate": "2018-04-03",
+      "developers": [
+        "dom",
+        "jukio",
+        "jw",
+        "kitty"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "arcade",
+        "puzzle"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "609490",
+      "reviewCount": 2907,
+      "positivePercentage": 89.3
+    },
+    {
+      "id": "risk-of-rain-2013",
+      "title": "Risk of Rain (2013)",
+      "type": "game",
+      "releaseDate": "2013-11-08",
+      "developers": [
+        "hopoo-games"
+      ],
+      "publishers": [
+        "2k",
+        "gearbox-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "roguelite",
+        "rpg",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "248820",
+      "reviewCount": 29832,
+      "positivePercentage": 93.1
+    },
+    {
+      "id": "serious-sam-the-greek-encounter",
+      "title": "Serious Sam: The Greek Encounter",
+      "type": "game",
+      "releaseDate": "2012",
+      "developers": [],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "twin-stick-shooter"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "serious-sam-the-random-encounter",
+      "title": "Serious Sam: The Random Encounter",
+      "type": "game",
+      "releaseDate": "2011-10-24",
+      "developers": [
+        "croteam",
+        "vlambeer"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "rpg",
+        "shoot-em-up",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "201480",
+      "reviewCount": 819,
+      "positivePercentage": 49
+    },
+    {
+      "id": "sheltered",
+      "title": "Sheltered",
+      "type": "game",
+      "releaseDate": "2016-03-15",
+      "developers": [
+        "team-17-digital-ltd",
+        "unicube"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "post-apocalyptic-video-game",
+        "rpg",
+        "strategy",
+        "survival"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "356040",
+      "reviewCount": 6288,
+      "positivePercentage": 81.7
+    },
+    {
+      "id": "shovel-knight-pocket-dungeon",
+      "title": "Shovel Knight Pocket Dungeon",
+      "type": "game",
+      "releaseDate": "2021-12-13",
+      "developers": [
+        "vine",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "falling-block-puzzle-game",
+        "puzzle"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1184760",
+      "reviewCount": 634,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "the-red-strings-club",
+      "title": "The Red Strings Club",
+      "type": "game",
+      "releaseDate": "2018-01-22",
+      "developers": [
+        "deconstructeam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cyberpunk-video-game",
+        "lgbt-themed-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "589780",
+      "reviewCount": 14320,
+      "positivePercentage": 93.4
+    },
+    {
+      "id": "the-swords-of-ditto-mormos-curse",
+      "title": "The Swords of Ditto: Mormo's Curse",
+      "type": "game",
+      "releaseDate": "2018-04-24",
+      "developers": [
+        "onebitbeyond"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "619780",
+      "reviewCount": 2379,
+      "positivePercentage": 63.4
+    }
+  ]
+}

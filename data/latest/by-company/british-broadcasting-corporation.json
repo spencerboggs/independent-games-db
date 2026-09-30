@@ -1,0 +1,30 @@
+{
+  "id": "british-broadcasting-corporation",
+  "name": "British Broadcasting Corporation",
+  "developed": [
+    {
+      "id": "superia",
+      "title": "Superia",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "british-broadcasting-corporation",
+        "larian-studios"
+      ],
+      "publishers": [
+        "norwegian-broadcasting-corporation"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

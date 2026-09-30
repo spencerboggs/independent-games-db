@@ -1,0 +1,31 @@
+{
+  "id": "vaulted-sky-games",
+  "name": "Vaulted Sky Games",
+  "developed": [
+    {
+      "id": "midnight-ghost-hunt",
+      "title": "Midnight Ghost Hunt",
+      "type": "game",
+      "releaseDate": "2024-03-21",
+      "developers": [
+        "vaulted-sky-games"
+      ],
+      "publishers": [
+        "coffee-stain-publishing"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "915810",
+      "reviewCount": 7532,
+      "positivePercentage": 76.5
+    }
+  ],
+  "published": []
+}

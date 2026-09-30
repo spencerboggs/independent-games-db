@@ -1,0 +1,74 @@
+{
+  "id": "three-fields-entertainment",
+  "name": "Three Fields Entertainment",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q29832258",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.threefieldsentertainment.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Petersfield",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 2014,
+  "foundedDate": "2014",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q29832258"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "lethal-vr"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 205,
+    "averagePositivePercentage": 79.5,
+    "weightedPositivePercentage": 79.5,
+    "mostReviewedGame": "lethal-vr",
+    "mostRecentRelease": "lethal-vr",
+    "firstRelease": "lethal-vr",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29832258",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

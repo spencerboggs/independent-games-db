@@ -1,0 +1,21 @@
+# Manually approved entity-resolution mappings for companies.
+# The review UI writes here when you merge candidates. Nothing is ever merged
+# automatically on fuzzy similarity alone.
+#
+# names:        provider-reported name -> canonical company ID
+# externalIds:  provider -> external ID -> canonical company ID
+# distinct:     pairs confirmed to be different companies (silences duplicate warnings)
+#
+# Example:
+#   names:
+#     "Team Cherry Pty Ltd": team-cherry
+#   externalIds:
+#     igdb:
+#       team-cherry: team-cherry
+#   distinct:
+#     - [coffee-stain-publishing, coffee-stain-studios]
+
+names: {}
+externalIds: {}
+distinct:
+  - [coffee-stain-publishing, coffee-stain-studios]

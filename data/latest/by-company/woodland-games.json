@@ -1,0 +1,33 @@
+{
+  "id": "woodland-games",
+  "name": "Woodland Games",
+  "developed": [
+    {
+      "id": "autopsy-simulator",
+      "title": "Autopsy Simulator",
+      "type": "game",
+      "releaseDate": "2024-06-06",
+      "developers": [
+        "woodland-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "horror-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1283230",
+      "reviewCount": 1629,
+      "positivePercentage": 51.7
+    }
+  ],
+  "published": []
+}

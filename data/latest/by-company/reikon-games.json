@@ -1,0 +1,36 @@
+{
+  "id": "reikon-games",
+  "name": "Reikon Games",
+  "developed": [
+    {
+      "id": "ruiner",
+      "title": "RUINER",
+      "type": "game",
+      "releaseDate": "2017-09-26",
+      "developers": [
+        "reikon-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "cyberpunk-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "464060",
+      "reviewCount": 12536,
+      "positivePercentage": 88.9
+    }
+  ],
+  "published": []
+}

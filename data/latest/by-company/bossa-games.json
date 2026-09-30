@@ -1,0 +1,32 @@
+{
+  "id": "bossa-games",
+  "name": "Bossa Games",
+  "developed": [
+    {
+      "id": "what-goes-up",
+      "title": "What Goes Up",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "bossa-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "physics-sandbox"
+      ],
+      "engines": [],
+      "steamAppId": "2987600",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

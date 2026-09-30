@@ -1,0 +1,202 @@
+{
+  "id": "crashout-crew",
+  "title": "Crashout Crew",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2026-05-28",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "aggro-crab"
+  ],
+  "publishers": [
+    "aggro-crab"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Time to clock in at DE NILE SHIPPING, the world’s “most efficient” warehouse! Work together in online co-op with up to 4 players to fulfill orders of increasingly chaotic, physics-based boxes. Time is money, and safety is no concern… just try not to crash out!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3583210/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "casual"
+  ],
+  "tags": [],
+  "features": [
+    "co-op",
+    "custom-volume-controls",
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "keyboard-only-option",
+    "multi-player",
+    "online-co-op",
+    "playable-without-timed-input",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "stereo-sound",
+    "surround-sound"
+  ],
+  "platforms": [
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q136456302",
+    "igdb": "crashout-crew",
+    "steam": "3583210"
+  },
+  "links": {
+    "official": "http://aggrocrab.com",
+    "steam": "https://store.steampowered.com/app/3583210/",
+    "wikidata": "https://www.wikidata.org/wiki/Q136456302"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/9eb7862ff717a04dcc02123ce1e773a3e1c226af/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/8c72003fa9b495893d862479f99c361ab647ded6/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/dcf7dcba33f152e78c5f947477f45c563447afa1/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/f92cbf7513f33a7b32b3a93db14e5e2d8e9df596/ss_f92cbf7513f33a7b32b3a93db14e5e2d8e9df596.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/e56a925d17e6c3131c841132905c8741ae8bf672/ss_e56a925d17e6c3131c841132905c8741ae8bf672.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/88622d9f9d4063dbae37048ab500d8c9a0efe323/ss_88622d9f9d4063dbae37048ab500d8c9a0efe323.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/7ecf2a83e9bdccb0c73b291da469b922d382d743/ss_7ecf2a83e9bdccb0c73b291da469b922d382d743.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/2eb4cc0a9d55a461fce9f67e2e495c235c891560/ss_2eb4cc0a9d55a461fce9f67e2e495c235c891560.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/43a13b5d1cdfad488044f3cef97f40efa54e8487/ss_43a13b5d1cdfad488044f3cef97f40efa54e8487.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/3bdbdc0f87039b7c998ac2803c5c0e8f81200711/ss_3bdbdc0f87039b7c998ac2803c5c0e8f81200711.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/f806805eaaa237bf51ac27f02fcba7253a2bbe8a/ss_f806805eaaa237bf51ac27f02fcba7253a2bbe8a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 1223,
+      "positiveCount": 1144,
+      "negativeCount": 79,
+      "positivePercentage": 93.5,
+      "negativePercentage": 6.5,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 17,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 9.75,
+      "reviewsPerMonth": 296.8,
+      "windowDays": 125,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3583210/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q136456302",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

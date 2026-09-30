@@ -1,0 +1,64 @@
+{
+  "id": "navegante",
+  "name": "Navegante",
+  "developed": [
+    {
+      "id": "greak-2-alliance-of-the-storms",
+      "title": "Greak 2: Alliance of the Storms",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "navegante"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "4216840",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "greak-memories-of-azur",
+      "title": "Greak: Memories of Azur",
+      "type": "game",
+      "releaseDate": "2021-08-17",
+      "developers": [
+        "navegante"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1311070",
+      "reviewCount": 1558,
+      "positivePercentage": 78.1
+    }
+  ],
+  "published": []
+}

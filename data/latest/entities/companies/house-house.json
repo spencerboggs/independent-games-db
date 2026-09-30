@@ -1,0 +1,78 @@
+{
+  "id": "house-house",
+  "name": "House House",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Australian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q32860618",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://househou.se/",
+  "socialLinks": {
+    "x": "https://x.com/house_house_",
+    "youtube": "https://www.youtube.com/channel/UC3tJKuDoJSN2dMbd8ViAHug"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "AU",
+    "countryName": "Australia"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q32860618"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "big-walk",
+      "untitled-goose-game"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 65084,
+    "averagePositivePercentage": 96,
+    "weightedPositivePercentage": 96,
+    "mostReviewedGame": "big-walk",
+    "mostRecentRelease": "big-walk",
+    "firstRelease": "untitled-goose-game",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q32860618",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

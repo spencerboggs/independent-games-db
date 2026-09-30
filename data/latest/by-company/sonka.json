@@ -1,0 +1,34 @@
+{
+  "id": "sonka",
+  "name": "Sonka",
+  "developed": [
+    {
+      "id": "holstin",
+      "title": "Holstin",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "sonka"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": "2235430",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "crisalu-games",
+  "name": "Crisalu Games",
+  "developed": [
+    {
+      "id": "goblin-cleanup",
+      "title": "Goblin Cleanup",
+      "type": "game",
+      "releaseDate": "2025-09-18",
+      "developers": [
+        "crisalu-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2748340",
+      "reviewCount": 2367,
+      "positivePercentage": 87.9
+    }
+  ],
+  "published": []
+}

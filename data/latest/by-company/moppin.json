@@ -1,0 +1,40 @@
+{
+  "id": "moppin",
+  "name": "Moppin",
+  "developed": [
+    {
+      "id": "downwell",
+      "title": "Downwell",
+      "type": "game",
+      "releaseDate": "2015-10-15",
+      "developers": [
+        "moppin"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "platformer",
+        "roguelike",
+        "shooter-game",
+        "vertically-scrolling-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "360740",
+      "reviewCount": 8641,
+      "positivePercentage": 96.5
+    }
+  ],
+  "published": []
+}

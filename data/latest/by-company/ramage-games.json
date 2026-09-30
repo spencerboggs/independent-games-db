@@ -1,0 +1,34 @@
+{
+  "id": "ramage-games",
+  "name": "Ramage Games",
+  "developed": [
+    {
+      "id": "one-move-away",
+      "title": "One Move Away",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "ramage-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "3172440",
+      "reviewCount": 81,
+      "positivePercentage": 75.3
+    }
+  ],
+  "published": []
+}

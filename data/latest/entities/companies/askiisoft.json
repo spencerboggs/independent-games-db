@@ -1,0 +1,72 @@
+{
+  "id": "askiisoft",
+  "name": "askiisoft",
+  "aliases": [
+    "Askiisoft"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "http://askiisoft.com/",
+  "socialLinks": {
+    "x": "https://x.com/askiisoft",
+    "youtube": "https://www.youtube.com/channel/UChom1dc7iG97zcWQZF8mi4g"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q63244075",
+    "igdb": "askiisoft"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "katana-zero"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 76201,
+    "averagePositivePercentage": 97.9,
+    "weightedPositivePercentage": 97.9,
+    "mostReviewedGame": "katana-zero",
+    "mostRecentRelease": "katana-zero",
+    "firstRelease": "katana-zero",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "gamemaker"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q63244075",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

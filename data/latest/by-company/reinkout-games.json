@@ -1,0 +1,33 @@
+{
+  "id": "reinkout-games",
+  "name": "Reinkout Games",
+  "developed": [
+    {
+      "id": "mugsters",
+      "title": "Mugsters",
+      "type": "game",
+      "releaseDate": "2018-07-17",
+      "developers": [
+        "reinkout-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "712180",
+      "reviewCount": 104,
+      "positivePercentage": 69.2
+    }
+  ],
+  "published": []
+}

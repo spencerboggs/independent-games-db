@@ -1,0 +1,176 @@
+{
+  "id": "star-trek-outposts-unknown",
+  "title": "Star Trek: Outposts Unknown",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2026-10-20",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "upcoming",
+  "developers": [
+    "magic-fuel-games"
+  ],
+  "publishers": [
+    "playstack"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Lead your crew across strange new worlds in this narrative driven outpost builder! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/3469910/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "city-building-game",
+    "colony-management-video-game",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Spanish - Latin America"
+  ],
+  "externalIds": {
+    "wikidata": "Q140164591",
+    "steam": "3469910"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/3469910/",
+    "wikidata": "https://www.wikidata.org/wiki/Q140164591"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/2554d1fd06bf82af1da014c60e815cce51fb1469/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/78f22764c59d99dd0e8d54be23131cecc672a60a/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/83e64caba9863cf234d15686ce43e982810cd641/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/fe929948b93d4baa93bf83a562eab027f8037767/ss_fe929948b93d4baa93bf83a562eab027f8037767.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/3aae9f5270a108187224ade3e5a061d692966ceb/ss_3aae9f5270a108187224ade3e5a061d692966ceb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/de9508ceed938466a88688bb395d4f6976cf7f8a/ss_de9508ceed938466a88688bb395d4f6976cf7f8a.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/977a64e3e05f5c6f74eccd05f97c49e8acc55837/ss_977a64e3e05f5c6f74eccd05f97c49e8acc55837.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/07d8e3ca50038059bb1d0d004195ccba43180eed/ss_07d8e3ca50038059bb1d0d004195ccba43180eed.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/e538adfdc7ac55d262b025407e5aa3e00f5cdbb0/ss_e538adfdc7ac55d262b025407e5aa3e00f5cdbb0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/b071bc064beba4d7ba27946f53bbe8db3e4d4cda/ss_b071bc064beba4d7ba27946f53bbe8db3e4d4cda.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469910/f66ef64138f07a42f7a10343b2f39e8f11948610/ss_f66ef64138f07a42f7a10343b2f39e8f11948610.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": {
+    "id": "star-trek",
+    "name": "Star Trek"
+  },
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/3469910/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140164591",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d-cell-games",
+  "name": "D-CELL GAMES",
+  "developed": [
+    {
+      "id": "unbeatable",
+      "title": "UNBEATABLE",
+      "type": "game",
+      "releaseDate": "2025-12-09",
+      "developers": [
+        "d-cell-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rhythm-game"
+      ],
+      "engines": [],
+      "steamAppId": "2240620",
+      "reviewCount": 7802,
+      "positivePercentage": 92.4
+    }
+  ],
+  "published": []
+}

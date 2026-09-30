@@ -1,0 +1,78 @@
+{
+  "id": "heart-machine",
+  "name": "Heart Machine",
+  "aliases": [
+    "Heart Machine Official"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "independent video game development studio founded by Alex Preston",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q65090107",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://heartmachine.com/",
+  "socialLinks": {
+    "x": "https://x.com/heartmachinehq",
+    "youtube": "https://www.youtube.com/channel/UCa51fhR6WdJz29f66hAmh5g"
+  },
+  "location": {
+    "headquarters": "Culver City",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2013,
+  "foundedDate": "2013",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q65090107"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "possessor-s",
+      "solar-ash"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 2324,
+    "averagePositivePercentage": 83,
+    "weightedPositivePercentage": 85.1,
+    "mostReviewedGame": "solar-ash",
+    "mostRecentRelease": "possessor-s",
+    "firstRelease": "solar-ash",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q65090107",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

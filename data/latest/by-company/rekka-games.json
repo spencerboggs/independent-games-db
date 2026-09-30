@@ -1,0 +1,36 @@
+{
+  "id": "rekka-games",
+  "name": "Rekka Games",
+  "developed": [
+    {
+      "id": "bravery-and-greed",
+      "title": "Bravery and Greed",
+      "type": "game",
+      "releaseDate": "2022-11-15",
+      "developers": [
+        "rekka-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "beat-em-up",
+        "dungeon-crawl",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "943370",
+      "reviewCount": 1065,
+      "positivePercentage": 77.2
+    }
+  ],
+  "published": []
+}

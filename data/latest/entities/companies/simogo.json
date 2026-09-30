@@ -1,0 +1,77 @@
+{
+  "id": "simogo",
+  "name": "Simogo",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q17048692",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://simogo.com/",
+  "socialLinks": {
+    "x": "https://x.com/simogo"
+  },
+  "location": {
+    "headquarters": "Malmö",
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": 2010,
+  "foundedDate": "2010",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q17048692"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "lorelei-and-the-laser-eyes",
+      "sayonara-wild-hearts"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 12229,
+    "averagePositivePercentage": 95.2,
+    "weightedPositivePercentage": 95.8,
+    "mostReviewedGame": "sayonara-wild-hearts",
+    "mostRecentRelease": "lorelei-and-the-laser-eyes",
+    "firstRelease": "sayonara-wild-hearts",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17048692",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

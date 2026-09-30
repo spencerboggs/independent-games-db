@@ -1,0 +1,58 @@
+{
+  "id": "noble-robot",
+  "name": "Noble Robot",
+  "developed": [
+    {
+      "id": "blippo",
+      "title": "Blippo+",
+      "type": "game",
+      "releaseDate": "2025-09-23",
+      "developers": [
+        "noble-robot",
+        "telefantasy-studios",
+        "yacht"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playdate",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "full-motion-video"
+      ],
+      "engines": [],
+      "steamAppId": "3323850",
+      "reviewCount": 425,
+      "positivePercentage": 95.5
+    },
+    {
+      "id": "widget-satchel-ii-return-of-sprocket",
+      "title": "Widget Satchel II: Return of Sprocket",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "noble-robot"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "croteam-incubator",
+  "name": "Croteam Incubator",
+  "developed": [
+    {
+      "id": "i-hate-running-backwards",
+      "title": "I Hate Running Backwards",
+      "type": "game",
+      "releaseDate": "2018-05-22",
+      "developers": [
+        "binx-games",
+        "croteam",
+        "croteam-incubator"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "575820",
+      "reviewCount": 245,
+      "positivePercentage": 74.7
+    }
+  ],
+  "published": []
+}

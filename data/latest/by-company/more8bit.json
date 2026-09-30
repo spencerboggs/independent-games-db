@@ -1,0 +1,33 @@
+{
+  "id": "more8bit",
+  "name": "more8bit",
+  "developed": [
+    {
+      "id": "bleak-sword-dx",
+      "title": "Bleak Sword DX",
+      "type": "game",
+      "releaseDate": "2023-06-08",
+      "developers": [
+        "more8bit"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "2193050",
+      "reviewCount": 702,
+      "positivePercentage": 77.5
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "wych-elm",
+  "name": "Wych Elm",
+  "developed": [
+    {
+      "id": "silver-pines",
+      "title": "Silver Pines",
+      "type": "game",
+      "releaseDate": "2026-10-08",
+      "developers": [
+        "wych-elm"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "rpg",
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": "2333000",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

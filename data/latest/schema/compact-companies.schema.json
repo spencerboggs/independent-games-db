@@ -1,0 +1,86 @@
+{
+  "$id": "https://raw.githubusercontent.com/spencerboggs/independent-games-db/main/data/latest/schema/compact-companies.schema.json",
+  "title": "Companies (compact)",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "maxLength": 96,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "description": "Stable internal database identifier. Never derived at read time; never reused."
+      },
+      "name": {
+        "type": "string"
+      },
+      "roles": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": [
+            "developer",
+            "publisher",
+            "studio",
+            "porting",
+            "support",
+            "holding",
+            "investor"
+          ]
+        }
+      },
+      "country": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "founded": {
+        "anyOf": [
+          {
+            "type": "integer",
+            "minimum": -9007199254740991,
+            "maximum": 9007199254740991
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "independent",
+          "independent-large",
+          "independent-publisher",
+          "acquired-independent",
+          "subsidiary",
+          "AAA-adjacent",
+          "other",
+          "excluded",
+          "unclassified"
+        ]
+      },
+      "include": {
+        "type": "boolean"
+      },
+      "gameCount": {
+        "type": "integer",
+        "minimum": -9007199254740991,
+        "maximum": 9007199254740991
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "roles",
+      "country",
+      "founded",
+      "category",
+      "include",
+      "gameCount"
+    ],
+    "additionalProperties": false
+  }
+}

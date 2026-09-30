@@ -1,0 +1,86 @@
+{
+  "id": "minecraft-education",
+  "title": "Minecraft Education",
+  "alternateTitles": [
+    "Minecraft: Education Edition"
+  ],
+  "type": "game",
+  "releaseDate": "2016-11-01",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang",
+    "xbox-game-studios"
+  ],
+  "publishers": [],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "chromeos",
+    "ios",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q60969929",
+    "igdb": "minecraft-education"
+  },
+  "links": {
+    "official": "https://education.minecraft.net/",
+    "wikidata": "https://www.wikidata.org/wiki/Q60969929"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [
+      {
+        "id": "cpp",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q60969929",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "tools": []
+  },
+  "franchise": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "series": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60969929",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

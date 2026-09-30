@@ -1,0 +1,85 @@
+{
+  "id": "nerial",
+  "name": "Nerial",
+  "aliases": [
+    "Nerial Ltd"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q32904821",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.nerial.co.uk/",
+  "socialLinks": {
+    "x": "https://x.com/nerial"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q32904821"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "card-shark",
+      "reigns",
+      "reigns-beyond",
+      "reigns-game-of-thrones",
+      "reigns-her-majesty",
+      "reigns-kings-and-queens",
+      "reigns-three-kingdoms",
+      "the-crush-house"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 8,
+    "developedCount": 8,
+    "publishedCount": 0,
+    "totalSteamReviews": 14723,
+    "averagePositivePercentage": 78.2,
+    "weightedPositivePercentage": 85.2,
+    "mostReviewedGame": "reigns",
+    "mostRecentRelease": "the-crush-house",
+    "firstRelease": "reigns",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q32904821",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

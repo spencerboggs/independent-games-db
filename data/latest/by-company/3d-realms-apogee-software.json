@@ -1,0 +1,35 @@
+{
+  "id": "3d-realms-apogee-software",
+  "name": "3D Realms (Apogee Software)",
+  "developed": [],
+  "published": [
+    {
+      "id": "death-rally-classic",
+      "title": "Death Rally (Classic)",
+      "type": "game",
+      "releaseDate": "2014-05-05",
+      "developers": [
+        "remedy-entertainment"
+      ],
+      "publishers": [
+        "3d-realms-apogee-software"
+      ],
+      "platforms": [
+        "android",
+        "dos",
+        "ios",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "racing",
+        "racing-video-game",
+        "vehicular-combat-game"
+      ],
+      "engines": [],
+      "steamAppId": "358270",
+      "reviewCount": 871,
+      "positivePercentage": 91.3
+    }
+  ]
+}

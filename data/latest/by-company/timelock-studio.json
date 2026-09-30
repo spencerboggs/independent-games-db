@@ -1,0 +1,33 @@
+{
+  "id": "timelock-studio",
+  "name": "Timelock Studio",
+  "developed": [
+    {
+      "id": "serious-sam-siberian-mayhem",
+      "title": "Serious Sam: Siberian Mayhem",
+      "type": "game",
+      "releaseDate": "2022-01-25",
+      "developers": [
+        "croteam",
+        "timelock-studio"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1792250",
+      "reviewCount": 5262,
+      "positivePercentage": 92.2
+    }
+  ],
+  "published": []
+}

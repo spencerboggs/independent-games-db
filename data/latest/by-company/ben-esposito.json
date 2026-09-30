@@ -1,0 +1,40 @@
+{
+  "id": "ben-esposito",
+  "name": "Ben Esposito",
+  "developed": [
+    {
+      "id": "donut-county",
+      "title": "Donut County",
+      "type": "game",
+      "releaseDate": "2018-08-28",
+      "developers": [
+        "ben-esposito"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "702670",
+      "reviewCount": 12173,
+      "positivePercentage": 92.2
+    }
+  ],
+  "published": []
+}

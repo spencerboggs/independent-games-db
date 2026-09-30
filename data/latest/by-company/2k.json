@@ -1,0 +1,100 @@
+{
+  "id": "2k",
+  "name": "2K",
+  "developed": [],
+  "published": [
+    {
+      "id": "risk-of-rain-2",
+      "title": "Risk of Rain 2",
+      "type": "game",
+      "releaseDate": "2020-08-11",
+      "developers": [
+        "hopoo-games"
+      ],
+      "publishers": [
+        "2k",
+        "gearbox-publishing"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelite",
+        "science-fiction-video-game",
+        "third-person-shooter"
+      ],
+      "engines": [
+        "unity-2018"
+      ],
+      "steamAppId": "632360",
+      "reviewCount": 353273,
+      "positivePercentage": 93.8
+    },
+    {
+      "id": "risk-of-rain-2013",
+      "title": "Risk of Rain (2013)",
+      "type": "game",
+      "releaseDate": "2013-11-08",
+      "developers": [
+        "hopoo-games"
+      ],
+      "publishers": [
+        "2k",
+        "gearbox-publishing"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "roguelite",
+        "rpg",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "248820",
+      "reviewCount": 29832,
+      "positivePercentage": 93.1
+    },
+    {
+      "id": "risk-of-rain-returns",
+      "title": "Risk of Rain Returns",
+      "type": "game",
+      "releaseDate": "2023-11-08",
+      "developers": [
+        "hopoo-games"
+      ],
+      "publishers": [
+        "2k",
+        "gearbox-publishing"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "1337520",
+      "reviewCount": 28738,
+      "positivePercentage": 90
+    }
+  ]
+}

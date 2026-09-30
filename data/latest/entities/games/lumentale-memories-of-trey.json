@@ -1,0 +1,202 @@
+{
+  "id": "lumentale-memories-of-trey",
+  "title": "LumenTale: Memories of Trey",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2026-05-26",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "beehive-studios"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "LumenTale: Memories of Trey is a captivating Monster Collector RPG set in a beautiful and enchanting world. Follow Trey as he embarks on an adventure to recover his missing memories and make new ones with the Animon.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2261430/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "rpg",
+    "turn-based-role-playing-game"
+  ],
+  "tags": [],
+  "features": [
+    "dualsense-controller-support",
+    "family-sharing",
+    "multi-player",
+    "online-pvp",
+    "partial-controller-support",
+    "pvp",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "playstation-5",
+    "windows",
+    "xbox-series"
+  ],
+  "supportedLanguages": [
+    "English",
+    "Italian",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q134120292",
+    "igdb": "lumentale-memories-of-trey",
+    "steam": "2261430"
+  },
+  "links": {
+    "official": "https://beehivegamestudios.com",
+    "steam": "https://store.steampowered.com/app/2261430/",
+    "wikidata": "https://www.wikidata.org/wiki/Q134120292"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/4dc99fd33b777fd27972abdbde2eda2567371ffe/header_alt_assets_0.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/0229a98dc7b269c834a87c4146d3df0440e08945/capsule_231x87_alt_assets_0.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/4a6e299840752b75a6c1440ef32110e19d86026f/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/d16e8fc84b66f02823a57e3c492f221c7cd78e60/ss_d16e8fc84b66f02823a57e3c492f221c7cd78e60.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/13fd31cf7784532624b35214d5259fc5305a6ec3/ss_13fd31cf7784532624b35214d5259fc5305a6ec3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/452e625cad27cbf1c970544ed2286bdc59ffff28/ss_452e625cad27cbf1c970544ed2286bdc59ffff28.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/f1100f7a0327a6056ac2438b58a654fe5bbd0cc7/ss_f1100f7a0327a6056ac2438b58a654fe5bbd0cc7.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/793de48be4f3e6972b3f53a6c5dd1a1631718943/ss_793de48be4f3e6972b3f53a6c5dd1a1631718943.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/7013688cb2448682f79ba3a86145a8943998e9e0/ss_7013688cb2448682f79ba3a86145a8943998e9e0.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/75991aa851828eb2039effdf9f0e46d7583b4197/ss_75991aa851828eb2039effdf9f0e46d7583b4197.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q134120292",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 1379,
+      "positiveCount": 987,
+      "negativeCount": 392,
+      "positivePercentage": 71.6,
+      "negativePercentage": 28.4,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 30,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 10.82,
+      "reviewsPerMonth": 329.4,
+      "windowDays": 127,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2261430/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q134120292",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

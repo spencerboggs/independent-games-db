@@ -1,0 +1,29 @@
+{
+  "id": "netease",
+  "name": "NetEase",
+  "developed": [],
+  "published": [
+    {
+      "id": "minecraft-china",
+      "title": "Minecraft China",
+      "type": "game",
+      "releaseDate": "2017-08-08",
+      "developers": [
+        "mojang"
+      ],
+      "publishers": [
+        "netease"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

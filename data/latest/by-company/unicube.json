@@ -1,0 +1,67 @@
+{
+  "id": "unicube",
+  "name": "Unicube",
+  "developed": [
+    {
+      "id": "sheltered",
+      "title": "Sheltered",
+      "type": "game",
+      "releaseDate": "2016-03-15",
+      "developers": [
+        "team-17-digital-ltd",
+        "unicube"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "post-apocalyptic-video-game",
+        "rpg",
+        "strategy",
+        "survival"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "356040",
+      "reviewCount": 6288,
+      "positivePercentage": 81.7
+    },
+    {
+      "id": "sheltered-2",
+      "title": "Sheltered 2",
+      "type": "game",
+      "releaseDate": "2021-09-21",
+      "developers": [
+        "unicube"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "simulation",
+        "strategy",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": "1289380",
+      "reviewCount": 2222,
+      "positivePercentage": 45.4
+    }
+  ],
+  "published": []
+}

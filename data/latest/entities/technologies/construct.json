@@ -1,0 +1,46 @@
+{
+  "id": "construct",
+  "name": "Construct",
+  "aliases": [
+    "Construct 2",
+    "Construct 3",
+    "Construct Classic"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Scirra",
+  "website": "https://www.construct.net",
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q5164395"
+  },
+  "games": [
+    "cyber-shadow"
+  ],
+  "statistics": {
+    "gameCount": 1,
+    "companyCount": 1,
+    "totalSteamReviews": 1559,
+    "mostReviewedGames": [
+      {
+        "id": "cyber-shadow",
+        "title": "Cyber Shadow",
+        "value": 1559
+      }
+    ],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {
+      "2021": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

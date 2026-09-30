@@ -1,0 +1,35 @@
+{
+  "id": "askiisoft",
+  "name": "askiisoft",
+  "developed": [
+    {
+      "id": "katana-zero",
+      "title": "Katana ZERO",
+      "type": "game",
+      "releaseDate": "2019-04-18",
+      "developers": [
+        "askiisoft"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "cyberpunk-video-game",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "460950",
+      "reviewCount": 76201,
+      "positivePercentage": 97.9
+    }
+  ],
+  "published": []
+}

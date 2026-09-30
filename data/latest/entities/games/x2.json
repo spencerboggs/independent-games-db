@@ -1,0 +1,68 @@
+{
+  "id": "x2",
+  "title": "X2",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1997-08",
+  "releaseDatePrecision": "month",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "ocean-software"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "science-fiction-video-game",
+    "shoot-em-up"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playstation"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q4021227",
+    "igdb": "x2"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4021227"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4021227",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

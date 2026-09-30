@@ -1,0 +1,82 @@
+{
+  "id": "callers-bane",
+  "title": "Caller's Bane",
+  "alternateTitles": [
+    "Scrolls"
+  ],
+  "type": "game",
+  "releaseDate": "2013-06-03",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang"
+  ],
+  "publishers": [
+    "mojang"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "rpg"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q7439285",
+    "igdb": "callers-bane"
+  },
+  "links": {
+    "official": "https://callersbane.com/",
+    "wikidata": "https://www.wikidata.org/wiki/Q7439285"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "unity",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q7439285",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7439285",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

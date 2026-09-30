@@ -1,0 +1,179 @@
+{
+  "id": "huntdown-overtime",
+  "title": "HUNTDOWN: OVERTIME",
+  "alternateTitles": [
+    "Huntdown: Overtime"
+  ],
+  "type": "game",
+  "releaseDate": "2026-05-07",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "early-access",
+  "developers": [
+    "easy-trigger-games"
+  ],
+  "publishers": [
+    "coffee-stain-publishing"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Corporations turned crime-infested streets into profit margins for bounty hunters and John Sawyer is going to make a killing. Hunt, die, upgrade, repeat in this explosive roguelite prequel where every strategic upgrade strips away more flesh and builds a cybernetic fighter one chrome limb at a time.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2473350/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "action-roguelike"
+  ],
+  "tags": [],
+  "features": [
+    "camera-comfort",
+    "custom-volume-controls",
+    "dualsense-controller-support",
+    "dualshock-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "gamepad-recommended",
+    "keyboard-only-option",
+    "mouse-only-option",
+    "playable-without-timed-input",
+    "single-player",
+    "steam-cloud",
+    "stereo-sound"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Simplified Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q137926811",
+    "igdb": "huntdown-overtime",
+    "steam": "2473350"
+  },
+  "links": {
+    "official": "https://easytrigger.com/overtime",
+    "steam": "https://store.steampowered.com/app/2473350/",
+    "wikidata": "https://www.wikidata.org/wiki/Q137926811"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/99a26fd2afc60ae1fa12bba30098000ff0ad116a/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/205982135d04d8d24a69bcb143d6ca286242c0aa/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/75fd3cbac7ea573aebb5ed03e4f88263a4ba9af9/ss_75fd3cbac7ea573aebb5ed03e4f88263a4ba9af9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/741e0060bbcdf60737f882504c01220ffbe08fa2/ss_741e0060bbcdf60737f882504c01220ffbe08fa2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/05cc1befb7f5e0a6c216b63752e8fdf1f968ef14/ss_05cc1befb7f5e0a6c216b63752e8fdf1f968ef14.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/ae016d33d894605118c268dc62b4288c33caef4f/ss_ae016d33d894605118c268dc62b4288c33caef4f.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/11e5183819498a8d18a723f0960d1813ff5cf649/ss_11e5183819498a8d18a723f0960d1813ff5cf649.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 903,
+      "positiveCount": 804,
+      "negativeCount": 99,
+      "positivePercentage": 89,
+      "negativePercentage": 11,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 20,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 6.17,
+      "reviewsPerMonth": 187.7,
+      "windowDays": 146,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2473350/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137926811",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

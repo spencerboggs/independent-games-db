@@ -1,0 +1,88 @@
+{
+  "id": "northlight-engine",
+  "name": "Northlight Engine",
+  "aliases": [
+    "Northlight"
+  ],
+  "category": "engine",
+  "subcategory": null,
+  "developer": "Remedy Entertainment",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {},
+  "games": [
+    "alan-wake-2",
+    "control-awe",
+    "control-resonant",
+    "control-the-foundation",
+    "control-ultimate-edition",
+    "fbc-firebreak",
+    "quantum-break"
+  ],
+  "statistics": {
+    "gameCount": 7,
+    "companyCount": 1,
+    "totalSteamReviews": 107542,
+    "mostReviewedGames": [
+      {
+        "id": "control-ultimate-edition",
+        "title": "CONTROL Ultimate Edition",
+        "value": 65139
+      },
+      {
+        "id": "quantum-break",
+        "title": "Quantum Break",
+        "value": 31101
+      },
+      {
+        "id": "control-resonant",
+        "title": "CONTROL Resonant",
+        "value": 8953
+      },
+      {
+        "id": "fbc-firebreak",
+        "title": "FBC: Firebreak",
+        "value": 2349
+      }
+    ],
+    "mostPlayedGames": [
+      {
+        "id": "control-resonant",
+        "title": "CONTROL Resonant",
+        "value": 10960
+      },
+      {
+        "id": "control-ultimate-edition",
+        "title": "CONTROL Ultimate Edition",
+        "value": 1425
+      },
+      {
+        "id": "quantum-break",
+        "title": "Quantum Break",
+        "value": 74
+      },
+      {
+        "id": "fbc-firebreak",
+        "title": "FBC: Firebreak",
+        "value": 2
+      }
+    ],
+    "gamesByReleaseYear": {
+      "2016": 1,
+      "2020": 3,
+      "2023": 1,
+      "2025": 1,
+      "2026": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

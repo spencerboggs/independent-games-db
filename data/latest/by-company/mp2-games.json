@@ -1,0 +1,38 @@
+{
+  "id": "mp2-games",
+  "name": "MP2 Games",
+  "developed": [
+    {
+      "id": "pepper-grinder",
+      "title": "Pepper Grinder",
+      "type": "game",
+      "releaseDate": "2024-03-28",
+      "developers": [
+        "ahr-ech",
+        "mp2-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure"
+      ],
+      "engines": [],
+      "steamAppId": "2076580",
+      "reviewCount": 1285,
+      "positivePercentage": 86.4
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mommys-best-games",
+  "name": "Mommy's Best Games",
+  "developed": [
+    {
+      "id": "serious-sam-double-d-xxl",
+      "title": "Serious Sam Double D XXL",
+      "type": "game",
+      "releaseDate": "2011-08-30",
+      "developers": [
+        "croteam",
+        "mommys-best-games"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "microsoft-xna"
+      ],
+      "steamAppId": "111600",
+      "reviewCount": 886,
+      "positivePercentage": 82.2
+    }
+  ],
+  "published": []
+}

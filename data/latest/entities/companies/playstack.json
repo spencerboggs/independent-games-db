@@ -1,0 +1,105 @@
+{
+  "id": "playstack",
+  "name": "Playstack",
+  "aliases": [
+    "Playstack Games",
+    "Playstack Limited",
+    "Playstack Ltd"
+  ],
+  "roles": [
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "British video game publisher",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q116904012",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://playstack.com/",
+  "socialLinks": {
+    "x": "https://x.com/PlayStackGames",
+    "youtube": "https://www.youtube.com/channel/UCznkRchE04jrOPmlgPbfZyA"
+  },
+  "location": {
+    "headquarters": "London",
+    "country": "GB",
+    "countryName": "United Kingdom"
+  },
+  "founded": 2016,
+  "foundedDate": "2016-05-07",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q116904012"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent-publisher",
+    "notes": "British publisher founded in 2016."
+  },
+  "games": {
+    "developed": [],
+    "published": [
+      "about-fishing",
+      "balatro",
+      "dick-wilde",
+      "dick-wilde-2",
+      "doctor-who-the-edge-of-time",
+      "mortal-shell",
+      "mortal-shell-enhanced-edition",
+      "mortal-shell-ii",
+      "one-move-away",
+      "raccoin-coin-pusher-roguelike",
+      "rise-of-the-slime",
+      "star-trek-outposts-unknown",
+      "super-dodgeball-beats",
+      "the-case-of-the-golden-idol",
+      "the-entropy-centre",
+      "the-last-faith",
+      "the-rise-of-the-golden-idol",
+      "unbeatable",
+      "void-breaker"
+    ]
+  },
+  "statistics": {
+    "gameCount": 19,
+    "developedCount": 0,
+    "publishedCount": 19,
+    "totalSteamReviews": 273815,
+    "averagePositivePercentage": 82.6,
+    "weightedPositivePercentage": 94,
+    "mostReviewedGame": "balatro",
+    "mostRecentRelease": "mortal-shell-ii",
+    "firstRelease": "dick-wilde",
+    "technologyCount": 4,
+    "engineCount": 4,
+    "engines": [
+      "godot",
+      "love2d",
+      "unity",
+      "unreal-engine"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116904012",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

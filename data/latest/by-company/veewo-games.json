@@ -1,0 +1,74 @@
+{
+  "id": "veewo-games",
+  "name": "Veewo Games",
+  "developed": [
+    {
+      "id": "neon-abyss",
+      "title": "Neon Abyss",
+      "type": "game",
+      "releaseDate": "2020-07-14",
+      "developers": [
+        "veewo-games"
+      ],
+      "publishers": [
+        "team17",
+        "veewo-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer",
+        "roguelite",
+        "rpg",
+        "shooter-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "788100",
+      "reviewCount": 23629,
+      "positivePercentage": 85.9
+    }
+  ],
+  "published": [
+    {
+      "id": "neon-abyss",
+      "title": "Neon Abyss",
+      "type": "game",
+      "releaseDate": "2020-07-14",
+      "developers": [
+        "veewo-games"
+      ],
+      "publishers": [
+        "team17",
+        "veewo-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer",
+        "roguelite",
+        "rpg",
+        "shooter-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "788100",
+      "reviewCount": 23629,
+      "positivePercentage": 85.9
+    }
+  ]
+}

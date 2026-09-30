@@ -1,0 +1,38 @@
+{
+  "id": "franek",
+  "name": "Franek",
+  "developed": [
+    {
+      "id": "arco",
+      "title": "Arco",
+      "type": "game",
+      "releaseDate": "2024-08-15",
+      "developers": [
+        "bibiki",
+        "fayer",
+        "franek",
+        "max-cahill"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "strategy",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2366970",
+      "reviewCount": 2319,
+      "positivePercentage": 95.9
+    }
+  ],
+  "published": []
+}

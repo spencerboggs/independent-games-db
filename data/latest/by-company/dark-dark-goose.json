@@ -1,0 +1,32 @@
+{
+  "id": "dark-dark-goose",
+  "name": "Dark Dark Goose",
+  "developed": [
+    {
+      "id": "hyperdrop-a-pachinko-roguelite",
+      "title": "HYPERDROP: A Pachinko Roguelite",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "dark-dark-goose"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "roguelite",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "4624920",
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

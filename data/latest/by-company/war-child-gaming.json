@@ -1,0 +1,27 @@
+{
+  "id": "war-child-gaming",
+  "name": "War Child Gaming",
+  "developed": [],
+  "published": [
+    {
+      "id": "10-minute-tower",
+      "title": "10 Minute Tower",
+      "type": "game",
+      "releaseDate": "2016-07-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "war-child-gaming"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": "477010",
+      "reviewCount": 9,
+      "positivePercentage": 55.6
+    }
+  ]
+}

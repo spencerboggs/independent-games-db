@@ -1,0 +1,71 @@
+{
+  "id": "alien-breed-3d-ii-the-killing-grounds",
+  "title": "Alien Breed 3D II: The Killing Grounds",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1996",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "ocean-software"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "first-person-shooter",
+    "science-fiction-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "amiga-1200"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q3611758",
+    "igdb": "alien-breed-3d-2-the-killing-grounds"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3611758"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "alien-breed",
+    "name": "Alien Breed"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3611758",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

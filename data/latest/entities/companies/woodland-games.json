@@ -1,0 +1,76 @@
+{
+  "id": "woodland-games",
+  "name": "Woodland Games",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Polish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q108063491",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "http://www.woodland.games/",
+  "socialLinks": {
+    "x": "https://x.com/woodland_games",
+    "youtube": "https://www.youtube.com/channel/UCwUAsF4P8NcDXY2q4HNtGww"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "PL",
+    "countryName": "Poland"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q108063491",
+    "igdb": "woodland-games"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "autopsy-simulator"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1629,
+    "averagePositivePercentage": 51.7,
+    "weightedPositivePercentage": 51.7,
+    "mostReviewedGame": "autopsy-simulator",
+    "mostRecentRelease": "autopsy-simulator",
+    "firstRelease": "autopsy-simulator",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q108063491",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,236 @@
+{
+  "id": "team-cherry",
+  "name": "Team Cherry",
+  "developed": [
+    {
+      "id": "godmaster",
+      "title": "Godmaster",
+      "type": "dlc",
+      "releaseDate": "2018-08-23",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "hidden-dreams",
+      "title": "Hidden Dreams",
+      "type": "dlc",
+      "releaseDate": "2017-08-03",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "type": "game",
+      "releaseDate": "2017-02-24",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "adventure",
+        "metroidvania",
+        "soulsvania",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "367520",
+      "reviewCount": 563187,
+      "positivePercentage": 96.9
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "type": "game",
+      "releaseDate": "2025-09-04",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidvania",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1030300",
+      "reviewCount": 424061,
+      "positivePercentage": 89.5
+    },
+    {
+      "id": "lifeblood",
+      "title": "Lifeblood",
+      "type": "dlc",
+      "releaseDate": "2018-04-20",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "sea-of-sorrow",
+      "title": "Sea of Sorrow",
+      "type": "dlc",
+      "releaseDate": "2026",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "the-grimm-troupe",
+      "title": "The Grimm Troupe",
+      "type": "dlc",
+      "releaseDate": "2017-10-26",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "type": "game",
+      "releaseDate": "2017-02-24",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "adventure",
+        "metroidvania",
+        "soulsvania",
+        "video-game-with-lgbt-character"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "367520",
+      "reviewCount": 563187,
+      "positivePercentage": 96.9
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "type": "game",
+      "releaseDate": "2025-09-04",
+      "developers": [
+        "team-cherry"
+      ],
+      "publishers": [
+        "team-cherry"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidvania",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1030300",
+      "reviewCount": 424061,
+      "positivePercentage": 89.5
+    }
+  ]
+}

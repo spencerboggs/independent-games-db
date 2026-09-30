@@ -1,0 +1,179 @@
+{
+  "id": "spaceplan",
+  "title": "SPACEPLAN",
+  "alternateTitles": [
+    "Spaceplan"
+  ],
+  "type": "game",
+  "releaseDate": "2017-05-03",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "jake-hollands"
+  ],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "SPACEPLAN is an experimental piece of interaction based partly on a total misunderstanding of Stephen Hawking’s A Brief History of Time.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/616110/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "adventure",
+    "casual",
+    "incremental-game",
+    "science-fiction-video-game"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "single-player"
+  ],
+  "platforms": [
+    "android",
+    "ios",
+    "macos",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Japanese",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Russian",
+    "Spanish - Latin America",
+    "Turkish"
+  ],
+  "externalIds": {
+    "wikidata": "Q74126009",
+    "igdb": "spaceplan",
+    "steam": "616110"
+  },
+  "links": {
+    "official": "http://spaceplan.click",
+    "steam": "https://store.steampowered.com/app/616110/",
+    "wikidata": "https://www.wikidata.org/wiki/Q74126009"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/ss_8fcdd1cd250b685897335003f08dfa75e575f53c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/ss_2bbaf46b572978cf11513d9b13d673577e65ce6c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/ss_f403397fa1daedbfeca5e917b753c3932e266349.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/ss_e4a66a9371529769b074672cdea46d71e49cd84d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616110/ss_e1287f0a6dff754a0ba9c0b4dfa843025afd7124.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 3439,
+      "positiveCount": 3145,
+      "negativeCount": 294,
+      "positivePercentage": 91.5,
+      "negativePercentage": 8.5,
+      "reviewScoreDescription": "Very Positive",
+      "currentPlayers": 4,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 1,
+      "reviewsPerMonth": 30.5,
+      "windowDays": 3437,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/616110/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q74126009",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "battleship-godios",
+  "title": "Battleship Godios",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": null,
+  "releaseDatePrecision": null,
+  "releaseStatus": "unknown",
+  "developers": [
+    "tpm-co-soft-works"
+  ],
+  "publishers": [
+    "panic"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "strategy"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "playdate"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q107317045",
+    "igdb": "battleship-godios"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107317045"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q107317045",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T10:41:54.255Z"
+}

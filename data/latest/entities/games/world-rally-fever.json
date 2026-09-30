@@ -1,0 +1,67 @@
+{
+  "id": "world-rally-fever",
+  "title": "World Rally Fever",
+  "alternateTitles": [
+    "World Rally Fever: Born on the Road"
+  ],
+  "type": "game",
+  "releaseDate": "1996",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "racing-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "dos"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q8036097",
+    "igdb": "world-rally-fever-born-on-the-road"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8036097"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8036097",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

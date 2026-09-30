@@ -1,0 +1,78 @@
+{
+  "id": "minecraft-earth",
+  "title": "Minecraft Earth",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2019",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "mojang"
+  ],
+  "publishers": [
+    "mojang",
+    "xbox-game-studios"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "augmented-reality-video-game",
+    "location-based-game",
+    "sandbox"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q63927755",
+    "igdb": "minecraft-earth"
+  },
+  "links": {
+    "official": "https://minecraftspe.com/minecraft-earth/",
+    "wikidata": "https://www.wikidata.org/wiki/Q63927755"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "series": {
+    "id": "minecraft",
+    "name": "Minecraft"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q63927755",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

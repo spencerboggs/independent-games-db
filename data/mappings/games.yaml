@@ -1,0 +1,11 @@
+# Manually approved entity-resolution mappings for games.
+#
+# externalIds:  provider -> external ID -> canonical game ID
+#               (e.g. merge a Steam re-release into the original record)
+# distinct:     pairs confirmed to be different games with similar titles
+#
+# names is unused for games (titles are too ambiguous) but kept for symmetry.
+
+names: {}
+externalIds: {}
+distinct: []

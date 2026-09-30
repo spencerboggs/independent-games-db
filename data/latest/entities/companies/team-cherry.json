@@ -1,0 +1,92 @@
+{
+  "id": "team-cherry",
+  "name": "Team Cherry",
+  "aliases": [],
+  "roles": [
+    "developer",
+    "publisher"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q29326164",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://teamcherry.com.au",
+  "socialLinks": {
+    "bluesky": "https://bsky.app/profile/teamcherry.bsky.social",
+    "x": "https://x.com/teamcherrygames",
+    "youtube": "https://www.youtube.com/channel/UCZS2K8ZsUmujTuj3cNMyBSA"
+  },
+  "location": {
+    "headquarters": "Adelaide",
+    "country": "AU",
+    "countryName": "Australia"
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q29326164",
+    "igdb": "team-cherry"
+  },
+  "logo": null,
+  "classification": {
+    "include": true,
+    "category": "independent",
+    "notes": "Small self-publishing studio in Adelaide."
+  },
+  "games": {
+    "developed": [
+      "godmaster",
+      "hidden-dreams",
+      "hollow-knight",
+      "hollow-knight-silksong",
+      "lifeblood",
+      "sea-of-sorrow",
+      "the-grimm-troupe"
+    ],
+    "published": [
+      "hollow-knight",
+      "hollow-knight-silksong"
+    ]
+  },
+  "statistics": {
+    "gameCount": 7,
+    "developedCount": 7,
+    "publishedCount": 2,
+    "totalSteamReviews": 987248,
+    "averagePositivePercentage": 93.2,
+    "weightedPositivePercentage": 93.7,
+    "mostReviewedGame": "hollow-knight",
+    "mostRecentRelease": "sea-of-sorrow",
+    "firstRelease": "hollow-knight",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29326164",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

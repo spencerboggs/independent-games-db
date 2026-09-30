@@ -1,0 +1,73 @@
+{
+  "id": "alien-breed-tower-assault",
+  "title": "Alien Breed: Tower Assault",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "1994",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [
+    "team17"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "science-fiction-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "amiga-1200",
+    "amiga-cd32",
+    "dos"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q1114758",
+    "igdb": "alien-breed-tower-assault"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1114758"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "alien-breed",
+    "name": "Alien Breed"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1114758",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

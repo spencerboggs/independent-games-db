@@ -1,0 +1,60 @@
+{
+  "id": "sabotage",
+  "name": "Sabotage",
+  "developed": [
+    {
+      "id": "the-messenger",
+      "title": "The Messenger",
+      "type": "game",
+      "releaseDate": "2018-08-30",
+      "developers": [
+        "sabotage"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "metroidvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "764790",
+      "reviewCount": 13286,
+      "positivePercentage": 92.6
+    },
+    {
+      "id": "the-messenger-picnic-panic-dlc",
+      "title": "The Messenger - Picnic Panic DLC",
+      "type": "dlc",
+      "releaseDate": "2019-07-11",
+      "developers": [
+        "sabotage"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "1107180",
+      "reviewCount": 319,
+      "positivePercentage": 76.5
+    }
+  ],
+  "published": []
+}

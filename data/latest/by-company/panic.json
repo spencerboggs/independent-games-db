@@ -1,0 +1,814 @@
+{
+  "id": "panic",
+  "name": "Panic",
+  "developed": [
+    {
+      "id": "b360",
+      "title": "b360",
+      "type": "game",
+      "releaseDate": "2021",
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "crayons",
+      "title": "Crayons",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "inventory-hero",
+      "title": "Inventory Hero",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "star-sled",
+      "title": "Star Sled",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "arco",
+      "title": "Arco",
+      "type": "game",
+      "releaseDate": "2024-08-15",
+      "developers": [
+        "bibiki",
+        "fayer",
+        "franek",
+        "max-cahill"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "strategy",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2366970",
+      "reviewCount": 2319,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "b360",
+      "title": "b360",
+      "type": "game",
+      "releaseDate": "2021",
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "battleship-godios",
+      "title": "Battleship Godios",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "tpm-co-soft-works"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "big-walk",
+      "title": "Big Walk",
+      "type": "game",
+      "releaseDate": "2026-08-04",
+      "developers": [
+        "house-house"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1478500",
+      "reviewCount": 39806,
+      "positivePercentage": 96
+    },
+    {
+      "id": "blippo",
+      "title": "Blippo+",
+      "type": "game",
+      "releaseDate": "2025-09-23",
+      "developers": [
+        "noble-robot",
+        "telefantasy-studios",
+        "yacht"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playdate",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "full-motion-video"
+      ],
+      "engines": [],
+      "steamAppId": "3323850",
+      "reviewCount": 425,
+      "positivePercentage": 95.5
+    },
+    {
+      "id": "crankins-time-travel-adventure",
+      "title": "Crankin's Time Travel Adventure",
+      "type": "game",
+      "releaseDate": "2021",
+      "developers": [
+        "uvula-llc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "crayons",
+      "title": "Crayons",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "despelote",
+      "title": "despelote",
+      "type": "game",
+      "releaseDate": "2025-05-01",
+      "developers": [
+        "julian-cordero",
+        "sebastian-valbuena"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "association-football-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "2367820",
+      "reviewCount": 1169,
+      "positivePercentage": 94.6
+    },
+    {
+      "id": "executive-golf-dx",
+      "title": "Executive Golf DX",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "davemakes"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "golf-video-game",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "firewatch",
+      "title": "Firewatch",
+      "type": "game",
+      "releaseDate": "2016-02-09",
+      "developers": [
+        "campo-santo"
+      ],
+      "publishers": [
+        "campo-santo",
+        "panic"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "mystery-video-game",
+        "walking-simulator"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "383870",
+      "reviewCount": 99563,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "flipper-lifter",
+      "title": "Flipper Lifter",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "serenity-forge"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action",
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "herdling",
+      "title": "Herdling",
+      "type": "game",
+      "releaseDate": "2025-08-21",
+      "developers": [
+        "okomotive"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "3047750",
+      "reviewCount": 1040,
+      "positivePercentage": 93.8
+    },
+    {
+      "id": "hyper-meteor",
+      "title": "Hyper Meteor",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "vertex-pop"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "inventory-hero",
+      "title": "Inventory Hero",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "lost-your-marbles",
+      "title": "Lost Your Marbles",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "sweet-baby-inc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "mars-after-midnight",
+      "title": "Mars After Midnight",
+      "type": "game",
+      "releaseDate": "2024-03-12",
+      "developers": [
+        "lucas-pope"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "nour-play-with-your-food",
+      "title": "Nour: Play with Your Food",
+      "type": "game",
+      "releaseDate": "2023-09-12",
+      "developers": [
+        "terrifying-jellyfish"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1141050",
+      "reviewCount": 105,
+      "positivePercentage": 61.9
+    },
+    {
+      "id": "oom",
+      "title": "Oom",
+      "type": "game",
+      "releaseDate": "2023-06-10",
+      "developers": [],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "dungeon-crawl"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "questy-chess",
+      "title": "Questy Chess",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "dadako"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "chess-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "reel-steal",
+      "title": "Reel Steal",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "sweet-baby-inc"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "robot-fishing",
+      "title": "Robot Fishing",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "davemakes"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "fishing-video-game",
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "sasquatchers",
+      "title": "Sasquatchers",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "chuck-jordan"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "snak",
+      "title": "Snak",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "zach-gage"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "star-sled",
+      "title": "Star Sled",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "panic"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "thank-goodness-youre-here",
+      "title": "Thank Goodness You're Here!",
+      "type": "game",
+      "releaseDate": "2024-08-01",
+      "developers": [
+        "coal-supper"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual"
+      ],
+      "engines": [],
+      "steamAppId": "2366980",
+      "reviewCount": 8526,
+      "positivePercentage": 96.2
+    },
+    {
+      "id": "time-flies",
+      "title": "Time Flies",
+      "type": "game",
+      "releaseDate": "2025-07-31",
+      "developers": [
+        "playables"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2000120",
+      "reviewCount": 401,
+      "positivePercentage": 96.8
+    },
+    {
+      "id": "untitled-goose-game",
+      "title": "Untitled Goose Game",
+      "type": "game",
+      "releaseDate": "2020-09-23",
+      "developers": [
+        "house-house"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "puzzle",
+        "stealth-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "837470",
+      "reviewCount": 25278,
+      "positivePercentage": 95.9
+    },
+    {
+      "id": "whitewater-wipeout",
+      "title": "Whitewater Wipeout",
+      "type": "game",
+      "releaseDate": "2022-04-18",
+      "developers": [
+        "chuhai-labs"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "sports-video-game",
+        "surfing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "widget-satchel-ii-return-of-sprocket",
+      "title": "Widget Satchel II: Return of Sprocket",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "noble-robot"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "zipper",
+      "title": "Zipper",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "bennett-foddy"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "croteam-vr",
+  "name": "Croteam VR",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {},
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": null,
+  "foundedDate": null,
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {},
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "serious-sam-3-vr-bfe",
+      "serious-sam-vr-the-first-encounter",
+      "serious-sam-vr-the-last-hope",
+      "serious-sam-vr-the-second-encounter",
+      "the-talos-principle-vr"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 5,
+    "developedCount": 5,
+    "publishedCount": 0,
+    "totalSteamReviews": 3927,
+    "averagePositivePercentage": 85.5,
+    "weightedPositivePercentage": 85.3,
+    "mostReviewedGame": "serious-sam-vr-the-last-hope",
+    "mostRecentRelease": "serious-sam-3-vr-bfe",
+    "firstRelease": "serious-sam-vr-the-first-encounter",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

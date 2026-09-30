@@ -1,0 +1,78 @@
+{
+  "id": "balancing-monkey-games",
+  "name": "Balancing Monkey Games",
+  "aliases": [
+    "Balancing Monkey Games Ltd"
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q109929910",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://www.balancingmonkeygames.com/",
+  "socialLinks": {
+    "x": "https://x.com/BalancingMonkey"
+  },
+  "location": {
+    "headquarters": "Dunedin",
+    "country": "NZ",
+    "countryName": "New Zealand"
+  },
+  "founded": 2017,
+  "foundedDate": "2017",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q109929910"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "before-we-leave"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 1731,
+    "averagePositivePercentage": 78.1,
+    "weightedPositivePercentage": 78.1,
+    "mostReviewedGame": "before-we-leave",
+    "mostRecentRelease": "before-we-leave",
+    "firstRelease": "before-we-leave",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109929910",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

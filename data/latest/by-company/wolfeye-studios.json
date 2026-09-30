@@ -1,0 +1,37 @@
+{
+  "id": "wolfeye-studios",
+  "name": "WolfEye Studios",
+  "developed": [
+    {
+      "id": "weird-west-definitive-edition",
+      "title": "Weird West: Definitive Edition",
+      "type": "game",
+      "releaseDate": "2022-03-31",
+      "developers": [
+        "wolfeye-studios"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1097350",
+      "reviewCount": 4501,
+      "positivePercentage": 78.5
+    }
+  ],
+  "published": []
+}

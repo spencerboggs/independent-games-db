@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.ts text eol=lf
+
+# Generated public dataset: collapse in diffs by default and mark as generated.
+data/latest/** linguist-generated=true
+data/snapshots/** linguist-generated=true
+data/generated/** linguist-generated=true
+data/registry/** linguist-generated=true
+data/history/** linguist-generated=true

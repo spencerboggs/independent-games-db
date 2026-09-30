@@ -1,0 +1,31 @@
+{
+  "id": "thq-wireless",
+  "name": "THQ Wireless",
+  "developed": [
+    {
+      "id": "worms-forts-3d",
+      "title": "Worms Forts 3D",
+      "type": "game",
+      "releaseDate": "2005",
+      "developers": [
+        "thq-wireless"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "java-platform-micro-edition",
+        "symbian"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}

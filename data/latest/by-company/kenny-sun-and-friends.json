@@ -1,0 +1,39 @@
+{
+  "id": "kenny-sun-and-friends",
+  "name": "Kenny Sun and Friends",
+  "developed": [
+    {
+      "id": "ball-x-pit",
+      "title": "BALL x PIT",
+      "type": "game",
+      "releaseDate": "2025-10-15",
+      "developers": [
+        "kenny-sun-and-friends"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-roguelike"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2062430",
+      "reviewCount": 27326,
+      "positivePercentage": 95.3
+    }
+  ],
+  "published": []
+}

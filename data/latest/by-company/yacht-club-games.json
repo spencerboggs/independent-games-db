@@ -1,0 +1,548 @@
+{
+  "id": "yacht-club-games",
+  "name": "Yacht Club Games",
+  "developed": [
+    {
+      "id": "mina-the-hollower",
+      "title": "Mina the Hollower",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1875580",
+      "reviewCount": 8698,
+      "positivePercentage": 88.3
+    },
+    {
+      "id": "shovel-knight-dig",
+      "title": "Shovel Knight Dig",
+      "type": "game",
+      "releaseDate": "2022-09-23",
+      "developers": [
+        "nitrome",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "simulation",
+        "sports",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1416050",
+      "reviewCount": 909,
+      "positivePercentage": 75.1
+    },
+    {
+      "id": "shovel-knight-king-of-cards",
+      "title": "Shovel Knight: King of Cards",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1116780",
+      "reviewCount": 210,
+      "positivePercentage": 90
+    },
+    {
+      "id": "shovel-knight-pocket-dungeon",
+      "title": "Shovel Knight Pocket Dungeon",
+      "type": "game",
+      "releaseDate": "2021-12-13",
+      "developers": [
+        "vine",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "falling-block-puzzle-game",
+        "puzzle"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1184760",
+      "reviewCount": 634,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "shovel-knight-shovel-of-hope",
+      "title": "Shovel Knight: Shovel of Hope",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "589500",
+      "reviewCount": 1012,
+      "positivePercentage": 94.1
+    },
+    {
+      "id": "shovel-knight-showdown",
+      "title": "Shovel Knight Showdown",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "fighting-game",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1116770",
+      "reviewCount": 96,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "shovel-knight-specter-of-torment",
+      "title": "Shovel Knight: Specter of Torment",
+      "type": "game",
+      "releaseDate": "2017-04-05",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-4",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "589510",
+      "reviewCount": 493,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "shovel-knight-treasure-trove",
+      "title": "Shovel Knight: Treasure Trove",
+      "type": "game",
+      "releaseDate": "2014-06-26",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "250760",
+      "reviewCount": 16929,
+      "positivePercentage": 95.5
+    }
+  ],
+  "published": [
+    {
+      "id": "cyber-shadow",
+      "title": "Cyber Shadow",
+      "type": "game",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "aarne-mekaskull-hunziker"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "platformer",
+        "post-apocalyptic-video-game"
+      ],
+      "engines": [
+        "construct"
+      ],
+      "steamAppId": "861250",
+      "reviewCount": 1559,
+      "positivePercentage": 83.5
+    },
+    {
+      "id": "mina-the-hollower",
+      "title": "Mina the Hollower",
+      "type": "game",
+      "releaseDate": "2026-05-28",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [],
+      "steamAppId": "1875580",
+      "reviewCount": 8698,
+      "positivePercentage": 88.3
+    },
+    {
+      "id": "shovel-knight-dig",
+      "title": "Shovel Knight Dig",
+      "type": "game",
+      "releaseDate": "2022-09-23",
+      "developers": [
+        "nitrome",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-5",
+        "tvos",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "simulation",
+        "sports",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1416050",
+      "reviewCount": 909,
+      "positivePercentage": 75.1
+    },
+    {
+      "id": "shovel-knight-king-of-cards",
+      "title": "Shovel Knight: King of Cards",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1116780",
+      "reviewCount": 210,
+      "positivePercentage": 90
+    },
+    {
+      "id": "shovel-knight-pocket-dungeon",
+      "title": "Shovel Knight Pocket Dungeon",
+      "type": "game",
+      "releaseDate": "2021-12-13",
+      "developers": [
+        "vine",
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "falling-block-puzzle-game",
+        "puzzle"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1184760",
+      "reviewCount": 634,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "shovel-knight-shovel-of-hope",
+      "title": "Shovel Knight: Shovel of Hope",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "589500",
+      "reviewCount": 1012,
+      "positivePercentage": 94.1
+    },
+    {
+      "id": "shovel-knight-showdown",
+      "title": "Shovel Knight Showdown",
+      "type": "game",
+      "releaseDate": "2019-12-10",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "fighting-game",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1116770",
+      "reviewCount": 96,
+      "positivePercentage": 91.7
+    },
+    {
+      "id": "shovel-knight-specter-of-torment",
+      "title": "Shovel Knight: Specter of Torment",
+      "type": "game",
+      "releaseDate": "2017-04-05",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-4",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "589510",
+      "reviewCount": 493,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "shovel-knight-treasure-trove",
+      "title": "Shovel Knight: Treasure Trove",
+      "type": "game",
+      "releaseDate": "2014-06-26",
+      "developers": [
+        "yacht-club-games"
+      ],
+      "publishers": [
+        "yacht-club-games"
+      ],
+      "platforms": [
+        "android",
+        "linux",
+        "macos",
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-3",
+        "playstation-4",
+        "playstation-vita",
+        "wii-u",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "250760",
+      "reviewCount": 16929,
+      "positivePercentage": 95.5
+    }
+  ]
+}

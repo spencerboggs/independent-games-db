@@ -1,0 +1,195 @@
+{
+  "id": "alan-wakes-american-nightmare",
+  "title": "Alan Wake's American Nightmare",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2012-05-22",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "remedy-entertainment"
+  ],
+  "publishers": [
+    "remedy-entertainment"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "A thrilling new storyline, hordes of creepy enemies, serious firepower and beautiful Arizona locations, combined with a fun and challenging new game mode!",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/202750/",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "action",
+    "adventure",
+    "psychological-horror-fiction",
+    "third-person-shooter"
+  ],
+  "tags": [],
+  "features": [
+    "family-sharing",
+    "full-controller-support",
+    "remote-play-on-tv",
+    "single-player"
+  ],
+  "platforms": [
+    "windows",
+    "xbox-360",
+    "xbox-one"
+  ],
+  "supportedLanguages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish - Spain",
+    "Japanese",
+    "Czech",
+    "Hungarian",
+    "Polish",
+    "Russian"
+  ],
+  "externalIds": {
+    "wikidata": "Q2502055",
+    "igdb": "alan-wake-s-american-nightmare",
+    "steam": "202750"
+  },
+  "links": {
+    "official": "http://www.alanwake.com",
+    "steam": "https://store.steampowered.com/app/202750/",
+    "wikidata": "https://www.wikidata.org/wiki/Q2502055"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/c776879ae6a5754294b1fe9e18564ac3545e856b/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/cd6499e5fc0a23dcb37b1aa47153698f4ad2a47a/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/1cfecc9163858f91ae6606133bd1293a07f16969/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-09-30",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_948ea8787e81cddddbbfa39eb7b372302aa2e30d.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_682869fef2289ee0554c0ce1695190cc06bfa3f9.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_14e9166e9dbb24f91bf5c461c7351da5bb967081.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_29fc81b65a7dcf87436047e2930b86f52b57ca2c.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_8cbd3122a7af037b926b232ddc10884fe1238cde.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_9f4fd79dd7ba73eb631d88898253283f636a6cea.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_962fc4388cb9d6372fcabbacfd85ae5d5c796a19.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_908f3e7d2c37d170459aa6b4cc061454b99892a2.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-09-30",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 10895,
+      "positiveCount": 8115,
+      "negativeCount": 2780,
+      "positivePercentage": 74.5,
+      "negativePercentage": 25.5,
+      "reviewScoreDescription": "Mostly Positive",
+      "currentPlayers": 15,
+      "retrievedAt": "2026-09-30"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 2.08,
+      "reviewsPerMonth": 63.2,
+      "windowDays": 5244,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/202750/",
+      "retrievedAt": "2026-09-30"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2502055",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

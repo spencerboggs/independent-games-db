@@ -1,0 +1,65 @@
+{
+  "id": "oxeye-game-studio",
+  "name": "Oxeye Game Studio",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "website": "http://www.oxeyegames.com/",
+  "socialLinks": {},
+  "location": {
+    "headquarters": "Stockholm",
+    "country": "SE",
+    "countryName": "Sweden"
+  },
+  "founded": 2006,
+  "foundedDate": "2006",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q10613665"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "cobalt",
+      "cobalt-wasd"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 2,
+    "developedCount": 2,
+    "publishedCount": 0,
+    "totalSteamReviews": 924,
+    "averagePositivePercentage": 89.4,
+    "weightedPositivePercentage": 91.1,
+    "mostReviewedGame": "cobalt",
+    "mostRecentRelease": "cobalt-wasd",
+    "firstRelease": "cobalt",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q10613665",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

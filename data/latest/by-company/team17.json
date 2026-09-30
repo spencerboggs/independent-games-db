@@ -1,0 +1,4755 @@
+{
+  "id": "team17",
+  "name": "Team17",
+  "developed": [
+    {
+      "id": "10-minute-tower",
+      "title": "10 Minute Tower",
+      "type": "game",
+      "releaseDate": "2016-07-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "war-child-gaming"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": "477010",
+      "reviewCount": 9,
+      "positivePercentage": 55.6
+    },
+    {
+      "id": "alien-breed",
+      "title": "Alien Breed",
+      "type": "game",
+      "releaseDate": "1991",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "commodore-amiga",
+        "dos",
+        "ios",
+        "playstation-3",
+        "playstation-vita"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-2-assault",
+      "title": "Alien Breed 2: Assault",
+      "type": "game",
+      "releaseDate": "2010-09-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22650",
+      "reviewCount": 1060,
+      "positivePercentage": 70.7
+    },
+    {
+      "id": "alien-breed-3-descent",
+      "title": "Alien Breed 3: Descent",
+      "type": "game",
+      "releaseDate": "2010-11-17",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22670",
+      "reviewCount": 626,
+      "positivePercentage": 74.3
+    },
+    {
+      "id": "alien-breed-3d",
+      "title": "Alien Breed 3D",
+      "type": "game",
+      "releaseDate": "1995",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32"
+      ],
+      "genres": [
+        "first-person-shooter",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-3d-ii-the-killing-grounds",
+      "title": "Alien Breed 3D II: The Killing Grounds",
+      "type": "game",
+      "releaseDate": "1996",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200"
+      ],
+      "genres": [
+        "first-person-shooter",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-ii-the-horror-continues",
+      "title": "Alien Breed II: The Horror Continues",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-tower-assault",
+      "title": "Alien Breed: Tower Assault",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32",
+        "dos"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "arcade-pool",
+      "title": "Arcade Pool",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "hasbro-interactive"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32",
+        "dos"
+      ],
+      "genres": [
+        "pool-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "army-men-major-malfunction",
+      "title": "Army Men: Major Malfunction",
+      "type": "game",
+      "releaseDate": "2006-04-14",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "2k-play"
+      ],
+      "platforms": [
+        "playstation-2",
+        "xbox"
+      ],
+      "genres": [
+        "third-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "atr-all-terrain-racing",
+      "title": "ATR: All Terrain Racing",
+      "type": "game",
+      "releaseDate": "1995",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "beyond-eyes",
+      "title": "Beyond Eyes",
+      "type": "game",
+      "releaseDate": "2015-08-11",
+      "developers": [
+        "team17",
+        "tiger-and-squid"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "356050",
+      "reviewCount": 1616,
+      "positivePercentage": 68.3
+    },
+    {
+      "id": "body-blows",
+      "title": "Body Blows",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "amiga-1200",
+        "dos"
+      ],
+      "genres": [
+        "fighting-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "body-blows-galactic",
+      "title": "Body Blows Galactic",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "amiga-1200"
+      ],
+      "genres": [
+        "fighting-game",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "flockerstm",
+      "title": "Flockers™",
+      "type": "game",
+      "releaseDate": "2014-09-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "260330",
+      "reviewCount": 231,
+      "positivePercentage": 76.2
+    },
+    {
+      "id": "golf-with-your-friends",
+      "title": "Golf With Your Friends",
+      "type": "game",
+      "releaseDate": "2020-05-19",
+      "developers": [
+        "blacklight-interactive",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "miniature-golf-video-game",
+        "sports"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "431240",
+      "reviewCount": 75854,
+      "positivePercentage": 87.3
+    },
+    {
+      "id": "golf-with-your-friends-2",
+      "title": "Golf With Your Friends 2",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "radical-forge",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "golf-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "3209660",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "killer-frequency",
+      "title": "Killer Frequency",
+      "type": "game",
+      "releaseDate": "2023-06-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "horror-video-game",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1903620",
+      "reviewCount": 6241,
+      "positivePercentage": 93
+    },
+    {
+      "id": "leisure-suit-larry-box-office-bust",
+      "title": "Leisure Suit Larry: Box Office Bust",
+      "type": "game",
+      "releaseDate": "2009-03-27",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "codemasters"
+      ],
+      "platforms": [
+        "playstation-3",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "lemmings",
+      "title": "Lemmings",
+      "type": "game",
+      "releaseDate": "2006-12-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "playstation-2",
+        "playstation-3",
+        "playstation-portable"
+      ],
+      "genres": [
+        "puzzle"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "nightlong-union-city-conspiracy",
+      "title": "Nightlong: Union City Conspiracy",
+      "type": "game",
+      "releaseDate": "1998",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "microprose"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "cyberpunk-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "overcooked-2",
+      "title": "Overcooked! 2",
+      "type": "game",
+      "releaseDate": "2018-08-07",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "728880",
+      "reviewCount": 84605,
+      "positivePercentage": 90.4
+    },
+    {
+      "id": "overcooked-all-you-can-eat",
+      "title": "Overcooked! All You Can Eat",
+      "type": "game",
+      "releaseDate": "2021-03-23",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "party-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1243830",
+      "reviewCount": 8303,
+      "positivePercentage": 73
+    },
+    {
+      "id": "phoenix",
+      "title": "Phoenix",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "hasbro-interactive",
+        "microprose",
+        "team17"
+      ],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "project-x",
+      "title": "Project-X",
+      "type": "game",
+      "releaseDate": "1992",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dos"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "stunt-gp",
+      "title": "Stunt GP",
+      "type": "game",
+      "releaseDate": "2001-04-06",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "eon-digital-entertainment"
+      ],
+      "platforms": [
+        "dreamcast",
+        "playstation-2",
+        "windows"
+      ],
+      "genres": [
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "superfrog",
+      "title": "Superfrog",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dos",
+        "ios",
+        "macos"
+      ],
+      "genres": [
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "the-escapists-2",
+      "title": "The Escapists 2",
+      "type": "game",
+      "releaseDate": "2017-08-21",
+      "developers": [
+        "mouldy-toof-studios",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "christmas-video-game",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "641990",
+      "reviewCount": 33846,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-escapists-the-walking-dead",
+      "title": "The Escapists: The Walking Dead",
+      "type": "game",
+      "releaseDate": "2015-09-30",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "388060",
+      "reviewCount": 902,
+      "positivePercentage": 64.4
+    },
+    {
+      "id": "the-survivalists",
+      "title": "The Survivalists",
+      "type": "game",
+      "releaseDate": "2020-10-09",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "tvos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "rpg",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": "897450",
+      "reviewCount": 10123,
+      "positivePercentage": 76.2
+    },
+    {
+      "id": "ultimate-body-blows",
+      "title": "Ultimate Body Blows",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "dos"
+      ],
+      "genres": [
+        "fighting-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms",
+      "title": "Worms",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "atari-jaguar",
+        "commodore-amiga",
+        "dos",
+        "game-boy",
+        "game-boy-color",
+        "playstation",
+        "sega-genesis",
+        "sega-saturn",
+        "super-nintendo-entertainment-system",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70640",
+      "reviewCount": 707,
+      "positivePercentage": 83.2
+    },
+    {
+      "id": "worms-2",
+      "title": "Worms 2",
+      "type": "game",
+      "releaseDate": "1997-12-31",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "microprose"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-2-armageddon",
+      "title": "Worms 2: Armageddon",
+      "type": "game",
+      "releaseDate": "2009-07-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "xbox-360"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-2007",
+      "title": "Worms",
+      "type": "game",
+      "releaseDate": "2007-03-07",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "xbox-game-studios"
+      ],
+      "platforms": [
+        "ios"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-3",
+      "title": "Worms 3",
+      "type": "game",
+      "releaseDate": "2014-05-28",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "android",
+        "ios",
+        "macos"
+      ],
+      "genres": [
+        "artillery-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-4",
+      "title": "Worms 4",
+      "type": "game",
+      "releaseDate": "2015",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "genres": [
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-4-mayhem",
+      "title": "Worms 4: Mayhem",
+      "type": "game",
+      "releaseDate": "2005-07-29",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "codemasters"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-a-space-oddity",
+      "title": "Worms: A Space Oddity",
+      "type": "game",
+      "releaseDate": "2008-03-18",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "java-virtual-machine",
+        "wii"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-armageddon",
+      "title": "Worms Armageddon",
+      "type": "game",
+      "releaseDate": "2013-03-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dreamcast",
+        "game-boy-color",
+        "nintendo-64",
+        "playstation",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "217200",
+      "reviewCount": 10955,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "worms-armageddon-anniversary-edition",
+      "title": "Worms Armageddon: Anniversary Edition",
+      "type": "game",
+      "releaseDate": "2024-09-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-battle-islands",
+      "title": "Worms: Battle Islands",
+      "type": "game",
+      "releaseDate": "2010-11-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "sony-interactive-entertainment"
+      ],
+      "platforms": [
+        "playstation-portable",
+        "wii"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-battlegrounds",
+      "title": "Worms Battlegrounds",
+      "type": "game",
+      "releaseDate": "2014-06-03",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [],
+      "platforms": [
+        "playstation-4",
+        "xbox-one"
+      ],
+      "genres": [
+        "artillery-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-blast",
+      "title": "Worms Blast",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "game-boy-advance",
+        "macos",
+        "nintendo-gamecube",
+        "playstation-2",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70650",
+      "reviewCount": 360,
+      "positivePercentage": 54.4
+    },
+    {
+      "id": "worms-clan-wars",
+      "title": "Worms Clan Wars",
+      "type": "game",
+      "releaseDate": "2013-08-15",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "233840",
+      "reviewCount": 3194,
+      "positivePercentage": 78.5
+    },
+    {
+      "id": "worms-crazy-golf",
+      "title": "Worms Crazy Golf",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "personal-computer",
+        "windows"
+      ],
+      "genres": [
+        "sports",
+        "sports-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70620",
+      "reviewCount": 781,
+      "positivePercentage": 79.5
+    },
+    {
+      "id": "worms-forts-under-siege",
+      "title": "Worms Forts: Under Siege",
+      "type": "game",
+      "releaseDate": "2004-11-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "sega"
+      ],
+      "platforms": [
+        "playstation-2",
+        "windows",
+        "xbox"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-open-warfare",
+      "title": "Worms: Open Warfare",
+      "type": "game",
+      "releaseDate": "2006-03-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "nintendo-ds",
+        "playstation-portable"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-open-warfare-2",
+      "title": "Worms: Open Warfare 2",
+      "type": "game",
+      "releaseDate": "2007-08-30",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "thq"
+      ],
+      "platforms": [
+        "nintendo-ds",
+        "playstation-portable"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-pinball",
+      "title": "Worms Pinball",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "pinball-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "70660",
+      "reviewCount": 524,
+      "positivePercentage": 53.2
+    },
+    {
+      "id": "worms-reloaded",
+      "title": "Worms Reloaded",
+      "type": "game",
+      "releaseDate": "2010-08-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "22600",
+      "reviewCount": 5101,
+      "positivePercentage": 87.2
+    },
+    {
+      "id": "worms-revolution",
+      "title": "Worms Revolution",
+      "type": "game",
+      "releaseDate": "2012-10-10",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-3",
+        "playstation-portable",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "200170",
+      "reviewCount": 9130,
+      "positivePercentage": 87.2
+    },
+    {
+      "id": "worms-rumble",
+      "title": "Worms Rumble",
+      "type": "game",
+      "releaseDate": "2020-12-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1186040",
+      "reviewCount": 2488,
+      "positivePercentage": 56.5
+    },
+    {
+      "id": "worms-the-directors-cut",
+      "title": "Worms: The Director's Cut",
+      "type": "game",
+      "releaseDate": "1997",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-4000"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-ultimate-mayhem",
+      "title": "Worms Ultimate Mayhem",
+      "type": "game",
+      "releaseDate": "2011-09-28",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-3",
+        "playstation-portable",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70600",
+      "reviewCount": 6269,
+      "positivePercentage": 88.6
+    },
+    {
+      "id": "worms-w-m-d",
+      "title": "Worms W.M.D",
+      "type": "game",
+      "releaseDate": "2016-08-23",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "327030",
+      "reviewCount": 14973,
+      "positivePercentage": 85.1
+    },
+    {
+      "id": "worms-world-party-remastered",
+      "title": "Worms World Party Remastered",
+      "type": "game",
+      "releaseDate": "2015-07-16",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "270910",
+      "reviewCount": 1865,
+      "positivePercentage": 49.7
+    },
+    {
+      "id": "x2",
+      "title": "X2",
+      "type": "game",
+      "releaseDate": "1997-08",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "ocean-software"
+      ],
+      "platforms": [
+        "playstation"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": [
+    {
+      "id": "ageless",
+      "title": "Ageless",
+      "type": "game",
+      "releaseDate": "2020-07-28",
+      "developers": [
+        "one-more-dream-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1210150",
+      "reviewCount": 407,
+      "positivePercentage": 56.3
+    },
+    {
+      "id": "alien-breed",
+      "title": "Alien Breed",
+      "type": "game",
+      "releaseDate": "1991",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "commodore-amiga",
+        "dos",
+        "ios",
+        "playstation-3",
+        "playstation-vita"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-2-assault",
+      "title": "Alien Breed 2: Assault",
+      "type": "game",
+      "releaseDate": "2010-09-22",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22650",
+      "reviewCount": 1060,
+      "positivePercentage": 70.7
+    },
+    {
+      "id": "alien-breed-3-descent",
+      "title": "Alien Breed 3: Descent",
+      "type": "game",
+      "releaseDate": "2010-11-17",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "22670",
+      "reviewCount": 626,
+      "positivePercentage": 74.3
+    },
+    {
+      "id": "alien-breed-ii-the-horror-continues",
+      "title": "Alien Breed II: The Horror Continues",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-special-edition-92",
+      "title": "Alien Breed: Special Edition 92",
+      "type": "game",
+      "releaseDate": "1992",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "alien-breed-tower-assault",
+      "title": "Alien Breed: Tower Assault",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32",
+        "dos"
+      ],
+      "genres": [
+        "action",
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "amber-isle",
+      "title": "Amber Isle",
+      "type": "game",
+      "releaseDate": "2024-10-10",
+      "developers": [
+        "ambertail-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "management-simulation-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1663040",
+      "reviewCount": 2115,
+      "positivePercentage": 82.3
+    },
+    {
+      "id": "assassin",
+      "title": "Assassin",
+      "type": "game",
+      "releaseDate": "1992",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [
+        "action",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "assassin-special-edition",
+      "title": "Assassin: Special Edition",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "atr-all-terrain-racing",
+      "title": "ATR: All Terrain Racing",
+      "type": "game",
+      "releaseDate": "1995",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "automachef",
+      "title": "Automachef",
+      "type": "game",
+      "releaseDate": "2019-07-23",
+      "developers": [
+        "rhombico-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "984800",
+      "reviewCount": 926,
+      "positivePercentage": 71.7
+    },
+    {
+      "id": "autopsy-simulator",
+      "title": "Autopsy Simulator",
+      "type": "game",
+      "releaseDate": "2024-06-06",
+      "developers": [
+        "woodland-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure-video-game",
+        "horror-video-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1283230",
+      "reviewCount": 1629,
+      "positivePercentage": 51.7
+    },
+    {
+      "id": "aven-colony",
+      "title": "Aven Colony",
+      "type": "game",
+      "releaseDate": "2017-07-25",
+      "developers": [
+        "mothership-entertainment-llc"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "city-building-game",
+        "science-fiction-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "484900",
+      "reviewCount": 2789,
+      "positivePercentage": 72
+    },
+    {
+      "id": "batora-lost-haven",
+      "title": "Batora: Lost Haven",
+      "type": "game",
+      "releaseDate": "2022-10-20",
+      "developers": [
+        "stormind-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1506440",
+      "reviewCount": 453,
+      "positivePercentage": 65.1
+    },
+    {
+      "id": "before-we-leave",
+      "title": "Before We Leave",
+      "type": "game",
+      "releaseDate": "2021-05-13",
+      "developers": [
+        "balancing-monkey-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "city-building-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1073910",
+      "reviewCount": 1731,
+      "positivePercentage": 78.1
+    },
+    {
+      "id": "beyond-eyes",
+      "title": "Beyond Eyes",
+      "type": "game",
+      "releaseDate": "2015-08-11",
+      "developers": [
+        "team17",
+        "tiger-and-squid"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "356050",
+      "reviewCount": 1616,
+      "positivePercentage": 68.3
+    },
+    {
+      "id": "blasphemous",
+      "title": "Blasphemous",
+      "type": "game",
+      "releaseDate": "2019-09-10",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "platformer",
+        "soulsvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "774361",
+      "reviewCount": 67504,
+      "positivePercentage": 89.8
+    },
+    {
+      "id": "blasphemous-2",
+      "title": "Blasphemous 2",
+      "type": "game",
+      "releaseDate": "2023-08-24",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2114740",
+      "reviewCount": 21788,
+      "positivePercentage": 90.7
+    },
+    {
+      "id": "blasphemous-2-mea-culpa",
+      "title": "Blasphemous 2 - Mea Culpa",
+      "type": "dlc",
+      "releaseDate": "2024-10-31",
+      "developers": [
+        "the-game-kitchen"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "2879370",
+      "reviewCount": 1144,
+      "positivePercentage": 51.6
+    },
+    {
+      "id": "bravery-and-greed",
+      "title": "Bravery and Greed",
+      "type": "game",
+      "releaseDate": "2022-11-15",
+      "developers": [
+        "rekka-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "beat-em-up",
+        "dungeon-crawl",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "943370",
+      "reviewCount": 1065,
+      "positivePercentage": 77.2
+    },
+    {
+      "id": "cardiaxx",
+      "title": "Cardiaxx",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [
+        "science-fiction-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "classified-france-44",
+      "title": "Classified: France '44",
+      "type": "game",
+      "releaseDate": "2024-03-05",
+      "developers": [
+        "absolutely-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "rpg",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "2085370",
+      "reviewCount": 1040,
+      "positivePercentage": 71.7
+    },
+    {
+      "id": "conscript-directors-cut",
+      "title": "CONSCRIPT: Director’s Cut",
+      "type": "game",
+      "releaseDate": "2024-07-23",
+      "developers": [
+        "catchweight-studio",
+        "jordan-mochi"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "1286990",
+      "reviewCount": 2594,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "crown-trick",
+      "title": "Crown Trick",
+      "type": "game",
+      "releaseDate": "2020-10-16",
+      "developers": [
+        "next-studios"
+      ],
+      "publishers": [
+        "next-studios",
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "roguelite",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1000010",
+      "reviewCount": 5395,
+      "positivePercentage": 85.3
+    },
+    {
+      "id": "date-everything",
+      "title": "Date Everything!",
+      "type": "game",
+      "releaseDate": "2025-06-17",
+      "developers": [
+        "sassy-chap-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "dating-sim",
+        "erotic-video-game",
+        "simulation",
+        "visual-novel"
+      ],
+      "engines": [],
+      "steamAppId": "2201320",
+      "reviewCount": 7795,
+      "positivePercentage": 93
+    },
+    {
+      "id": "dredge",
+      "title": "DREDGE",
+      "type": "game",
+      "releaseDate": "2023-03-30",
+      "developers": [
+        "black-salt-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cozy-game",
+        "fishing-video-game",
+        "horror-video-game",
+        "inventory-management-video-game",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1562430",
+      "reviewCount": 57206,
+      "positivePercentage": 95.8
+    },
+    {
+      "id": "dredge-the-iron-rig",
+      "title": "DREDGE - The Iron Rig",
+      "type": "dlc",
+      "releaseDate": "2024-08-15",
+      "developers": [
+        "black-salt-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cosmic-horror-video-game",
+        "fishing-video-game",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2561450",
+      "reviewCount": 757,
+      "positivePercentage": 81.5
+    },
+    {
+      "id": "dredge-the-pale-reach",
+      "title": "DREDGE - The Pale Reach",
+      "type": "dlc",
+      "releaseDate": "2023-11-16",
+      "developers": [
+        "black-salt-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "cosmic-horror-video-game",
+        "fishing-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "2561440",
+      "reviewCount": 1122,
+      "positivePercentage": 70.5
+    },
+    {
+      "id": "epic-chef",
+      "title": "Epic Chef",
+      "type": "game",
+      "releaseDate": "2021-11-11",
+      "developers": [
+        "infinigon-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1312960",
+      "reviewCount": 759,
+      "positivePercentage": 78
+    },
+    {
+      "id": "f17-challenge",
+      "title": "F17 Challenge",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "farmside",
+      "title": "Farmside",
+      "type": "game",
+      "releaseDate": "2023-02-17",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "tvos"
+      ],
+      "genres": [
+        "farming-simulation-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "flockerstm",
+      "title": "Flockers™",
+      "type": "game",
+      "releaseDate": "2014-09-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "260330",
+      "reviewCount": 231,
+      "positivePercentage": 76.2
+    },
+    {
+      "id": "genesis-alpha-one-deluxe-edition",
+      "title": "Genesis Alpha One Deluxe Edition",
+      "type": "game",
+      "releaseDate": "2020-02-25",
+      "developers": [
+        "radiation-blue"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "personal-computer",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter",
+        "roguelike",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "712190",
+      "reviewCount": 2523,
+      "positivePercentage": 68.5
+    },
+    {
+      "id": "goblin-cleanup",
+      "title": "Goblin Cleanup",
+      "type": "game",
+      "releaseDate": "2025-09-18",
+      "developers": [
+        "crisalu-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "casual-game",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2748340",
+      "reviewCount": 2367,
+      "positivePercentage": 87.9
+    },
+    {
+      "id": "going-under",
+      "title": "Going Under",
+      "type": "game",
+      "releaseDate": "2020-09-24",
+      "developers": [
+        "aggro-crab"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "dungeon-crawl",
+        "roguelite"
+      ],
+      "engines": [],
+      "steamAppId": "1154810",
+      "reviewCount": 4175,
+      "positivePercentage": 90.1
+    },
+    {
+      "id": "golf-with-your-friends",
+      "title": "Golf With Your Friends",
+      "type": "game",
+      "releaseDate": "2020-05-19",
+      "developers": [
+        "blacklight-interactive",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "miniature-golf-video-game",
+        "sports"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "431240",
+      "reviewCount": 75854,
+      "positivePercentage": 87.3
+    },
+    {
+      "id": "golf-with-your-friends-2",
+      "title": "Golf With Your Friends 2",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "radical-forge",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "casual-game",
+        "golf-video-game",
+        "sports"
+      ],
+      "engines": [],
+      "steamAppId": "3209660",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "greak-2-alliance-of-the-storms",
+      "title": "Greak 2: Alliance of the Storms",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "navegante"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "4216840",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "greak-memories-of-azur",
+      "title": "Greak: Memories of Azur",
+      "type": "game",
+      "releaseDate": "2021-08-17",
+      "developers": [
+        "navegante"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-3ds",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": "1311070",
+      "reviewCount": 1558,
+      "positivePercentage": 78.1
+    },
+    {
+      "id": "hammerting",
+      "title": "Hammerting",
+      "type": "game",
+      "releaseDate": "2021-11-16",
+      "developers": [
+        "warpzone-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "760650",
+      "reviewCount": 2605,
+      "positivePercentage": 56.8
+    },
+    {
+      "id": "headbangers-rhythm-royale",
+      "title": "Headbangers: Rhythm Royale",
+      "type": "game",
+      "releaseDate": "2023-10-31",
+      "developers": [
+        "glee-cheese-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "battle-royale-game",
+        "casual",
+        "rhythm-game"
+      ],
+      "engines": [],
+      "steamAppId": "1761620",
+      "reviewCount": 1212,
+      "positivePercentage": 70.2
+    },
+    {
+      "id": "hell-let-loose",
+      "title": "Hell Let Loose",
+      "type": "game",
+      "releaseDate": "2021-07-27",
+      "developers": [
+        "expression-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "686810",
+      "reviewCount": 149957,
+      "positivePercentage": 81.8
+    },
+    {
+      "id": "hell-let-loose-vietnam",
+      "title": "Hell Let Loose: Vietnam",
+      "type": "game",
+      "releaseDate": "2026-08-13",
+      "developers": [
+        "expression-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation",
+        "strategy",
+        "vietnam-war-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "3079210",
+      "reviewCount": 12589,
+      "positivePercentage": 61.8
+    },
+    {
+      "id": "hokko-life",
+      "title": "Hokko Life",
+      "type": "game",
+      "releaseDate": "2022-09-27",
+      "developers": [
+        "wonderscope-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "casual",
+        "life-simulation-game",
+        "rpg",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "824000",
+      "reviewCount": 2673,
+      "positivePercentage": 66.2
+    },
+    {
+      "id": "holstin",
+      "title": "Holstin",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "sonka"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": "2235430",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "honey-i-joined-a-cult",
+      "title": "Honey, I Joined a Cult",
+      "type": "game",
+      "releaseDate": "2022-11-03",
+      "developers": [
+        "sole-survivor-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "business-simulation-game",
+        "casual",
+        "city-building-game",
+        "sandbox",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "841190",
+      "reviewCount": 1938,
+      "positivePercentage": 72.4
+    },
+    {
+      "id": "interplanetary",
+      "title": "Interplanetary",
+      "type": "game",
+      "releaseDate": "2015-05-12",
+      "developers": [
+        "team-jolly-roger"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "278910",
+      "reviewCount": 805,
+      "positivePercentage": 78.6
+    },
+    {
+      "id": "jumping-jazz-cats",
+      "title": "Jumping Jazz Cats",
+      "type": "game",
+      "releaseDate": "2025-05-20",
+      "developers": [
+        "le-catnip-collective"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "party-video-game",
+        "racing"
+      ],
+      "engines": [],
+      "steamAppId": "1951780",
+      "reviewCount": 188,
+      "positivePercentage": 76.1
+    },
+    {
+      "id": "killer-frequency",
+      "title": "Killer Frequency",
+      "type": "game",
+      "releaseDate": "2023-06-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "horror-video-game",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1903620",
+      "reviewCount": 6241,
+      "positivePercentage": 93
+    },
+    {
+      "id": "king-of-seas",
+      "title": "King of Seas",
+      "type": "game",
+      "releaseDate": "2021-05-25",
+      "developers": [
+        "3dclouds"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1209410",
+      "reviewCount": 782,
+      "positivePercentage": 58.7
+    },
+    {
+      "id": "la-cops",
+      "title": "LA Cops",
+      "type": "game",
+      "releaseDate": "2015-03-13",
+      "developers": [
+        "modern-dream"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "278810",
+      "reviewCount": 180,
+      "positivePercentage": 52.2
+    },
+    {
+      "id": "lethal-vr",
+      "title": "Lethal VR",
+      "type": "game",
+      "releaseDate": "2016-11-08",
+      "developers": [
+        "three-fields-entertainment"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "simulation"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "532270",
+      "reviewCount": 205,
+      "positivePercentage": 79.5
+    },
+    {
+      "id": "lumentale-memories-of-trey",
+      "title": "LumenTale: Memories of Trey",
+      "type": "game",
+      "releaseDate": "2026-05-26",
+      "developers": [
+        "beehive-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "rpg",
+        "turn-based-role-playing-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "2261430",
+      "reviewCount": 1379,
+      "positivePercentage": 71.6
+    },
+    {
+      "id": "main-assembly",
+      "title": "Main Assembly",
+      "type": "game",
+      "releaseDate": "2021-01-26",
+      "developers": [
+        "bad-yolk-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "simulation",
+        "vehicle-simulation-game",
+        "vehicular-combat-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1078920",
+      "reviewCount": 1354,
+      "positivePercentage": 82.9
+    },
+    {
+      "id": "marauders",
+      "title": "Marauders",
+      "type": "game",
+      "releaseDate": "2022-10-03",
+      "developers": [
+        "small-impact-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "extraction-shooter",
+        "looter-shooter"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1789480",
+      "reviewCount": 21449,
+      "positivePercentage": 67.1
+    },
+    {
+      "id": "monster-sanctuary",
+      "title": "Monster Sanctuary",
+      "type": "game",
+      "releaseDate": "2020-12-08",
+      "developers": [
+        "moi-rai-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "rpg",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "814370",
+      "reviewCount": 12704,
+      "positivePercentage": 91.2
+    },
+    {
+      "id": "moving-out",
+      "title": "Moving Out",
+      "type": "game",
+      "releaseDate": "2020-04-28",
+      "developers": [
+        "devm-games",
+        "smg-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "996770",
+      "reviewCount": 2359,
+      "positivePercentage": 80.2
+    },
+    {
+      "id": "moving-out-2",
+      "title": "Moving Out 2",
+      "type": "game",
+      "releaseDate": "2023-08-15",
+      "developers": [
+        "devm-games",
+        "smg-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1641700",
+      "reviewCount": 635,
+      "positivePercentage": 74.2
+    },
+    {
+      "id": "mugsters",
+      "title": "Mugsters",
+      "type": "game",
+      "releaseDate": "2018-07-17",
+      "developers": [
+        "reinkout-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "712180",
+      "reviewCount": 104,
+      "positivePercentage": 69.2
+    },
+    {
+      "id": "narita-boy",
+      "title": "Narita Boy",
+      "type": "game",
+      "releaseDate": "2021-03-30",
+      "developers": [
+        "studio-koba"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1069530",
+      "reviewCount": 1853,
+      "positivePercentage": 77.8
+    },
+    {
+      "id": "neon-abyss",
+      "title": "Neon Abyss",
+      "type": "game",
+      "releaseDate": "2020-07-14",
+      "developers": [
+        "veewo-games"
+      ],
+      "publishers": [
+        "team17",
+        "veewo-games"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "platformer",
+        "roguelite",
+        "rpg",
+        "shooter-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "788100",
+      "reviewCount": 23629,
+      "positivePercentage": 85.9
+    },
+    {
+      "id": "nice-day-for-fishing",
+      "title": "Nice Day for Fishing",
+      "type": "game",
+      "releaseDate": "2025-05-29",
+      "developers": [
+        "fusionplay"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "2393160",
+      "reviewCount": 3213,
+      "positivePercentage": 83.3
+    },
+    {
+      "id": "overcooked",
+      "title": "Overcooked",
+      "type": "game",
+      "releaseDate": "2016-08-03",
+      "developers": [
+        "ghost-town-games-ltd"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "448510",
+      "reviewCount": 16765,
+      "positivePercentage": 89.6
+    },
+    {
+      "id": "overcooked-2",
+      "title": "Overcooked! 2",
+      "type": "game",
+      "releaseDate": "2018-08-07",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "simulation"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "728880",
+      "reviewCount": 84605,
+      "positivePercentage": 90.4
+    },
+    {
+      "id": "overcooked-all-you-can-eat",
+      "title": "Overcooked! All You Can Eat",
+      "type": "game",
+      "releaseDate": "2021-03-23",
+      "developers": [
+        "ghost-town-games-ltd",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "party-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "1243830",
+      "reviewCount": 8303,
+      "positivePercentage": 73
+    },
+    {
+      "id": "overdrive",
+      "title": "Overdrive",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "ms-dos"
+      ],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "overruled",
+      "title": "Overruled!",
+      "type": "game",
+      "releaseDate": "2015-09-15",
+      "developers": [
+        "dlala-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "297740",
+      "reviewCount": 79,
+      "positivePercentage": 48.1
+    },
+    {
+      "id": "penarium",
+      "title": "Penarium",
+      "type": "game",
+      "releaseDate": "2015-09-22",
+      "developers": [
+        "self-made-miracle"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "307590",
+      "reviewCount": 420,
+      "positivePercentage": 83.3
+    },
+    {
+      "id": "phoenix",
+      "title": "Phoenix",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "hasbro-interactive",
+        "microprose",
+        "team17"
+      ],
+      "platforms": [],
+      "genres": [],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "planet-alpha",
+      "title": "PLANET ALPHA",
+      "type": "game",
+      "releaseDate": "2018-09-04",
+      "developers": [
+        "planet-alpha-aps"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "side-scrolling-video-game"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "485030",
+      "reviewCount": 1136,
+      "positivePercentage": 70
+    },
+    {
+      "id": "project-x",
+      "title": "Project-X",
+      "type": "game",
+      "releaseDate": "1992",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dos"
+      ],
+      "genres": [
+        "science-fiction-video-game",
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "raging-justice",
+      "title": "Raging Justice",
+      "type": "game",
+      "releaseDate": "2018-05-08",
+      "developers": [
+        "makingames-ltd"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "cocos2d"
+      ],
+      "steamAppId": "384200",
+      "reviewCount": 163,
+      "positivePercentage": 73
+    },
+    {
+      "id": "ritual-of-raven",
+      "title": "Ritual of Raven",
+      "type": "game",
+      "releaseDate": "2025-08-07",
+      "developers": [
+        "spellgarden-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2066520",
+      "reviewCount": 379,
+      "positivePercentage": 89.2
+    },
+    {
+      "id": "rogue-heroes-ruins-of-tasos",
+      "title": "Rogue Heroes: Ruins of Tasos",
+      "type": "game",
+      "releaseDate": "2021-02-23",
+      "developers": [
+        "heliocentric-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game",
+        "roguelike",
+        "rpg"
+      ],
+      "engines": [
+        "monogame"
+      ],
+      "steamAppId": "787810",
+      "reviewCount": 3723,
+      "positivePercentage": 78.1
+    },
+    {
+      "id": "rogue-point",
+      "title": "Rogue Point",
+      "type": "game",
+      "releaseDate": "2026-08-04",
+      "developers": [
+        "crowbar-collective"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1843840",
+      "reviewCount": 1231,
+      "positivePercentage": 63.9
+    },
+    {
+      "id": "sheltered",
+      "title": "Sheltered",
+      "type": "game",
+      "releaseDate": "2016-03-15",
+      "developers": [
+        "team-17-digital-ltd",
+        "unicube"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "post-apocalyptic-video-game",
+        "rpg",
+        "strategy",
+        "survival"
+      ],
+      "engines": [
+        "gamemaker"
+      ],
+      "steamAppId": "356040",
+      "reviewCount": 6288,
+      "positivePercentage": 81.7
+    },
+    {
+      "id": "sheltered-2",
+      "title": "Sheltered 2",
+      "type": "game",
+      "releaseDate": "2021-09-21",
+      "developers": [
+        "unicube"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "rpg",
+        "simulation",
+        "strategy",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": "1289380",
+      "reviewCount": 2222,
+      "positivePercentage": 45.4
+    },
+    {
+      "id": "ship-of-fools",
+      "title": "Ship of Fools",
+      "type": "game",
+      "releaseDate": "2022-11-22",
+      "developers": [
+        "fika-productions"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelike"
+      ],
+      "engines": [],
+      "steamAppId": "1286580",
+      "reviewCount": 6285,
+      "positivePercentage": 82
+    },
+    {
+      "id": "silver-pines",
+      "title": "Silver Pines",
+      "type": "game",
+      "releaseDate": "2026-10-08",
+      "developers": [
+        "wych-elm"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "metroidvania",
+        "rpg",
+        "survival-horror"
+      ],
+      "engines": [],
+      "steamAppId": "2333000",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "silverball",
+      "title": "Silverball",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "digital-extremes"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ms-dos"
+      ],
+      "genres": [
+        "sports-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "skinwalker-first-blood",
+      "title": "SKINWALKER: First Blood",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "sismo-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "2d-platform-game",
+        "action",
+        "adventure",
+        "hack-and-slash"
+      ],
+      "engines": [],
+      "steamAppId": "3086670",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "sunday-gold",
+      "title": "Sunday Gold",
+      "type": "game",
+      "releaseDate": "2022-10-13",
+      "developers": [
+        "bkom-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "point-and-click-adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1969440",
+      "reviewCount": 809,
+      "positivePercentage": 78.1
+    },
+    {
+      "id": "super-magbot",
+      "title": "Super Magbot",
+      "type": "game",
+      "releaseDate": "2021-06-22",
+      "developers": [
+        "astral-pixel"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "1205170",
+      "reviewCount": 425,
+      "positivePercentage": 84
+    },
+    {
+      "id": "super-stardust",
+      "title": "Super Stardust",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "housemarque"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "amiga-1200",
+        "amiga-cd32",
+        "dos"
+      ],
+      "genres": [
+        "shoot-em-up"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "superfrog",
+      "title": "Superfrog",
+      "type": "game",
+      "releaseDate": "1993",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dos",
+        "ios",
+        "macos"
+      ],
+      "genres": [
+        "platformer"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "sworn",
+      "title": "SWORN",
+      "type": "game",
+      "releaseDate": "2025-09-23",
+      "developers": [
+        "windwalk-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1763250",
+      "reviewCount": 5182,
+      "positivePercentage": 80.1
+    },
+    {
+      "id": "thalassa-edge-of-the-abyss",
+      "title": "Thalassa: Edge of the Abyss",
+      "type": "game",
+      "releaseDate": "2024-08-01",
+      "developers": [
+        "sarepta-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "adventure",
+        "adventure-video-game",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1783680",
+      "reviewCount": 373,
+      "positivePercentage": 88.7
+    },
+    {
+      "id": "the-escapists",
+      "title": "The Escapists",
+      "type": "game",
+      "releaseDate": "2015-02-13",
+      "developers": [
+        "mouldy-toof-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "christmas-video-game",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "298630",
+      "reviewCount": 16209,
+      "positivePercentage": 90.2
+    },
+    {
+      "id": "the-escapists-2",
+      "title": "The Escapists 2",
+      "type": "game",
+      "releaseDate": "2017-08-21",
+      "developers": [
+        "mouldy-toof-studios",
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "christmas-video-game",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "641990",
+      "reviewCount": 33846,
+      "positivePercentage": 90.6
+    },
+    {
+      "id": "the-escapists-the-walking-dead",
+      "title": "The Escapists: The Walking Dead",
+      "type": "game",
+      "releaseDate": "2015-09-30",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "388060",
+      "reviewCount": 902,
+      "positivePercentage": 64.4
+    },
+    {
+      "id": "the-knight-witch",
+      "title": "The Knight Witch",
+      "type": "game",
+      "releaseDate": "2022-11-29",
+      "developers": [
+        "super-mega-team"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "bullet-hell",
+        "metroidvania"
+      ],
+      "engines": [],
+      "steamAppId": "1872680",
+      "reviewCount": 970,
+      "positivePercentage": 72.4
+    },
+    {
+      "id": "the-serpent-rogue",
+      "title": "The Serpent Rogue",
+      "type": "game",
+      "releaseDate": "2022-04-26",
+      "developers": [
+        "sengi-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1453790",
+      "reviewCount": 331,
+      "positivePercentage": 55.6
+    },
+    {
+      "id": "the-speris-legacy",
+      "title": "The Speris Legacy",
+      "type": "game",
+      "releaseDate": "1996",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga"
+      ],
+      "genres": [
+        "action-adventure"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "the-survivalists",
+      "title": "The Survivalists",
+      "type": "game",
+      "releaseDate": "2020-10-09",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "tvos",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game",
+        "casual",
+        "rpg",
+        "survival"
+      ],
+      "engines": [],
+      "steamAppId": "897450",
+      "reviewCount": 10123,
+      "positivePercentage": 76.2
+    },
+    {
+      "id": "the-unliving",
+      "title": "The Unliving",
+      "type": "game",
+      "releaseDate": "2023-10-26",
+      "developers": [
+        "rocketbrush-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-rpg",
+        "adventure",
+        "rpg"
+      ],
+      "engines": [],
+      "steamAppId": "986040",
+      "reviewCount": 903,
+      "positivePercentage": 62.3
+    },
+    {
+      "id": "thymesia",
+      "title": "Thymesia",
+      "type": "game",
+      "releaseDate": "2022-08-18",
+      "developers": [
+        "overborder-studio"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-rpg"
+      ],
+      "engines": [],
+      "steamAppId": "1343240",
+      "reviewCount": 10179,
+      "positivePercentage": 82
+    },
+    {
+      "id": "trepang2",
+      "title": "Trepang2",
+      "type": "game",
+      "releaseDate": "2023-06-21",
+      "developers": [
+        "trepang-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "1164940",
+      "reviewCount": 19708,
+      "positivePercentage": 92.7
+    },
+    {
+      "id": "ultimate-body-blows",
+      "title": "Ultimate Body Blows",
+      "type": "game",
+      "releaseDate": "1994",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "dos"
+      ],
+      "genres": [
+        "fighting-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "warcana",
+      "title": "WARCANA",
+      "type": "game",
+      "releaseDate": "2024-08-29",
+      "developers": [
+        "1000-orks"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "real-time-strategy",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "2022930",
+      "reviewCount": 508,
+      "positivePercentage": 62.6
+    },
+    {
+      "id": "wardogs",
+      "title": "WARDOGS",
+      "type": "game",
+      "releaseDate": "2026-09-10",
+      "developers": [
+        "bulkhead"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "1867240",
+      "reviewCount": 98056,
+      "positivePercentage": 75.6
+    },
+    {
+      "id": "wardrum",
+      "title": "Wardrum",
+      "type": "game",
+      "releaseDate": "2026-05-07",
+      "developers": [
+        "mopeful-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "roguelite",
+        "rpg",
+        "strategy",
+        "turn-based-tactics"
+      ],
+      "engines": [],
+      "steamAppId": "2680670",
+      "reviewCount": 99,
+      "positivePercentage": 85.9
+    },
+    {
+      "id": "what-goes-up",
+      "title": "What Goes Up",
+      "type": "game",
+      "releaseDate": "2026",
+      "developers": [
+        "bossa-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "casual",
+        "physics-sandbox"
+      ],
+      "engines": [],
+      "steamAppId": "2987600",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "world-rally-fever",
+      "title": "World Rally Fever",
+      "type": "game",
+      "releaseDate": "1996",
+      "developers": [],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "dos"
+      ],
+      "genres": [
+        "racing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms",
+      "title": "Worms",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "atari-jaguar",
+        "commodore-amiga",
+        "dos",
+        "game-boy",
+        "game-boy-color",
+        "playstation",
+        "sega-genesis",
+        "sega-saturn",
+        "super-nintendo-entertainment-system",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70640",
+      "reviewCount": 707,
+      "positivePercentage": 83.2
+    },
+    {
+      "id": "worms-2-armageddon",
+      "title": "Worms 2: Armageddon",
+      "type": "game",
+      "releaseDate": "2009-07-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "android",
+        "ios",
+        "xbox-360"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-armageddon",
+      "title": "Worms Armageddon",
+      "type": "game",
+      "releaseDate": "2013-03-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "commodore-amiga",
+        "dreamcast",
+        "game-boy-color",
+        "nintendo-64",
+        "playstation",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "217200",
+      "reviewCount": 10955,
+      "positivePercentage": 94.3
+    },
+    {
+      "id": "worms-armageddon-anniversary-edition",
+      "title": "Worms Armageddon: Anniversary Edition",
+      "type": "game",
+      "releaseDate": "2024-09-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-blast",
+      "title": "Worms Blast",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "game-boy-advance",
+        "macos",
+        "nintendo-gamecube",
+        "playstation-2",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "casual",
+        "puzzle",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70650",
+      "reviewCount": 360,
+      "positivePercentage": 54.4
+    },
+    {
+      "id": "worms-clan-wars",
+      "title": "Worms Clan Wars",
+      "type": "game",
+      "releaseDate": "2013-08-15",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "233840",
+      "reviewCount": 3194,
+      "positivePercentage": 78.5
+    },
+    {
+      "id": "worms-crazy-golf",
+      "title": "Worms Crazy Golf",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "ios",
+        "macos",
+        "personal-computer",
+        "windows"
+      ],
+      "genres": [
+        "sports",
+        "sports-video-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70620",
+      "reviewCount": 781,
+      "positivePercentage": 79.5
+    },
+    {
+      "id": "worms-forts-3d",
+      "title": "Worms Forts 3D",
+      "type": "game",
+      "releaseDate": "2005",
+      "developers": [
+        "thq-wireless"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "java-platform-micro-edition",
+        "symbian"
+      ],
+      "genres": [
+        "artillery-game",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-galactic-tactics",
+      "title": "Worms: Galactic Tactics",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "absolutely-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "strategy",
+        "turn-based-tactics"
+      ],
+      "engines": [],
+      "steamAppId": "3278930",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
+      "id": "worms-pinball",
+      "title": "Worms Pinball",
+      "type": "game",
+      "releaseDate": "2011-10-19",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "pinball-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "70660",
+      "reviewCount": 524,
+      "positivePercentage": 53.2
+    },
+    {
+      "id": "worms-reloaded",
+      "title": "Worms Reloaded",
+      "type": "game",
+      "releaseDate": "2010-08-26",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "22600",
+      "reviewCount": 5101,
+      "positivePercentage": 87.2
+    },
+    {
+      "id": "worms-revolution",
+      "title": "Worms Revolution",
+      "type": "game",
+      "releaseDate": "2012-10-10",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "macos",
+        "playstation-3",
+        "playstation-portable",
+        "playstation-vita",
+        "windows"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "200170",
+      "reviewCount": 9130,
+      "positivePercentage": 87.2
+    },
+    {
+      "id": "worms-rumble",
+      "title": "Worms Rumble",
+      "type": "game",
+      "releaseDate": "2020-12-01",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [
+        "unreal-engine"
+      ],
+      "steamAppId": "1186040",
+      "reviewCount": 2488,
+      "positivePercentage": 56.5
+    },
+    {
+      "id": "worms-ultimate-mayhem",
+      "title": "Worms Ultimate Mayhem",
+      "type": "game",
+      "releaseDate": "2011-09-28",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "playstation-3",
+        "playstation-portable",
+        "windows",
+        "xbox-360"
+      ],
+      "genres": [
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "70600",
+      "reviewCount": 6269,
+      "positivePercentage": 88.6
+    },
+    {
+      "id": "worms-w-m-d",
+      "title": "Worms W.M.D",
+      "type": "game",
+      "releaseDate": "2016-08-23",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "327030",
+      "reviewCount": 14973,
+      "positivePercentage": 85.1
+    },
+    {
+      "id": "worms-world-party-remastered",
+      "title": "Worms World Party Remastered",
+      "type": "game",
+      "releaseDate": "2015-07-16",
+      "developers": [
+        "team17"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "artillery-game",
+        "strategy",
+        "turn-based-strategy-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "270910",
+      "reviewCount": 1865,
+      "positivePercentage": 49.7
+    },
+    {
+      "id": "yokus-island-express",
+      "title": "Yoku's Island Express",
+      "type": "game",
+      "releaseDate": "2018-05-29",
+      "developers": [
+        "villa-gorilla"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "adventure",
+        "metroidvania",
+        "pinball-video-game"
+      ],
+      "engines": [],
+      "steamAppId": "334940",
+      "reviewCount": 5337,
+      "positivePercentage": 95.7
+    }
+  ]
+}

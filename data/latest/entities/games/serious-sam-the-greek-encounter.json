@@ -1,0 +1,78 @@
+{
+  "id": "serious-sam-the-greek-encounter",
+  "title": "Serious Sam: The Greek Encounter",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2012",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "released",
+  "developers": [],
+  "publishers": [
+    "devolver-digital"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "twin-stick-shooter"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q60582058",
+    "igdb": "serious-sam-the-greek-encounter"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60582058"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [
+      {
+        "id": "gamemaker",
+        "confidence": "medium",
+        "source": {
+          "type": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q60582058",
+          "retrievedAt": "2026-09-30"
+        }
+      }
+    ],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": {
+    "id": "serious-sam",
+    "name": "Serious Sam"
+  },
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q60582058",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

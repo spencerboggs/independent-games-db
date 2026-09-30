@@ -1,0 +1,75 @@
+{
+  "id": "team-wiby",
+  "name": "Team WIBY",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "Australian indie game development studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q108027688",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "x": "https://x.com/teamwiby"
+  },
+  "location": {
+    "headquarters": null,
+    "country": "AU",
+    "countryName": "Australia"
+  },
+  "founded": 2018,
+  "foundedDate": "2018",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q108027688",
+    "igdb": "team-wiby"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "phantom-abyss"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 2239,
+    "averagePositivePercentage": 81.2,
+    "weightedPositivePercentage": 81.2,
+    "mostReviewedGame": "phantom-abyss",
+    "mostRecentRelease": "phantom-abyss",
+    "firstRelease": "phantom-abyss",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q108027688",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

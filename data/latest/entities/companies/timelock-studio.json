@@ -1,0 +1,74 @@
+{
+  "id": "timelock-studio",
+  "name": "Timelock Studio",
+  "aliases": [],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q121306865",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": null,
+  "socialLinks": {
+    "youtube": "https://www.youtube.com/channel/UCJAeviHqWmjy1x34mQg7Ikg"
+  },
+  "location": {
+    "headquarters": null,
+    "country": null,
+    "countryName": null
+  },
+  "founded": 2022,
+  "foundedDate": "2022",
+  "ownership": {
+    "status": "subsidiary",
+    "parentCompany": "croteam",
+    "parentCompanyName": "Croteam",
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q121306865"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "serious-sam-siberian-mayhem"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 5262,
+    "averagePositivePercentage": 92.2,
+    "weightedPositivePercentage": 92.2,
+    "mostReviewedGame": "serious-sam-siberian-mayhem",
+    "mostRecentRelease": "serious-sam-siberian-mayhem",
+    "firstRelease": "serious-sam-siberian-mayhem",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q121306865",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

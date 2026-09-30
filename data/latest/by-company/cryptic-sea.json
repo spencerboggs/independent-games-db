@@ -1,0 +1,32 @@
+{
+  "id": "cryptic-sea",
+  "name": "Cryptic Sea",
+  "developed": [
+    {
+      "id": "sub-rosa",
+      "title": "Sub Rosa",
+      "type": "game",
+      "releaseDate": "2021-03-25",
+      "developers": [
+        "cryptic-sea"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "first-person-shooter",
+        "mmo"
+      ],
+      "engines": [],
+      "steamAppId": "272230",
+      "reviewCount": 3391,
+      "positivePercentage": 69
+    }
+  ],
+  "published": []
+}

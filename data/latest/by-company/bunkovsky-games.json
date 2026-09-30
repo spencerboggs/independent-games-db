@@ -1,0 +1,35 @@
+{
+  "id": "bunkovsky-games",
+  "name": "Bunkovsky Games",
+  "developed": [
+    {
+      "id": "rise-of-the-slime",
+      "title": "Rise of the Slime",
+      "type": "game",
+      "releaseDate": "2021-05-20",
+      "developers": [
+        "bunkovsky-games"
+      ],
+      "publishers": [
+        "playstack"
+      ],
+      "platforms": [
+        "playstation-4",
+        "playstation-5",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "collectible-card-video-game",
+        "roguelike",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "826740",
+      "reviewCount": 147,
+      "positivePercentage": 61.2
+    }
+  ],
+  "published": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hidden-fields",
+  "name": "Hidden Fields",
+  "developed": [
+    {
+      "id": "mundaun",
+      "title": "Mundaun",
+      "type": "game",
+      "releaseDate": "2021-03-16",
+      "developers": [
+        "hidden-fields"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "playstation-5",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "adventure-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "720350",
+      "reviewCount": 1516,
+      "positivePercentage": 93.3
+    }
+  ],
+  "published": []
+}

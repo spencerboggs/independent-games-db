@@ -1,0 +1,31 @@
+{
+  "id": "dlala-studios",
+  "name": "Dlala Studios",
+  "developed": [
+    {
+      "id": "overruled",
+      "title": "Overruled!",
+      "type": "game",
+      "releaseDate": "2015-09-15",
+      "developers": [
+        "dlala-studios"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "linux",
+        "macos",
+        "windows"
+      ],
+      "genres": [
+        "action"
+      ],
+      "engines": [],
+      "steamAppId": "297740",
+      "reviewCount": 79,
+      "positivePercentage": 48.1
+    }
+  ],
+  "published": []
+}

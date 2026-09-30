@@ -1,0 +1,77 @@
+{
+  "id": "terrible-toybox",
+  "name": "Terrible Toybox",
+  "aliases": [
+    "Terrible Toybox, Inc."
+  ],
+  "roles": [
+    "developer"
+  ],
+  "description": {
+    "source": {
+      "text": "American video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q32860749",
+        "retrievedAt": "2026-09-30"
+      }
+    },
+    "custom": null
+  },
+  "website": "https://terribletoybox.com/",
+  "socialLinks": {
+    "x": "https://x.com/terribletoybox"
+  },
+  "location": {
+    "headquarters": "Seattle",
+    "country": "US",
+    "countryName": "United States"
+  },
+  "founded": 2015,
+  "foundedDate": "2015-12-02",
+  "ownership": {
+    "status": "unknown",
+    "parentCompany": null,
+    "parentCompanyName": null,
+    "notes": null
+  },
+  "externalIds": {
+    "wikidata": "Q32860749",
+    "igdb": "terrible-toybox"
+  },
+  "logo": null,
+  "classification": {
+    "include": false,
+    "category": "unclassified",
+    "notes": ""
+  },
+  "games": {
+    "developed": [
+      "return-to-monkey-island"
+    ],
+    "published": []
+  },
+  "statistics": {
+    "gameCount": 1,
+    "developedCount": 1,
+    "publishedCount": 0,
+    "totalSteamReviews": 9117,
+    "averagePositivePercentage": 91.1,
+    "weightedPositivePercentage": 91.1,
+    "mostReviewedGame": "return-to-monkey-island",
+    "mostRecentRelease": "return-to-monkey-island",
+    "firstRelease": "return-to-monkey-island",
+    "technologyCount": 0,
+    "engineCount": 0,
+    "engines": []
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q32860749",
+      "retrievedAt": "2026-09-30"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

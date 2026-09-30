@@ -1,0 +1,60 @@
+{
+  "id": "deadtoast-entertainment",
+  "name": "DeadToast Entertainment",
+  "developed": [
+    {
+      "id": "my-friend-pedro",
+      "title": "My Friend Pedro",
+      "type": "game",
+      "releaseDate": "2019-06-20",
+      "developers": [
+        "deadtoast-entertainment"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "ios",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one"
+      ],
+      "genres": [
+        "action",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "557340",
+      "reviewCount": 28515,
+      "positivePercentage": 95.5
+    },
+    {
+      "id": "shotgun-cop-man",
+      "title": "Shotgun Cop Man",
+      "type": "game",
+      "releaseDate": "2025-05-01",
+      "developers": [
+        "deadtoast-entertainment"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "precision-platformer"
+      ],
+      "engines": [],
+      "steamAppId": "2966850",
+      "reviewCount": 710,
+      "positivePercentage": 96.8
+    }
+  ],
+  "published": []
+}

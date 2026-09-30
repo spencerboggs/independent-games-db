@@ -1,0 +1,69 @@
+{
+  "id": "mobius-digital",
+  "name": "Mobius Digital",
+  "developed": [
+    {
+      "id": "outer-wilds",
+      "title": "Outer Wilds",
+      "type": "game",
+      "releaseDate": "2020-06-18",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "macos",
+        "nintendo-switch",
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure",
+        "metroidbrainia",
+        "science-fiction-video-game"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "753640",
+      "reviewCount": 108571,
+      "positivePercentage": 95.6
+    },
+    {
+      "id": "outer-wilds-echoes-of-the-eye",
+      "title": "Outer Wilds - Echoes of the Eye",
+      "type": "dlc",
+      "releaseDate": "2021-09-28",
+      "developers": [
+        "mobius-digital"
+      ],
+      "publishers": [
+        "annapurna-interactive"
+      ],
+      "platforms": [
+        "playstation-4",
+        "windows",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "1622100",
+      "reviewCount": 6540,
+      "positivePercentage": 90.3
+    }
+  ],
+  "published": []
+}

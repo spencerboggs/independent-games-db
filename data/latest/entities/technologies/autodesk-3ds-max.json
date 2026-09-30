@@ -1,0 +1,35 @@
+{
+  "id": "autodesk-3ds-max",
+  "name": "Autodesk 3ds Max",
+  "aliases": [
+    "3D Studio Max",
+    "3ds Max"
+  ],
+  "category": "tool",
+  "subcategory": "3d-modeling",
+  "developer": "Autodesk",
+  "website": null,
+  "license": "proprietary",
+  "description": {
+    "source": null,
+    "custom": null
+  },
+  "externalIds": {
+    "wikidata": "Q212324"
+  },
+  "games": [],
+  "statistics": {
+    "gameCount": 0,
+    "companyCount": 0,
+    "totalSteamReviews": 0,
+    "mostReviewedGames": [],
+    "mostPlayedGames": [],
+    "gamesByReleaseYear": {}
+  },
+  "sources": [
+    {
+      "type": "manual"
+    }
+  ],
+  "lastUpdated": "2026-09-30T09:34:48.857Z"
+}

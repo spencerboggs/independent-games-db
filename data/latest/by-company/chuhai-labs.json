@@ -1,0 +1,30 @@
+{
+  "id": "chuhai-labs",
+  "name": "Chuhai Labs",
+  "developed": [
+    {
+      "id": "whitewater-wipeout",
+      "title": "Whitewater Wipeout",
+      "type": "game",
+      "releaseDate": "2022-04-18",
+      "developers": [
+        "chuhai-labs"
+      ],
+      "publishers": [
+        "panic"
+      ],
+      "platforms": [
+        "playdate"
+      ],
+      "genres": [
+        "sports-video-game",
+        "surfing-video-game"
+      ],
+      "engines": [],
+      "steamAppId": null,
+      "reviewCount": null,
+      "positivePercentage": null
+    }
+  ],
+  "published": []
+}
