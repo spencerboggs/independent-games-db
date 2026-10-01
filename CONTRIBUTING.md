@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping. This dataset is generated automatically but curated by people, and good contributions are small, sourced edits to the files humans own.
+Thanks for helping! This dataset is generated automatically but curated by people. Please keep contributions to small, well-sourced edits to data maintained by contributors.
 
 ## The golden rule
 
