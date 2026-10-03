@@ -2970,19 +2970,5 @@
       },
       "unmatched": []
     }
-  },
-  {
-    "kind": "unmatched-technology",
-    "entityType": "technology",
-    "subject": "unity-2018",
-    "related": [
-      "risk-of-rain-2"
-    ],
-    "message": "wikidata reports technology \"Unity 2018\" which is not in data/seeds/technologies.yaml",
-    "details": {
-      "name": "Unity 2018",
-      "role": "engines",
-      "source": "wikidata"
-    }
   }
 ]

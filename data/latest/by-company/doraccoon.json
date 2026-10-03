@@ -14,6 +14,7 @@
         "playstack"
       ],
       "platforms": [
+        "macos",
         "windows"
       ],
       "genres": [
@@ -24,7 +25,7 @@
       ],
       "engines": [],
       "steamAppId": "3784030",
-      "reviewCount": 4674,
+      "reviewCount": 4683,
       "positivePercentage": 82.4
     }
   ],
