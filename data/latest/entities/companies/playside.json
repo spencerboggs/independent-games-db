@@ -1,20 +1,30 @@
 {
   "id": "playside",
-  "name": "PlaySide",
-  "aliases": [],
+  "name": "PlaySide Studios",
+  "aliases": [
+    "PlaySide"
+  ],
   "roles": [
     "publisher"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "Australian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q109610462",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
+  "website": "https://www.playsidestudios.com/",
   "socialLinks": {},
   "location": {
     "headquarters": null,
-    "country": null,
-    "countryName": null
+    "country": "AU",
+    "countryName": "Australia"
   },
   "founded": null,
   "foundedDate": null,
@@ -24,7 +34,10 @@
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q109610462",
+    "igdb": "playside"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -41,7 +54,7 @@
     "gameCount": 1,
     "developedCount": 0,
     "publishedCount": 1,
-    "totalSteamReviews": 15864,
+    "totalSteamReviews": 15976,
     "averagePositivePercentage": 93.8,
     "weightedPositivePercentage": 93.8,
     "mostReviewedGame": "mouse-p-i-for-hire",
@@ -53,6 +66,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T10:41:54.255Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109610462",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

@@ -2,34 +2,13 @@
   {
     "kind": "ambiguous-match",
     "entityType": "company",
-    "subject": "fumi-games",
-    "related": [],
-    "field": "externalIds",
-    "message": "Seed has no wikidata ID; found 0 candidates.",
+    "subject": "croteam",
+    "related": [
+      "croteam-vr"
+    ],
+    "message": "\"Croteam VR\" matches several companies; chose croteam",
     "details": {
-      "candidates": []
-    }
-  },
-  {
-    "kind": "ambiguous-match",
-    "entityType": "company",
-    "subject": "nuggets-entertainment",
-    "related": [],
-    "field": "externalIds",
-    "message": "Seed has no wikidata ID; found 0 candidates.",
-    "details": {
-      "candidates": []
-    }
-  },
-  {
-    "kind": "ambiguous-match",
-    "entityType": "company",
-    "subject": "sidekick-publishing",
-    "related": [],
-    "field": "externalIds",
-    "message": "Seed has no wikidata ID; found 0 candidates.",
-    "details": {
-      "candidates": []
+      "name": "Croteam VR"
     }
   },
   {
@@ -78,46 +57,6 @@
         ]
       },
       "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "age-of-darkness-final-stand",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Age of Darkness: Final Stand\" (\"PlaySide Studios\" may be playside)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "PlaySide"
-        ],
-        "ids": [
-          "playside"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "PlaySide Studios"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "PlaySide Studios",
-          "ids": {
-            "wikidata": "Q109610462"
-          },
-          "suggestions": [
-            {
-              "id": "playside",
-              "name": "PlaySide",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
     }
   },
   {
@@ -220,7 +159,7 @@
           "MicroProse Software"
         ],
         "ids": [
-          "microprose-software"
+          "microprose"
         ]
       },
       "other": {
@@ -313,7 +252,9 @@
     "kind": "source-conflict",
     "entityType": "game",
     "subject": "beyond-divinity",
-    "related": [],
+    "related": [
+      "focus-entertainment"
+    ],
     "field": "publishers",
     "message": "steam and wikidata disagree on publishers for \"Beyond Divinity\"",
     "details": {
@@ -329,18 +270,10 @@
       "other": {
         "source": "wikidata",
         "value": [
-          "PulluP Entertainment"
+          "Focus Entertainment"
         ]
       },
-      "unmatched": [
-        {
-          "name": "PulluP Entertainment",
-          "ids": {
-            "wikidata": "Q921944"
-          },
-          "suggestions": []
-        }
-      ]
+      "unmatched": []
     }
   },
   {
@@ -371,89 +304,6 @@
         ]
       },
       "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "brotato",
-    "related": [
-      "evil-empire"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Brotato\" (\"Blobfish Games\" may be blobfish)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Blobfish"
-        ],
-        "ids": [
-          "blobfish"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Blobfish Games",
-          "Evil Empire"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Blobfish Games",
-          "ids": {
-            "wikidata": "Q125450618"
-          },
-          "suggestions": [
-            {
-              "id": "blobfish",
-              "name": "Blobfish",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "brotato",
-    "related": [],
-    "field": "publishers",
-    "message": "steam and wikidata disagree on publishers for \"Brotato\" (\"Blobfish Games\" may be blobfish)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Blobfish"
-        ],
-        "ids": [
-          "blobfish"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Blobfish Games"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Blobfish Games",
-          "ids": {
-            "wikidata": "Q125450618"
-          },
-          "suggestions": [
-            {
-              "id": "blobfish",
-              "name": "Blobfish",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
     }
   },
   {
@@ -997,46 +847,6 @@
     "kind": "source-conflict",
     "entityType": "game",
     "subject": "forged-battalion",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Forged Battalion\" (\"Petroglyph Games\" may be petroglyph)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Petroglyph"
-        ],
-        "ids": [
-          "petroglyph"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Petroglyph Games"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Petroglyph Games",
-          "ids": {
-            "wikidata": "Q655493"
-          },
-          "suggestions": [
-            {
-              "id": "petroglyph",
-              "name": "Petroglyph",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "forged-battalion",
     "related": [
       "team17"
     ],
@@ -1204,46 +1014,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "heave-ho",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Heave Ho\" (\"Le Cartel\" may be le-cartel-studio)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Le Cartel Studio"
-        ],
-        "ids": [
-          "le-cartel-studio"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Le Cartel"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Le Cartel",
-          "ids": {
-            "wikidata": "Q66956879"
-          },
-          "suggestions": [
-            {
-              "id": "le-cartel-studio",
-              "name": "Le Cartel Studio",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "hell-let-loose",
     "related": [],
     "field": "developers",
@@ -1278,90 +1048,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "hokko-life",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Hokko Life\" (\"Wonderscope\" may be wonderscope-games)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Wonderscope Games"
-        ],
-        "ids": [
-          "wonderscope-games"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Wonderscope"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Wonderscope",
-          "ids": {
-            "wikidata": "Q114244646"
-          },
-          "suggestions": [
-            {
-              "id": "wonderscope-games",
-              "name": "Wonderscope Games",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "i-hate-running-backwards",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"I Hate Running Backwards\" (\"Binx Interactive\" may be binx-games)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Binx Games",
-          "Croteam Incubator",
-          "Croteam"
-        ],
-        "ids": [
-          "binx-games",
-          "croteam",
-          "croteam-incubator"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Binx Interactive"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Binx Interactive",
-          "ids": {
-            "wikidata": "Q101617829"
-          },
-          "suggestions": [
-            {
-              "id": "binx-games",
-              "name": "Binx Games",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "kill-knight",
     "related": [
       "evil-empire"
@@ -1385,46 +1071,6 @@
         ]
       },
       "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "kill-knight",
-    "related": [],
-    "field": "publishers",
-    "message": "steam and wikidata disagree on publishers for \"KILL KNIGHT\" (\"PlaySide Studios\" may be playside)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "PlaySide"
-        ],
-        "ids": [
-          "playside"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "PlaySide Studios"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "PlaySide Studios",
-          "ids": {
-            "wikidata": "Q109610462"
-          },
-          "suggestions": [
-            {
-              "id": "playside",
-              "name": "PlaySide",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
     }
   },
   {
@@ -1539,7 +1185,7 @@
           "IonFX Studios"
         ],
         "ids": [
-          "ionfx-studios"
+          "ionfx"
         ]
       },
       "other": {
@@ -1691,86 +1337,6 @@
             "wikidata": "Q60691036"
           },
           "suggestions": []
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "mother-russia-bleeds",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Mother Russia Bleeds\" (\"Le Cartel\" may be le-cartel-studio)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Le Cartel Studio"
-        ],
-        "ids": [
-          "le-cartel-studio"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Le Cartel"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Le Cartel",
-          "ids": {
-            "wikidata": "Q66956879"
-          },
-          "suggestions": [
-            {
-              "id": "le-cartel-studio",
-              "name": "Le Cartel Studio",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "mouse-p-i-for-hire",
-    "related": [],
-    "field": "publishers",
-    "message": "steam and wikidata disagree on publishers for \"MOUSE: P.I. For Hire\" (\"PlaySide Studios\" may be playside)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "PlaySide"
-        ],
-        "ids": [
-          "playside"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "PlaySide Studios"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "PlaySide Studios",
-          "ids": {
-            "wikidata": "Q109610462"
-          },
-          "suggestions": [
-            {
-              "id": "playside",
-              "name": "PlaySide",
-              "score": 0.95
-            }
-          ]
         }
       ]
     }
@@ -2152,178 +1718,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "serious-sam-3-vr-bfe",
-    "related": [
-      "croteam"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Serious Sam 3 VR: BFE\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Croteam VR"
-        ],
-        "ids": [
-          "croteam-vr"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Croteam"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "serious-sam-tormental",
-    "related": [
-      "gungrounds"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Serious Sam: Tormental\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Gungrounds (Macanga Games j.d.o.o.)",
-          "Croteam"
-        ],
-        "ids": [
-          "croteam",
-          "gungrounds-macanga-games-j-d-o-o"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Gungrounds"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "serious-sam-vr-the-first-encounter",
-    "related": [
-      "croteam"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The First Encounter\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Croteam VR"
-        ],
-        "ids": [
-          "croteam-vr"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Croteam"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "serious-sam-vr-the-last-hope",
-    "related": [
-      "croteam"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The Last Hope\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Croteam VR"
-        ],
-        "ids": [
-          "croteam-vr"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Croteam"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "serious-sam-vr-the-second-encounter",
-    "related": [
-      "croteam"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Serious Sam VR: The Second Encounter\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Croteam VR"
-        ],
-        "ids": [
-          "croteam-vr"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Croteam"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "sheltered",
-    "related": [
-      "team17"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Sheltered\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Unicube",
-          "Team 17 Digital Ltd"
-        ],
-        "ids": [
-          "team-17-digital-ltd",
-          "unicube"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Team17"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "slay-the-spire",
     "related": [],
     "field": "publishers",
@@ -2476,46 +1870,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "tentacular",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Tentacular\" (\"Firepunchd\" may be firepunchd-games-ug)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Firepunchd Games UG"
-        ],
-        "ids": [
-          "firepunchd-games-ug"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Firepunchd"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Firepunchd",
-          "ids": {
-            "wikidata": "Q111053350"
-          },
-          "suggestions": [
-            {
-              "id": "firepunchd-games-ug",
-              "name": "Firepunchd Games UG",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "the-knight-witch",
     "related": [],
     "field": "developers",
@@ -2550,114 +1904,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "the-messenger-picnic-panic-dlc",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"The Messenger - Picnic Panic DLC\" (\"Sabotage Studio\" may be sabotage)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Sabotage"
-        ],
-        "ids": [
-          "sabotage"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Sabotage Studio"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Sabotage Studio",
-          "ids": {
-            "wikidata": "Q122277804"
-          },
-          "suggestions": [
-            {
-              "id": "sabotage",
-              "name": "Sabotage",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "the-messenger",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"The Messenger\" (\"Sabotage Studio\" may be sabotage)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Sabotage"
-        ],
-        "ids": [
-          "sabotage"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Sabotage Studio"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Sabotage Studio",
-          "ids": {
-            "wikidata": "Q122277804"
-          },
-          "suggestions": [
-            {
-              "id": "sabotage",
-              "name": "Sabotage",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "the-talos-principle-vr",
-    "related": [
-      "croteam"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"The Talos Principle VR\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Croteam VR"
-        ],
-        "ids": [
-          "croteam-vr"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Croteam"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "the-westport-independent",
     "related": [
       "coffee-stain-studios"
@@ -2687,46 +1933,6 @@
     "kind": "source-conflict",
     "entityType": "game",
     "subject": "valheim",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"Valheim\" (\"Iron Gate Studio\" may be iron-gate-ab)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Iron Gate AB"
-        ],
-        "ids": [
-          "iron-gate-ab"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Iron Gate Studio"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Iron Gate Studio",
-          "ids": {
-            "wikidata": "Q105725001"
-          },
-          "suggestions": [
-            {
-              "id": "iron-gate-ab",
-              "name": "Iron Gate AB",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "valheim",
     "related": [
       "coffee-stain-studios"
     ],
@@ -2749,86 +1955,6 @@
         ]
       },
       "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "wardogs",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"WARDOGS\" (\"Bulkhead Interactive\" may be bulkhead)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "BULKHEAD"
-        ],
-        "ids": [
-          "bulkhead"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Bulkhead Interactive"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Bulkhead Interactive",
-          "ids": {
-            "wikidata": "Q141493974"
-          },
-          "suggestions": [
-            {
-              "id": "bulkhead",
-              "name": "BULKHEAD",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
-    "subject": "what-goes-up",
-    "related": [],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"What Goes Up\" (\"Bossa Studios\" may be bossa-games)",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "Bossa Games"
-        ],
-        "ids": [
-          "bossa-games"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Bossa Studios"
-        ]
-      },
-      "unmatched": [
-        {
-          "name": "Bossa Studios",
-          "ids": {
-            "wikidata": "Q4947547"
-          },
-          "suggestions": [
-            {
-              "id": "bossa-games",
-              "name": "Bossa Games",
-              "score": 0.95
-            }
-          ]
-        }
-      ]
     }
   },
   {
@@ -2969,20 +2095,6 @@
         ]
       },
       "unmatched": []
-    }
-  },
-  {
-    "kind": "unmatched-technology",
-    "entityType": "technology",
-    "subject": "unity-2018",
-    "related": [
-      "risk-of-rain-2"
-    ],
-    "message": "wikidata reports technology \"Unity 2018\" which is not in data/seeds/technologies.yaml",
-    "details": {
-      "name": "Unity 2018",
-      "role": "engines",
-      "source": "wikidata"
     }
   }
 ]

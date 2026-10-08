@@ -1,30 +1,46 @@
 {
   "id": "firepunchd-games-ug",
-  "name": "Firepunchd Games UG",
-  "aliases": [],
+  "name": "Firepunchd",
+  "aliases": [
+    "Fire Punchd",
+    "Firepunchd Games",
+    "Firepunchd Games UG"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q111053350",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
-  "socialLinks": {},
-  "location": {
-    "headquarters": null,
-    "country": null,
-    "countryName": null
+  "website": "https://firepunchd.com",
+  "socialLinks": {
+    "x": "https://x.com/firepunchd"
   },
-  "founded": null,
-  "foundedDate": null,
+  "location": {
+    "headquarters": "Berlin",
+    "country": "DE",
+    "countryName": "Germany"
+  },
+  "founded": 2015,
+  "foundedDate": "2015",
   "ownership": {
     "status": "unknown",
     "parentCompany": null,
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q111053350"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -53,6 +69,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111053350",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

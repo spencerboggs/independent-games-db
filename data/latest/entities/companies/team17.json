@@ -4,6 +4,7 @@
   "aliases": [
     "17-Bit Software",
     "Team 17",
+    "Team 17 Digital Ltd",
     "Team17 Digital",
     "Team17 Digital Limited",
     "Team17 Digital Ltd",
@@ -20,7 +21,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q1384984",
-        "retrievedAt": "2026-09-30"
+        "retrievedAt": "2026-10-08"
       }
     },
     "custom": null
@@ -80,6 +81,7 @@
       "overcooked-all-you-can-eat",
       "phoenix",
       "project-x",
+      "sheltered",
       "stunt-gp",
       "superfrog",
       "the-escapists-2",
@@ -240,11 +242,11 @@
   },
   "statistics": {
     "gameCount": 145,
-    "developedCount": 58,
+    "developedCount": 59,
     "publishedCount": 121,
-    "totalSteamReviews": 908198,
+    "totalSteamReviews": 921208,
     "averagePositivePercentage": 75.9,
-    "weightedPositivePercentage": 84.2,
+    "weightedPositivePercentage": 83.9,
     "mostReviewedGame": "hell-let-loose",
     "mostRecentRelease": "wardogs",
     "firstRelease": "alien-breed",
@@ -262,11 +264,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q1384984",
-      "retrievedAt": "2026-09-30"
+      "retrievedAt": "2026-10-08"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

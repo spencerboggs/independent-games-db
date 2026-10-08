@@ -1,20 +1,31 @@
 {
   "id": "wonderscope-games",
-  "name": "Wonderscope Games",
-  "aliases": [],
+  "name": "Wonderscope",
+  "aliases": [
+    "Wonderscope AB",
+    "Wonderscope Games"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "Swedish video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q114244646",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
+  "website": "https://wonderscope.games/",
   "socialLinks": {},
   "location": {
-    "headquarters": null,
-    "country": null,
-    "countryName": null
+    "headquarters": "Stockholm",
+    "country": "SE",
+    "countryName": "Sweden"
   },
   "founded": null,
   "foundedDate": null,
@@ -24,7 +35,9 @@
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q114244646"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -41,7 +54,7 @@
     "gameCount": 1,
     "developedCount": 1,
     "publishedCount": 0,
-    "totalSteamReviews": 2673,
+    "totalSteamReviews": 2670,
     "averagePositivePercentage": 66.2,
     "weightedPositivePercentage": 66.2,
     "mostReviewedGame": "hokko-life",
@@ -53,6 +66,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114244646",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

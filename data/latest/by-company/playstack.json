@@ -62,7 +62,7 @@
         "love2d"
       ],
       "steamAppId": "2379780",
-      "reviewCount": 199214,
+      "reviewCount": 199634,
       "positivePercentage": 97.8
     },
     {
@@ -132,8 +132,8 @@
       ],
       "engines": [],
       "steamAppId": "1075400",
-      "reviewCount": 282,
-      "positivePercentage": 63.5
+      "reviewCount": 283,
+      "positivePercentage": 63.6
     },
     {
       "id": "mortal-shell",
@@ -161,8 +161,8 @@
         "unreal-engine"
       ],
       "steamAppId": "1110910",
-      "reviewCount": 12066,
-      "positivePercentage": 67.3
+      "reviewCount": 12082,
+      "positivePercentage": 67.4
     },
     {
       "id": "mortal-shell-enhanced-edition",
@@ -214,8 +214,8 @@
       ],
       "engines": [],
       "steamAppId": "2584270",
-      "reviewCount": 21308,
-      "positivePercentage": 78.9
+      "reviewCount": 21672,
+      "positivePercentage": 79
     },
     {
       "id": "one-move-away",
@@ -241,8 +241,8 @@
       ],
       "engines": [],
       "steamAppId": "3172440",
-      "reviewCount": 81,
-      "positivePercentage": 75.3
+      "reviewCount": 82,
+      "positivePercentage": 74.4
     },
     {
       "id": "raccoin-coin-pusher-roguelike",
@@ -256,6 +256,7 @@
         "playstack"
       ],
       "platforms": [
+        "macos",
         "windows"
       ],
       "genres": [
@@ -266,7 +267,7 @@
       ],
       "engines": [],
       "steamAppId": "3784030",
-      "reviewCount": 4674,
+      "reviewCount": 4706,
       "positivePercentage": 82.4
     },
     {
@@ -377,7 +378,7 @@
         "godot"
       ],
       "steamAppId": "1677770",
-      "reviewCount": 11014,
+      "reviewCount": 11054,
       "positivePercentage": 97.8
     },
     {
@@ -406,7 +407,7 @@
       ],
       "engines": [],
       "steamAppId": "1730590",
-      "reviewCount": 4470,
+      "reviewCount": 4476,
       "positivePercentage": 89
     },
     {
@@ -437,7 +438,7 @@
         "unity"
       ],
       "steamAppId": "1274600",
-      "reviewCount": 5696,
+      "reviewCount": 5709,
       "positivePercentage": 84.6
     },
     {
@@ -470,8 +471,8 @@
         "godot"
       ],
       "steamAppId": "2716400",
-      "reviewCount": 4156,
-      "positivePercentage": 92.6
+      "reviewCount": 4172,
+      "positivePercentage": 92.5
     },
     {
       "id": "unbeatable",
@@ -495,7 +496,7 @@
       ],
       "engines": [],
       "steamAppId": "2240620",
-      "reviewCount": 7802,
+      "reviewCount": 7869,
       "positivePercentage": 92.4
     },
     {
@@ -524,8 +525,8 @@
       ],
       "engines": [],
       "steamAppId": "2615540",
-      "reviewCount": 2755,
-      "positivePercentage": 91.5
+      "reviewCount": 2769,
+      "positivePercentage": 91.6
     }
   ]
 }
