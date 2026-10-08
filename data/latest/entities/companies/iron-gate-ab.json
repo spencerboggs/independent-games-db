@@ -1,30 +1,42 @@
 {
   "id": "iron-gate-ab",
-  "name": "Iron Gate AB",
-  "aliases": [],
+  "name": "Iron Gate Studio",
+  "aliases": [
+    "Iron Gate AB"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "Swedish game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q105725001",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
+  "website": "https://irongatestudio.se/",
   "socialLinks": {},
   "location": {
     "headquarters": null,
-    "country": null,
-    "countryName": null
+    "country": "SE",
+    "countryName": "Sweden"
   },
-  "founded": null,
-  "foundedDate": null,
+  "founded": 2019,
+  "foundedDate": "2019-04",
   "ownership": {
-    "status": "unknown",
-    "parentCompany": null,
-    "parentCompanyName": null,
+    "status": "subsidiary",
+    "parentCompany": "coffee-stain-studios",
+    "parentCompanyName": "Coffee Stain Studios",
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q105725001"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -41,9 +53,9 @@
     "gameCount": 1,
     "developedCount": 1,
     "publishedCount": 0,
-    "totalSteamReviews": 555550,
-    "averagePositivePercentage": 93.7,
-    "weightedPositivePercentage": 93.7,
+    "totalSteamReviews": 558222,
+    "averagePositivePercentage": 93.6,
+    "weightedPositivePercentage": 93.6,
     "mostReviewedGame": "valheim",
     "mostRecentRelease": "valheim",
     "firstRelease": "valheim",
@@ -53,6 +65,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105725001",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

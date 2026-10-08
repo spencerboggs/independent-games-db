@@ -1,20 +1,32 @@
 {
   "id": "binx-games",
-  "name": "Binx Games",
-  "aliases": [],
+  "name": "Binx Interactive",
+  "aliases": [
+    "Binx Games"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "Video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q101617829",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
-  "socialLinks": {},
+  "website": "https://www.binxinteractive.com/",
+  "socialLinks": {
+    "x": "https://x.com/BinxInteractive"
+  },
   "location": {
     "headquarters": null,
-    "country": null,
-    "countryName": null
+    "country": "HR",
+    "countryName": "Croatia"
   },
   "founded": null,
   "foundedDate": null,
@@ -24,7 +36,10 @@
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q101617829",
+    "igdb": "binx-interactive"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -53,6 +68,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q101617829",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

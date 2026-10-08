@@ -1,7 +1,9 @@
 {
   "id": "croteam",
   "name": "Croteam",
-  "aliases": [],
+  "aliases": [
+    "Croteam VR"
+  ],
   "roles": [
     "developer",
     "publisher"
@@ -13,7 +15,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q2340010",
-        "retrievedAt": "2026-09-30"
+        "retrievedAt": "2026-10-08"
       }
     },
     "custom": null
@@ -50,6 +52,7 @@
       "i-hate-running-backwards",
       "serious-sam-3-bfe",
       "serious-sam-3-bonus-content-dlc",
+      "serious-sam-3-vr-bfe",
       "serious-sam-4",
       "serious-sam-classic-the-first-encounter",
       "serious-sam-classics-revolution",
@@ -63,12 +66,16 @@
       "serious-sam-siberian-mayhem",
       "serious-sam-the-random-encounter",
       "serious-sam-tormental",
+      "serious-sam-vr-the-first-encounter",
+      "serious-sam-vr-the-last-hope",
+      "serious-sam-vr-the-second-encounter",
       "serious-sams-bogus-detour",
       "the-talos-principle",
       "the-talos-principle-2",
       "the-talos-principle-3",
       "the-talos-principle-reawakened",
-      "the-talos-principle-road-to-gehenna"
+      "the-talos-principle-road-to-gehenna",
+      "the-talos-principle-vr"
     ],
     "published": [
       "serious-sam-fusion-2017-beta",
@@ -79,12 +86,12 @@
     ]
   },
   "statistics": {
-    "gameCount": 25,
-    "developedCount": 22,
+    "gameCount": 27,
+    "developedCount": 27,
     "publishedCount": 5,
-    "totalSteamReviews": 143278,
-    "averagePositivePercentage": 86.4,
-    "weightedPositivePercentage": 90.6,
+    "totalSteamReviews": 145031,
+    "averagePositivePercentage": 86.2,
+    "weightedPositivePercentage": 90.5,
     "mostReviewedGame": "the-talos-principle",
     "mostRecentRelease": "the-talos-principle-reawakened",
     "firstRelease": "serious-sam-hd-the-first-encounter",
@@ -101,8 +108,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q2340010",
-      "retrievedAt": "2026-09-30"
+      "retrievedAt": "2026-10-08"
     }
   ],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

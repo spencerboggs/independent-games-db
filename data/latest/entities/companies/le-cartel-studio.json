@@ -1,20 +1,32 @@
 {
   "id": "le-cartel-studio",
-  "name": "Le Cartel Studio",
-  "aliases": [],
+  "name": "Le Cartel",
+  "aliases": [
+    "Le Cartel Studio"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "French indie video games studio",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q66956879",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
-  "socialLinks": {},
+  "website": "https://lecartelstudio.fr/",
+  "socialLinks": {
+    "x": "https://x.com/LeCartelStudio"
+  },
   "location": {
-    "headquarters": null,
-    "country": null,
-    "countryName": null
+    "headquarters": "Paris",
+    "country": "FR",
+    "countryName": "France"
   },
   "founded": null,
   "foundedDate": null,
@@ -24,7 +36,9 @@
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q66956879"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -42,9 +56,9 @@
     "gameCount": 2,
     "developedCount": 2,
     "publishedCount": 0,
-    "totalSteamReviews": 8029,
+    "totalSteamReviews": 8031,
     "averagePositivePercentage": 88.9,
-    "weightedPositivePercentage": 88.2,
+    "weightedPositivePercentage": 88.1,
     "mostReviewedGame": "mother-russia-bleeds",
     "mostRecentRelease": "heave-ho",
     "firstRelease": "mother-russia-bleeds",
@@ -54,6 +68,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q66956879",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

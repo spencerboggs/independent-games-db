@@ -24,15 +24,21 @@
   "statistics": {
     "gameCount": 1,
     "companyCount": 1,
-    "totalSteamReviews": 1559,
+    "totalSteamReviews": 1561,
     "mostReviewedGames": [
       {
         "id": "cyber-shadow",
         "title": "Cyber Shadow",
-        "value": 1559
+        "value": 1561
       }
     ],
-    "mostPlayedGames": [],
+    "mostPlayedGames": [
+      {
+        "id": "cyber-shadow",
+        "title": "Cyber Shadow",
+        "value": 1
+      }
+    ],
     "gamesByReleaseYear": {
       "2021": 1
     }

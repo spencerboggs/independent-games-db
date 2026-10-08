@@ -2,6 +2,7 @@
   "id": "gungrounds",
   "name": "Gungrounds",
   "aliases": [
+    "Gungrounds (Macanga Games j.d.o.o.)",
     "Gungrounds Games"
   ],
   "roles": [
@@ -14,7 +15,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q102429321",
-        "retrievedAt": "2026-09-30"
+        "retrievedAt": "2026-10-08"
       }
     },
     "custom": null
@@ -48,30 +49,33 @@
   },
   "games": {
     "developed": [
-      "galaxi-taxi"
+      "galaxi-taxi",
+      "serious-sam-tormental"
     ],
     "published": []
   },
   "statistics": {
-    "gameCount": 1,
-    "developedCount": 1,
+    "gameCount": 2,
+    "developedCount": 2,
     "publishedCount": 0,
-    "totalSteamReviews": 0,
-    "averagePositivePercentage": null,
-    "weightedPositivePercentage": null,
-    "mostReviewedGame": null,
-    "mostRecentRelease": null,
-    "firstRelease": null,
-    "technologyCount": 0,
-    "engineCount": 0,
-    "engines": []
+    "totalSteamReviews": 267,
+    "averagePositivePercentage": 75.7,
+    "weightedPositivePercentage": 75.7,
+    "mostReviewedGame": "serious-sam-tormental",
+    "mostRecentRelease": "serious-sam-tormental",
+    "firstRelease": "serious-sam-tormental",
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
   },
   "sources": [
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q102429321",
-      "retrievedAt": "2026-09-30"
+      "retrievedAt": "2026-10-08"
     }
   ],
-  "lastUpdated": "2026-09-30T10:41:54.255Z"
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }

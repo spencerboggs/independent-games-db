@@ -24,6 +24,33 @@
       "steamAppId": "1695330",
       "reviewCount": null,
       "positivePercentage": null
+    },
+    {
+      "id": "serious-sam-tormental",
+      "title": "Serious Sam: Tormental",
+      "type": "game",
+      "releaseDate": "2022-04-08",
+      "developers": [
+        "croteam",
+        "gungrounds"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "roguelike",
+        "shoot-em-up"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "640340",
+      "reviewCount": 267,
+      "positivePercentage": 75.7
     }
   ],
   "published": []

@@ -1,30 +1,42 @@
 {
   "id": "sabotage",
-  "name": "Sabotage",
-  "aliases": [],
+  "name": "Sabotage Studio",
+  "aliases": [
+    "Sabotage"
+  ],
   "roles": [
     "developer"
   ],
   "description": {
-    "source": null,
+    "source": {
+      "text": "Canadian video game developer",
+      "license": "cc0",
+      "source": {
+        "type": "wikidata",
+        "url": "https://www.wikidata.org/wiki/Q122277804",
+        "retrievedAt": "2026-10-08"
+      }
+    },
     "custom": null
   },
-  "website": null,
+  "website": "https://sabotagestudio.com",
   "socialLinks": {},
   "location": {
-    "headquarters": null,
-    "country": null,
-    "countryName": null
+    "headquarters": "Quebec City",
+    "country": "CA",
+    "countryName": "Canada"
   },
-  "founded": null,
-  "foundedDate": null,
+  "founded": 2016,
+  "foundedDate": "2016-04",
   "ownership": {
     "status": "unknown",
     "parentCompany": null,
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q122277804"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -42,7 +54,7 @@
     "gameCount": 2,
     "developedCount": 2,
     "publishedCount": 0,
-    "totalSteamReviews": 13605,
+    "totalSteamReviews": 13621,
     "averagePositivePercentage": 84.6,
     "weightedPositivePercentage": 92.2,
     "mostReviewedGame": "the-messenger",
@@ -54,6 +66,12 @@
       "unity"
     ]
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q122277804",
+      "retrievedAt": "2026-10-08"
+    }
+  ],
+  "lastUpdated": "2026-10-08T03:01:16.961Z"
 }
