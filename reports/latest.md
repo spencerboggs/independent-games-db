@@ -2,93 +2,6 @@
 
 Dataset 0.1.0: 524 games, 353 companies, 93 technologies, 1,342 relationships.
 
-## Removed companies (3)
-
-- Croteam VR (`croteam-vr`)
-- Gungrounds (Macanga Games j.d.o.o.) (`gungrounds-macanga-games-j-d-o-o`)
-- Team 17 Digital Ltd (`team-17-digital-ltd`)
-
-## Changed (20)
-
-~ Detention (`detention`)
-  - platforms: [android, ios, linux, macos, nintendo-switch, windows] → [android, ios, linux, macos, nintendo-switch, playstation-4, windows]
-~ RACCOIN: Coin Pusher Roguelike (`raccoin-coin-pusher-roguelike`)
-  - platforms: [windows] → [macos, windows]
-~ Serious Sam 3 VR: BFE (`serious-sam-3-vr-bfe`)
-  - developers: [croteam-vr] → [croteam]
-~ Serious Sam: Tormental (`serious-sam-tormental`)
-  - developers: [croteam, gungrounds-macanga-games-j-d-o-o] → [croteam, gungrounds]
-~ Serious Sam VR: The First Encounter (`serious-sam-vr-the-first-encounter`)
-  - developers: [croteam-vr] → [croteam]
-~ Serious Sam VR: The Last Hope (`serious-sam-vr-the-last-hope`)
-  - developers: [croteam-vr] → [croteam]
-~ Serious Sam VR: The Second Encounter (`serious-sam-vr-the-second-encounter`)
-  - developers: [croteam-vr] → [croteam]
-~ Sheltered (`sheltered`)
-  - developers: [team-17-digital-ltd, unicube] → [team17, unicube]
-~ The Messenger (`the-messenger`)
-  - platforms: [nintendo-switch, windows] → [nintendo-switch, playstation-4, windows]
-~ The Talos Principle VR (`the-talos-principle-vr`)
-  - developers: [croteam-vr] → [croteam]
-~ Binx Interactive (`binx-games`)
-  - name: Binx Games → Binx Interactive
-  - country: none → HR
-~ Bossa Studios (`bossa-games`)
-  - name: Bossa Games → Bossa Studios
-  - parentCompany: none → The Walt Disney Company
-  - ownership.status: unknown → subsidiary
-  - country: none → GB
-  - founded: none → 2010
-~ Bulkhead Interactive (`bulkhead`)
-  - name: BULKHEAD → Bulkhead Interactive
-  - country: none → GB
-~ Firepunchd (`firepunchd-games-ug`)
-  - name: Firepunchd Games UG → Firepunchd
-  - country: none → DE
-  - founded: none → 2015
-~ Half Mermaid Productions (`half-mermaid`)
-  - name: Half Mermaid → Half Mermaid Productions
-  - country: none → US
-  - founded: none → 2017
-~ Iron Gate Studio (`iron-gate-ab`)
-  - name: Iron Gate AB → Iron Gate Studio
-  - parentCompany: none → Coffee Stain Studios
-  - ownership.status: unknown → subsidiary
-  - country: none → SE
-  - founded: none → 2019
-~ Le Cartel (`le-cartel-studio`)
-  - name: Le Cartel Studio → Le Cartel
-  - country: none → FR
-~ PlaySide Studios (`playside`)
-  - name: PlaySide → PlaySide Studios
-  - country: none → AU
-~ Sabotage Studio (`sabotage`)
-  - name: Sabotage → Sabotage Studio
-  - country: none → CA
-  - founded: none → 2016
-~ Wonderscope (`wonderscope-games`)
-  - name: Wonderscope Games → Wonderscope
-  - country: none → SE
-
-## Review counts (320)
-
-~ WARDOGS: 98,056 → 109,472 (+11,416)
-~ Minecraft Dungeons II: 3,400 → 9,151 (+5,751)
-~ CONTROL Resonant: 8,953 → 14,677 (+5,724)
-~ Valheim: 555,550 → 558,222 (+2,672)
-~ PEAK: 375,864 → 378,094 (+2,230)
-~ Big Walk: 39,806 → 41,439 (+1,633)
-~ R.E.P.O.: 426,217 → 427,608 (+1,391)
-~ SILENT HILL: Townfall: 4,064 → 5,439 (+1,375)
-~ Baldur's Gate 3: 859,875 → 861,097 (+1,222)
-~ Hollow Knight: 563,187 → 564,250 (+1,063)
-~ Slay the Spire 2: 203,068 → 204,079 (+1,011)
-~ RV There Yet?: 87,794 → 88,668 (+874)
-~ Hollow Knight: Silksong: 424,061 → 424,855 (+794)
-~ Hades: 308,995 → 309,560 (+565)
-~ CONTROL Ultimate Edition: 65,139 → 65,701 (+562)
-… and 305 more
-
 ## Manual review (65)
 
 These listings use different company names. Pick the right company in `npm run review`, or leave them for later.
@@ -159,11 +72,10 @@ These listings use different company names. Pick the right company in `npm run r
 ! yooka-laylee-and-the-impossible-lair publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 ! yooka-laylee publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 
-## Potential duplicates and ambiguous matches (2)
+## Potential duplicates and ambiguous matches (1)
 
-? "Croteam VR" matches several companies; chose croteam
 ? "Worms" (worms) and "Worms" (worms-2007) share a title and developer
 
 ## Review queue
 
-84 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

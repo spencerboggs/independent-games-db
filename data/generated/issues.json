@@ -1,17 +1,5 @@
 [
   {
-    "kind": "ambiguous-match",
-    "entityType": "company",
-    "subject": "croteam",
-    "related": [
-      "croteam-vr"
-    ],
-    "message": "\"Croteam VR\" matches several companies; chose croteam",
-    "details": {
-      "name": "Croteam VR"
-    }
-  },
-  {
     "kind": "potential-duplicate",
     "entityType": "game",
     "subject": "worms",
