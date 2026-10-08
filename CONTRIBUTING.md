@@ -74,14 +74,18 @@ If you added a seed company, `npm run update` discovers its games. You can run i
 
 ### Reviewing automated updates (maintainers)
 
-The scheduled workflow opens a pull request only if this repository allows it. In GitHub: Settings, Actions, General, Workflow permissions, then enable "Allow GitHub Actions to create and approve pull requests". Leave the default workflow permissions as they are. Without that checkbox the update job fails at the pull request step.
+The scheduled workflow commits only when the dataset changed. It opens an "Automated data update" pull request and merges it when there are no conflicts. The commit and the merge use the default Actions bot. If the pull request has conflicts, it stays open.
 
-1. The scheduled workflow opens an "Automated data update" PR with `reports/latest.md`.
-2. Names that only add a word such as "games" or "studios" are merged on their own. Listings that name a different company are under "Manual review" in that report.
-3. Check out the branch and run `npm run review`, then open http://127.0.0.1:4477.
-4. Approve, reject, edit, merge or ignore candidates. Each decision writes to seeds, overrides or mappings.
-5. Click **Rebuild dataset**, check `git diff`, commit and push to the PR branch.
-6. Merge once CI is green.
+Opening that pull request needs a repository setting. In GitHub: Settings, Actions, General, Workflow permissions, then enable "Allow GitHub Actions to create and approve pull requests". Leave the default workflow permissions as they are.
+
+Names that only add a word such as "games" or "studios" are merged on their own. Listings that name a different company are under "Manual review" in `reports/latest.md`.
+
+When a pull request is left open:
+
+1. Check out the branch and run `npm run review`, then open http://127.0.0.1:4477.
+2. Approve, reject, edit, merge or ignore candidates. Each decision writes to seeds, overrides or mappings.
+3. Click **Rebuild dataset**, check `git diff`, commit and push to the PR branch.
+4. Merge once CI is green.
 
 The review UI binds to 127.0.0.1 and requires a per-session token. Never expose it publicly.
 

@@ -1,8 +1,8 @@
 name: Update
 
-# Scheduled data refresh. Runs the full pipeline against the providers and
-# opens (or updates) a single pull request with the changes and the change
-# report. Nothing is published until a maintainer reviews and merges it.
+# Scheduled data refresh. Runs the full pipeline against the providers.
+# A pull request is opened only when the dataset changed, and it is merged
+# when that pull request has no conflicts. A run with no changes does not commit.
 
 on:
   schedule:
@@ -58,7 +58,9 @@ jobs:
         run: |
           {
             echo 'body<<REPORT_EOF'
-            echo 'Automated data update. **Review before merging.**'
+            echo 'Automated data update.'
+            echo
+            echo 'Merged when the pull request has no conflicts. If it is still open, it needs a maintainer.'
             echo
             echo 'To curate: check out this branch, run `npm run review`, apply decisions, click *Rebuild dataset*, commit and push.'
             echo
@@ -68,9 +70,10 @@ jobs:
           cat reports/latest.md >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open or update pull request
-        # Fails unless the repo allows Actions to open pull requests.
-        # Settings, Actions, General, Workflow permissions:
-        # Allow GitHub Actions to create and approve pull requests.
+        # No commit or pull request when the paths below did not change.
+        # Opening the pull request needs: Settings, Actions, General,
+        # Workflow permissions, Allow GitHub Actions to create and approve pull requests.
+        id: pr
         uses: peter-evans/create-pull-request@v8
         with:
           branch: automated/data-update
@@ -88,3 +91,26 @@ jobs:
             data/latest
             data/review/candidates.json
             reports
+
+      - name: Merge pull request
+        if: steps.pr.outputs.pull-request-operation == 'created' || steps.pr.outputs.pull-request-operation == 'updated'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+        run: |
+          for attempt in 1 2 3 4 5 6 7 8 9 10 11 12; do
+            mergeable=$(gh pr view "$PR" --json mergeable --jq .mergeable)
+            case "$mergeable" in
+              MERGEABLE)
+                gh pr merge "$PR" --merge
+                exit 0
+                ;;
+              CONFLICTING)
+                echo "Pull request has merge conflicts. Leaving it open."
+                exit 0
+                ;;
+            esac
+            sleep 10
+          done
+          echo "GitHub did not report a merge status in time. Leaving the pull request open."
+          exit 1
