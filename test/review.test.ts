@@ -39,7 +39,7 @@ describe("review decisions write to source files and survive rebuilds", () => {
     expect(candidate.actions).toContain("merge");
     applyDecision(ws, candidate, "merge", {});
     const mappings = loadSources(ws.paths).mappings.companies;
-    expect(mappings.names["Hollow Lantern Studios"]).toBe("hollow-lantern-studio");
+    expect(mappings.names["The Hollow Lantern Studio"]).toBe("hollow-lantern-studio");
     expect(mappings.externalIds.igdb?.["hollow-lantern-studios"]).toBe("hollow-lantern-studio");
 
     const { candidates } = await runPipeline(ws, new MockProvider(fixture()));

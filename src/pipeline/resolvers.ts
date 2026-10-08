@@ -5,14 +5,15 @@
  *   1. manual mappings (data/mappings/*.yaml)
  *   2. external IDs (seed hints, previously generated entities, the ID registry)
  *   3. exact / normalized names and aliases
- *   4. fuzzy similarity -> never merges; creates a new entity + review candidate
+ *   4. loose names (trailing words such as "games" or "studios")
+ *   5. fuzzy similarity -> never merges; creates a new entity + review candidate
  *
  * A name match is refused when both sides carry *different* IDs for the same
  * provider (e.g. two unrelated companies both called "Evil Empire").
  */
 import { allocateId } from "../lib/ids.ts";
 import { similarity } from "../lib/fuzzy.ts";
-import { coreCompanyName, normalizeCompanyName, normalizeTechnologyName } from "../lib/names.ts";
+import { coreCompanyName, looseCompanyName, normalizeCompanyName, normalizeTechnologyName } from "../lib/names.ts";
 import type { ExternalIds } from "../schema/common.ts";
 import type { IdRegistry, MappingsFile, ResolutionIssue, SeedCompany, SeedTechnology } from "../schema/files.ts";
 import type { CompanyRef, ExternalIdSet, TechnologyRef } from "../providers/types.ts";
@@ -45,9 +46,12 @@ export class CompanyResolver {
   private readonly entries = new Map<string, Entry>();
   private readonly byExternal = new Map<string, string>();
   private readonly byName = new Map<string, Set<string>>();
+  private readonly byLoose = new Map<string, Set<string>>();
+  private readonly byCompact = new Map<string, Set<string>>();
   readonly created = new Map<string, CompanyRef>();
   readonly issues: ResolutionIssue[] = [];
   private readonly flagged = new Set<string>();
+  private readonly distinctPairs: Set<string>;
 
   constructor(
     seeds: SeedCompany[],
@@ -55,6 +59,7 @@ export class CompanyResolver {
     private readonly mappings: MappingsFile,
     private readonly registry: IdRegistry,
   ) {
+    this.distinctPairs = new Set(mappings.distinct.map(([a, b]) => [a, b].sort().join("|")));
     for (const seed of seeds) this.register(seed.id, seed.name, seed.aliases, seed.externalIds, true);
     for (const company of previous) {
       if (!this.entries.has(company.id)) this.register(company.id, company.name, company.aliases, company.externalIds, false);
@@ -70,6 +75,18 @@ export class CompanyResolver {
       const set = this.byName.get(key) ?? new Set();
       set.add(id);
       this.byName.set(key, set);
+      const loose = looseCompanyName(n);
+      if (loose) {
+        const looseSet = this.byLoose.get(loose) ?? new Set();
+        looseSet.add(id);
+        this.byLoose.set(loose, looseSet);
+        const compact = loose.replace(/ /g, "");
+        if (compact.length >= 5) {
+          const compactSet = this.byCompact.get(compact) ?? new Set();
+          compactSet.add(id);
+          this.byCompact.set(compact, compactSet);
+        }
+      }
     }
     for (const p of ID_PROVIDERS) {
       const value = ids[p];
@@ -118,6 +135,8 @@ export class CompanyResolver {
       .filter((entry) => !idConflict(entry.ids, ref.ids));
     if (candidates.length === 1) {
       const entry = candidates[0]!;
+      const folded = this.canonicalLoose(ref);
+      if (folded && folded !== entry.id) return { id: folded, method: "normalized-name", created: false };
       return { id: entry.id, method: entry.name === ref.name ? "name" : "normalized-name", created: false };
     }
     if (candidates.length > 1) {
@@ -127,13 +146,80 @@ export class CompanyResolver {
         message: `"${ref.name}" matches several companies; chose ${chosen.id}`,
         name: ref.name,
       });
-      return { id: chosen.id, method: "normalized-name", created: false };
+      const folded = this.canonicalLoose(ref);
+      return { id: folded ?? chosen.id, method: "normalized-name", created: false };
     }
+    const looseHit = this.canonicalLoose(ref);
+    if (looseHit) return { id: looseHit, method: "normalized-name", created: false };
+
     const registered = this.registry.companies[`name:${key}`];
     if (registered && !idConflict(this.entries.get(registered)?.ids ?? {}, ref.ids)) {
       return { id: registered, method: "registry", created: false };
     }
     return null;
+  }
+
+  /**
+   * Folds trailing words such as "games" or "studios", and ignores spaces in short names
+   * ("Team 17" and "Team17"). Several companies that differ only by those words collapse
+   * to one: the seeded company, otherwise the short name, otherwise the one that already
+   * has an external ID, otherwise the shortest name. Two seeded companies are left apart.
+   * A shorter name is left unmatched when another company keeps a distinguishing word,
+   * such as "publishing" in "Coffee Stain Publishing", and no company is exactly the short name.
+   */
+  private canonicalLoose(ref: CompanyRef): string | null {
+    const loose = looseCompanyName(ref.name);
+    if (!loose) return null;
+    const ids = new Set(this.byLoose.get(loose) ?? []);
+    const compact = loose.replace(/ /g, "");
+    if (compact.length >= 5) for (const id of this.byCompact.get(compact) ?? []) ids.add(id);
+    const group = [...ids].filter((id) => {
+      const entry = this.entries.get(id);
+      return !!entry && !idConflict(entry.ids, ref.ids);
+    });
+    const compatible = group.every((id) =>
+      group.every((other) => {
+        if (other === id) return true;
+        const left = this.entries.get(id)!;
+        const right = this.entries.get(other)!;
+        return !this.distinctPairs.has([id, other].sort().join("|")) && !idConflict(left.ids, right.ids);
+      }),
+    );
+    if (!group.length || !compatible) return null;
+    const seeded = group.filter((id) => this.entries.get(id)!.seeded);
+    if (seeded.length > 1) return null;
+    const short = group.filter((id) => this.entries.get(id)!.names.has(loose));
+    if (seeded.length === 1) {
+      if (!short.length && this.looseIsSharedPrefix(loose, seeded[0]!)) return null;
+      return seeded[0]!;
+    }
+    if (!short.length && this.looseIsSharedPrefix(loose, group[0]!)) return null;
+    return this.pickStable(short.length ? short : group);
+  }
+
+  /** Seeded company, then the one with an external ID, then the shortest name, then the id. */
+  private pickStable(ids: string[]): string {
+    const seeded = ids.filter((id) => this.entries.get(id)!.seeded);
+    const pool = seeded.length === 1 ? seeded : ids;
+    const withIds = pool.filter((id) => ID_PROVIDERS.some((p) => this.entries.get(id)!.ids[p]));
+    const ranked = (withIds.length === 1 ? withIds : pool).slice().sort((a, b) => {
+      const byName = this.entries.get(a)!.name.length - this.entries.get(b)!.name.length;
+      if (byName !== 0) return byName;
+      return a < b ? -1 : a > b ? 1 : 0;
+    });
+    return ranked[0]!;
+  }
+
+  /** True when some other company starts with `loose` and then keeps a word we do not strip. */
+  private looseIsSharedPrefix(loose: string, chosenId: string): boolean {
+    const prefix = `${loose} `;
+    for (const entry of this.entries.values()) {
+      if (entry.id === chosenId) continue;
+      for (const name of entry.names) {
+        if (name.startsWith(prefix) && looseCompanyName(name) !== loose) return true;
+      }
+    }
+    return false;
   }
 
   private lookupMappedName(name: string): string | undefined {

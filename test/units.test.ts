@@ -3,7 +3,7 @@ import { parseStoreDate, precisionOf } from "../src/lib/dates.ts";
 import { similarity } from "../src/lib/fuzzy.ts";
 import { allocateId, slugify } from "../src/lib/ids.ts";
 import { writeText } from "../src/lib/io.ts";
-import { coreCompanyName, normalizeCompanyName, normalizeTechnologyName, normalizeTitle } from "../src/lib/names.ts";
+import { coreCompanyName, looseCompanyName, normalizeCompanyName, normalizeTechnologyName, normalizeTitle } from "../src/lib/names.ts";
 import { normalizeGenre, normalizePlatform } from "../src/lib/vocab.ts";
 import { mapIgdbGame } from "../src/providers/igdb.ts";
 import { decodeHtml, mapAppDetails, parseSupportedLanguages, reviewStatistics } from "../src/providers/steam.ts";
@@ -27,6 +27,11 @@ describe("names and IDs", () => {
     expect(normalizeCompanyName("Remedy Entertainment Oyj")).toBe("remedy entertainment");
     expect(normalizeCompanyName("Coffee Stain Studios AB")).not.toBe(normalizeCompanyName("Coffee Stain Publishing"));
     expect(coreCompanyName("Coffee Stain Studios")).toBe(coreCompanyName("Coffee Stain Publishing"));
+    expect(looseCompanyName("PlaySide Studios")).toBe("playside");
+    expect(looseCompanyName("PlaySide")).toBe("playside");
+    expect(looseCompanyName("3D Realms (Apogee Software)")).toBe("3d realms");
+    expect(looseCompanyName("Coffee Stain Publishing")).toBe("coffee stain publishing");
+    expect(looseCompanyName("Coffee Stain Studios")).toBe("coffee stain");
   });
 
   it("keeps C, C# and C++ distinct", () => {
@@ -78,6 +83,51 @@ describe("entity resolution", () => {
 
   it("matches aliases and legal-suffix variants", () => {
     expect(resolver().resolve({ name: "Landfall Games AB", ids: {} })).toMatchObject({ id: "landfall", method: "normalized-name" });
+  });
+
+  it("folds a trailing games or studios word into the one matching company", () => {
+    const res = new CompanyResolver(
+      [SeedCompany.parse({ id: "playside", name: "PlaySide Studios", externalIds: {} })],
+      [],
+      MappingsFile.parse({}),
+      IdRegistry.parse({}),
+    );
+    expect(res.resolve({ name: "PlaySide", ids: {} })).toMatchObject({ id: "playside", method: "normalized-name" });
+    expect(res.resolve({ name: "Bossa Games", ids: {} }).id).toBe(res.resolve({ name: "Bossa Studios", ids: {} }).id);
+    expect(res.resolve({ name: "Team 17 Digital Ltd", ids: {} }).id).toBe(
+      res.resolve({ name: "Team17", ids: {} }).id,
+    );
+    expect(res.resolve({ name: "3D Realms (Apogee Software)", ids: {} }).id).toBe(
+      res.resolve({ name: "3D Realms", ids: {} }).id,
+    );
+  });
+
+  it("folds companies that already differ only by a trailing word", () => {
+    const res = new CompanyResolver(
+      [],
+      [
+        { id: "croteam", name: "Croteam", aliases: [], externalIds: { wikidata: "Q2340010" } },
+        { id: "croteam-vr", name: "Croteam VR", aliases: [], externalIds: {} },
+        { id: "croteam-publishing", name: "Croteam Publishing", aliases: [], externalIds: {} },
+        { id: "bossa-games", name: "Bossa Games", aliases: [], externalIds: {} },
+        { id: "bossa-studios", name: "Bossa Studios", aliases: [], externalIds: {} },
+      ],
+      MappingsFile.parse({}),
+      IdRegistry.parse({}),
+    );
+    expect(res.resolve({ name: "Croteam VR", ids: {} }).id).toBe("croteam");
+    expect(res.resolve({ name: "Croteam", ids: {} }).id).toBe("croteam");
+    expect(res.resolve({ name: "Croteam Publishing", ids: {} }).id).toBe("croteam-publishing");
+    expect(res.resolve({ name: "Bossa Studios", ids: {} }).id).toBe("bossa-games");
+  });
+
+  it("does not fold publishing into studios, or unrelated names", () => {
+    const res = resolver();
+    expect(res.resolve({ name: "Coffee Stain Publishing", ids: {} }).id).toBe("coffee-stain-publishing");
+    expect(res.resolve({ name: "Coffee Stain Studios", ids: {} }).id).toBe("coffee-stain-studios");
+    const remedy = res.resolve({ name: "Remedy Entertainment", ids: {} });
+    const xbox = res.resolve({ name: "Xbox Game Studios", ids: {} });
+    expect(remedy.id).not.toBe(xbox.id);
   });
 
   it("refuses a name match when external IDs conflict", () => {

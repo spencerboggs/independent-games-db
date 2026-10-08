@@ -517,6 +517,7 @@ export function resolve(ws: Workspace, enrichment: EnrichmentOutput, discovery?:
 
   // ---- Seed ID suggestions from discovery ---------------------------------
   for (const [companyId, suggestion] of Object.entries(discovery?.suggestedCompanyIds ?? {})) {
+    if (!suggestion.candidates.length) continue;
     issues.push({
       kind: "ambiguous-match",
       entityType: "company",

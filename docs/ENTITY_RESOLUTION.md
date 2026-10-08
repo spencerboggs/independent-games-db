@@ -19,14 +19,15 @@ Resolution order for a company reference reported by a provider:
 | 2 | Manual mapping by name | `names` (exact, then normalized) |
 | 3 | External ID | Seeds, then previously generated companies |
 | 4 | Registry | Every ID and name seen before |
-| 5 | Exact / normalized name | Legal suffixes are stripped ("Team Cherry Pty Ltd" = "Team Cherry"). **Refused when the external IDs conflict** |
-| 6 | New company | A new ID is allocated |
+| 5 | Exact / normalized name | Legal suffixes are stripped ("Team Cherry Pty Ltd" = "Team Cherry"). Refused when the external IDs conflict |
+| 6 | Loose name | Trailing words such as "games", "studios", "studio", "entertainment", "interactive", "software", and "digital" are removed, and a parenthetical aside is ignored ("3D Realms (Apogee Software)" = "3D Realms"). "PlaySide" matches "PlaySide Studios". "Team 17" matches "Team17". When several companies differ only by those words, they collapse to the seeded company, otherwise the short name, otherwise the company that already has an external ID, otherwise the shortest name. Two seeded companies are left apart. "publishing" is kept, so "Coffee Stain Publishing" does not match "Coffee Stain Studios". A short name is also skipped when another company keeps a word on that prefix and nobody is exactly that short name |
+| 7 | New company | A new ID is allocated |
 
 When a new company is created, its name is compared with every known company: Jaro-Winkler and token similarity, plus "core name" equality with generic words like *studios*, *games* and *publishing* removed. Scores of 0.93 or higher are flagged as `potential-duplicate`. **They are not merged.** "Coffee Stain Studios" and "Coffee Stain Publishing" share a core name, so they are flagged, and `distinct` records that they are different companies.
 
 When one name matches several companies (e.g. an alias shared by two seeds), a seeded company is preferred. The match is flagged `ambiguous-match` for review.
 
-When two providers disagree on a game's developers or publishers, the priority provider wins and a `source-conflict` is recorded. If the other provider's name is close to one of the chosen companies ("Hollow Lantern Studios" vs "Hollow Lantern Studio"), the conflict carries a suggestion. Merging it in the review UI writes a name/ID mapping.
+When two providers disagree on a game's developers or publishers, the priority provider wins. If the names still refer to different companies after the loose-name step, a `source-conflict` is recorded and listed under "Manual review" in `reports/latest.md`. Close names carry a suggestion. Merging one in the review UI writes a name or ID mapping.
 
 ## Technologies
 

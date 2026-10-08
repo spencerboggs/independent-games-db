@@ -293,13 +293,18 @@ export function renderReport(report: ChangeReport, candidates: ReviewCandidate[]
     ],
   );
   section("Review counts", report.reviewCountChanges.map((r) => `~ ${r.title}: ${fmt(r.from)} → ${fmt(r.to)} (${r.to - r.from >= 0 ? "+" : ""}${fmt(r.to - r.from)})`), 15);
-  section(
-    "Conflicts",
-    report.issues.filter((i) => i.kind === "source-conflict").map((i) => {
-      const d = i.details as { chosen?: { source: string; value: string[] }; other?: { source: string; value: string[] } };
-      return `! ${i.subject} ${i.field}: ${d.chosen?.source} says ${show(d.chosen?.value)}; ${d.other?.source} says ${show(d.other?.value)}`;
-    }),
-  );
+  const manual = report.issues.filter((i) => i.kind === "source-conflict");
+  if (manual.length) {
+    lines.push(`## Manual review (${manual.length})`, "");
+    lines.push("These listings use different company names. Pick the right company in `npm run review`, or leave them for later.", "");
+    lines.push(
+      ...manual.map((i) => {
+        const d = i.details as { chosen?: { source: string; value: string[] }; other?: { source: string; value: string[] } };
+        return `! ${i.subject} ${i.field}: ${d.chosen?.source} says ${show(d.chosen?.value)}; ${d.other?.source} says ${show(d.other?.value)}`;
+      }),
+    );
+    lines.push("");
+  }
   section("Low confidence", report.lowConfidence.map((l) => `? ${l.technology} for ${l.title} (${l.confidence}, via ${l.source})`), 30);
   section(
     "Potential duplicates and ambiguous matches",

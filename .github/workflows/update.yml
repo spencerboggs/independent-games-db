@@ -24,7 +24,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v7
@@ -68,6 +68,9 @@ jobs:
           cat reports/latest.md >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open or update pull request
+        # Fails unless the repo allows Actions to open pull requests.
+        # Settings, Actions, General, Workflow permissions:
+        # Allow GitHub Actions to create and approve pull requests.
         uses: peter-evans/create-pull-request@v8
         with:
           branch: automated/data-update

@@ -1,7 +1,8 @@
 /**
  * Legal-entity suffixes that never distinguish two companies from each other.
- * Generic words like "games" or "studios" are deliberately NOT stripped here:
- * "Coffee Stain Studios" and "Coffee Stain Publishing" are different companies.
+ * `normalizeCompanyName` keeps words like "games" and "studios".
+ * `looseCompanyName` strips those trailing words, but keeps "publishing",
+ * so "Coffee Stain Studios" and "Coffee Stain Publishing" stay different.
  */
 const LEGAL_SUFFIXES = [
   "incorporated",
@@ -84,6 +85,44 @@ export function normalizeCompanyName(name: string): string {
     for (const suffix of LEGAL_SUFFIXES) {
       if (value.endsWith(` ${suffix}`)) {
         value = value.slice(0, -suffix.length - 1).trim();
+        changed = true;
+      }
+    }
+  }
+  return value;
+}
+
+/** Trailing words that do not make a second company. "publishing" is not in this list. */
+const TRAILING_WORDS = [
+  "games",
+  "game",
+  "studios",
+  "studio",
+  "entertainment",
+  "interactive",
+  "software",
+  "productions",
+  "production",
+  "media",
+  "labs",
+  "works",
+  "digital",
+  "vr",
+];
+
+/**
+ * Name used to fold "PlaySide" into "PlaySide Studios", or "Bossa Games" into "Bossa Studios".
+ * Parenthetical asides are dropped first. Returns "" when nothing remains.
+ */
+export function looseCompanyName(name: string): string {
+  let value = normalizeCompanyName(name.replace(/\s*\([^)]*\)/g, " "));
+  let changed = true;
+  while (changed && value) {
+    changed = false;
+    for (const word of TRAILING_WORDS) {
+      if (value === word) return "";
+      if (value.endsWith(` ${word}`)) {
+        value = value.slice(0, -word.length - 1).trim();
         changed = true;
       }
     }

@@ -74,11 +74,14 @@ If you added a seed company, `npm run update` discovers its games. You can run i
 
 ### Reviewing automated updates (maintainers)
 
+The scheduled workflow opens a pull request only if this repository allows it. In GitHub: Settings, Actions, General, Workflow permissions, then enable "Allow GitHub Actions to create and approve pull requests". Leave the default workflow permissions as they are. Without that checkbox the update job fails at the pull request step.
+
 1. The scheduled workflow opens an "Automated data update" PR with `reports/latest.md`.
-2. Check out the branch and run `npm run review`, then open http://127.0.0.1:4477.
-3. Approve, reject, edit, merge or ignore candidates. Each decision writes to seeds, overrides or mappings.
-4. Click **Rebuild dataset**, check `git diff`, commit and push to the PR branch.
-5. Merge once CI is green.
+2. Names that only add a word such as "games" or "studios" are merged on their own. Listings that name a different company are under "Manual review" in that report.
+3. Check out the branch and run `npm run review`, then open http://127.0.0.1:4477.
+4. Approve, reject, edit, merge or ignore candidates. Each decision writes to seeds, overrides or mappings.
+5. Click **Rebuild dataset**, check `git diff`, commit and push to the PR branch.
+6. Merge once CI is green.
 
 The review UI binds to 127.0.0.1 and requires a per-session token. Never expose it publicly.
 
