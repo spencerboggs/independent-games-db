@@ -19,7 +19,7 @@
       "source": {
         "type": "steam",
         "url": "https://store.steampowered.com/app/474960/",
-        "retrievedAt": "2026-10-11"
+        "retrievedAt": "2026-10-12"
       }
     },
     "custom": null
@@ -70,21 +70,21 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg",
       "type": "header",
       "source": "steam",
-      "retrievedAt": "2026-10-11",
+      "retrievedAt": "2026-10-12",
       "rights": "reference-only"
     },
     "capsule": {
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/capsule_231x87.jpg",
       "type": "capsule",
       "source": "steam",
-      "retrievedAt": "2026-10-11",
+      "retrievedAt": "2026-10-12",
       "rights": "reference-only"
     },
     "background": {
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/page_bg_raw.jpg",
       "type": "background",
       "source": "steam",
-      "retrievedAt": "2026-10-11",
+      "retrievedAt": "2026-10-12",
       "rights": "reference-only"
     },
     "screenshots": [
@@ -92,35 +92,35 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_70f6a0bda2048d02f923244e46634c995a529a03.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-11",
+        "retrievedAt": "2026-10-12",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_72b6160576d81ac4a6e526954f0a87838bf7af66.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-11",
+        "retrievedAt": "2026-10-12",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_a5501cff76671066df183949d96e4587a387fdf8.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-11",
+        "retrievedAt": "2026-10-12",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_57a4aa5f00cce706fb9ec78e8d699bb00e39b6f7.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-11",
+        "retrievedAt": "2026-10-12",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_8ef2e72ab325c7c5a6d81d673ebbc78f59cf4873.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-11",
+        "retrievedAt": "2026-10-12",
         "rights": "reference-only"
       }
     ]
@@ -133,7 +133,7 @@
         "source": {
           "type": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q13361589",
-          "retrievedAt": "2026-10-11"
+          "retrievedAt": "2026-10-12"
         }
       }
     ],
@@ -151,39 +151,39 @@
   },
   "statistics": {
     "steam": {
-      "reviewCount": 31209,
-      "positiveCount": 26743,
-      "negativeCount": 4466,
+      "reviewCount": 31223,
+      "positiveCount": 26756,
+      "negativeCount": 4467,
       "positivePercentage": 85.7,
       "negativePercentage": 14.3,
       "reviewScoreDescription": "Very Positive",
-      "currentPlayers": 163,
-      "retrievedAt": "2026-10-11"
+      "currentPlayers": 133,
+      "retrievedAt": "2026-10-12"
     },
     "reviewVelocity": {
       "method": "history",
-      "reviewsPerDay": 9.82,
-      "reviewsPerMonth": 298.9,
-      "windowDays": 11,
+      "reviewsPerDay": 10.17,
+      "reviewsPerMonth": 309.5,
+      "windowDays": 12,
       "recentReviewGrowth": {
-        "reviews": 108,
-        "percent": 0.35,
-        "windowDays": 11
+        "reviews": 122,
+        "percent": 0.39,
+        "windowDays": 12
       },
-      "observations": 5
+      "observations": 6
     }
   },
   "sources": [
     {
       "type": "steam",
       "url": "https://store.steampowered.com/app/474960/",
-      "retrievedAt": "2026-10-11"
+      "retrievedAt": "2026-10-12"
     },
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q13361589",
-      "retrievedAt": "2026-10-11"
+      "retrievedAt": "2026-10-12"
     }
   ],
-  "lastUpdated": "2026-10-11T11:26:22.704Z"
+  "lastUpdated": "2026-10-12T13:13:34.690Z"
 }
