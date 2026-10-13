@@ -19,7 +19,7 @@
       "source": {
         "type": "steam",
         "url": "https://store.steampowered.com/app/360740/",
-        "retrievedAt": "2026-10-12"
+        "retrievedAt": "2026-10-13"
       }
     },
     "custom": null
@@ -75,21 +75,21 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/header.jpg",
       "type": "header",
       "source": "steam",
-      "retrievedAt": "2026-10-12",
+      "retrievedAt": "2026-10-13",
       "rights": "reference-only"
     },
     "capsule": {
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/capsule_231x87.jpg",
       "type": "capsule",
       "source": "steam",
-      "retrievedAt": "2026-10-12",
+      "retrievedAt": "2026-10-13",
       "rights": "reference-only"
     },
     "background": {
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/page_bg_raw.jpg",
       "type": "background",
       "source": "steam",
-      "retrievedAt": "2026-10-12",
+      "retrievedAt": "2026-10-13",
       "rights": "reference-only"
     },
     "screenshots": [
@@ -97,35 +97,35 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_96fa27e853e9513de825df4264e356066a3c5145.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-12",
+        "retrievedAt": "2026-10-13",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_eaab64c0e734e568912fa3ff435e7bd09a28f70b.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-12",
+        "retrievedAt": "2026-10-13",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_c4f5edef3fb078d2c5483f8394cc5d500eb2e96c.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-12",
+        "retrievedAt": "2026-10-13",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_9e95c27552152d430797fa2a4c873e3ed8cab2ea.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-12",
+        "retrievedAt": "2026-10-13",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_ec8b0acf4fadae7315cfba1a85b0f04832d16576.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-10-12",
+        "retrievedAt": "2026-10-13",
         "rights": "reference-only"
       }
     ]
@@ -138,7 +138,7 @@
         "source": {
           "type": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q21198154",
-          "retrievedAt": "2026-10-12"
+          "retrievedAt": "2026-10-13"
         }
       }
     ],
@@ -162,33 +162,33 @@
       "positivePercentage": 96.5,
       "negativePercentage": 3.5,
       "reviewScoreDescription": "Overwhelmingly Positive",
-      "currentPlayers": 9,
-      "retrievedAt": "2026-10-12"
+      "currentPlayers": 8,
+      "retrievedAt": "2026-10-13"
     },
     "reviewVelocity": {
       "method": "history",
-      "reviewsPerDay": 1.58,
-      "reviewsPerMonth": 48.2,
-      "windowDays": 12,
+      "reviewsPerDay": 1.46,
+      "reviewsPerMonth": 44.5,
+      "windowDays": 13,
       "recentReviewGrowth": {
         "reviews": 19,
         "percent": 0.22,
-        "windowDays": 12
+        "windowDays": 13
       },
-      "observations": 6
+      "observations": 7
     }
   },
   "sources": [
     {
       "type": "steam",
       "url": "https://store.steampowered.com/app/360740/",
-      "retrievedAt": "2026-10-12"
+      "retrievedAt": "2026-10-13"
     },
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q21198154",
-      "retrievedAt": "2026-10-12"
+      "retrievedAt": "2026-10-13"
     }
   ],
-  "lastUpdated": "2026-10-12T13:13:34.690Z"
+  "lastUpdated": "2026-10-13T12:45:12.272Z"
 }
