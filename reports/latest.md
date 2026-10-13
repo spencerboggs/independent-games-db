@@ -1,25 +1,25 @@
-# Database update: 2026-10-12
+# Database update: 2026-10-13
 
 Dataset 0.1.0: 524 games, 353 companies, 93 technologies, 1,342 relationships.
 
-## Review counts (235)
+## Review counts (205)
 
-~ WARDOGS: 113,250 → 114,419 (+1,169)
-~ CONTROL Resonant: 16,097 → 16,599 (+502)
-~ Valheim: 559,187 → 559,528 (+341)
-~ Big Walk: 42,127 → 42,390 (+263)
-~ PEAK: 378,926 → 379,172 (+246)
-~ R.E.P.O.: 428,174 → 428,400 (+226)
-~ Risk of Rain 2: 354,317 → 354,522 (+205)
-~ Minecraft Dungeons II: 9,810 → 9,982 (+172)
-~ Baldur's Gate 3: 861,589 → 861,759 (+170)
-~ Hollow Knight: 564,707 → 564,865 (+158)
-~ Slay the Spire 2: 204,581 → 204,731 (+150)
-~ RV There Yet?: 89,026 → 89,144 (+118)
-~ Hollow Knight: Silksong: 425,200 → 425,301 (+101)
-~ SILENT HILL: Townfall: 5,787 → 5,888 (+101)
-~ Satisfactory: 280,882 → 280,959 (+77)
-… and 220 more
+~ WARDOGS: 114,419 → 115,408 (+989)
+~ CONTROL Resonant: 16,599 → 16,974 (+375)
+~ Valheim: 559,528 → 559,793 (+265)
+~ Big Walk: 42,390 → 42,606 (+216)
+~ Risk of Rain 2: 354,522 → 354,696 (+174)
+~ R.E.P.O.: 428,400 → 428,563 (+163)
+~ PEAK: 379,172 → 379,332 (+160)
+~ Satisfactory: 280,959 → 281,116 (+157)
+~ Hollow Knight: 564,865 → 565,004 (+139)
+~ Minecraft Dungeons II: 9,982 → 10,103 (+121)
+~ Baldur's Gate 3: 861,759 → 861,876 (+117)
+~ Slay the Spire 2: 204,731 → 204,837 (+106)
+~ RV There Yet?: 89,144 → 89,231 (+87)
+~ SILENT HILL: Townfall: 5,888 → 5,970 (+82)
+~ Hollow Knight: Silksong: 425,301 → 425,379 (+78)
+… and 190 more
 
 ## Manual review (65)
 
