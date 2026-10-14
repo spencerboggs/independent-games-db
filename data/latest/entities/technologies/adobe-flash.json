@@ -25,21 +25,15 @@
   "statistics": {
     "gameCount": 2,
     "companyCount": 3,
-    "totalSteamReviews": 4535,
+    "totalSteamReviews": 4536,
     "mostReviewedGames": [
       {
         "id": "luftrausers",
         "title": "LUFTRAUSERS",
-        "value": 4535
+        "value": 4536
       }
     ],
-    "mostPlayedGames": [
-      {
-        "id": "luftrausers",
-        "title": "LUFTRAUSERS",
-        "value": 4
-      }
-    ],
+    "mostPlayedGames": [],
     "gamesByReleaseYear": {
       "2009": 1,
       "2014": 1

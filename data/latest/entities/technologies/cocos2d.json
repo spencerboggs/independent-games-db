@@ -31,7 +31,13 @@
         "value": 163
       }
     ],
-    "mostPlayedGames": [],
+    "mostPlayedGames": [
+      {
+        "id": "raging-justice",
+        "title": "Raging Justice",
+        "value": 1
+      }
+    ],
     "gamesByReleaseYear": {
       "2018": 1
     }
