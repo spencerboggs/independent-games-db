@@ -1,25 +1,37 @@
-# Database update: 2026-10-14
+# Database update: 2026-10-15
 
-Dataset 0.1.0: 524 games, 353 companies, 93 technologies, 1,342 relationships.
+Dataset 0.1.0: 526 games, 353 companies, 93 technologies, 1,345 relationships.
 
-## Review counts (217)
+## New games (2)
 
-~ WARDOGS: 115,408 → 116,207 (+799)
-~ CONTROL Resonant: 16,974 → 17,229 (+255)
-~ Valheim: 559,793 → 559,998 (+205)
-~ Big Walk: 42,606 → 42,771 (+165)
-~ PEAK: 379,332 → 379,494 (+162)
-~ Risk of Rain 2: 354,696 → 354,831 (+135)
-~ Baldur's Gate 3: 861,876 → 861,993 (+117)
-~ Slay the Spire 2: 204,837 → 204,952 (+115)
-~ Hollow Knight: 565,004 → 565,117 (+113)
-~ R.E.P.O.: 428,563 → 428,676 (+113)
-~ Minecraft Dungeons II: 10,103 → 10,196 (+93)
-~ Hollow Knight: Silksong: 425,379 → 425,470 (+91)
-~ RV There Yet?: 89,231 → 89,301 (+70)
-~ SILENT HILL: Townfall: 5,970 → 6,030 (+60)
-~ Cuphead: 222,836 → 222,895 (+59)
-… and 202 more
++ Little Prince Tyger (`little-prince-tyger`), 2027, by unknown
++ The Escapists 3 (`the-escapists-3`), 2027, by team17
+
+## Changed (2)
+
+~ Castlevania: Belmont's Curse (`castlevania-belmonts-curse`)
+  - releaseStatus: upcoming → released
+~ Silver Pines (`silver-pines`)
+  - releaseStatus: upcoming → released
+
+## Review counts (219)
+
+~ WARDOGS: 116,207 → 117,798 (+1,591)
+~ CONTROL Resonant: 17,229 → 17,494 (+265)
+~ Valheim: 559,998 → 560,248 (+250)
+~ PEAK: 379,494 → 379,673 (+179)
+~ Big Walk: 42,771 → 42,935 (+164)
+~ Risk of Rain 2: 354,831 → 354,984 (+153)
+~ Slay the Spire 2: 204,952 → 205,075 (+123)
+~ R.E.P.O.: 428,676 → 428,795 (+119)
+~ Baldur's Gate 3: 861,993 → 862,101 (+108)
+~ Hollow Knight: Silksong: 425,470 → 425,573 (+103)
+~ Hollow Knight: 565,117 → 565,213 (+96)
+~ Minecraft Dungeons II: 10,196 → 10,284 (+88)
+~ Satisfactory: 281,173 → 281,249 (+76)
+~ CONTROL Ultimate Edition: 66,074 → 66,141 (+67)
+~ RV There Yet?: 89,301 → 89,364 (+63)
+… and 204 more
 
 ## Manual review (65)
 
@@ -97,4 +109,4 @@ These listings use different company names. Pick the right company in `npm run r
 
 ## Review queue
 
-66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+68 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

@@ -1,0 +1,65 @@
+{
+  "id": "little-prince-tyger",
+  "title": "Little Prince Tyger",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2027",
+  "releaseDatePrecision": "year",
+  "releaseStatus": "upcoming",
+  "developers": [],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": null,
+    "custom": null
+  },
+  "genres": [
+    "action-roguelike",
+    "dark-fantasy-video-game"
+  ],
+  "tags": [],
+  "features": [],
+  "platforms": [
+    "windows"
+  ],
+  "supportedLanguages": [],
+  "externalIds": {
+    "wikidata": "Q141696155"
+  },
+  "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141696155"
+  },
+  "media": {
+    "header": null,
+    "capsule": null,
+    "background": null,
+    "screenshots": []
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": null,
+    "reviewVelocity": null
+  },
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q141696155",
+      "retrievedAt": "2026-10-15"
+    }
+  ],
+  "lastUpdated": "2026-10-15T09:59:55.142Z"
+}
