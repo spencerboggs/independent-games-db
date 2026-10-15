@@ -21,7 +21,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q1384984",
-        "retrievedAt": "2026-10-14"
+        "retrievedAt": "2026-10-15"
       }
     },
     "custom": null
@@ -85,6 +85,7 @@
       "stunt-gp",
       "superfrog",
       "the-escapists-2",
+      "the-escapists-3",
       "the-escapists-the-walking-dead",
       "the-survivalists",
       "ultimate-body-blows",
@@ -170,6 +171,7 @@
       "king-of-seas",
       "la-cops",
       "lethal-vr",
+      "little-prince-tyger",
       "lumentale-memories-of-trey",
       "main-assembly",
       "marauders",
@@ -207,6 +209,7 @@
       "thalassa-edge-of-the-abyss",
       "the-escapists",
       "the-escapists-2",
+      "the-escapists-3",
       "the-escapists-the-walking-dead",
       "the-knight-witch",
       "the-serpent-rogue",
@@ -241,14 +244,14 @@
     ]
   },
   "statistics": {
-    "gameCount": 145,
-    "developedCount": 59,
-    "publishedCount": 121,
-    "totalSteamReviews": 929215,
-    "averagePositivePercentage": 75.9,
-    "weightedPositivePercentage": 83.8,
+    "gameCount": 147,
+    "developedCount": 60,
+    "publishedCount": 123,
+    "totalSteamReviews": 932999,
+    "averagePositivePercentage": 76.1,
+    "weightedPositivePercentage": 83.9,
     "mostReviewedGame": "hell-let-loose",
-    "mostRecentRelease": "wardogs",
+    "mostRecentRelease": "silver-pines",
     "firstRelease": "alien-breed",
     "technologyCount": 5,
     "engineCount": 5,
@@ -264,11 +267,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q1384984",
-      "retrievedAt": "2026-10-14"
+      "retrievedAt": "2026-10-15"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-10-14T10:16:52.367Z"
+  "lastUpdated": "2026-10-15T09:59:55.142Z"
 }
