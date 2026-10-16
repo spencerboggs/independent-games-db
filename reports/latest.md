@@ -1,37 +1,25 @@
-# Database update: 2026-10-15
+# Database update: 2026-10-16
 
 Dataset 0.1.0: 526 games, 353 companies, 93 technologies, 1,345 relationships.
 
-## New games (2)
+## Review counts (206)
 
-+ Little Prince Tyger (`little-prince-tyger`), 2027, by unknown
-+ The Escapists 3 (`the-escapists-3`), 2027, by team17
-
-## Changed (2)
-
-~ Castlevania: Belmont's Curse (`castlevania-belmonts-curse`)
-  - releaseStatus: upcoming → released
-~ Silver Pines (`silver-pines`)
-  - releaseStatus: upcoming → released
-
-## Review counts (219)
-
-~ WARDOGS: 116,207 → 117,798 (+1,591)
-~ CONTROL Resonant: 17,229 → 17,494 (+265)
-~ Valheim: 559,998 → 560,248 (+250)
-~ PEAK: 379,494 → 379,673 (+179)
-~ Big Walk: 42,771 → 42,935 (+164)
-~ Risk of Rain 2: 354,831 → 354,984 (+153)
-~ Slay the Spire 2: 204,952 → 205,075 (+123)
-~ R.E.P.O.: 428,676 → 428,795 (+119)
-~ Baldur's Gate 3: 861,993 → 862,101 (+108)
-~ Hollow Knight: Silksong: 425,470 → 425,573 (+103)
-~ Hollow Knight: 565,117 → 565,213 (+96)
-~ Minecraft Dungeons II: 10,196 → 10,284 (+88)
-~ Satisfactory: 281,173 → 281,249 (+76)
-~ CONTROL Ultimate Edition: 66,074 → 66,141 (+67)
-~ RV There Yet?: 89,301 → 89,364 (+63)
-… and 204 more
+~ WARDOGS: 117,798 → 121,086 (+3,288)
+~ Castlevania: Belmont's Curse: 606 → 2,761 (+2,155)
+~ Silver Pines: 2,020 → 2,368 (+348)
+~ CONTROL Resonant: 17,494 → 17,761 (+267)
+~ Valheim: 560,248 → 560,504 (+256)
+~ Big Walk: 42,935 → 43,137 (+202)
+~ PEAK: 379,673 → 379,843 (+170)
+~ Risk of Rain 2: 354,984 → 355,115 (+131)
+~ Slay the Spire 2: 205,075 → 205,200 (+125)
+~ Hollow Knight: 565,213 → 565,335 (+122)
+~ R.E.P.O.: 428,795 → 428,915 (+120)
+~ Baldur's Gate 3: 862,101 → 862,217 (+116)
+~ Hollow Knight: Silksong: 425,573 → 425,658 (+85)
+~ Minecraft Dungeons II: 10,284 → 10,360 (+76)
+~ SILENT HILL: Townfall: 6,093 → 6,155 (+62)
+… and 191 more
 
 ## Manual review (65)
 
@@ -109,4 +97,4 @@ These listings use different company names. Pick the right company in `npm run r
 
 ## Review queue
 
-68 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

@@ -14,7 +14,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q104804747",
-        "retrievedAt": "2026-10-15"
+        "retrievedAt": "2026-10-16"
       }
     },
     "custom": null
@@ -59,9 +59,9 @@
     "gameCount": 5,
     "developedCount": 5,
     "publishedCount": 0,
-    "totalSteamReviews": 5590,
-    "averagePositivePercentage": 85.9,
-    "weightedPositivePercentage": 87.8,
+    "totalSteamReviews": 7750,
+    "averagePositivePercentage": 86.7,
+    "weightedPositivePercentage": 82.4,
     "mostReviewedGame": "the-rogue-prince-of-persia",
     "mostRecentRelease": "castlevania-belmonts-curse",
     "firstRelease": "dead-cells-the-bad-seed",
@@ -73,11 +73,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q104804747",
-      "retrievedAt": "2026-10-15"
+      "retrievedAt": "2026-10-16"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-10-15T09:59:55.142Z"
+  "lastUpdated": "2026-10-16T09:53:52.260Z"
 }

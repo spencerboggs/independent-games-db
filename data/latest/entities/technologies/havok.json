@@ -22,19 +22,19 @@
   "statistics": {
     "gameCount": 1,
     "companyCount": 1,
-    "totalSteamReviews": 60450,
+    "totalSteamReviews": 60465,
     "mostReviewedGames": [
       {
         "id": "alan-wake",
         "title": "Alan Wake",
-        "value": 60450
+        "value": 60465
       }
     ],
     "mostPlayedGames": [
       {
         "id": "alan-wake",
         "title": "Alan Wake",
-        "value": 236
+        "value": 229
       }
     ],
     "gamesByReleaseYear": {
