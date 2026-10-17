@@ -121,109 +121,109 @@
   "statistics": {
     "gameCount": 95,
     "companyCount": 94,
-    "totalSteamReviews": 3672167,
+    "totalSteamReviews": 3673209,
     "mostReviewedGames": [
       {
         "id": "hollow-knight",
         "title": "Hollow Knight",
-        "value": 565335
+        "value": 565454
       },
       {
         "id": "valheim",
         "title": "Valheim",
-        "value": 560504
+        "value": 560759
       },
       {
         "id": "hollow-knight-silksong",
         "title": "Hollow Knight: Silksong",
-        "value": 425658
+        "value": 425777
       },
       {
         "id": "cuphead",
         "title": "Cuphead",
-        "value": 222973
+        "value": 223033
       },
       {
         "id": "totally-accurate-battle-simulator",
         "title": "Totally Accurate Battle Simulator",
-        "value": 154854
+        "value": 154886
       },
       {
         "id": "inscryption",
         "title": "Inscryption",
-        "value": 149330
+        "value": 149357
       },
       {
         "id": "cult-of-the-lamb",
         "title": "Cult of the Lamb",
-        "value": 130694
+        "value": 130744
       },
       {
         "id": "outer-wilds",
         "title": "Outer Wilds",
-        "value": 109342
+        "value": 109378
       },
       {
         "id": "firewatch",
         "title": "Firewatch",
-        "value": 99917
+        "value": 99936
       },
       {
         "id": "gris",
         "title": "GRIS",
-        "value": 96751
+        "value": 96762
       }
     ],
     "mostPlayedGames": [
       {
         "id": "valheim",
         "title": "Valheim",
-        "value": 43575
+        "value": 64722
       },
       {
         "id": "hollow-knight",
         "title": "Hollow Knight",
-        "value": 4873
+        "value": 7266
       },
       {
         "id": "hollow-knight-silksong",
         "title": "Hollow Knight: Silksong",
-        "value": 4759
+        "value": 7022
       },
       {
         "id": "overcooked-2",
         "title": "Overcooked! 2",
-        "value": 2580
-      },
-      {
-        "id": "cult-of-the-lamb",
-        "title": "Cult of the Lamb",
-        "value": 1647
+        "value": 5006
       },
       {
         "id": "totally-accurate-battle-simulator",
         "title": "Totally Accurate Battle Simulator",
-        "value": 1501
+        "value": 2724
+      },
+      {
+        "id": "cult-of-the-lamb",
+        "title": "Cult of the Lamb",
+        "value": 2388
       },
       {
         "id": "cuphead",
         "title": "Cuphead",
-        "value": 1234
-      },
-      {
-        "id": "inscryption",
-        "title": "Inscryption",
-        "value": 887
-      },
-      {
-        "id": "ball-x-pit",
-        "title": "BALL x PIT",
-        "value": 858
+        "value": 2010
       },
       {
         "id": "outer-wilds",
         "title": "Outer Wilds",
-        "value": 847
+        "value": 1305
+      },
+      {
+        "id": "inscryption",
+        "title": "Inscryption",
+        "value": 1212
+      },
+      {
+        "id": "ball-x-pit",
+        "title": "BALL x PIT",
+        "value": 1146
       }
     ],
     "gamesByReleaseYear": {
