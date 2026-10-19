@@ -43,22 +43,22 @@
   "statistics": {
     "gameCount": 18,
     "companyCount": 21,
-    "totalSteamReviews": 331141,
+    "totalSteamReviews": 331228,
     "mostReviewedGames": [
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 129161
+        "value": 129225
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 76433
+        "value": 76438
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 36618
+        "value": 36621
       },
       {
         "id": "risk-of-rain-2013",
@@ -73,7 +73,7 @@
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 8664
+        "value": 8667
       },
       {
         "id": "sheltered",
@@ -83,12 +83,12 @@
       {
         "id": "deadbolt",
         "title": "DEADBOLT",
-        "value": 5667
+        "value": 5668
       },
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 5284
+        "value": 5291
       },
       {
         "id": "luftrausers",
@@ -100,47 +100,47 @@
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 478
+        "value": 315
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 376
+        "value": 268
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 133
+        "value": 73
       },
       {
         "id": "sheltered",
         "title": "Sheltered",
-        "value": 41
-      },
-      {
-        "id": "the-red-strings-club",
-        "title": "The Red Strings Club",
-        "value": 22
-      },
-      {
-        "id": "conscript-directors-cut",
-        "title": "CONSCRIPT: Director’s Cut",
-        "value": 19
-      },
-      {
-        "id": "downwell",
-        "title": "Downwell",
-        "value": 19
+        "value": 23
       },
       {
         "id": "risk-of-rain-2013",
         "title": "Risk of Rain (2013)",
-        "value": 17
+        "value": 22
+      },
+      {
+        "id": "downwell",
+        "title": "Downwell",
+        "value": 12
+      },
+      {
+        "id": "conscript-directors-cut",
+        "title": "CONSCRIPT: Director’s Cut",
+        "value": 10
+      },
+      {
+        "id": "the-red-strings-club",
+        "title": "The Red Strings Club",
+        "value": 8
       },
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 14
+        "value": 7
       },
       {
         "id": "honey-i-joined-a-cult",
