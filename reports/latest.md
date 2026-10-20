@@ -1,25 +1,25 @@
-# Database update: 2026-10-19
+# Database update: 2026-10-20
 
 Dataset 0.1.0: 526 games, 353 companies, 93 technologies, 1,345 relationships.
 
-## Review counts (220)
+## Review counts (204)
 
-~ WARDOGS: 124,960 → 126,686 (+1,726)
-~ Castlevania: Belmont's Curse: 5,246 → 6,208 (+962)
-~ Silver Pines: 3,057 → 3,399 (+342)
-~ CONTROL Resonant: 18,332 → 18,620 (+288)
-~ Valheim: 561,034 → 561,265 (+231)
-~ PEAK: 380,338 → 380,552 (+214)
-~ Big Walk: 43,647 → 43,859 (+212)
-~ Baldur's Gate 3: 862,469 → 862,626 (+157)
-~ R.E.P.O.: 429,248 → 429,403 (+155)
-~ Hollow Knight: 565,601 → 565,752 (+151)
-~ Risk of Rain 2: 355,399 → 355,545 (+146)
-~ Slay the Spire 2: 205,484 → 205,620 (+136)
-~ Hollow Knight: Silksong: 425,884 → 425,987 (+103)
-~ RV There Yet?: 89,578 → 89,665 (+87)
-~ Cult of the Lamb: 130,789 → 130,857 (+68)
-… and 205 more
+~ WARDOGS: 126,686 → 128,025 (+1,339)
+~ Castlevania: Belmont's Curse: 6,208 → 7,031 (+823)
+~ Silver Pines: 3,399 → 3,659 (+260)
+~ Valheim: 561,265 → 561,463 (+198)
+~ CONTROL Resonant: 18,620 → 18,798 (+178)
+~ PEAK: 380,552 → 380,708 (+156)
+~ Big Walk: 43,859 → 44,014 (+155)
+~ R.E.P.O.: 429,403 → 429,543 (+140)
+~ Slay the Spire 2: 205,620 → 205,760 (+140)
+~ Risk of Rain 2: 355,545 → 355,650 (+105)
+~ Baldur's Gate 3: 862,626 → 862,725 (+99)
+~ Hollow Knight: 565,752 → 565,842 (+90)
+~ Hollow Knight: Silksong: 425,987 → 426,072 (+85)
+~ Cult of the Lamb: 130,857 → 130,916 (+59)
+~ Outer Wilds: 109,467 → 109,523 (+56)
+… and 189 more
 
 ## Manual review (65)
 

@@ -33,7 +33,13 @@
         "value": 4536
       }
     ],
-    "mostPlayedGames": [],
+    "mostPlayedGames": [
+      {
+        "id": "luftrausers",
+        "title": "LUFTRAUSERS",
+        "value": 1
+      }
+    ],
     "gamesByReleaseYear": {
       "2009": 1,
       "2014": 1
