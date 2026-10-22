@@ -17,7 +17,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q45700",
-        "retrievedAt": "2026-10-21"
+        "retrievedAt": "2026-10-22"
       }
     },
     "custom": null
@@ -62,15 +62,16 @@
     "gameCount": 2,
     "developedCount": 1,
     "publishedCount": 2,
-    "totalSteamReviews": 13996,
-    "averagePositivePercentage": 72,
-    "weightedPositivePercentage": 72.2,
+    "totalSteamReviews": 14519,
+    "averagePositivePercentage": 72.3,
+    "weightedPositivePercentage": 72.6,
     "mostReviewedGame": "castlevania-belmonts-curse",
     "mostRecentRelease": "castlevania-belmonts-curse",
     "firstRelease": "silent-hill-townfall",
-    "technologyCount": 1,
-    "engineCount": 1,
+    "technologyCount": 2,
+    "engineCount": 2,
     "engines": [
+      "unity",
       "unreal-engine"
     ]
   },
@@ -78,8 +79,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q45700",
-      "retrievedAt": "2026-10-21"
+      "retrievedAt": "2026-10-22"
     }
   ],
-  "lastUpdated": "2026-10-21T10:14:59.756Z"
+  "lastUpdated": "2026-10-22T10:16:02.975Z"
 }

@@ -1,25 +1,45 @@
-# Database update: 2026-10-21
+# Database update: 2026-10-22
 
-Dataset 0.1.0: 526 games, 353 companies, 93 technologies, 1,345 relationships.
+Dataset 0.1.0: 527 games, 353 companies, 93 technologies, 1,349 relationships.
 
-## Review counts (215)
+## New games (1)
 
-~ WARDOGS: 128,025 → 129,190 (+1,165)
-~ Castlevania: Belmont's Curse: 7,031 → 7,590 (+559)
-~ Silver Pines: 3,659 → 3,894 (+235)
-~ CONTROL Resonant: 18,798 → 18,997 (+199)
-~ Valheim: 561,463 → 561,651 (+188)
-~ PEAK: 380,708 → 380,853 (+145)
-~ Big Walk: 44,014 → 44,149 (+135)
-~ Slay the Spire 2: 205,760 → 205,867 (+107)
-~ Hollow Knight: 565,842 → 565,941 (+99)
-~ R.E.P.O.: 429,543 → 429,632 (+89)
-~ Hollow Knight: Silksong: 426,072 → 426,159 (+87)
-~ Baldur's Gate 3: 862,725 → 862,798 (+73)
-~ Risk of Rain 2: 355,650 → 355,722 (+72)
-~ Mortal Shell II: 22,128 → 22,183 (+55)
-~ Satisfactory: 281,500 → 281,555 (+55)
-… and 200 more
++ Serious Sam: The Third Encounter (`serious-sam-the-third-encounter`), no date, by croteam
+
+## Changed (6)
+
+~ Castlevania: Belmont's Curse (`castlevania-belmonts-curse`)
+  - engines: [] → [unity]
+~ Faraway (`faraway`)
+  - releaseDate: none → 2026-11-05
+~ Mycopunk (`mycopunk`)
+  - releaseDate: 2025-07-10 → 2026-10-20
+  - releaseStatus: early-access → released
+~ PEAK (`peak`)
+  - engines: [] → [unity]
+~ Star Trek: Outposts Unknown (`star-trek-outposts-unknown`)
+  - releaseStatus: upcoming → released
+~ Worms (`worms`)
+  - platforms: [atari-jaguar, commodore-amiga, dos, game-boy, game-boy-color, playstation, sega-genesis, sega-saturn, super-nintendo-entertainment-system, windows] → [atari-jaguar, commodore-amiga, dos, game-boy, game-boy-color, playstation, sega-genesis-mega-drive, sega-saturn, super-nintendo-entertainment-system, windows]
+
+## Review counts (188)
+
+~ WARDOGS: 129,190 → 131,385 (+2,195)
+~ Castlevania: Belmont's Curse: 7,590 → 8,081 (+491)
+~ Silver Pines: 3,894 → 4,113 (+219)
+~ Valheim: 561,651 → 561,838 (+187)
+~ CONTROL Resonant: 18,997 → 19,139 (+142)
+~ PEAK: 380,853 → 380,985 (+132)
+~ R.E.P.O.: 429,632 → 429,763 (+131)
+~ Big Walk: 44,149 → 44,277 (+128)
+~ Slay the Spire 2: 205,867 → 205,986 (+119)
+~ Baldur's Gate 3: 862,798 → 862,912 (+114)
+~ Hollow Knight: 565,941 → 566,040 (+99)
+~ Risk of Rain 2: 355,722 → 355,815 (+93)
+~ Hollow Knight: Silksong: 426,159 → 426,246 (+87)
+~ Mycopunk: 4,835 → 4,896 (+61)
+~ RV There Yet?: 89,765 → 89,817 (+52)
+… and 173 more
 
 ## Manual review (65)
 
@@ -91,10 +111,15 @@ These listings use different company names. Pick the right company in `npm run r
 ! yooka-laylee-and-the-impossible-lair publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 ! yooka-laylee publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 
+## Low confidence (2)
+
+? unity for Castlevania: Belmont's Curse (medium, via wikidata)
+? unity for PEAK (medium, via wikidata)
+
 ## Potential duplicates and ambiguous matches (1)
 
 ? "Worms" (worms) and "Worms" (worms-2007) share a title and developer
 
 ## Review queue
 
-66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+69 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

@@ -57,7 +57,7 @@
       ],
       "engines": [],
       "steamAppId": "41070",
-      "reviewCount": 28787,
+      "reviewCount": 28788,
       "positivePercentage": 88.2
     },
     {
@@ -159,7 +159,7 @@
       ],
       "engines": [],
       "steamAppId": "41050",
-      "reviewCount": 3525,
+      "reviewCount": 3527,
       "positivePercentage": 95.7
     },
     {
@@ -284,7 +284,7 @@
       ],
       "engines": [],
       "steamAppId": "41000",
-      "reviewCount": 9065,
+      "reviewCount": 9067,
       "positivePercentage": 93
     },
     {
@@ -354,7 +354,7 @@
       ],
       "engines": [],
       "steamAppId": "204340",
-      "reviewCount": 14396,
+      "reviewCount": 14398,
       "positivePercentage": 89.9
     },
     {
@@ -412,6 +412,30 @@
       "positivePercentage": 48.6
     },
     {
+      "id": "serious-sam-the-third-encounter",
+      "title": "Serious Sam: The Third Encounter",
+      "type": "game",
+      "releaseDate": null,
+      "developers": [
+        "croteam"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "first-person-shooter"
+      ],
+      "engines": [],
+      "steamAppId": "459920",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
       "id": "serious-sam-tormental",
       "title": "Serious Sam: Tormental",
       "type": "game",
@@ -460,7 +484,7 @@
       ],
       "engines": [],
       "steamAppId": "552450",
-      "reviewCount": 756,
+      "reviewCount": 757,
       "positivePercentage": 87.8
     },
     {
@@ -567,7 +591,7 @@
       ],
       "engines": [],
       "steamAppId": "257510",
-      "reviewCount": 33182,
+      "reviewCount": 33187,
       "positivePercentage": 95.3
     },
     {
@@ -595,7 +619,7 @@
         "unreal-engine"
       ],
       "steamAppId": "835960",
-      "reviewCount": 13677,
+      "reviewCount": 13682,
       "positivePercentage": 94.7
     },
     {
@@ -645,8 +669,8 @@
       ],
       "engines": [],
       "steamAppId": "2806640",
-      "reviewCount": 1262,
-      "positivePercentage": 90.5
+      "reviewCount": 1263,
+      "positivePercentage": 90.4
     },
     {
       "id": "the-talos-principle-road-to-gehenna",
@@ -749,7 +773,7 @@
       ],
       "engines": [],
       "steamAppId": "552450",
-      "reviewCount": 756,
+      "reviewCount": 757,
       "positivePercentage": 87.8
     },
     {
@@ -831,7 +855,7 @@
       ],
       "engines": [],
       "steamAppId": "257510",
-      "reviewCount": 33182,
+      "reviewCount": 33187,
       "positivePercentage": 95.3
     }
   ]

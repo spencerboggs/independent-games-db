@@ -15,7 +15,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q111968498",
-        "retrievedAt": "2026-10-21"
+        "retrievedAt": "2026-10-22"
       }
     },
     "custom": null
@@ -65,25 +65,27 @@
     "gameCount": 5,
     "developedCount": 3,
     "publishedCount": 4,
-    "totalSteamReviews": 409739,
+    "totalSteamReviews": 409881,
     "averagePositivePercentage": 89.5,
     "weightedPositivePercentage": 94.2,
     "mostReviewedGame": "peak",
     "mostRecentRelease": "crashout-crew",
     "firstRelease": "going-under",
-    "technologyCount": 0,
-    "engineCount": 0,
-    "engines": []
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
   },
   "sources": [
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q111968498",
-      "retrievedAt": "2026-10-21"
+      "retrievedAt": "2026-10-22"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-10-21T10:14:59.756Z"
+  "lastUpdated": "2026-10-22T10:16:02.975Z"
 }
