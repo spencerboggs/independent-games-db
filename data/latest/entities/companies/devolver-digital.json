@@ -17,7 +17,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q5267669",
-        "retrievedAt": "2026-10-21"
+        "retrievedAt": "2026-10-22"
       }
     },
     "custom": null
@@ -158,6 +158,7 @@
       "serious-sam-siberian-mayhem",
       "serious-sam-the-greek-encounter",
       "serious-sam-the-random-encounter",
+      "serious-sam-the-third-encounter",
       "serious-sam-tormental",
       "serious-sam-vr-the-first-encounter",
       "serious-sam-vr-the-last-hope",
@@ -206,14 +207,14 @@
     ]
   },
   "statistics": {
-    "gameCount": 148,
+    "gameCount": 149,
     "developedCount": 1,
-    "publishedCount": 148,
-    "totalSteamReviews": 1499088,
+    "publishedCount": 149,
+    "totalSteamReviews": 1499466,
     "averagePositivePercentage": 85.5,
     "weightedPositivePercentage": 93.2,
     "mostReviewedGame": "inscryption",
-    "mostRecentRelease": "stick-it-to-the-stickman",
+    "mostRecentRelease": "mycopunk",
     "firstRelease": "serious-sam-hd-the-first-encounter",
     "technologyCount": 6,
     "engineCount": 6,
@@ -230,11 +231,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q5267669",
-      "retrievedAt": "2026-10-21"
+      "retrievedAt": "2026-10-22"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-10-21T10:14:59.756Z"
+  "lastUpdated": "2026-10-22T10:16:02.975Z"
 }

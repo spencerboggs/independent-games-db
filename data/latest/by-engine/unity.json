@@ -60,7 +60,7 @@
         "unity"
       ],
       "steamAppId": "447150",
-      "reviewCount": 4149,
+      "reviewCount": 4150,
       "positivePercentage": 94.8
     },
     {
@@ -91,7 +91,7 @@
         "unity"
       ],
       "steamAppId": "2366970",
-      "reviewCount": 2344,
+      "reviewCount": 2345,
       "positivePercentage": 95.8
     },
     {
@@ -148,7 +148,7 @@
         "unity"
       ],
       "steamAppId": "2062430",
-      "reviewCount": 27709,
+      "reviewCount": 27722,
       "positivePercentage": 95.2
     },
     {
@@ -180,7 +180,7 @@
         "unity"
       ],
       "steamAppId": "1073910",
-      "reviewCount": 1732,
+      "reviewCount": 1733,
       "positivePercentage": 78.1
     },
     {
@@ -245,7 +245,7 @@
         "unity"
       ],
       "steamAppId": "774361",
-      "reviewCount": 68019,
+      "reviewCount": 68037,
       "positivePercentage": 89.8
     },
     {
@@ -276,7 +276,7 @@
         "unity"
       ],
       "steamAppId": "2114740",
-      "reviewCount": 22146,
+      "reviewCount": 22163,
       "positivePercentage": 90.7
     },
     {
@@ -360,7 +360,7 @@
         "unity"
       ],
       "steamAppId": "274190",
-      "reviewCount": 61134,
+      "reviewCount": 61137,
       "positivePercentage": 96.9
     },
     {
@@ -390,6 +390,36 @@
       "positivePercentage": null
     },
     {
+      "id": "castlevania-belmonts-curse",
+      "title": "Castlevania: Belmont's Curse",
+      "type": "game",
+      "releaseDate": "2026-10-14",
+      "developers": [
+        "evil-empire",
+        "konami"
+      ],
+      "publishers": [
+        "konami"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "playstation-5",
+        "windows",
+        "xbox-series"
+      ],
+      "genres": [
+        "action",
+        "metroidvania",
+        "rpg"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "4231820",
+      "reviewCount": 8081,
+      "positivePercentage": 75.2
+    },
+    {
       "id": "clustertruck",
       "title": "Clustertruck",
       "type": "game",
@@ -414,7 +444,7 @@
         "unity"
       ],
       "steamAppId": "397950",
-      "reviewCount": 18650,
+      "reviewCount": 18651,
       "positivePercentage": 93.5
     },
     {
@@ -513,7 +543,7 @@
         "unity"
       ],
       "steamAppId": "1313140",
-      "reviewCount": 130953,
+      "reviewCount": 130980,
       "positivePercentage": 95.9
     },
     {
@@ -543,7 +573,7 @@
         "unity"
       ],
       "steamAppId": "268910",
-      "reviewCount": 223238,
+      "reviewCount": 223274,
       "positivePercentage": 96.1
     },
     {
@@ -575,7 +605,7 @@
         "unity"
       ],
       "steamAppId": "894020",
-      "reviewCount": 23219,
+      "reviewCount": 23234,
       "positivePercentage": 92.9
     },
     {
@@ -608,7 +638,7 @@
         "unity"
       ],
       "steamAppId": "555220",
-      "reviewCount": 11865,
+      "reviewCount": 11866,
       "positivePercentage": 95.7
     },
     {
@@ -703,7 +733,7 @@
         "unity"
       ],
       "steamAppId": "702670",
-      "reviewCount": 12271,
+      "reviewCount": 12273,
       "positivePercentage": 92.2
     },
     {
@@ -740,7 +770,7 @@
         "unity"
       ],
       "steamAppId": "1562430",
-      "reviewCount": 57622,
+      "reviewCount": 57633,
       "positivePercentage": 95.8
     },
     {
@@ -774,7 +804,7 @@
         "unity"
       ],
       "steamAppId": "2561450",
-      "reviewCount": 764,
+      "reviewCount": 765,
       "positivePercentage": 81.3
     },
     {
@@ -864,7 +894,7 @@
         "unity"
       ],
       "steamAppId": "311690",
-      "reviewCount": 90079,
+      "reviewCount": 90094,
       "positivePercentage": 95.1
     },
     {
@@ -897,7 +927,7 @@
         "unity"
       ],
       "steamAppId": "383870",
-      "reviewCount": 99994,
+      "reviewCount": 100009,
       "positivePercentage": 90.6
     },
     {
@@ -927,7 +957,7 @@
         "unity"
       ],
       "steamAppId": "1102130",
-      "reviewCount": 16594,
+      "reviewCount": 16595,
       "positivePercentage": 93.2
     },
     {
@@ -953,7 +983,7 @@
         "unity"
       ],
       "steamAppId": "469820",
-      "reviewCount": 11339,
+      "reviewCount": 11341,
       "positivePercentage": 92.2
     },
     {
@@ -987,8 +1017,8 @@
         "unity"
       ],
       "steamAppId": "431240",
-      "reviewCount": 76072,
-      "positivePercentage": 87.3
+      "reviewCount": 76075,
+      "positivePercentage": 87.2
     },
     {
       "id": "gorn",
@@ -1011,8 +1041,8 @@
         "unity"
       ],
       "steamAppId": "578620",
-      "reviewCount": 8229,
-      "positivePercentage": 94
+      "reviewCount": 8230,
+      "positivePercentage": 93.9
     },
     {
       "id": "gorogoa",
@@ -1043,7 +1073,7 @@
         "unity"
       ],
       "steamAppId": "557600",
-      "reviewCount": 20997,
+      "reviewCount": 21008,
       "positivePercentage": 97.5
     },
     {
@@ -1076,7 +1106,7 @@
         "unity"
       ],
       "steamAppId": "683320",
-      "reviewCount": 96814,
+      "reviewCount": 96821,
       "positivePercentage": 96
     },
     {
@@ -1232,7 +1262,7 @@
         "unity"
       ],
       "steamAppId": "367520",
-      "reviewCount": 565941,
+      "reviewCount": 566040,
       "positivePercentage": 96.9
     },
     {
@@ -1269,7 +1299,7 @@
         "unity"
       ],
       "steamAppId": "1030300",
-      "reviewCount": 426159,
+      "reviewCount": 426246,
       "positivePercentage": 89.5
     },
     {
@@ -1297,7 +1327,7 @@
         "unity"
       ],
       "steamAppId": "598550",
-      "reviewCount": 4468,
+      "reviewCount": 4469,
       "positivePercentage": 94.8
     },
     {
@@ -1361,7 +1391,7 @@
         "unity"
       ],
       "steamAppId": "1092790",
-      "reviewCount": 149456,
+      "reviewCount": 149484,
       "positivePercentage": 96.8
     },
     {
@@ -1392,7 +1422,7 @@
         "unity"
       ],
       "steamAppId": "1903620",
-      "reviewCount": 6290,
+      "reviewCount": 6291,
       "positivePercentage": 93
     },
     {
@@ -1451,8 +1481,8 @@
         "unity"
       ],
       "steamAppId": "2261430",
-      "reviewCount": 1397,
-      "positivePercentage": 71.4
+      "reviewCount": 1398,
+      "positivePercentage": 71.5
     },
     {
       "id": "marauders",
@@ -1506,7 +1536,7 @@
         "unity"
       ],
       "steamAppId": "361300",
-      "reviewCount": 5431,
+      "reviewCount": 5433,
       "positivePercentage": 86.6
     },
     {
@@ -1531,13 +1561,14 @@
       ],
       "genres": [
         "action",
-        "first-person-shooter"
+        "first-person-shooter",
+        "noir-video-game"
       ],
       "engines": [
         "unity"
       ],
       "steamAppId": "2416450",
-      "reviewCount": 16153,
+      "reviewCount": 16168,
       "positivePercentage": 93.8
     },
     {
@@ -1567,7 +1598,7 @@
         "unity"
       ],
       "steamAppId": "996770",
-      "reviewCount": 2376,
+      "reviewCount": 2375,
       "positivePercentage": 80.3
     },
     {
@@ -1654,7 +1685,7 @@
         "unity"
       ],
       "steamAppId": "557340",
-      "reviewCount": 28559,
+      "reviewCount": 28560,
       "positivePercentage": 95.5
     },
     {
@@ -1748,7 +1779,7 @@
         "unity"
       ],
       "steamAppId": "1533420",
-      "reviewCount": 21060,
+      "reviewCount": 21065,
       "positivePercentage": 97.9
     },
     {
@@ -1780,7 +1811,7 @@
         "unity"
       ],
       "steamAppId": "2420660",
-      "reviewCount": 10923,
+      "reviewCount": 10925,
       "positivePercentage": 93.5
     },
     {
@@ -1814,7 +1845,7 @@
         "unity"
       ],
       "steamAppId": "1809540",
-      "reviewCount": 46546,
+      "reviewCount": 46572,
       "positivePercentage": 94.4
     },
     {
@@ -1866,7 +1897,7 @@
         "unity"
       ],
       "steamAppId": "906100",
-      "reviewCount": 5289,
+      "reviewCount": 5290,
       "positivePercentage": 78.2
     },
     {
@@ -1957,7 +1988,7 @@
         "unity"
       ],
       "steamAppId": "753640",
-      "reviewCount": 109566,
+      "reviewCount": 109603,
       "positivePercentage": 95.6
     },
     {
@@ -2012,7 +2043,7 @@
         "unity"
       ],
       "steamAppId": "448510",
-      "reviewCount": 16828,
+      "reviewCount": 16830,
       "positivePercentage": 89.6
     },
     {
@@ -2045,8 +2076,35 @@
         "unity"
       ],
       "steamAppId": "728880",
-      "reviewCount": 85101,
+      "reviewCount": 85111,
       "positivePercentage": 90.4
+    },
+    {
+      "id": "peak",
+      "title": "PEAK",
+      "type": "game",
+      "releaseDate": "2025-06-16",
+      "developers": [
+        "team-peak"
+      ],
+      "publishers": [
+        "aggro-crab",
+        "evil-landfall"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "action-adventure",
+        "adventure"
+      ],
+      "engines": [
+        "unity"
+      ],
+      "steamAppId": "3527290",
+      "reviewCount": 380985,
+      "positivePercentage": 94.4
     },
     {
       "id": "pikuniku",
@@ -2079,7 +2137,7 @@
         "unity"
       ],
       "steamAppId": "572890",
-      "reviewCount": 11955,
+      "reviewCount": 11954,
       "positivePercentage": 95.9
     },
     {
@@ -2289,7 +2347,7 @@
         "unity"
       ],
       "steamAppId": "1144770",
-      "reviewCount": 5577,
+      "reviewCount": 5578,
       "positivePercentage": 91.1
     },
     {
@@ -2352,7 +2410,7 @@
         "unity"
       ],
       "steamAppId": "558420",
-      "reviewCount": 5561,
+      "reviewCount": 5562,
       "positivePercentage": 86.6
     },
     {
@@ -2472,7 +2530,7 @@
         "unity"
       ],
       "steamAppId": "1593030",
-      "reviewCount": 8972,
+      "reviewCount": 8975,
       "positivePercentage": 87.3
     },
     {
@@ -2506,7 +2564,7 @@
         "unity"
       ],
       "steamAppId": "298630",
-      "reviewCount": 16240,
+      "reviewCount": 16241,
       "positivePercentage": 90.2
     },
     {
@@ -2541,7 +2599,7 @@
         "unity"
       ],
       "steamAppId": "641990",
-      "reviewCount": 33942,
+      "reviewCount": 33944,
       "positivePercentage": 90.5
     },
     {
@@ -2599,7 +2657,7 @@
         "unity"
       ],
       "steamAppId": "1274600",
-      "reviewCount": 5740,
+      "reviewCount": 5739,
       "positivePercentage": 84.6
     },
     {
@@ -2626,7 +2684,7 @@
         "unity"
       ],
       "steamAppId": "764790",
-      "reviewCount": 13339,
+      "reviewCount": 13341,
       "positivePercentage": 92.6
     },
     {
@@ -2682,7 +2740,7 @@
         "unity"
       ],
       "steamAppId": "508440",
-      "reviewCount": 155046,
+      "reviewCount": 155079,
       "positivePercentage": 97.8
     },
     {
@@ -2707,7 +2765,7 @@
         "unity"
       ],
       "steamAppId": "823130",
-      "reviewCount": 87777,
+      "reviewCount": 87778,
       "positivePercentage": 88.5
     },
     {
@@ -2797,7 +2855,7 @@
         "unity"
       ],
       "steamAppId": "837470",
-      "reviewCount": 25431,
+      "reviewCount": 25433,
       "positivePercentage": 95.8
     },
     {
@@ -2830,7 +2888,7 @@
         "unity"
       ],
       "steamAppId": "892970",
-      "reviewCount": 561651,
+      "reviewCount": 561838,
       "positivePercentage": 93.5
     },
     {
@@ -2887,7 +2945,7 @@
         "unity"
       ],
       "steamAppId": "200170",
-      "reviewCount": 9131,
+      "reviewCount": 9133,
       "positivePercentage": 87.3
     }
   ]

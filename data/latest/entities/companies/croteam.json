@@ -15,7 +15,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q2340010",
-        "retrievedAt": "2026-10-21"
+        "retrievedAt": "2026-10-22"
       }
     },
     "custom": null
@@ -65,6 +65,7 @@
       "serious-sam-ii",
       "serious-sam-siberian-mayhem",
       "serious-sam-the-random-encounter",
+      "serious-sam-the-third-encounter",
       "serious-sam-tormental",
       "serious-sam-vr-the-first-encounter",
       "serious-sam-vr-the-last-hope",
@@ -86,10 +87,10 @@
     ]
   },
   "statistics": {
-    "gameCount": 27,
-    "developedCount": 27,
+    "gameCount": 28,
+    "developedCount": 28,
     "publishedCount": 5,
-    "totalSteamReviews": 145508,
+    "totalSteamReviews": 145527,
     "averagePositivePercentage": 86.2,
     "weightedPositivePercentage": 90.5,
     "mostReviewedGame": "the-talos-principle",
@@ -108,8 +109,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q2340010",
-      "retrievedAt": "2026-10-21"
+      "retrievedAt": "2026-10-22"
     }
   ],
-  "lastUpdated": "2026-10-21T10:14:59.756Z"
+  "lastUpdated": "2026-10-22T10:16:02.975Z"
 }
