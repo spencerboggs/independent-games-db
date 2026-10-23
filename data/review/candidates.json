@@ -1,50 +1,5 @@
 [
   {
-    "id": "new-game:serious-sam-the-third-encounter:685c606a9f99",
-    "related": [],
-    "category": "new-game",
-    "subject": {
-      "type": "game",
-      "id": "serious-sam-the-third-encounter"
-    },
-    "title": "New game: Serious Sam: The Third Encounter",
-    "summary": "game, no release date; developers: Croteam; publishers: Devolver Digital.",
-    "details": {
-      "title": "Serious Sam: The Third Encounter",
-      "type": "game",
-      "releaseDate": null,
-      "developers": [
-        "croteam"
-      ],
-      "publishers": [
-        "devolver-digital"
-      ],
-      "externalIds": {
-        "wikidata": "Q141803963",
-        "steam": "459920"
-      },
-      "sources": [
-        {
-          "type": "steam",
-          "url": "https://store.steampowered.com/app/459920/",
-          "retrievedAt": "2026-10-22"
-        },
-        {
-          "type": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q141803963",
-          "retrievedAt": "2026-10-22"
-        }
-      ]
-    },
-    "actions": [
-      "approve",
-      "reject",
-      "merge",
-      "edit",
-      "ignore"
-    ]
-  },
-  {
     "id": "potential-duplicate:worms:46b28c810e3d",
     "related": [
       {
@@ -2876,64 +2831,6 @@
       "unmatched": []
     },
     "actions": [
-      "edit",
-      "ignore"
-    ]
-  },
-  {
-    "id": "technology-claim:castlevania-belmonts-curse:1e0e7ca65927",
-    "related": [
-      {
-        "type": "technology",
-        "id": "unity"
-      }
-    ],
-    "category": "technology-claim",
-    "subject": {
-      "type": "game",
-      "id": "castlevania-belmonts-curse"
-    },
-    "title": "Technology claim: unity for Castlevania: Belmont's Curse",
-    "summary": "wikidata reports unity (medium confidence). Approve with a source to raise confidence, or reject.",
-    "details": {
-      "game": "castlevania-belmonts-curse",
-      "title": "Castlevania: Belmont's Curse",
-      "technology": "unity",
-      "confidence": "medium",
-      "source": "wikidata"
-    },
-    "actions": [
-      "approve",
-      "reject",
-      "edit",
-      "ignore"
-    ]
-  },
-  {
-    "id": "technology-claim:peak:9c3652d5263c",
-    "related": [
-      {
-        "type": "technology",
-        "id": "unity"
-      }
-    ],
-    "category": "technology-claim",
-    "subject": {
-      "type": "game",
-      "id": "peak"
-    },
-    "title": "Technology claim: unity for PEAK",
-    "summary": "wikidata reports unity (medium confidence). Approve with a source to raise confidence, or reject.",
-    "details": {
-      "game": "peak",
-      "title": "PEAK",
-      "technology": "unity",
-      "confidence": "medium",
-      "source": "wikidata"
-    },
-    "actions": [
-      "approve",
-      "reject",
       "edit",
       "ignore"
     ]

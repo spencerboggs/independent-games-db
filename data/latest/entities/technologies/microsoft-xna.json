@@ -25,12 +25,12 @@
   "statistics": {
     "gameCount": 2,
     "companyCount": 3,
-    "totalSteamReviews": 39130,
+    "totalSteamReviews": 39132,
     "mostReviewedGames": [
       {
         "id": "bastion",
         "title": "Bastion",
-        "value": 38242
+        "value": 38244
       },
       {
         "id": "serious-sam-double-d-xxl",
@@ -42,7 +42,12 @@
       {
         "id": "bastion",
         "title": "Bastion",
-        "value": 7
+        "value": 13
+      },
+      {
+        "id": "serious-sam-double-d-xxl",
+        "title": "Serious Sam Double D XXL",
+        "value": 1
       }
     ],
     "gamesByReleaseYear": {
