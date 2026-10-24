@@ -43,27 +43,27 @@
   "statistics": {
     "gameCount": 18,
     "companyCount": 21,
-    "totalSteamReviews": 331437,
+    "totalSteamReviews": 331510,
     "mostReviewedGames": [
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 129361
+        "value": 129410
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 76465
+        "value": 76479
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 36633
+        "value": 36634
       },
       {
         "id": "risk-of-rain-2013",
         "title": "Risk of Rain (2013)",
-        "value": 29852
+        "value": 29854
       },
       {
         "id": "the-red-strings-club",
@@ -73,7 +73,7 @@
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 8674
+        "value": 8675
       },
       {
         "id": "sheltered",
@@ -83,12 +83,12 @@
       {
         "id": "deadbolt",
         "title": "DEADBOLT",
-        "value": 5669
+        "value": 5670
       },
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 5299
+        "value": 5301
       },
       {
         "id": "luftrausers",
@@ -100,52 +100,52 @@
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 304
+        "value": 382
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 209
+        "value": 227
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 101
+        "value": 131
       },
       {
         "id": "sheltered",
         "title": "Sheltered",
-        "value": 24
-      },
-      {
-        "id": "the-red-strings-club",
-        "title": "The Red Strings Club",
-        "value": 19
+        "value": 34
       },
       {
         "id": "conscript-directors-cut",
         "title": "CONSCRIPT: Director’s Cut",
-        "value": 15
+        "value": 20
+      },
+      {
+        "id": "the-red-strings-club",
+        "title": "The Red Strings Club",
+        "value": 18
       },
       {
         "id": "risk-of-rain-2013",
         "title": "Risk of Rain (2013)",
-        "value": 13
+        "value": 17
       },
       {
         "id": "honey-i-joined-a-cult",
         "title": "Honey, I Joined a Cult",
-        "value": 12
+        "value": 11
       },
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 8
+        "value": 10
       },
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 6
+        "value": 8
       }
     ],
     "gamesByReleaseYear": {
