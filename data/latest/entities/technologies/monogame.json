@@ -23,49 +23,49 @@
   "statistics": {
     "gameCount": 4,
     "companyCount": 3,
-    "totalSteamReviews": 109612,
+    "totalSteamReviews": 109645,
     "mostReviewedGames": [
       {
         "id": "bastion",
         "title": "Bastion",
-        "value": 38244
+        "value": 38242
       },
       {
         "id": "carrion",
         "title": "CARRION",
-        "value": 36341
+        "value": 36369
       },
       {
         "id": "transistor",
         "title": "Transistor",
-        "value": 31296
+        "value": 31301
       },
       {
         "id": "rogue-heroes-ruins-of-tasos",
         "title": "Rogue Heroes: Ruins of Tasos",
-        "value": 3731
+        "value": 3733
       }
     ],
     "mostPlayedGames": [
       {
         "id": "carrion",
         "title": "CARRION",
-        "value": 94
+        "value": 64
       },
       {
         "id": "bastion",
         "title": "Bastion",
-        "value": 19
+        "value": 11
       },
       {
         "id": "rogue-heroes-ruins-of-tasos",
         "title": "Rogue Heroes: Ruins of Tasos",
-        "value": 13
+        "value": 10
       },
       {
         "id": "transistor",
         "title": "Transistor",
-        "value": 8
+        "value": 9
       }
     ],
     "gamesByReleaseYear": {
