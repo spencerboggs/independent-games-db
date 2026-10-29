@@ -1429,46 +1429,6 @@
     ]
   },
   {
-    "id": "source-conflict:kill-knight:a5ff877476d8",
-    "related": [
-      {
-        "type": "game",
-        "id": "evil-empire"
-      }
-    ],
-    "category": "source-conflict",
-    "subject": {
-      "type": "game",
-      "id": "kill-knight"
-    },
-    "title": "steam and wikidata disagree on developers for \"KILL KNIGHT\"",
-    "summary": "steam and wikidata disagree on developers for \"KILL KNIGHT\"",
-    "details": {
-      "kind": "source-conflict",
-      "field": "developers",
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "PlaySide"
-        ],
-        "ids": [
-          "playside"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Evil Empire"
-        ]
-      },
-      "unmatched": []
-    },
-    "actions": [
-      "edit",
-      "ignore"
-    ]
-  },
-  {
     "id": "source-conflict:light:cd695d2d9c12",
     "related": [
       {

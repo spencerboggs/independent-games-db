@@ -1036,34 +1036,6 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
-    "subject": "kill-knight",
-    "related": [
-      "evil-empire"
-    ],
-    "field": "developers",
-    "message": "steam and wikidata disagree on developers for \"KILL KNIGHT\"",
-    "details": {
-      "chosen": {
-        "source": "steam",
-        "value": [
-          "PlaySide"
-        ],
-        "ids": [
-          "playside"
-        ]
-      },
-      "other": {
-        "source": "wikidata",
-        "value": [
-          "Evil Empire"
-        ]
-      },
-      "unmatched": []
-    }
-  },
-  {
-    "kind": "source-conflict",
-    "entityType": "game",
     "subject": "light",
     "related": [
       "team17"

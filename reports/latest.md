@@ -1,27 +1,34 @@
-# Database update: 2026-10-26
+# Database update: 2026-10-29
 
 Dataset 0.1.0: 527 games, 353 companies, 93 technologies, 1,349 relationships.
 
-## Review counts (257)
+## Changed (2)
 
-~ WARDOGS: 136,354 → 142,987 (+6,633)
-~ Castlevania: Belmont's Curse: 8,907 → 9,794 (+887)
-~ PEAK: 381,737 → 382,336 (+599)
-~ Silver Pines: 4,519 → 5,032 (+513)
-~ Valheim: 562,132 → 562,545 (+413)
-~ CONTROL Resonant: 19,439 → 19,817 (+378)
-~ Big Walk: 44,562 → 44,932 (+370)
-~ R.E.P.O.: 430,043 → 430,402 (+359)
-~ Slay the Spire 2: 206,233 → 206,531 (+298)
-~ Baldur's Gate 3: 863,107 → 863,386 (+279)
-~ Hollow Knight: 566,265 → 566,536 (+271)
-~ Hollow Knight: Silksong: 426,400 → 426,599 (+199)
-~ Risk of Rain 2: 356,007 → 356,188 (+181)
-~ RV There Yet?: 89,941 → 90,084 (+143)
-~ Mycopunk: 5,036 → 5,170 (+134)
-… and 242 more
+~ Minecraft: Bedrock Edition (`minecraft-bedrock-edition`)
+  - platforms: [android, ios, nintendo-switch, playstation-4, windows, windows-phone, xbox-one] → [android, ios, nintendo-switch, nintendo-switch-2, playstation-4, windows, windows-phone, xbox-one]
+~ Virtue and a Sledgehammer (`virtue-and-a-sledgehammer`)
+  - releaseStatus: upcoming → released
 
-## Manual review (65)
+## Review counts (254)
+
+~ WARDOGS: 142,987 → 148,455 (+5,468)
+~ Castlevania: Belmont's Curse: 9,794 → 10,533 (+739)
+~ PEAK: 382,336 → 382,942 (+606)
+~ Valheim: 562,545 → 563,095 (+550)
+~ R.E.P.O.: 430,402 → 430,905 (+503)
+~ Silver Pines: 5,032 → 5,516 (+484)
+~ CONTROL Resonant: 19,817 → 20,212 (+395)
+~ Big Walk: 44,932 → 45,279 (+347)
+~ Slay the Spire 2: 206,531 → 206,859 (+328)
+~ Hollow Knight: 566,536 → 566,861 (+325)
+~ Baldur's Gate 3: 863,386 → 863,680 (+294)
+~ Hollow Knight: Silksong: 426,599 → 426,855 (+256)
+~ RV There Yet?: 90,084 → 90,265 (+181)
+~ Balatro: 200,471 → 200,636 (+165)
+~ Satisfactory: 281,769 → 281,908 (+139)
+… and 239 more
+
+## Manual review (64)
 
 These listings use different company names. Pick the right company in `npm run review`, or leave them for later.
 
@@ -58,7 +65,6 @@ These listings use different company names. Pick the right company in `npm run r
 ! hatoful-boyfriend-holiday-star publishers: steam says [Epic Games]; wikidata says [Devolver Digital]
 ! hatoful-boyfriend publishers: steam says [Epic Games]; wikidata says [Devolver Digital]
 ! hell-let-loose developers: steam says [Expression Games]; wikidata says [Black Matter]
-! kill-knight developers: steam says [PlaySide]; wikidata says [Evil Empire]
 ! light publishers: steam says [Indie Light]; wikidata says [Team17]
 ! main-assembly developers: steam says [Bad Yolk Games]; wikidata says [Ember Trail]
 ! mcpixel-3 developers: steam says [Sos Sosowski]; wikidata says [Mikołaj Kamiński]
@@ -97,4 +103,4 @@ These listings use different company names. Pick the right company in `npm run r
 
 ## Review queue
 
-66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+65 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
