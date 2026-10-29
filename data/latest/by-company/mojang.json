@@ -115,6 +115,7 @@
         "android",
         "ios",
         "nintendo-switch",
+        "nintendo-switch-2",
         "playstation-4",
         "windows",
         "windows-phone",
@@ -206,8 +207,8 @@
         "unreal-engine"
       ],
       "steamAppId": "1672970",
-      "reviewCount": 20491,
-      "positivePercentage": 90.1
+      "reviewCount": 20509,
+      "positivePercentage": 90.2
     },
     {
       "id": "minecraft-dungeons-ii",
@@ -237,8 +238,8 @@
       ],
       "engines": [],
       "steamAppId": "1912410",
-      "reviewCount": 10959,
-      "positivePercentage": 63.3
+      "reviewCount": 11049,
+      "positivePercentage": 63.2
     },
     {
       "id": "minecraft-earth",
@@ -469,8 +470,8 @@
       ],
       "engines": [],
       "steamAppId": "590720",
-      "reviewCount": 210,
-      "positivePercentage": 86.2
+      "reviewCount": 211,
+      "positivePercentage": 86.3
     },
     {
       "id": "crown-and-council",
@@ -514,6 +515,7 @@
         "android",
         "ios",
         "nintendo-switch",
+        "nintendo-switch-2",
         "playstation-4",
         "windows",
         "windows-phone",

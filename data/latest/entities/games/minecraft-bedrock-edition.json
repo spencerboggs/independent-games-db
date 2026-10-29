@@ -33,6 +33,7 @@
     "android",
     "ios",
     "nintendo-switch",
+    "nintendo-switch-2",
     "playstation-4",
     "windows",
     "windows-phone",
@@ -63,7 +64,7 @@
         "source": {
           "type": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q6016926",
-          "retrievedAt": "2026-10-26"
+          "retrievedAt": "2026-10-29"
         }
       }
     ],
@@ -88,8 +89,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q6016926",
-      "retrievedAt": "2026-10-26"
+      "retrievedAt": "2026-10-29"
     }
   ],
-  "lastUpdated": "2026-10-26T11:10:57.887Z"
+  "lastUpdated": "2026-10-29T11:34:05.542Z"
 }
