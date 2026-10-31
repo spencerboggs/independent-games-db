@@ -1,32 +1,25 @@
-# Database update: 2026-10-29
+# Database update: 2026-10-31
 
 Dataset 0.1.0: 527 games, 353 companies, 93 technologies, 1,349 relationships.
 
-## Changed (2)
+## Review counts (234)
 
-~ Minecraft: Bedrock Edition (`minecraft-bedrock-edition`)
-  - platforms: [android, ios, nintendo-switch, playstation-4, windows, windows-phone, xbox-one] → [android, ios, nintendo-switch, nintendo-switch-2, playstation-4, windows, windows-phone, xbox-one]
-~ Virtue and a Sledgehammer (`virtue-and-a-sledgehammer`)
-  - releaseStatus: upcoming → released
-
-## Review counts (254)
-
-~ WARDOGS: 142,987 → 148,455 (+5,468)
-~ Castlevania: Belmont's Curse: 9,794 → 10,533 (+739)
-~ PEAK: 382,336 → 382,942 (+606)
-~ Valheim: 562,545 → 563,095 (+550)
-~ R.E.P.O.: 430,402 → 430,905 (+503)
-~ Silver Pines: 5,032 → 5,516 (+484)
-~ CONTROL Resonant: 19,817 → 20,212 (+395)
-~ Big Walk: 44,932 → 45,279 (+347)
-~ Slay the Spire 2: 206,531 → 206,859 (+328)
-~ Hollow Knight: 566,536 → 566,861 (+325)
-~ Baldur's Gate 3: 863,386 → 863,680 (+294)
-~ Hollow Knight: Silksong: 426,599 → 426,855 (+256)
-~ RV There Yet?: 90,084 → 90,265 (+181)
-~ Balatro: 200,471 → 200,636 (+165)
-~ Satisfactory: 281,769 → 281,908 (+139)
-… and 239 more
+~ WARDOGS: 148,455 → 150,310 (+1,855)
+~ R.E.P.O.: 430,905 → 431,923 (+1,018)
+~ PEAK: 382,942 → 383,424 (+482)
+~ Castlevania: Belmont's Curse: 10,533 → 10,931 (+398)
+~ Valheim: 563,095 → 563,382 (+287)
+~ Silver Pines: 5,516 → 5,769 (+253)
+~ Hollow Knight: 566,861 → 567,085 (+224)
+~ Slay the Spire 2: 206,859 → 207,076 (+217)
+~ CONTROL Resonant: 20,212 → 20,421 (+209)
+~ Big Walk: 45,279 → 45,473 (+194)
+~ Baldur's Gate 3: 863,680 → 863,873 (+193)
+~ Hollow Knight: Silksong: 426,855 → 427,028 (+173)
+~ RV There Yet?: 90,265 → 90,421 (+156)
+~ Balatro: 200,636 → 200,756 (+120)
+~ Risk of Rain 2: 356,323 → 356,440 (+117)
+… and 219 more
 
 ## Manual review (64)
 
