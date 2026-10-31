@@ -21,7 +21,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q1384984",
-        "retrievedAt": "2026-10-29"
+        "retrievedAt": "2026-10-31"
       }
     },
     "custom": null
@@ -247,10 +247,10 @@
     "gameCount": 147,
     "developedCount": 60,
     "publishedCount": 123,
-    "totalSteamReviews": 969358,
+    "totalSteamReviews": 971759,
     "averagePositivePercentage": 76,
-    "weightedPositivePercentage": 82.4,
-    "mostReviewedGame": "hell-let-loose",
+    "weightedPositivePercentage": 82.3,
+    "mostReviewedGame": "wardogs",
     "mostRecentRelease": "silver-pines",
     "firstRelease": "alien-breed",
     "technologyCount": 5,
@@ -267,11 +267,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q1384984",
-      "retrievedAt": "2026-10-29"
+      "retrievedAt": "2026-10-31"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-10-29T11:34:05.542Z"
+  "lastUpdated": "2026-10-31T10:57:14.138Z"
 }
