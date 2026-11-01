@@ -51,6 +51,21 @@ data/latest/by-engine/godot.json
 data/latest/index.json
 ```
 
+## Website
+
+The browser frontend lives in [web/](web). It is an Astro site that reads the published JSON files, keeps a copy in the browser, and only revalidates after the daily update.
+
+```bash
+cd web
+npm install
+npm run dev
+npm run build
+```
+
+The site is published to GitHub Pages by `.github/workflows/pages.yml` at `https://spencerboggs.github.io/independent-games-db/`. Set the repository's Pages source to *GitHub Actions* once. For a user site or custom domain, build with `SITE_BASE=/`.
+
+The frontend caches the dataset in IndexedDB. On a later visit it checks `manifest.json`; the full files are downloaded again only when the content hash changes. The check is scheduled after the 1 AM PST update window, so a browser normally downloads the dataset once per day at most.
+
 ## Files
 
 All of these are under `data/latest/`.

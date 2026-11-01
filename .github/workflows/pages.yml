@@ -1,0 +1,65 @@
+name: Pages
+
+# Builds the static site in web/ and deploys it to GitHub Pages. The site ships a
+# copy of data/latest, so it is rebuilt when either the site or the dataset
+# changes. The Update workflow merges with GITHUB_TOKEN, which does not produce a
+# push event, so its completion is an explicit trigger.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "data/latest/**"
+      - ".github/workflows/pages.yml"
+  workflow_run:
+    workflows: [Update]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

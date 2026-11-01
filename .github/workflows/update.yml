@@ -6,7 +6,8 @@ name: Update
 
 on:
   schedule:
-    - cron: "17 5 * * 1,4,6"
+    # 01:00 PST (09:00 UTC). During PDT the run lands at 02:00 local time.
+    - cron: "0 9 * * *"
   workflow_dispatch:
     inputs:
       refresh:
