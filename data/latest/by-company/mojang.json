@@ -115,6 +115,7 @@
         "android",
         "ios",
         "nintendo-switch",
+        "nintendo-switch-2",
         "playstation-4",
         "windows",
         "windows-phone",
@@ -206,7 +207,7 @@
         "unreal-engine"
       ],
       "steamAppId": "1672970",
-      "reviewCount": 20466,
+      "reviewCount": 20518,
       "positivePercentage": 90.1
     },
     {
@@ -237,8 +238,8 @@
       ],
       "engines": [],
       "steamAppId": "1912410",
-      "reviewCount": 10843,
-      "positivePercentage": 63.3
+      "reviewCount": 11104,
+      "positivePercentage": 63.2
     },
     {
       "id": "minecraft-earth",
@@ -367,7 +368,7 @@
       ],
       "engines": [],
       "steamAppId": "1928870",
-      "reviewCount": 2880,
+      "reviewCount": 2879,
       "positivePercentage": 57.9
     },
     {
@@ -446,7 +447,7 @@
       ],
       "engines": [],
       "steamAppId": "357340",
-      "reviewCount": 715,
+      "reviewCount": 716,
       "positivePercentage": 92.6
     },
     {
@@ -469,8 +470,8 @@
       ],
       "engines": [],
       "steamAppId": "590720",
-      "reviewCount": 210,
-      "positivePercentage": 86.2
+      "reviewCount": 211,
+      "positivePercentage": 86.3
     },
     {
       "id": "crown-and-council",
@@ -514,6 +515,7 @@
         "android",
         "ios",
         "nintendo-switch",
+        "nintendo-switch-2",
         "playstation-4",
         "windows",
         "windows-phone",
