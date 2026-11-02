@@ -26,49 +26,49 @@
   "statistics": {
     "gameCount": 7,
     "companyCount": 1,
-    "totalSteamReviews": 121092,
+    "totalSteamReviews": 121349,
     "mostReviewedGames": [
       {
         "id": "control-ultimate-edition",
         "title": "CONTROL Ultimate Edition",
-        "value": 66848
+        "value": 66902
       },
       {
         "id": "quantum-break",
         "title": "Quantum Break",
-        "value": 31345
+        "value": 31354
       },
       {
         "id": "control-resonant",
         "title": "CONTROL Resonant",
-        "value": 20526
+        "value": 20717
       },
       {
         "id": "fbc-firebreak",
         "title": "FBC: Firebreak",
-        "value": 2373
+        "value": 2376
       }
     ],
     "mostPlayedGames": [
       {
         "id": "control-resonant",
         "title": "CONTROL Resonant",
-        "value": 2611
+        "value": 3287
       },
       {
         "id": "control-ultimate-edition",
         "title": "CONTROL Ultimate Edition",
-        "value": 1083
+        "value": 1422
       },
       {
         "id": "quantum-break",
         "title": "Quantum Break",
-        "value": 78
+        "value": 95
       },
       {
         "id": "fbc-firebreak",
         "title": "FBC: Firebreak",
-        "value": 4
+        "value": 6
       }
     ],
     "gamesByReleaseYear": {
