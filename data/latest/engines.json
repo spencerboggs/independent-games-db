@@ -175,7 +175,7 @@
         {
           "id": "cyber-shadow",
           "title": "Cyber Shadow",
-          "value": 4
+          "value": 1
         }
       ],
       "gamesByReleaseYear": {
@@ -403,27 +403,27 @@
     "statistics": {
       "gameCount": 18,
       "companyCount": 21,
-      "totalSteamReviews": 331986,
+      "totalSteamReviews": 332013,
       "mostReviewedGames": [
         {
           "id": "hotline-miami",
           "title": "Hotline Miami",
-          "value": 129726
+          "value": 129744
         },
         {
           "id": "katana-zero",
           "title": "Katana ZERO",
-          "value": 76549
+          "value": 76548
         },
         {
           "id": "loop-hero",
           "title": "Loop Hero",
-          "value": 36655
+          "value": 36657
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 29855
+          "value": 29857
         },
         {
           "id": "the-red-strings-club",
@@ -433,12 +433,12 @@
         {
           "id": "downwell",
           "title": "Downwell",
-          "value": 8672
+          "value": 8673
         },
         {
           "id": "sheltered",
           "title": "Sheltered",
-          "value": 6309
+          "value": 6311
         },
         {
           "id": "deadbolt",
@@ -460,52 +460,52 @@
         {
           "id": "hotline-miami",
           "title": "Hotline Miami",
-          "value": 376
+          "value": 349
         },
         {
           "id": "loop-hero",
           "title": "Loop Hero",
-          "value": 213
+          "value": 163
         },
         {
           "id": "katana-zero",
           "title": "Katana ZERO",
-          "value": 76
-        },
-        {
-          "id": "conscript-directors-cut",
-          "title": "CONSCRIPT: Director’s Cut",
-          "value": 41
+          "value": 86
         },
         {
           "id": "sheltered",
           "title": "Sheltered",
-          "value": 26
+          "value": 31
         },
         {
-          "id": "honey-i-joined-a-cult",
-          "title": "Honey, I Joined a Cult",
+          "id": "conscript-directors-cut",
+          "title": "CONSCRIPT: Director’s Cut",
           "value": 24
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 21
-        },
-        {
-          "id": "downwell",
-          "title": "Downwell",
-          "value": 12
-        },
-        {
-          "id": "deadbolt",
-          "title": "DEADBOLT",
-          "value": 7
+          "value": 23
         },
         {
           "id": "the-red-strings-club",
           "title": "The Red Strings Club",
-          "value": 7
+          "value": 19
+        },
+        {
+          "id": "honey-i-joined-a-cult",
+          "title": "Honey, I Joined a Cult",
+          "value": 17
+        },
+        {
+          "id": "downwell",
+          "title": "Downwell",
+          "value": 14
+        },
+        {
+          "id": "deadbolt",
+          "title": "DEADBOLT",
+          "value": 6
         }
       ],
       "gamesByReleaseYear": {
@@ -557,39 +557,39 @@
     "statistics": {
       "gameCount": 3,
       "companyCount": 2,
-      "totalSteamReviews": 222713,
+      "totalSteamReviews": 222794,
       "mostReviewedGames": [
         {
           "id": "slay-the-spire-2",
           "title": "Slay the Spire 2",
-          "value": 207340
+          "value": 207415
         },
         {
           "id": "the-case-of-the-golden-idol",
           "title": "The Case of the Golden Idol",
-          "value": 11158
+          "value": 11161
         },
         {
           "id": "the-rise-of-the-golden-idol",
           "title": "The Rise of the Golden Idol",
-          "value": 4215
+          "value": 4218
         }
       ],
       "mostPlayedGames": [
         {
           "id": "slay-the-spire-2",
           "title": "Slay the Spire 2",
-          "value": 44901
+          "value": 46941
         },
         {
           "id": "the-rise-of-the-golden-idol",
           "title": "The Rise of the Golden Idol",
-          "value": 62
+          "value": 36
         },
         {
           "id": "the-case-of-the-golden-idol",
           "title": "The Case of the Golden Idol",
-          "value": 48
+          "value": 34
         }
       ],
       "gamesByReleaseYear": {
@@ -702,19 +702,19 @@
     "statistics": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 200888,
+      "totalSteamReviews": 200932,
       "mostReviewedGames": [
         {
           "id": "balatro",
           "title": "Balatro",
-          "value": 200888
+          "value": 200932
         }
       ],
       "mostPlayedGames": [
         {
           "id": "balatro",
           "title": "Balatro",
-          "value": 8647
+          "value": 7818
         }
       ],
       "gamesByReleaseYear": {
@@ -756,22 +756,22 @@
     "statistics": {
       "gameCount": 7,
       "companyCount": 1,
-      "totalSteamReviews": 121349,
+      "totalSteamReviews": 121467,
       "mostReviewedGames": [
         {
           "id": "control-ultimate-edition",
           "title": "CONTROL Ultimate Edition",
-          "value": 66902
+          "value": 66925
         },
         {
           "id": "quantum-break",
           "title": "Quantum Break",
-          "value": 31354
+          "value": 31356
         },
         {
           "id": "control-resonant",
           "title": "CONTROL Resonant",
-          "value": 20717
+          "value": 20810
         },
         {
           "id": "fbc-firebreak",
@@ -783,22 +783,22 @@
         {
           "id": "control-resonant",
           "title": "CONTROL Resonant",
-          "value": 3287
+          "value": 2250
         },
         {
           "id": "control-ultimate-edition",
           "title": "CONTROL Ultimate Edition",
-          "value": 1422
+          "value": 1022
         },
         {
           "id": "quantum-break",
           "title": "Quantum Break",
-          "value": 95
+          "value": 80
         },
         {
           "id": "fbc-firebreak",
           "title": "FBC: Firebreak",
-          "value": 6
+          "value": 5
         }
       ],
       "gamesByReleaseYear": {
@@ -947,19 +947,19 @@
     "statistics": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 89292,
+      "totalSteamReviews": 89308,
       "mostReviewedGames": [
         {
           "id": "omori",
           "title": "OMORI",
-          "value": 89292
+          "value": 89308
         }
       ],
       "mostPlayedGames": [
         {
           "id": "omori",
           "title": "OMORI",
-          "value": 504
+          "value": 471
         }
       ],
       "gamesByReleaseYear": {
@@ -1197,109 +1197,109 @@
     "statistics": {
       "gameCount": 97,
       "companyCount": 97,
-      "totalSteamReviews": 4082041,
+      "totalSteamReviews": 4082971,
       "mostReviewedGames": [
         {
           "id": "hollow-knight",
           "title": "Hollow Knight",
-          "value": 567394
+          "value": 567469
         },
         {
           "id": "valheim",
           "title": "Valheim",
-          "value": 563747
+          "value": 563854
         },
         {
           "id": "hollow-knight-silksong",
           "title": "Hollow Knight: Silksong",
-          "value": 427255
+          "value": 427329
         },
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 383943
+          "value": 384167
         },
         {
           "id": "cuphead",
           "title": "Cuphead",
-          "value": 223701
+          "value": 223727
         },
         {
           "id": "totally-accurate-battle-simulator",
           "title": "Totally Accurate Battle Simulator",
-          "value": 155382
+          "value": 155399
         },
         {
           "id": "inscryption",
           "title": "Inscryption",
-          "value": 149842
+          "value": 149876
         },
         {
           "id": "cult-of-the-lamb",
           "title": "Cult of the Lamb",
-          "value": 131222
+          "value": 131251
         },
         {
           "id": "outer-wilds",
           "title": "Outer Wilds",
-          "value": 110081
+          "value": 110112
         },
         {
           "id": "firewatch",
           "title": "Firewatch",
-          "value": 100131
+          "value": 100136
         }
       ],
       "mostPlayedGames": [
         {
           "id": "valheim",
           "title": "Valheim",
-          "value": 78146
+          "value": 54344
         },
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 15632
+          "value": 12029
         },
         {
           "id": "hollow-knight",
           "title": "Hollow Knight",
-          "value": 6675
+          "value": 5942
         },
         {
           "id": "hollow-knight-silksong",
           "title": "Hollow Knight: Silksong",
-          "value": 6657
+          "value": 5908
         },
         {
           "id": "castlevania-belmonts-curse",
           "title": "Castlevania: Belmont's Curse",
-          "value": 4171
+          "value": 2871
         },
         {
           "id": "cult-of-the-lamb",
           "title": "Cult of the Lamb",
-          "value": 2617
-        },
-        {
-          "id": "cuphead",
-          "title": "Cuphead",
-          "value": 2152
+          "value": 2096
         },
         {
           "id": "overcooked-2",
           "title": "Overcooked! 2",
-          "value": 1559
+          "value": 2068
         },
         {
-          "id": "inscryption",
-          "title": "Inscryption",
-          "value": 1536
+          "id": "cuphead",
+          "title": "Cuphead",
+          "value": 1681
         },
         {
           "id": "totally-accurate-battle-simulator",
           "title": "Totally Accurate Battle Simulator",
-          "value": 1423
+          "value": 1466
+        },
+        {
+          "id": "inscryption",
+          "title": "Inscryption",
+          "value": 1448
         }
       ],
       "gamesByReleaseYear": {
@@ -1349,19 +1349,19 @@
     "statistics": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 356570,
+      "totalSteamReviews": 356615,
       "mostReviewedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 356570
+          "value": 356615
         }
       ],
       "mostPlayedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 11558
+          "value": 9415
         }
       ],
       "gamesByReleaseYear": {
@@ -1432,27 +1432,27 @@
     "statistics": {
       "gameCount": 31,
       "companyCount": 28,
-      "totalSteamReviews": 1281540,
+      "totalSteamReviews": 1281696,
       "mostReviewedGames": [
         {
           "id": "deep-rock-galactic",
           "title": "Deep Rock Galactic",
-          "value": 381530
+          "value": 381565
         },
         {
           "id": "satisfactory",
           "title": "Satisfactory",
-          "value": 282125
+          "value": 282176
         },
         {
           "id": "stray",
           "title": "Stray",
-          "value": 180047
+          "value": 180064
         },
         {
           "id": "hell-let-loose",
           "title": "Hell Let Loose",
-          "value": 150302
+          "value": 150306
         },
         {
           "id": "goat-simulator",
@@ -1462,22 +1462,22 @@
         {
           "id": "what-remains-of-edith-finch",
           "title": "What Remains of Edith Finch",
-          "value": 53595
+          "value": 53600
         },
         {
           "id": "a-story-about-my-uncle",
           "title": "A Story About My Uncle",
-          "value": 29257
+          "value": 29258
         },
         {
           "id": "minecraft-dungeons",
           "title": "Minecraft Dungeons",
-          "value": 20537
+          "value": 20543
         },
         {
           "id": "absolver",
           "title": "Absolver",
-          "value": 14843
+          "value": 14844
         },
         {
           "id": "sanctum-2",
@@ -1489,52 +1489,52 @@
         {
           "id": "satisfactory",
           "title": "Satisfactory",
-          "value": 21769
+          "value": 17720
         },
         {
           "id": "deep-rock-galactic",
           "title": "Deep Rock Galactic",
-          "value": 7001
+          "value": 6431
         },
         {
           "id": "hell-let-loose",
           "title": "Hell Let Loose",
-          "value": 3492
-        },
-        {
-          "id": "minecraft-dungeons",
-          "title": "Minecraft Dungeons",
-          "value": 624
-        },
-        {
-          "id": "silent-hill-townfall",
-          "title": "SILENT HILL: Townfall",
-          "value": 530
+          "value": 2357
         },
         {
           "id": "stray",
           "title": "Stray",
-          "value": 521
+          "value": 503
+        },
+        {
+          "id": "minecraft-dungeons",
+          "title": "Minecraft Dungeons",
+          "value": 495
+        },
+        {
+          "id": "silent-hill-townfall",
+          "title": "SILENT HILL: Townfall",
+          "value": 399
         },
         {
           "id": "the-talos-principle-2",
           "title": "The Talos Principle 2",
-          "value": 439
+          "value": 347
         },
         {
           "id": "goat-simulator",
           "title": "Goat Simulator",
-          "value": 66
+          "value": 79
         },
         {
           "id": "mortal-shell",
           "title": "Mortal Shell",
-          "value": 47
+          "value": 50
         },
         {
           "id": "what-remains-of-edith-finch",
           "title": "What Remains of Edith Finch",
-          "value": 46
+          "value": 40
         }
       ],
       "gamesByReleaseYear": {
