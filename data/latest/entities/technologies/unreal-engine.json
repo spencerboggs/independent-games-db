@@ -59,47 +59,47 @@
   "statistics": {
     "gameCount": 31,
     "companyCount": 28,
-    "totalSteamReviews": 1281696,
+    "totalSteamReviews": 1281884,
     "mostReviewedGames": [
       {
         "id": "deep-rock-galactic",
         "title": "Deep Rock Galactic",
-        "value": 381565
+        "value": 381596
       },
       {
         "id": "satisfactory",
         "title": "Satisfactory",
-        "value": 282176
+        "value": 282245
       },
       {
         "id": "stray",
         "title": "Stray",
-        "value": 180064
+        "value": 180089
       },
       {
         "id": "hell-let-loose",
         "title": "Hell Let Loose",
-        "value": 150306
+        "value": 150316
       },
       {
         "id": "goat-simulator",
         "title": "Goat Simulator",
-        "value": 70399
+        "value": 70403
       },
       {
         "id": "what-remains-of-edith-finch",
         "title": "What Remains of Edith Finch",
-        "value": 53600
+        "value": 53606
       },
       {
         "id": "a-story-about-my-uncle",
         "title": "A Story About My Uncle",
-        "value": 29258
+        "value": 29256
       },
       {
         "id": "minecraft-dungeons",
         "title": "Minecraft Dungeons",
-        "value": 20543
+        "value": 20547
       },
       {
         "id": "absolver",
@@ -109,59 +109,59 @@
       {
         "id": "sanctum-2",
         "title": "Sanctum 2",
-        "value": 14391
+        "value": 14392
       }
     ],
     "mostPlayedGames": [
       {
         "id": "satisfactory",
         "title": "Satisfactory",
-        "value": 17720
+        "value": 16629
       },
       {
         "id": "deep-rock-galactic",
         "title": "Deep Rock Galactic",
-        "value": 6431
+        "value": 6419
       },
       {
         "id": "hell-let-loose",
         "title": "Hell Let Loose",
-        "value": 2357
-      },
-      {
-        "id": "stray",
-        "title": "Stray",
-        "value": 503
+        "value": 2154
       },
       {
         "id": "minecraft-dungeons",
         "title": "Minecraft Dungeons",
-        "value": 495
+        "value": 433
       },
       {
-        "id": "silent-hill-townfall",
-        "title": "SILENT HILL: Townfall",
-        "value": 399
+        "id": "stray",
+        "title": "Stray",
+        "value": 400
       },
       {
         "id": "the-talos-principle-2",
         "title": "The Talos Principle 2",
-        "value": 347
+        "value": 369
+      },
+      {
+        "id": "silent-hill-townfall",
+        "title": "SILENT HILL: Townfall",
+        "value": 363
       },
       {
         "id": "goat-simulator",
         "title": "Goat Simulator",
-        "value": 79
-      },
-      {
-        "id": "mortal-shell",
-        "title": "Mortal Shell",
-        "value": 50
+        "value": 63
       },
       {
         "id": "what-remains-of-edith-finch",
         "title": "What Remains of Edith Finch",
-        "value": 40
+        "value": 49
+      },
+      {
+        "id": "mortal-shell",
+        "title": "Mortal Shell",
+        "value": 46
       }
     ],
     "gamesByReleaseYear": {
