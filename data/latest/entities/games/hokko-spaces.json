@@ -1,0 +1,205 @@
+{
+  "id": "hokko-spaces",
+  "title": "Hokko Spaces",
+  "alternateTitles": [],
+  "type": "game",
+  "releaseDate": "2026-10-29",
+  "releaseDatePrecision": "day",
+  "releaseStatus": "released",
+  "developers": [
+    "wonderscope-games"
+  ],
+  "publishers": [
+    "team17"
+  ],
+  "descriptions": {
+    "source": {
+      "text": "Hokko Spaces is a calm, casual sandbox that gives you fun tools to create beautiful, lively spaces inhabited by adorable characters. Unlock cute residents and watch them hang out, do some gardening, and enjoy the spaces you build for them. No rules, no stress, just cozy dioramas and chill vibes.",
+      "license": "third-party",
+      "source": {
+        "type": "steam",
+        "url": "https://store.steampowered.com/app/2907400/",
+        "retrievedAt": "2026-11-05"
+      }
+    },
+    "custom": null
+  },
+  "genres": [
+    "casual",
+    "sandbox",
+    "simulation"
+  ],
+  "tags": [],
+  "features": [
+    "custom-volume-controls",
+    "dualsense-controller-support",
+    "family-sharing",
+    "full-controller-support",
+    "playable-without-timed-input",
+    "save-anytime",
+    "single-player",
+    "steam-achievements",
+    "steam-cloud",
+    "stereo-sound"
+  ],
+  "platforms": [
+    "nintendo-switch",
+    "windows"
+  ],
+  "supportedLanguages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "externalIds": {
+    "wikidata": "Q141955085",
+    "steam": "2907400"
+  },
+  "links": {
+    "official": "https://hokko.games/hokko_spaces",
+    "steam": "https://store.steampowered.com/app/2907400/",
+    "wikidata": "https://www.wikidata.org/wiki/Q141955085"
+  },
+  "media": {
+    "header": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/a41d4a187943af21e9376b117537895df246cc13/header.jpg",
+      "type": "header",
+      "source": "steam",
+      "retrievedAt": "2026-11-05",
+      "rights": "reference-only"
+    },
+    "capsule": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/299ca4203525d46b5c4dae720756df728560496f/capsule_231x87.jpg",
+      "type": "capsule",
+      "source": "steam",
+      "retrievedAt": "2026-11-05",
+      "rights": "reference-only"
+    },
+    "background": {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/9fb1afbc95bbab7112844c86503b040965cd7e24/page_bg_raw.jpg",
+      "type": "background",
+      "source": "steam",
+      "retrievedAt": "2026-11-05",
+      "rights": "reference-only"
+    },
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/d289642ecfcc0040fcb33a8e1e0dbbe5c7746fd4/ss_d289642ecfcc0040fcb33a8e1e0dbbe5c7746fd4.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/cbd216b5d074361c086d12359c1eeae0da5af626/ss_cbd216b5d074361c086d12359c1eeae0da5af626.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/a320a4872f5cf05dfe36eaa60b3f4d8ee80d606b/ss_a320a4872f5cf05dfe36eaa60b3f4d8ee80d606b.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/3cba6e231d448861f4bf32da1177152db6d2df67/ss_3cba6e231d448861f4bf32da1177152db6d2df67.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/0252dc932d7cf0994790c90fa404910b96527a57/ss_0252dc932d7cf0994790c90fa404910b96527a57.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/2b96b32491e1e17efa216faabb99c43034bed7fe/ss_2b96b32491e1e17efa216faabb99c43034bed7fe.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/d3d64ddbad21e7433fc01d6caeadbc8d90100df3/ss_d3d64ddbad21e7433fc01d6caeadbc8d90100df3.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/4a62915b421b33dda6020b12b48146799462ad80/ss_4a62915b421b33dda6020b12b48146799462ad80.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907400/2eb1ff84ff2b9a01b8f3e98b954e95efab36becb/ss_2eb1ff84ff2b9a01b8f3e98b954e95efab36becb.1920x1080.jpg",
+        "type": "screenshot",
+        "source": "steam",
+        "retrievedAt": "2026-11-05",
+        "rights": "reference-only"
+      }
+    ]
+  },
+  "technology": {
+    "engines": [],
+    "middleware": [],
+    "languages": [],
+    "tools": []
+  },
+  "franchise": null,
+  "series": null,
+  "relations": {
+    "parentGame": null,
+    "dlc": [],
+    "remasterOf": null,
+    "portOf": null
+  },
+  "statistics": {
+    "steam": {
+      "reviewCount": 22,
+      "positiveCount": 22,
+      "negativeCount": 0,
+      "positivePercentage": 100,
+      "negativePercentage": 0,
+      "reviewScoreDescription": "Positive",
+      "currentPlayers": 3,
+      "retrievedAt": "2026-11-05"
+    },
+    "reviewVelocity": {
+      "method": "lifetime-average",
+      "reviewsPerDay": 2.85,
+      "reviewsPerMonth": 86.7,
+      "windowDays": 8,
+      "recentReviewGrowth": null,
+      "observations": 1
+    }
+  },
+  "sources": [
+    {
+      "type": "steam",
+      "url": "https://store.steampowered.com/app/2907400/",
+      "retrievedAt": "2026-11-05"
+    },
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q141955085",
+      "retrievedAt": "2026-11-05"
+    }
+  ],
+  "lastUpdated": "2026-11-05T17:21:39.641Z"
+}

@@ -21,7 +21,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q1384984",
-        "retrievedAt": "2026-11-04"
+        "retrievedAt": "2026-11-05"
       }
     },
     "custom": null
@@ -163,6 +163,7 @@
       "hell-let-loose",
       "hell-let-loose-vietnam",
       "hokko-life",
+      "hokko-spaces",
       "holstin",
       "honey-i-joined-a-cult",
       "interplanetary",
@@ -244,14 +245,14 @@
     ]
   },
   "statistics": {
-    "gameCount": 147,
+    "gameCount": 148,
     "developedCount": 60,
-    "publishedCount": 123,
-    "totalSteamReviews": 976331,
+    "publishedCount": 124,
+    "totalSteamReviews": 977176,
     "averagePositivePercentage": 76,
     "weightedPositivePercentage": 82.1,
     "mostReviewedGame": "wardogs",
-    "mostRecentRelease": "silver-pines",
+    "mostRecentRelease": "hokko-spaces",
     "firstRelease": "alien-breed",
     "technologyCount": 5,
     "engineCount": 5,
@@ -267,11 +268,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q1384984",
-      "retrievedAt": "2026-11-04"
+      "retrievedAt": "2026-11-05"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-04T17:11:25.937Z"
+  "lastUpdated": "2026-11-05T17:21:39.641Z"
 }

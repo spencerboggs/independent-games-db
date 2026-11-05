@@ -15,7 +15,10 @@
         "evil-landfall"
       ],
       "platforms": [
-        "windows"
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
       ],
       "genres": [
         "action",
@@ -26,7 +29,7 @@
         "unity"
       ],
       "steamAppId": "3527290",
-      "reviewCount": 384329,
+      "reviewCount": 384490,
       "positivePercentage": 94.4
     }
   ],

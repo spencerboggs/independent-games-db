@@ -33,6 +33,31 @@
       "steamAppId": "824000",
       "reviewCount": 2676,
       "positivePercentage": 66.1
+    },
+    {
+      "id": "hokko-spaces",
+      "title": "Hokko Spaces",
+      "type": "game",
+      "releaseDate": "2026-10-29",
+      "developers": [
+        "wonderscope-games"
+      ],
+      "publishers": [
+        "team17"
+      ],
+      "platforms": [
+        "nintendo-switch",
+        "windows"
+      ],
+      "genres": [
+        "casual",
+        "sandbox",
+        "simulation"
+      ],
+      "engines": [],
+      "steamAppId": "2907400",
+      "reviewCount": 22,
+      "positivePercentage": 100
     }
   ],
   "published": []

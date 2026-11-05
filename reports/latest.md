@@ -1,25 +1,51 @@
-# Database update: 2026-11-04
+# Database update: 2026-11-05
 
-Dataset 0.1.0: 527 games, 353 companies, 93 technologies, 1,349 relationships.
+Dataset 0.1.0: 528 games, 353 companies, 93 technologies, 1,352 relationships.
 
-## Review counts (205)
+## New games (1)
 
-~ WARDOGS: 153,099 → 153,722 (+623)
-~ R.E.P.O.: 433,115 → 433,434 (+319)
-~ PEAK: 384,167 → 384,329 (+162)
-~ Valheim: 563,854 → 563,991 (+137)
-~ Slay the Spire 2: 207,415 → 207,537 (+122)
-~ Castlevania: Belmont's Curse: 11,534 → 11,646 (+112)
-~ CONTROL Resonant: 20,810 → 20,922 (+112)
-~ Big Walk: 45,844 → 45,952 (+108)
-~ Baldur's Gate 3: 864,231 → 864,333 (+102)
-~ Silver Pines: 6,157 → 6,256 (+99)
-~ RV There Yet?: 90,689 → 90,773 (+84)
-~ Hollow Knight: 567,469 → 567,551 (+82)
-~ Satisfactory: 282,176 → 282,245 (+69)
-~ Hollow Knight: Silksong: 427,329 → 427,388 (+59)
-~ Balatro: 200,932 → 200,983 (+51)
-… and 190 more
++ Hokko Spaces (`hokko-spaces`), 2026-10-29, by wonderscope-games
+
+## Changed (8)
+
+~ Deadly Days: Roadtrip (`deadly-days-roadtrip`)
+  - releaseDate: 2025-09-22 → 2026-10-29
+  - releaseStatus: early-access → released
+~ Faraway (`faraway`)
+  - releaseStatus: upcoming → released
+  - platforms: [windows] → [nintendo-switch, nintendo-switch-2, playstation-5, windows, xbox-series]
+~ Golf With Your Friends 2 (`golf-with-your-friends-2`)
+  - releaseDate: 2026 → 2027
+~ McPixel 3 (`mcpixel-3`)
+  - platforms: [haiku, linux, macos, nintendo-switch, playstation-4, windows, xbox-one, xbox-series] → [android, freebsd, haiku, linux, macos, nintendo-switch, playstation-4, windows, xbox-one, xbox-series]
+~ Mixtape (`mixtape`)
+  - platforms: [nintendo-switch-2, playstation-5, windows, xbox-series] → [macos, nintendo-switch-2, playstation-5, windows, xbox-series]
+~ PEAK (`peak`)
+  - platforms: [windows] → [nintendo-switch-2, playstation-5, windows, xbox-series]
+~ RACCOIN: Coin Pusher Roguelike (`raccoin-coin-pusher-roguelike`)
+  - engines: [] → [unity]
+~ VOID/BREAKER (`void-breaker`)
+  - releaseDate: 2025-08-19 → 2026-11-04
+  - releaseStatus: early-access → released
+
+## Review counts (191)
+
+~ WARDOGS: 153,722 → 154,328 (+606)
+~ R.E.P.O.: 433,434 → 433,765 (+331)
+~ PEAK: 384,329 → 384,490 (+161)
+~ Valheim: 563,991 → 564,102 (+111)
+~ CONTROL Resonant: 20,922 → 21,030 (+108)
+~ Castlevania: Belmont's Curse: 11,646 → 11,748 (+102)
+~ Slay the Spire 2: 207,537 → 207,637 (+100)
+~ Big Walk: 45,952 → 46,046 (+94)
+~ Silver Pines: 6,256 → 6,334 (+78)
+~ Hollow Knight: 567,551 → 567,628 (+77)
+~ Satisfactory: 282,245 → 282,321 (+76)
+~ Baldur's Gate 3: 864,333 → 864,404 (+71)
+~ RV There Yet?: 90,773 → 90,839 (+66)
+~ Hollow Knight: Silksong: 427,388 → 427,451 (+63)
+~ VOID/BREAKER: 2,807 → 2,868 (+61)
+… and 176 more
 
 ## Manual review (64)
 
@@ -90,10 +116,14 @@ These listings use different company names. Pick the right company in `npm run r
 ! yooka-laylee-and-the-impossible-lair publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 ! yooka-laylee publishers: steam says [Playtonic Friends]; wikidata says [Team17]
 
+## Low confidence (1)
+
+? unity for RACCOIN: Coin Pusher Roguelike (medium, via wikidata)
+
 ## Potential duplicates and ambiguous matches (1)
 
 ? "Worms" (worms) and "Worms" (worms-2007) share a title and developer
 
 ## Review queue
 
-65 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+67 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

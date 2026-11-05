@@ -15,13 +15,15 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q141493974",
-        "retrievedAt": "2026-11-04"
+        "retrievedAt": "2026-11-05"
       }
     },
     "custom": null
   },
   "website": "https://bulkhead.com/",
-  "socialLinks": {},
+  "socialLinks": {
+    "x": "https://x.com/BULKHEAD"
+  },
   "location": {
     "headquarters": "Derby",
     "country": "GB",
@@ -54,9 +56,9 @@
     "gameCount": 1,
     "developedCount": 1,
     "publishedCount": 0,
-    "totalSteamReviews": 153722,
-    "averagePositivePercentage": 65.2,
-    "weightedPositivePercentage": 65.2,
+    "totalSteamReviews": 154328,
+    "averagePositivePercentage": 65.1,
+    "weightedPositivePercentage": 65.1,
     "mostReviewedGame": "wardogs",
     "mostRecentRelease": "wardogs",
     "firstRelease": "wardogs",
@@ -68,8 +70,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q141493974",
-      "retrievedAt": "2026-11-04"
+      "retrievedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-04T17:11:25.937Z"
+  "lastUpdated": "2026-11-05T17:21:39.641Z"
 }
