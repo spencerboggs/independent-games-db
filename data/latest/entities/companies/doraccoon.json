@@ -12,7 +12,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q140517573",
-        "retrievedAt": "2026-11-04"
+        "retrievedAt": "2026-11-05"
       }
     },
     "custom": null
@@ -51,22 +51,24 @@
     "gameCount": 1,
     "developedCount": 1,
     "publishedCount": 0,
-    "totalSteamReviews": 4796,
+    "totalSteamReviews": 4799,
     "averagePositivePercentage": 82.3,
     "weightedPositivePercentage": 82.3,
     "mostReviewedGame": "raccoin-coin-pusher-roguelike",
     "mostRecentRelease": "raccoin-coin-pusher-roguelike",
     "firstRelease": "raccoin-coin-pusher-roguelike",
-    "technologyCount": 0,
-    "engineCount": 0,
-    "engines": []
+    "technologyCount": 1,
+    "engineCount": 1,
+    "engines": [
+      "unity"
+    ]
   },
   "sources": [
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q140517573",
-      "retrievedAt": "2026-11-04"
+      "retrievedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-04T17:11:25.937Z"
+  "lastUpdated": "2026-11-05T17:21:39.641Z"
 }

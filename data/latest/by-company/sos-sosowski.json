@@ -14,6 +14,8 @@
         "devolver-digital"
       ],
       "platforms": [
+        "android",
+        "freebsd",
         "haiku",
         "linux",
         "macos",
@@ -31,7 +33,7 @@
       ],
       "engines": [],
       "steamAppId": "1338580",
-      "reviewCount": 1912,
+      "reviewCount": 1914,
       "positivePercentage": 93
     }
   ],

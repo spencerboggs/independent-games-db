@@ -28,14 +28,14 @@
       ],
       "engines": [],
       "steamAppId": "1730590",
-      "reviewCount": 4510,
+      "reviewCount": 4511,
       "positivePercentage": 89
     },
     {
       "id": "void-breaker",
       "title": "VOID/BREAKER",
       "type": "game",
-      "releaseDate": "2025-08-19",
+      "releaseDate": "2026-11-04",
       "developers": [
         "stubby-games"
       ],
@@ -50,15 +50,12 @@
       "genres": [
         "action",
         "adventure",
-        "first-person-shooter",
-        "rpg",
-        "simulation",
-        "sports"
+        "first-person-shooter"
       ],
       "engines": [],
       "steamAppId": "2615540",
-      "reviewCount": 2807,
-      "positivePercentage": 91.6
+      "reviewCount": 2868,
+      "positivePercentage": 91.5
     }
   ],
   "published": []

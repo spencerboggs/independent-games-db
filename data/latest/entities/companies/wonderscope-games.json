@@ -3,7 +3,8 @@
   "name": "Wonderscope",
   "aliases": [
     "Wonderscope AB",
-    "Wonderscope Games"
+    "Wonderscope Games",
+    "Wonderscope Games Ltd"
   ],
   "roles": [
     "developer"
@@ -15,7 +16,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q114244646",
-        "retrievedAt": "2026-11-04"
+        "retrievedAt": "2026-11-05"
       }
     },
     "custom": null
@@ -46,19 +47,20 @@
   },
   "games": {
     "developed": [
-      "hokko-life"
+      "hokko-life",
+      "hokko-spaces"
     ],
     "published": []
   },
   "statistics": {
-    "gameCount": 1,
-    "developedCount": 1,
+    "gameCount": 2,
+    "developedCount": 2,
     "publishedCount": 0,
-    "totalSteamReviews": 2676,
+    "totalSteamReviews": 2698,
     "averagePositivePercentage": 66.1,
-    "weightedPositivePercentage": 66.1,
+    "weightedPositivePercentage": 66.4,
     "mostReviewedGame": "hokko-life",
-    "mostRecentRelease": "hokko-life",
+    "mostRecentRelease": "hokko-spaces",
     "firstRelease": "hokko-life",
     "technologyCount": 1,
     "engineCount": 1,
@@ -70,8 +72,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q114244646",
-      "retrievedAt": "2026-11-04"
+      "retrievedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-04T17:11:25.937Z"
+  "lastUpdated": "2026-11-05T17:21:39.641Z"
 }

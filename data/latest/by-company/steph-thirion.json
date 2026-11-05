@@ -14,15 +14,19 @@
         "annapurna-interactive"
       ],
       "platforms": [
-        "windows"
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-5",
+        "windows",
+        "xbox-series"
       ],
       "genres": [
         "casual-game"
       ],
       "engines": [],
       "steamAppId": "2831000",
-      "reviewCount": null,
-      "positivePercentage": null
+      "reviewCount": 2,
+      "positivePercentage": 100
     }
   ],
   "published": []
