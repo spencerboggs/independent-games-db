@@ -1,50 +1,5 @@
 [
   {
-    "id": "new-game:hokko-spaces:a0d78629fa3d",
-    "related": [],
-    "category": "new-game",
-    "subject": {
-      "type": "game",
-      "id": "hokko-spaces"
-    },
-    "title": "New game: Hokko Spaces",
-    "summary": "game, 2026-10-29; developers: Wonderscope; publishers: Team17.",
-    "details": {
-      "title": "Hokko Spaces",
-      "type": "game",
-      "releaseDate": "2026-10-29",
-      "developers": [
-        "wonderscope-games"
-      ],
-      "publishers": [
-        "team17"
-      ],
-      "externalIds": {
-        "wikidata": "Q141955085",
-        "steam": "2907400"
-      },
-      "sources": [
-        {
-          "type": "steam",
-          "url": "https://store.steampowered.com/app/2907400/",
-          "retrievedAt": "2026-11-05"
-        },
-        {
-          "type": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q141955085",
-          "retrievedAt": "2026-11-05"
-        }
-      ]
-    },
-    "actions": [
-      "approve",
-      "reject",
-      "merge",
-      "edit",
-      "ignore"
-    ]
-  },
-  {
     "id": "potential-duplicate:worms:46b28c810e3d",
     "related": [
       {
@@ -2836,35 +2791,6 @@
       "unmatched": []
     },
     "actions": [
-      "edit",
-      "ignore"
-    ]
-  },
-  {
-    "id": "technology-claim:raccoin-coin-pusher-roguelike:bcfaed0f1038",
-    "related": [
-      {
-        "type": "technology",
-        "id": "unity"
-      }
-    ],
-    "category": "technology-claim",
-    "subject": {
-      "type": "game",
-      "id": "raccoin-coin-pusher-roguelike"
-    },
-    "title": "Technology claim: unity for RACCOIN: Coin Pusher Roguelike",
-    "summary": "wikidata reports unity (medium confidence). Approve with a source to raise confidence, or reject.",
-    "details": {
-      "game": "raccoin-coin-pusher-roguelike",
-      "title": "RACCOIN: Coin Pusher Roguelike",
-      "technology": "unity",
-      "confidence": "medium",
-      "source": "wikidata"
-    },
-    "actions": [
-      "approve",
-      "reject",
       "edit",
       "ignore"
     ]
