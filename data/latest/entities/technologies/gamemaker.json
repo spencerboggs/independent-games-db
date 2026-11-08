@@ -43,17 +43,17 @@
   "statistics": {
     "gameCount": 18,
     "companyCount": 21,
-    "totalSteamReviews": 332154,
+    "totalSteamReviews": 332201,
     "mostReviewedGames": [
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 129826
+        "value": 129853
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 76562
+        "value": 76570
       },
       {
         "id": "loop-hero",
@@ -68,12 +68,12 @@
       {
         "id": "the-red-strings-club",
         "title": "The Red Strings Club",
-        "value": 14379
+        "value": 14386
       },
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 8675
+        "value": 8674
       },
       {
         "id": "sheltered",
@@ -83,7 +83,7 @@
       {
         "id": "deadbolt",
         "title": "DEADBOLT",
-        "value": 5679
+        "value": 5680
       },
       {
         "id": "gato-roboto",
@@ -100,52 +100,52 @@
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 415
+        "value": 328
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 187
+        "value": 169
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 134
-      },
-      {
-        "id": "the-red-strings-club",
-        "title": "The Red Strings Club",
-        "value": 42
+        "value": 114
       },
       {
         "id": "sheltered",
         "title": "Sheltered",
-        "value": 39
+        "value": 51
       },
       {
-        "id": "honey-i-joined-a-cult",
-        "title": "Honey, I Joined a Cult",
-        "value": 24
-      },
-      {
-        "id": "risk-of-rain-2013",
-        "title": "Risk of Rain (2013)",
-        "value": 19
+        "id": "the-red-strings-club",
+        "title": "The Red Strings Club",
+        "value": 32
       },
       {
         "id": "conscript-directors-cut",
         "title": "CONSCRIPT: Director’s Cut",
-        "value": 17
+        "value": 23
       },
       {
-        "id": "the-swords-of-ditto-mormos-curse",
-        "title": "The Swords of Ditto: Mormo's Curse",
-        "value": 10
+        "id": "honey-i-joined-a-cult",
+        "title": "Honey, I Joined a Cult",
+        "value": 21
+      },
+      {
+        "id": "risk-of-rain-2013",
+        "title": "Risk of Rain (2013)",
+        "value": 21
+      },
+      {
+        "id": "deadbolt",
+        "title": "DEADBOLT",
+        "value": 12
       },
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 9
+        "value": 11
       }
     ],
     "gamesByReleaseYear": {
