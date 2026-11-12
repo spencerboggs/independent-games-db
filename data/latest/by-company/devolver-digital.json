@@ -75,7 +75,7 @@
         "unreal-engine"
       ],
       "steamAppId": "473690",
-      "reviewCount": 14848,
+      "reviewCount": 14847,
       "positivePercentage": 72.6
     },
     {
@@ -100,7 +100,7 @@
       ],
       "engines": [],
       "steamAppId": "1978590",
-      "reviewCount": 4229,
+      "reviewCount": 4231,
       "positivePercentage": 92.7
     },
     {
@@ -157,7 +157,7 @@
       ],
       "engines": [],
       "steamAppId": "1281040",
-      "reviewCount": 2752,
+      "reviewCount": 2753,
       "positivePercentage": 90.1
     },
     {
@@ -189,7 +189,7 @@
         "unity"
       ],
       "steamAppId": "2062430",
-      "reviewCount": 27918,
+      "reviewCount": 27935,
       "positivePercentage": 95.2
     },
     {
@@ -327,7 +327,7 @@
       ],
       "engines": [],
       "steamAppId": "1371720",
-      "reviewCount": 3299,
+      "reviewCount": 3301,
       "positivePercentage": 89.9
     },
     {
@@ -360,7 +360,7 @@
         "monogame"
       ],
       "steamAppId": "953490",
-      "reviewCount": 36602,
+      "reviewCount": 36612,
       "positivePercentage": 94.4
     },
     {
@@ -385,8 +385,8 @@
       ],
       "engines": [],
       "steamAppId": "1309950",
-      "reviewCount": 2355,
-      "positivePercentage": 93
+      "reviewCount": 2356,
+      "positivePercentage": 92.9
     },
     {
       "id": "cosmic-dj",
@@ -504,7 +504,7 @@
         "unity"
       ],
       "steamAppId": "1313140",
-      "reviewCount": 131430,
+      "reviewCount": 131464,
       "positivePercentage": 95.9
     },
     {
@@ -529,7 +529,7 @@
       ],
       "engines": [],
       "steamAppId": "3840050",
-      "reviewCount": 1381,
+      "reviewCount": 1384,
       "positivePercentage": 93.2
     },
     {
@@ -587,7 +587,7 @@
         "unity"
       ],
       "steamAppId": "894020",
-      "reviewCount": 23625,
+      "reviewCount": 23638,
       "positivePercentage": 92.9
     },
     {
@@ -684,7 +684,7 @@
         "gamemaker"
       ],
       "steamAppId": "360740",
-      "reviewCount": 8677,
+      "reviewCount": 8679,
       "positivePercentage": 96.5
     },
     {
@@ -795,7 +795,7 @@
         "unity"
       ],
       "steamAppId": "311690",
-      "reviewCount": 90196,
+      "reviewCount": 90199,
       "positivePercentage": 95.1
     },
     {
@@ -870,7 +870,7 @@
       ],
       "engines": [],
       "steamAppId": "2325920",
-      "reviewCount": 1037,
+      "reviewCount": 1039,
       "positivePercentage": 92
     },
     {
@@ -919,7 +919,7 @@
         "gamemaker"
       ],
       "steamAppId": "916730",
-      "reviewCount": 5316,
+      "reviewCount": 5318,
       "positivePercentage": 94.3
     },
     {
@@ -945,7 +945,7 @@
         "unity"
       ],
       "steamAppId": "469820",
-      "reviewCount": 11350,
+      "reviewCount": 11351,
       "positivePercentage": 92.2
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "engines": [],
       "steamAppId": "3391450",
-      "reviewCount": 714,
+      "reviewCount": 715,
       "positivePercentage": 86.4
     },
     {
@@ -1056,7 +1056,7 @@
         "unity"
       ],
       "steamAppId": "683320",
-      "reviewCount": 97002,
+      "reviewCount": 97010,
       "positivePercentage": 96
     },
     {
@@ -1195,7 +1195,7 @@
         "gamemaker"
       ],
       "steamAppId": "219150",
-      "reviewCount": 129895,
+      "reviewCount": 129913,
       "positivePercentage": 96.8
     },
     {
@@ -1223,7 +1223,7 @@
       ],
       "engines": [],
       "steamAppId": "274170",
-      "reviewCount": 81350,
+      "reviewCount": 81368,
       "positivePercentage": 94.1
     },
     {
@@ -1339,7 +1339,7 @@
         "unity"
       ],
       "steamAppId": "1092790",
-      "reviewCount": 150183,
+      "reviewCount": 150226,
       "positivePercentage": 96.8
     },
     {
@@ -1394,7 +1394,7 @@
         "gamemaker"
       ],
       "steamAppId": "460950",
-      "reviewCount": 76586,
+      "reviewCount": 76596,
       "positivePercentage": 97.9
     },
     {
@@ -1409,6 +1409,10 @@
         "devolver-digital"
       ],
       "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
         "windows"
       ],
       "genres": [
@@ -1419,7 +1423,7 @@
       ],
       "engines": [],
       "steamAppId": "3373660",
-      "reviewCount": 15622,
+      "reviewCount": 15632,
       "positivePercentage": 98.2
     },
     {
@@ -1549,7 +1553,7 @@
       ],
       "engines": [],
       "steamAppId": "1338580",
-      "reviewCount": 1915,
+      "reviewCount": 1916,
       "positivePercentage": 93
     },
     {
@@ -1726,7 +1730,7 @@
       ],
       "engines": [],
       "steamAppId": "3247750",
-      "reviewCount": 5656,
+      "reviewCount": 5670,
       "positivePercentage": 88.4
     },
     {
@@ -1758,7 +1762,7 @@
         "unity"
       ],
       "steamAppId": "2420660",
-      "reviewCount": 11007,
+      "reviewCount": 11009,
       "positivePercentage": 93.5
     },
     {
@@ -1987,7 +1991,7 @@
         "unity"
       ],
       "steamAppId": "415740",
-      "reviewCount": 586,
+      "reviewCount": 587,
       "positivePercentage": 81.6
     },
     {
@@ -2101,7 +2105,7 @@
         "unity"
       ],
       "steamAppId": "572890",
-      "reviewCount": 12000,
+      "reviewCount": 12001,
       "positivePercentage": 95.9
     },
     {
@@ -2181,7 +2185,7 @@
       ],
       "engines": [],
       "steamAppId": "3419520",
-      "reviewCount": 14232,
+      "reviewCount": 14245,
       "positivePercentage": 81.4
     },
     {
@@ -2377,8 +2381,8 @@
       ],
       "engines": [],
       "steamAppId": "2437040",
-      "reviewCount": 364,
-      "positivePercentage": 53.3
+      "reviewCount": 365,
+      "positivePercentage": 53.4
     },
     {
       "id": "return-to-monkey-island",
@@ -2407,8 +2411,8 @@
       ],
       "engines": [],
       "steamAppId": "2060130",
-      "reviewCount": 9151,
-      "positivePercentage": 91.1
+      "reviewCount": 9152,
+      "positivePercentage": 91
     },
     {
       "id": "ruiner",
@@ -2463,7 +2467,7 @@
       ],
       "engines": [],
       "steamAppId": "41070",
-      "reviewCount": 28815,
+      "reviewCount": 28818,
       "positivePercentage": 88.2
     },
     {
@@ -2565,7 +2569,7 @@
       ],
       "engines": [],
       "steamAppId": "41050",
-      "reviewCount": 3543,
+      "reviewCount": 3545,
       "positivePercentage": 95.6
     },
     {
@@ -2589,7 +2593,7 @@
       ],
       "engines": [],
       "steamAppId": "227780",
-      "reviewCount": 3872,
+      "reviewCount": 3874,
       "positivePercentage": 89.8
     },
     {
@@ -2642,7 +2646,7 @@
       ],
       "engines": [],
       "steamAppId": "564310",
-      "reviewCount": 5680,
+      "reviewCount": 5681,
       "positivePercentage": 92.7
     },
     {
@@ -2840,7 +2844,7 @@
       ],
       "engines": [],
       "steamAppId": "1792250",
-      "reviewCount": 5324,
+      "reviewCount": 5326,
       "positivePercentage": 92.1
     },
     {
@@ -3150,7 +3154,7 @@
       ],
       "engines": [],
       "steamAppId": "1263240",
-      "reviewCount": 3215,
+      "reviewCount": 3214,
       "positivePercentage": 96.5
     },
     {
@@ -3177,8 +3181,8 @@
         "unity"
       ],
       "steamAppId": "1144770",
-      "reviewCount": 5597,
-      "positivePercentage": 91
+      "reviewCount": 5598,
+      "positivePercentage": 91.1
     },
     {
       "id": "spaceplan",
@@ -3257,7 +3261,7 @@
       ],
       "engines": [],
       "steamAppId": "2085540",
-      "reviewCount": 9453,
+      "reviewCount": 9456,
       "positivePercentage": 95
     },
     {
@@ -3287,7 +3291,7 @@
         "unity"
       ],
       "steamAppId": "558420",
-      "reviewCount": 5597,
+      "reviewCount": 5599,
       "positivePercentage": 86.5
     },
     {
@@ -3366,14 +3370,14 @@
       ],
       "engines": [],
       "steamAppId": "1429850",
-      "reviewCount": 1322,
+      "reviewCount": 1323,
       "positivePercentage": 94.4
     },
     {
       "id": "tenjutsu",
       "title": "Tenjutsu",
       "type": "game",
-      "releaseDate": null,
+      "releaseDate": "2027",
       "developers": [
         "deepnight-games"
       ],
@@ -3381,6 +3385,7 @@
         "devolver-digital"
       ],
       "platforms": [
+        "nintendo-switch-2",
         "windows"
       ],
       "genres": [
@@ -3449,7 +3454,7 @@
         "unity"
       ],
       "steamAppId": "1593030",
-      "reviewCount": 9024,
+      "reviewCount": 9026,
       "positivePercentage": 87.3
     },
     {
@@ -3473,7 +3478,7 @@
       ],
       "engines": [],
       "steamAppId": "1340480",
-      "reviewCount": 6515,
+      "reviewCount": 6519,
       "positivePercentage": 93.1
     },
     {
@@ -3578,7 +3583,7 @@
         "unity"
       ],
       "steamAppId": "764790",
-      "reviewCount": 13379,
+      "reviewCount": 13381,
       "positivePercentage": 92.6
     },
     {
@@ -3631,7 +3636,7 @@
       ],
       "engines": [],
       "steamAppId": "1627570",
-      "reviewCount": 4314,
+      "reviewCount": 4316,
       "positivePercentage": 84.8
     },
     {
@@ -3661,7 +3666,7 @@
         "gamemaker"
       ],
       "steamAppId": "589780",
-      "reviewCount": 14400,
+      "reviewCount": 14401,
       "positivePercentage": 93.3
     },
     {
@@ -3727,7 +3732,7 @@
       ],
       "engines": [],
       "steamAppId": "257510",
-      "reviewCount": 33241,
+      "reviewCount": 33242,
       "positivePercentage": 95.3
     },
     {
@@ -3755,7 +3760,7 @@
         "unreal-engine"
       ],
       "steamAppId": "835960",
-      "reviewCount": 13807,
+      "reviewCount": 13817,
       "positivePercentage": 94.6
     },
     {
@@ -3805,7 +3810,7 @@
       ],
       "engines": [],
       "steamAppId": "2806640",
-      "reviewCount": 1302,
+      "reviewCount": 1303,
       "positivePercentage": 90.5
     },
     {
@@ -3884,7 +3889,7 @@
       ],
       "engines": [],
       "steamAppId": "297130",
-      "reviewCount": 13970,
+      "reviewCount": 13973,
       "positivePercentage": 78.7
     },
     {
@@ -4016,7 +4021,7 @@
       ],
       "engines": [],
       "steamAppId": "3743260",
-      "reviewCount": 408,
+      "reviewCount": 416,
       "positivePercentage": 98.8
     },
     {
@@ -4043,7 +4048,7 @@
         "unreal-engine"
       ],
       "steamAppId": "255520",
-      "reviewCount": 4679,
+      "reviewCount": 4680,
       "positivePercentage": 80.5
     },
     {

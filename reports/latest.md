@@ -1,25 +1,37 @@
-# Database update: 2026-11-11
+# Database update: 2026-11-12
 
 Dataset 0.1.0: 528 games, 353 companies, 93 technologies, 1,352 relationships.
 
-## Review counts (192)
+## Changed (4)
 
-~ WARDOGS: 192,178 → 195,616 (+3,438)
-~ Big Walk: 47,041 → 47,934 (+893)
-~ R.E.P.O.: 435,233 → 435,473 (+240)
-~ PEAK: 385,612 → 385,798 (+186)
-~ Slay the Spire 2: 208,155 → 208,273 (+118)
-~ Valheim: 564,697 → 564,799 (+102)
-~ CONTROL Resonant: 21,536 → 21,631 (+95)
-~ Hollow Knight: 568,146 → 568,235 (+89)
-~ Baldur's Gate 3: 864,927 → 864,999 (+72)
-~ Castlevania: Belmont's Curse: 12,264 → 12,336 (+72)
-~ Hollow Knight: Silksong: 427,790 → 427,860 (+70)
-~ Silver Pines: 6,743 → 6,803 (+60)
-~ Balatro: 201,266 → 201,319 (+53)
-~ Satisfactory: 282,572 → 282,616 (+44)
-~ RV There Yet?: 91,189 → 91,231 (+42)
-… and 177 more
+~ Look Outside (`look-outside`)
+  - platforms: [windows] → [nintendo-switch, nintendo-switch-2, playstation-4, playstation-5, windows]
+~ R.E.P.O. (`r-e-p-o`)
+  - platforms: [windows] → [nintendo-switch-2, windows]
+~ RV There Yet? (`rv-there-yet`)
+  - platforms: [windows] → [nintendo-switch-2, playstation-5, windows, xbox-series]
+~ Tenjutsu (`tenjutsu`)
+  - releaseDate: none → 2027
+  - platforms: [windows] → [nintendo-switch-2, windows]
+
+## Review counts (191)
+
+~ WARDOGS: 195,616 → 199,312 (+3,696)
+~ Big Walk: 47,934 → 48,780 (+846)
+~ R.E.P.O.: 435,473 → 435,684 (+211)
+~ Slay the Spire 2: 208,273 → 208,468 (+195)
+~ PEAK: 385,798 → 385,975 (+177)
+~ Valheim: 564,799 → 564,920 (+121)
+~ Baldur's Gate 3: 864,999 → 865,107 (+108)
+~ Hollow Knight: 568,235 → 568,335 (+100)
+~ Castlevania: Belmont's Curse: 12,336 → 12,431 (+95)
+~ Hollow Knight: Silksong: 427,860 → 427,943 (+83)
+~ CONTROL Resonant: 21,631 → 21,703 (+72)
+~ Satisfactory: 282,616 → 282,683 (+67)
+~ RV There Yet?: 91,231 → 91,295 (+64)
+~ Silver Pines: 6,803 → 6,860 (+57)
+~ Outer Wilds: 110,350 → 110,395 (+45)
+… and 176 more
 
 ## Manual review (64)
 
@@ -64,7 +76,7 @@ These listings use different company names. Pick the right company in `npm run r
 ! miasmata publishers: steam says [IonFX Studios]; wikidata says [Devolver Digital]
 ! minit-fun-racer developers: steam says [JW, Kitty, Jukio, Dom]; wikidata says [Dominik Johann, Jan Willem Nijman, Jan-Willem Nijman en Kitty Calis, Jukio Kallio, Kitty Calis]
 ! minit developers: steam says [JW, Kitty, Jukio, Dom]; wikidata says [Dominik Johann, Jan Willem Nijman, Jan-Willem Nijman en Kitty Calis, Jukio Kallio, Kitty Calis]
-! my-time-at-portia publishers: steam says [Focus Entertainment]; wikidata says [Team17]
+! my-time-at-portia publishers: steam says [Focus Entertainment, Pathea Games]; wikidata says [Team17]
 ! neon-white developers: steam says [Angel Matrix]; wikidata says [Ben Esposito]
 ! open-roads developers: steam says [Open Roads Team]; wikidata says [Fullbright]
 ! peak developers: steam says [Team PEAK]; wikidata says [Aggro Crab, Landfall Games]

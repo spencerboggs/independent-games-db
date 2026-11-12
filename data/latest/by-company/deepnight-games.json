@@ -6,7 +6,7 @@
       "id": "tenjutsu",
       "title": "Tenjutsu",
       "type": "game",
-      "releaseDate": null,
+      "releaseDate": "2027",
       "developers": [
         "deepnight-games"
       ],
@@ -14,6 +14,7 @@
         "devolver-digital"
       ],
       "platforms": [
+        "nintendo-switch-2",
         "windows"
       ],
       "genres": [

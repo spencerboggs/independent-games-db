@@ -1757,7 +1757,7 @@
     ]
   },
   {
-    "id": "source-conflict:my-time-at-portia:248946931541",
+    "id": "source-conflict:my-time-at-portia:e1709a3c4657",
     "related": [
       {
         "type": "game",
@@ -1777,10 +1777,12 @@
       "chosen": {
         "source": "steam",
         "value": [
-          "Focus Entertainment"
+          "Focus Entertainment",
+          "Pathea Games"
         ],
         "ids": [
-          "focus-entertainment"
+          "focus-entertainment",
+          "pathea-games"
         ]
       },
       "other": {
