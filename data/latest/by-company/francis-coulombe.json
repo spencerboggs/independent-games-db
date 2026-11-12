@@ -14,6 +14,10 @@
         "devolver-digital"
       ],
       "platforms": [
+        "nintendo-switch",
+        "nintendo-switch-2",
+        "playstation-4",
+        "playstation-5",
         "windows"
       ],
       "genres": [
@@ -24,7 +28,7 @@
       ],
       "engines": [],
       "steamAppId": "3373660",
-      "reviewCount": 15622,
+      "reviewCount": 15632,
       "positivePercentage": 98.2
     }
   ],
