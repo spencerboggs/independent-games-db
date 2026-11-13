@@ -13,7 +13,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q8046428",
-        "retrievedAt": "2026-11-12"
+        "retrievedAt": "2026-11-13"
       }
     },
     "custom": null
@@ -71,9 +71,9 @@
     "gameCount": 9,
     "developedCount": 8,
     "publishedCount": 9,
-    "totalSteamReviews": 30988,
-    "averagePositivePercentage": 88.9,
-    "weightedPositivePercentage": 91.8,
+    "totalSteamReviews": 31003,
+    "averagePositivePercentage": 89,
+    "weightedPositivePercentage": 91.9,
     "mostReviewedGame": "shovel-knight-treasure-trove",
     "mostRecentRelease": "mina-the-hollower",
     "firstRelease": "shovel-knight-treasure-trove",
@@ -88,11 +88,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q8046428",
-      "retrievedAt": "2026-11-12"
+      "retrievedAt": "2026-11-13"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-12T17:33:07.043Z"
+  "lastUpdated": "2026-11-13T17:09:59.026Z"
 }
