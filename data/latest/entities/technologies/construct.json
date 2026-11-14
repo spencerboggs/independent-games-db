@@ -32,7 +32,13 @@
         "value": 1570
       }
     ],
-    "mostPlayedGames": [],
+    "mostPlayedGames": [
+      {
+        "id": "cyber-shadow",
+        "title": "Cyber Shadow",
+        "value": 3
+      }
+    ],
     "gamesByReleaseYear": {
       "2021": 1
     }
