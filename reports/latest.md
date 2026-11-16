@@ -1,25 +1,25 @@
-# Database update: 2026-11-15
+# Database update: 2026-11-16
 
 Dataset 0.1.0: 528 games, 353 companies, 93 technologies, 1,352 relationships.
 
-## Review counts (213)
+## Review counts (184)
 
-~ WARDOGS: 203,691 → 204,942 (+1,251)
-~ Slay the Spire 2: 209,487 → 209,951 (+464)
-~ PEAK: 386,379 → 386,680 (+301)
-~ Big Walk: 49,615 → 49,901 (+286)
-~ R.E.P.O.: 436,166 → 436,437 (+271)
-~ Baldur's Gate 3: 865,347 → 865,489 (+142)
-~ Hollow Knight: 568,547 → 568,685 (+138)
-~ CONTROL Resonant: 21,875 → 22,004 (+129)
-~ 9 Kings: 24,092 → 24,207 (+115)
-~ Valheim: 565,114 → 565,224 (+110)
-~ RV There Yet?: 91,374 → 91,465 (+91)
-~ Hollow Knight: Silksong: 428,122 → 428,209 (+87)
-~ Silver Pines: 6,957 → 7,027 (+70)
-~ Castlevania: Belmont's Curse: 12,559 → 12,627 (+68)
-~ Satisfactory: 282,777 → 282,842 (+65)
-… and 198 more
+~ WARDOGS: 204,942 → 205,982 (+1,040)
+~ Slay the Spire 2: 209,951 → 210,369 (+418)
+~ R.E.P.O.: 436,437 → 436,703 (+266)
+~ Big Walk: 49,901 → 50,144 (+243)
+~ PEAK: 386,680 → 386,922 (+242)
+~ Valheim: 565,224 → 565,373 (+149)
+~ Hollow Knight: 568,685 → 568,813 (+128)
+~ Baldur's Gate 3: 865,489 → 865,616 (+127)
+~ CONTROL Resonant: 22,004 → 22,099 (+95)
+~ 9 Kings: 24,207 → 24,296 (+89)
+~ Hollow Knight: Silksong: 428,209 → 428,298 (+89)
+~ Silver Pines: 7,027 → 7,110 (+83)
+~ Castlevania: Belmont's Curse: 12,627 → 12,695 (+68)
+~ RV There Yet?: 91,465 → 91,532 (+67)
+~ Balatro: 201,478 → 201,532 (+54)
+… and 169 more
 
 ## Manual review (64)
 
