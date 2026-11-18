@@ -3,8 +3,8 @@
   "description": "Public dataset of independent and non-AAA games, the companies that make and publish them, and the technologies they use.",
   "datasetVersion": "0.1.0",
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-11-17T18:30:43.620Z",
-  "contentHash": "231dc817951098b42077856a847e00c543bd855dd52e933204f02f97d9f086e3",
+  "generatedAt": "2026-11-18T18:00:00.751Z",
+  "contentHash": "6e8e5efb3c2276805a1a4244d6cedf191c81ae6b0715c0893fe10b8763e2ad58",
   "repository": "https://github.com/spencerboggs/independent-games-db",
   "license": {
     "code": "MIT",
@@ -91,8 +91,8 @@
     },
     {
       "path": "compact/games.json",
-      "bytes": 183019,
-      "sha256": "f8dd19b80cfefc9261471e821a8ba3dd9beb5c2b074b5ca77fce914fbdcbcedc",
+      "bytes": 183017,
+      "sha256": "641df862ca7dfdc58e2506a58c594b228aaf31ae4340384193192cc390716d0d",
       "records": 528
     },
     {
@@ -115,32 +115,32 @@
     },
     {
       "path": "companies.json",
-      "bytes": 573179,
-      "sha256": "6eb4cecb0aac237b995b44dcff7c96edaaedb55d080f462cf0368996cee71602",
+      "bytes": 573173,
+      "sha256": "011e6cec38748e6dac3c4b3c80f894b02f5a879938ac72d14bbf3e21a6f31981",
       "records": 353
     },
     {
       "path": "developers.json",
-      "bytes": 509022,
-      "sha256": "7f611f15b4ea218da8453e3bcffee07d4d656afb4ec1894a73691ca8790bfe58",
+      "bytes": 509020,
+      "sha256": "7690369f67e1636c8b2961d098b3025ee89a11dc5fe39f6de549652250cfde58",
       "records": 316
     },
     {
       "path": "engines.json",
-      "bytes": 35530,
-      "sha256": "ee76e7527eb085c3964536ccb686b68159d67dba3a02743b396da26e0ee88ced",
+      "bytes": 35534,
+      "sha256": "c40afd15d37bb4f32cd0fc70651d37a3ec2a598ce767bf7b450ca9773ca66f04",
       "records": 29
     },
     {
       "path": "full/companies.json",
-      "bytes": 774713,
-      "sha256": "096cd1a154b46a662ed46df406debe2aedb3696f962e9b11b9396dd4e88a6834",
+      "bytes": 774707,
+      "sha256": "df96d69c1ec8238f161937be771f51040f9e42f3bc2da06e4ff4044791430a0c",
       "records": 353
     },
     {
       "path": "full/games.json",
-      "bytes": 4557297,
-      "sha256": "7bcf4199fee985b8982ff422e585d95b4eba9293fbe0c629ecfae10e4bef4cfc",
+      "bytes": 4557291,
+      "sha256": "059d3b567f9f09e32662138427ed84ce5adc632670e212a957726077e08e0203",
       "records": 528
     },
     {
@@ -152,31 +152,31 @@
     {
       "path": "full/relationships.json",
       "bytes": 516998,
-      "sha256": "bad6e8dc5d88b5a93225a0b185c231879c098d65f1a6eedc2de1a58a6416acc1",
+      "sha256": "4783e4eeba31aa8a242d57b5a5e8fb0aaa5661284cc8e65aca67f6b070d15a4b",
       "records": 1352
     },
     {
       "path": "full/statistics-history.json",
-      "bytes": 997171,
-      "sha256": "087a8eb6b9751c73d68c4f9a6c31670491277c9cd4386780f5770c53e6a3ef65",
+      "bytes": 1023349,
+      "sha256": "e8119ef6b82a1d9cfab392b163cc6f6e131b4105270f4d4cb9219284fe7852f4",
       "records": null
     },
     {
       "path": "full/statistics.json",
-      "bytes": 254985,
-      "sha256": "df6680605c181aadca05125559aeb2dabd2120d36c2ec323c47744b7545729eb",
+      "bytes": 254967,
+      "sha256": "b0cbd576d65c584327dc771b1126663a8a0236cc3b71fd6755066fda9e0e0901",
       "records": null
     },
     {
       "path": "full/technologies.json",
-      "bytes": 82341,
-      "sha256": "fd545d5f4feae43620aa8cf6c7ff8d20c1639a94f240b5595d24ae4504025621",
+      "bytes": 82231,
+      "sha256": "42fc923e999f3f6b323f02770739a07e6f0042fa60267cffc1d59494d264bfaf",
       "records": 93
     },
     {
       "path": "games.json",
-      "bytes": 3303438,
-      "sha256": "a75072865a1fa5ecf8369bbfd76e8afe576dd17952750c33c4b0d49f200c1b7b",
+      "bytes": 3303432,
+      "sha256": "c4217767c09e26ebd8e1c33e31a6a72c0f3b05797584195124c1f136c0ee8e94",
       "records": 528
     },
     {
@@ -193,14 +193,14 @@
     },
     {
       "path": "publishers.json",
-      "bytes": 136009,
-      "sha256": "1f6cc388e11bb2dc944cd49788b45d2aa724bdd571993e348db520da6e554dc0",
+      "bytes": 136005,
+      "sha256": "8c98765f795963cb083d0c86c5b2c46884534a13a4cb3c56803027fcb3076ff3",
       "records": 66
     },
     {
       "path": "relationships.json",
       "bytes": 516998,
-      "sha256": "bad6e8dc5d88b5a93225a0b185c231879c098d65f1a6eedc2de1a58a6416acc1",
+      "sha256": "4783e4eeba31aa8a242d57b5a5e8fb0aaa5661284cc8e65aca67f6b070d15a4b",
       "records": 1352
     },
     {
@@ -295,14 +295,14 @@
     },
     {
       "path": "statistics.json",
-      "bytes": 254985,
-      "sha256": "df6680605c181aadca05125559aeb2dabd2120d36c2ec323c47744b7545729eb",
+      "bytes": 254967,
+      "sha256": "b0cbd576d65c584327dc771b1126663a8a0236cc3b71fd6755066fda9e0e0901",
       "records": null
     },
     {
       "path": "technologies.json",
-      "bytes": 82341,
-      "sha256": "fd545d5f4feae43620aa8cf6c7ff8d20c1639a94f240b5595d24ae4504025621",
+      "bytes": 82231,
+      "sha256": "42fc923e999f3f6b323f02770739a07e6f0042fa60267cffc1d59494d264bfaf",
       "records": 93
     }
   ],
