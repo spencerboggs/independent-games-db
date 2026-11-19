@@ -1,7 +1,9 @@
 {
   "id": "blacklight-interactive",
   "name": "Blacklight Interactive",
-  "aliases": [],
+  "aliases": [
+    "Blacklight Games"
+  ],
   "roles": [
     "developer"
   ],
@@ -12,7 +14,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q23303470",
-        "retrievedAt": "2026-11-18"
+        "retrievedAt": "2026-11-19"
       }
     },
     "custom": null
@@ -44,15 +46,16 @@
   },
   "games": {
     "developed": [
+      "all-army-attack",
       "golf-with-your-friends"
     ],
     "published": []
   },
   "statistics": {
-    "gameCount": 1,
-    "developedCount": 1,
+    "gameCount": 2,
+    "developedCount": 2,
     "publishedCount": 0,
-    "totalSteamReviews": 76281,
+    "totalSteamReviews": 76293,
     "averagePositivePercentage": 87.2,
     "weightedPositivePercentage": 87.2,
     "mostReviewedGame": "golf-with-your-friends",
@@ -68,8 +71,8 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q23303470",
-      "retrievedAt": "2026-11-18"
+      "retrievedAt": "2026-11-19"
     }
   ],
-  "lastUpdated": "2026-11-18T18:00:00.751Z"
+  "lastUpdated": "2026-11-19T18:12:56.203Z"
 }

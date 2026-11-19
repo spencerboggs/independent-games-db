@@ -3,6 +3,32 @@
   "name": "Blacklight Interactive",
   "developed": [
     {
+      "id": "all-army-attack",
+      "title": "All Army Attack",
+      "type": "game",
+      "releaseDate": "2027",
+      "developers": [
+        "blacklight-interactive"
+      ],
+      "publishers": [
+        "devolver-digital"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "genres": [
+        "action",
+        "auto-battler",
+        "casual",
+        "roguelite",
+        "strategy"
+      ],
+      "engines": [],
+      "steamAppId": "4128840",
+      "reviewCount": null,
+      "positivePercentage": null
+    },
+    {
       "id": "golf-with-your-friends",
       "title": "Golf With Your Friends",
       "type": "game",
@@ -33,7 +59,7 @@
         "unity"
       ],
       "steamAppId": "431240",
-      "reviewCount": 76281,
+      "reviewCount": 76293,
       "positivePercentage": 87.2
     }
   ],

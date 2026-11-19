@@ -9,12 +9,12 @@
     "source": null,
     "custom": null
   },
-  "website": null,
+  "website": "http://modern-dream.com/",
   "socialLinks": {},
   "location": {
     "headquarters": null,
-    "country": null,
-    "countryName": null
+    "country": "GB",
+    "countryName": "United Kingdom"
   },
   "founded": null,
   "foundedDate": null,
@@ -24,7 +24,9 @@
     "parentCompanyName": null,
     "notes": null
   },
-  "externalIds": {},
+  "externalIds": {
+    "wikidata": "Q119728452"
+  },
   "logo": null,
   "classification": {
     "include": false,
@@ -51,6 +53,12 @@
     "engineCount": 0,
     "engines": []
   },
-  "sources": [],
-  "lastUpdated": "2026-09-30T09:34:48.857Z"
+  "sources": [
+    {
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q119728452",
+      "retrievedAt": "2026-11-19"
+    }
+  ],
+  "lastUpdated": "2026-11-19T18:12:56.203Z"
 }
