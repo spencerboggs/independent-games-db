@@ -1,12 +1,12 @@
 {
   "totals": {
-    "games": 528,
+    "games": 529,
     "companies": 353,
     "includedCompanies": 26,
     "technologies": 93,
     "people": 0,
     "gamesWithSteamStatistics": 397,
-    "totalSteamReviews": 10751737
+    "totalSteamReviews": 10754647
   },
   "rankings": {
     "mostReviewed": [
@@ -14,151 +14,151 @@
         "rank": 1,
         "game": "baldurs-gate-3",
         "title": "Baldur's Gate 3",
-        "value": 865772
+        "value": 865855
       },
       {
         "rank": 2,
         "game": "hollow-knight",
         "title": "Hollow Knight",
-        "value": 568978
+        "value": 569069
       },
       {
         "rank": 3,
         "game": "valheim",
         "title": "Valheim",
-        "value": 565568
+        "value": 565650
       },
       {
         "rank": 4,
         "game": "r-e-p-o",
         "title": "R.E.P.O.",
-        "value": 437087
+        "value": 437275
       },
       {
         "rank": 5,
         "game": "hollow-knight-silksong",
         "title": "Hollow Knight: Silksong",
-        "value": 428416
+        "value": 428473
       },
       {
         "rank": 6,
         "game": "peak",
         "title": "PEAK",
-        "value": 387200
+        "value": 387328
       },
       {
         "rank": 7,
         "game": "deep-rock-galactic",
         "title": "Deep Rock Galactic",
-        "value": 382020
+        "value": 382052
       },
       {
         "rank": 8,
         "game": "risk-of-rain-2",
         "title": "Risk of Rain 2",
-        "value": 357100
+        "value": 357138
       },
       {
         "rank": 9,
         "game": "hades",
         "title": "Hades",
-        "value": 310980
+        "value": 311004
       },
       {
         "rank": 10,
         "game": "satisfactory",
         "title": "Satisfactory",
-        "value": 282988
+        "value": 283071
       },
       {
         "rank": 11,
         "game": "cuphead",
         "title": "Cuphead",
-        "value": 224261
+        "value": 224291
       },
       {
         "rank": 12,
         "game": "slay-the-spire",
         "title": "Slay the Spire",
-        "value": 220392
+        "value": 220418
       },
       {
         "rank": 13,
         "game": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "value": 210990
+        "value": 211297
       },
       {
         "rank": 14,
-        "game": "divinity-original-sin-2-definitive-edition",
-        "title": "Divinity: Original Sin 2 - Definitive Edition",
-        "value": 207479
+        "game": "wardogs",
+        "title": "WARDOGS",
+        "value": 207851
       },
       {
         "rank": 15,
-        "game": "wardogs",
-        "title": "WARDOGS",
-        "value": 207317
+        "game": "divinity-original-sin-2-definitive-edition",
+        "title": "Divinity: Original Sin 2 - Definitive Edition",
+        "value": 207494
       },
       {
         "rank": 16,
         "game": "balatro",
         "title": "Balatro",
-        "value": 201620
+        "value": 201653
       },
       {
         "rank": 17,
         "game": "dead-cells",
         "title": "Dead Cells",
-        "value": 185228
+        "value": 185237
       },
       {
         "rank": 18,
         "game": "stray",
         "title": "Stray",
-        "value": 180432
+        "value": 180448
       },
       {
         "rank": 19,
         "game": "totally-accurate-battle-simulator",
         "title": "Totally Accurate Battle Simulator",
-        "value": 155696
+        "value": 155720
       },
       {
         "rank": 20,
         "game": "hell-let-loose",
         "title": "Hell Let Loose",
-        "value": 150439
+        "value": 150447
       },
       {
         "rank": 21,
         "game": "inscryption",
         "title": "Inscryption",
-        "value": 150389
+        "value": 150418
       },
       {
         "rank": 22,
         "game": "cult-of-the-lamb",
         "title": "Cult of the Lamb",
-        "value": 131583
+        "value": 131606
       },
       {
         "rank": 23,
         "game": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 130012
+        "value": 130037
       },
       {
         "rank": 24,
         "game": "stick-fight-the-game",
         "title": "Stick Fight: The Game",
-        "value": 125612
+        "value": 125605
       },
       {
         "rank": 25,
         "game": "hades-ii",
         "title": "Hades II",
-        "value": 124995
+        "value": 125012
       }
     ],
     "highestRated": [
@@ -318,151 +318,151 @@
         "rank": 1,
         "game": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "value": 74142
+        "value": 69324
       },
       {
         "rank": 2,
         "game": "wardogs",
         "title": "WARDOGS",
-        "value": 71995
+        "value": 64989
       },
       {
         "rank": 3,
         "game": "valheim",
         "title": "Valheim",
-        "value": 38228
+        "value": 36304
       },
       {
         "rank": 4,
         "game": "baldurs-gate-3",
         "title": "Baldur's Gate 3",
-        "value": 31083
+        "value": 30730
       },
       {
         "rank": 5,
         "game": "r-e-p-o",
         "title": "R.E.P.O.",
-        "value": 29672
+        "value": 29714
       },
       {
         "rank": 6,
         "game": "satisfactory",
         "title": "Satisfactory",
-        "value": 15130
+        "value": 15209
       },
       {
         "rank": 7,
         "game": "peak",
         "title": "PEAK",
-        "value": 11073
+        "value": 10602
       },
       {
         "rank": 8,
         "game": "balatro",
         "title": "Balatro",
-        "value": 6558
+        "value": 6318
       },
       {
         "rank": 9,
-        "game": "risk-of-rain-2",
-        "title": "Risk of Rain 2",
-        "value": 5874
+        "game": "deep-rock-galactic",
+        "title": "Deep Rock Galactic",
+        "value": 6052
       },
       {
         "rank": 10,
-        "game": "hollow-knight",
-        "title": "Hollow Knight",
-        "value": 5664
+        "game": "risk-of-rain-2",
+        "title": "Risk of Rain 2",
+        "value": 5811
       },
       {
         "rank": 11,
-        "game": "hollow-knight-silksong",
-        "title": "Hollow Knight: Silksong",
-        "value": 5646
+        "game": "hollow-knight",
+        "title": "Hollow Knight",
+        "value": 5768
       },
       {
         "rank": 12,
-        "game": "deep-rock-galactic",
-        "title": "Deep Rock Galactic",
-        "value": 5048
+        "game": "hollow-knight-silksong",
+        "title": "Hollow Knight: Silksong",
+        "value": 5715
       },
       {
         "rank": 13,
         "game": "slay-the-spire",
         "title": "Slay the Spire",
-        "value": 4205
+        "value": 4013
       },
       {
         "rank": 14,
         "game": "9-kings",
         "title": "9 Kings",
-        "value": 3940
+        "value": 3747
       },
       {
         "rank": 15,
         "game": "divinity-original-sin-2-definitive-edition",
         "title": "Divinity: Original Sin 2 - Definitive Edition",
-        "value": 3778
+        "value": 3630
       },
       {
         "rank": 16,
         "game": "ball-x-pit",
         "title": "BALL x PIT",
-        "value": 3705
+        "value": 3377
       },
       {
         "rank": 17,
         "game": "rv-there-yet",
         "title": "RV There Yet?",
-        "value": 3591
+        "value": 3297
       },
       {
         "rank": 18,
         "game": "hades-ii",
         "title": "Hades II",
-        "value": 2522
+        "value": 2463
       },
       {
         "rank": 19,
         "game": "hell-let-loose",
         "title": "Hell Let Loose",
-        "value": 2415
+        "value": 2312
       },
       {
         "rank": 20,
         "game": "hades",
         "title": "Hades",
-        "value": 2232
+        "value": 2286
       },
       {
         "rank": 21,
         "game": "control-resonant",
         "title": "CONTROL Resonant",
-        "value": 2115
+        "value": 1963
       },
       {
         "rank": 22,
-        "game": "mortal-shell-ii",
-        "title": "Mortal Shell II",
-        "value": 1923
+        "game": "goat-simulator-3",
+        "title": "Goat Simulator 3",
+        "value": 1887
       },
       {
         "rank": 23,
-        "game": "cult-of-the-lamb",
-        "title": "Cult of the Lamb",
-        "value": 1797
+        "game": "mortal-shell-ii",
+        "title": "Mortal Shell II",
+        "value": 1783
       },
       {
         "rank": 24,
-        "game": "overcooked-2",
-        "title": "Overcooked! 2",
-        "value": 1754
+        "game": "cult-of-the-lamb",
+        "title": "Cult of the Lamb",
+        "value": 1734
       },
       {
         "rank": 25,
-        "game": "dead-cells",
-        "title": "Dead Cells",
-        "value": 1601
+        "game": "cuphead",
+        "title": "Cuphead",
+        "value": 1693
       }
     ],
     "recentlyPopular": [
@@ -470,303 +470,303 @@
         "rank": 1,
         "game": "wardogs",
         "title": "WARDOGS",
-        "value": 2687.7
+        "value": 2660.87
       },
       {
         "rank": 2,
         "game": "r-e-p-o",
         "title": "R.E.P.O.",
-        "value": 256.13
+        "value": 257.73
       },
       {
         "rank": 3,
         "game": "peak",
         "title": "PEAK",
-        "value": 221.6
+        "value": 220.67
       },
       {
         "rank": 4,
-        "game": "castlevania-belmonts-curse",
-        "title": "Castlevania: Belmont's Curse",
-        "value": 219.33
+        "game": "big-walk",
+        "title": "Big Walk",
+        "value": 214.57
       },
       {
         "rank": 5,
-        "game": "big-walk",
-        "title": "Big Walk",
-        "value": 216.8
+        "game": "castlevania-belmonts-curse",
+        "title": "Castlevania: Belmont's Curse",
+        "value": 192.97
       },
       {
         "rank": 6,
         "game": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "value": 179
+        "value": 184.57
       },
       {
         "rank": 7,
         "game": "valheim",
         "title": "Valheim",
-        "value": 143.43
+        "value": 139.57
       },
       {
         "rank": 8,
         "game": "silver-pines",
         "title": "Silver Pines",
-        "value": 128
+        "value": 121.13
       },
       {
         "rank": 9,
         "game": "control-resonant",
         "title": "CONTROL Resonant",
-        "value": 120.83
+        "value": 116.87
       },
       {
         "rank": 10,
         "game": "hollow-knight",
         "title": "Hollow Knight",
-        "value": 107.53
+        "value": 107.57
       },
       {
         "rank": 11,
         "game": "baldurs-gate-3",
         "title": "Baldur's Gate 3",
-        "value": 104.87
+        "value": 104.33
       },
       {
         "rank": 12,
         "game": "hollow-knight-silksong",
         "title": "Hollow Knight: Silksong",
-        "value": 80.97
+        "value": 80.03
       },
       {
         "rank": 13,
         "game": "rv-there-yet",
         "title": "RV There Yet?",
-        "value": 65.07
+        "value": 64.27
       },
       {
         "rank": 14,
-        "game": "risk-of-rain-2",
-        "title": "Risk of Rain 2",
-        "value": 51.83
+        "game": "satisfactory",
+        "title": "Satisfactory",
+        "value": 52.37
       },
       {
         "rank": 15,
-        "game": "satisfactory",
-        "title": "Satisfactory",
-        "value": 50.9
+        "game": "risk-of-rain-2",
+        "title": "Risk of Rain 2",
+        "value": 49.6
       },
       {
         "rank": 16,
         "game": "balatro",
         "title": "Balatro",
-        "value": 48.8
+        "value": 48.23
       },
       {
         "rank": 17,
         "game": "outer-wilds",
         "title": "Outer Wilds",
-        "value": 38
+        "value": 36.83
       },
       {
         "rank": 18,
         "game": "cuphead",
         "title": "Cuphead",
-        "value": 37.07
+        "value": 36.7
       },
       {
         "rank": 19,
         "game": "inscryption",
         "title": "Inscryption",
-        "value": 32.67
+        "value": 32.73
       },
       {
         "rank": 20,
-        "game": "mortal-shell-ii",
-        "title": "Mortal Shell II",
-        "value": 32.23
+        "game": "deep-rock-galactic",
+        "title": "Deep Rock Galactic",
+        "value": 32.47
       },
       {
         "rank": 21,
-        "game": "deep-rock-galactic",
-        "title": "Deep Rock Galactic",
-        "value": 32.03
+        "game": "mortal-shell-ii",
+        "title": "Mortal Shell II",
+        "value": 32.4
       },
       {
         "rank": 22,
         "game": "mycopunk",
         "title": "Mycopunk",
-        "value": 31.5
+        "value": 31.3
       },
       {
         "rank": 23,
         "game": "control-ultimate-edition",
         "title": "CONTROL Ultimate Edition",
-        "value": 31.1
+        "value": 30.17
       },
       {
         "rank": 24,
-        "game": "stray",
-        "title": "Stray",
-        "value": 29.47
+        "game": "9-kings",
+        "title": "9 Kings",
+        "value": 29
       },
       {
         "rank": 25,
-        "game": "slay-the-spire",
-        "title": "Slay the Spire",
-        "value": 27.8
+        "game": "stray",
+        "title": "Stray",
+        "value": 28.73
       }
     ],
     "mostRecent": [
       {
         "rank": 1,
+        "game": "9-kings",
+        "title": "9 Kings",
+        "value": "2026-11-12"
+      },
+      {
+        "rank": 2,
         "game": "faraway",
         "title": "Faraway",
         "value": "2026-11-05"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "game": "void-breaker",
         "title": "VOID/BREAKER",
         "value": "2026-11-04"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "game": "deadly-days-roadtrip",
         "title": "Deadly Days: Roadtrip",
         "value": "2026-10-29"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "game": "hokko-spaces",
         "title": "Hokko Spaces",
         "value": "2026-10-29"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "game": "virtue-and-a-sledgehammer",
         "title": "Virtue and a Sledgehammer",
         "value": "2026-10-27"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "game": "mycopunk",
         "title": "Mycopunk",
         "value": "2026-10-20"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "game": "star-trek-outposts-unknown",
         "title": "Star Trek: Outposts Unknown",
         "value": "2026-10-20"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "game": "castlevania-belmonts-curse",
         "title": "Castlevania: Belmont's Curse",
         "value": "2026-10-14"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "game": "silver-pines",
         "title": "Silver Pines",
         "value": "2026-10-08"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "game": "minecraft-dungeons-ii",
         "title": "Minecraft Dungeons II",
         "value": "2026-09-29"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "game": "control-resonant",
         "title": "CONTROL Resonant",
         "value": "2026-09-24"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "game": "silent-hill-townfall",
         "title": "SILENT HILL: Townfall",
         "value": "2026-09-23"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "game": "stick-it-to-the-stickman",
         "title": "Stick It to the Stickman",
         "value": "2026-09-23"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "game": "wardogs",
         "title": "WARDOGS",
         "value": "2026-09-10"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "game": "asgards-fall-viking-survivors",
         "title": "Asgard's Fall — Viking Survivors",
         "value": "2026-09-09"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "game": "valheim",
         "title": "Valheim",
         "value": "2026-09-09"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "game": "serious-sam-shatterverse",
         "title": "Serious Sam: Shatterverse",
         "value": "2026-08-31"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "game": "mortal-shell-ii",
         "title": "Mortal Shell II",
         "value": "2026-08-20"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "game": "hell-let-loose-vietnam",
         "title": "Hell Let Loose: Vietnam",
         "value": "2026-08-13"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "game": "big-walk",
         "title": "Big Walk",
         "value": "2026-08-04"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "game": "rogue-point",
         "title": "Rogue Point",
         "value": "2026-08-04"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "game": "d-topia",
         "title": "D-topia",
         "value": "2026-07-14"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "game": "dark-scrolls",
         "title": "Dark Scrolls",
         "value": "2026-06-22"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "game": "starseeker-astroneer-expeditions",
         "title": "STARSEEKER: Astroneer Expeditions",
         "value": "2026-06-11"
-      },
-      {
-        "rank": 25,
-        "game": "crashout-crew",
-        "title": "Crashout Crew",
-        "value": "2026-05-28"
       }
     ],
     "mostEstablished": [
@@ -941,7 +941,7 @@
       "gameCount": 3,
       "developedCount": 0,
       "publishedCount": 3,
-      "totalSteamReviews": 415769,
+      "totalSteamReviews": 415806,
       "averagePositivePercentage": 92.3,
       "weightedPositivePercentage": 93.5,
       "mostReviewedGame": "risk-of-rain-2",
@@ -1031,8 +1031,8 @@
       "developedCount": 1,
       "publishedCount": 0,
       "totalSteamReviews": 2166,
-      "averagePositivePercentage": 92.9,
-      "weightedPositivePercentage": 92.9,
+      "averagePositivePercentage": 92.8,
+      "weightedPositivePercentage": 92.8,
       "mostReviewedGame": "dropsy",
       "mostRecentRelease": "dropsy",
       "firstRelease": "dropsy",
@@ -1046,7 +1046,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3885,
+      "totalSteamReviews": 3884,
       "averagePositivePercentage": 66.7,
       "weightedPositivePercentage": 66.7,
       "mostReviewedGame": "ashen",
@@ -1092,7 +1092,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 37696,
+      "totalSteamReviews": 37715,
       "averagePositivePercentage": 85.8,
       "weightedPositivePercentage": 87.6,
       "mostReviewedGame": "deaths-door",
@@ -1108,7 +1108,7 @@
       "gameCount": 5,
       "developedCount": 3,
       "publishedCount": 4,
-      "totalSteamReviews": 416290,
+      "totalSteamReviews": 416421,
       "averagePositivePercentage": 89.5,
       "weightedPositivePercentage": 94.2,
       "mostReviewedGame": "peak",
@@ -1138,7 +1138,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 12012,
+      "totalSteamReviews": 12016,
       "averagePositivePercentage": 95.9,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "pikuniku",
@@ -1168,7 +1168,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3879,
+      "totalSteamReviews": 3880,
       "averagePositivePercentage": 89.8,
       "weightedPositivePercentage": 89.8,
       "mostReviewedGame": "serious-sam-classics-revolution",
@@ -1182,7 +1182,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2149,
+      "totalSteamReviews": 2150,
       "averagePositivePercentage": 82,
       "weightedPositivePercentage": 82,
       "mostReviewedGame": "amber-isle",
@@ -1196,7 +1196,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 21175,
+      "totalSteamReviews": 21179,
       "averagePositivePercentage": 97.8,
       "weightedPositivePercentage": 97.8,
       "mostReviewedGame": "neon-white",
@@ -1212,7 +1212,7 @@
       "gameCount": 45,
       "developedCount": 0,
       "publishedCount": 45,
-      "totalSteamReviews": 550002,
+      "totalSteamReviews": 550126,
       "averagePositivePercentage": 87.8,
       "weightedPositivePercentage": 94.4,
       "mostReviewedGame": "stray",
@@ -1229,7 +1229,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 12012,
+      "totalSteamReviews": 12016,
       "averagePositivePercentage": 95.9,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "pikuniku",
@@ -1245,9 +1245,9 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 1951,
-      "averagePositivePercentage": 91.9,
-      "weightedPositivePercentage": 92.8,
+      "totalSteamReviews": 1952,
+      "averagePositivePercentage": 91.8,
+      "weightedPositivePercentage": 92.7,
       "mostReviewedGame": "sumerian-six",
       "mostRecentRelease": "minos",
       "firstRelease": "sumerian-six",
@@ -1259,7 +1259,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 76616,
+      "totalSteamReviews": 76619,
       "averagePositivePercentage": 97.9,
       "weightedPositivePercentage": 97.9,
       "mostReviewedGame": "katana-zero",
@@ -1275,7 +1275,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 1728,
+      "totalSteamReviews": 1735,
       "averagePositivePercentage": 79,
       "weightedPositivePercentage": 79,
       "mostReviewedGame": "asgards-fall-viking-survivors",
@@ -1303,7 +1303,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3678,
+      "totalSteamReviews": 3679,
       "averagePositivePercentage": 92.1,
       "weightedPositivePercentage": 92.1,
       "mostReviewedGame": "die-in-the-dungeon",
@@ -1331,9 +1331,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1356,
-      "averagePositivePercentage": 82.7,
-      "weightedPositivePercentage": 82.7,
+      "totalSteamReviews": 1355,
+      "averagePositivePercentage": 82.8,
+      "weightedPositivePercentage": 82.8,
       "mostReviewedGame": "main-assembly",
       "mostRecentRelease": "main-assembly",
       "firstRelease": "main-assembly",
@@ -1363,9 +1363,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 272,
-      "averagePositivePercentage": 80.1,
-      "weightedPositivePercentage": 80.1,
+      "totalSteamReviews": 274,
+      "averagePositivePercentage": 80.3,
+      "weightedPositivePercentage": 80.3,
       "mostReviewedGame": "serious-sam-kamikaze-attack",
       "mostRecentRelease": "serious-sam-kamikaze-attack",
       "firstRelease": "serious-sam-kamikaze-attack",
@@ -1395,7 +1395,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 10999,
+      "totalSteamReviews": 11005,
       "averagePositivePercentage": 89.9,
       "weightedPositivePercentage": 88.6,
       "mostReviewedGame": "mixtape",
@@ -1409,9 +1409,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 847,
-      "averagePositivePercentage": 51.1,
-      "weightedPositivePercentage": 51.1,
+      "totalSteamReviews": 848,
+      "averagePositivePercentage": 51.2,
+      "weightedPositivePercentage": 51.2,
       "mostReviewedGame": "serious-sam-shatterverse",
       "mostRecentRelease": "serious-sam-shatterverse",
       "firstRelease": "serious-sam-shatterverse",
@@ -1423,7 +1423,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 12326,
+      "totalSteamReviews": 12325,
       "averagePositivePercentage": 92.2,
       "weightedPositivePercentage": 92.2,
       "mostReviewedGame": "donut-county",
@@ -1439,7 +1439,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 6918,
+      "totalSteamReviews": 6921,
       "averagePositivePercentage": 92.4,
       "weightedPositivePercentage": 92.9,
       "mostReviewedGame": "ape-out",
@@ -1531,8 +1531,8 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 60147,
-      "averagePositivePercentage": 82.6,
+      "totalSteamReviews": 60161,
+      "averagePositivePercentage": 82.5,
       "weightedPositivePercentage": 95.2,
       "mostReviewedGame": "dredge",
       "mostRecentRelease": "dredge-the-iron-rig",
@@ -1558,10 +1558,10 @@
       "engines": []
     },
     "blacklight-interactive": {
-      "gameCount": 1,
-      "developedCount": 1,
+      "gameCount": 2,
+      "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 76281,
+      "totalSteamReviews": 76293,
       "averagePositivePercentage": 87.2,
       "weightedPositivePercentage": 87.2,
       "mostReviewedGame": "golf-with-your-friends",
@@ -1591,7 +1591,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 180432,
+      "totalSteamReviews": 180448,
       "averagePositivePercentage": 97.2,
       "weightedPositivePercentage": 97.2,
       "mostReviewedGame": "stray",
@@ -1663,7 +1663,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 14295,
+      "totalSteamReviews": 14306,
       "averagePositivePercentage": 81.4,
       "weightedPositivePercentage": 81.4,
       "mostReviewedGame": "quarantine-zone-the-last-check",
@@ -1721,9 +1721,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 207317,
-      "averagePositivePercentage": 70.2,
-      "weightedPositivePercentage": 70.2,
+      "totalSteamReviews": 207851,
+      "averagePositivePercentage": 70.1,
+      "weightedPositivePercentage": 70.1,
       "mostReviewedGame": "wardogs",
       "mostRecentRelease": "wardogs",
       "firstRelease": "wardogs",
@@ -1765,7 +1765,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 21115,
+      "totalSteamReviews": 21118,
       "averagePositivePercentage": 97.5,
       "weightedPositivePercentage": 97.5,
       "mostReviewedGame": "gorogoa",
@@ -1781,7 +1781,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3226,
+      "totalSteamReviews": 3227,
       "averagePositivePercentage": 96.5,
       "weightedPositivePercentage": 96.5,
       "mostReviewedGame": "skate-story",
@@ -1795,7 +1795,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 12012,
+      "totalSteamReviews": 12016,
       "averagePositivePercentage": 95.9,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "pikuniku",
@@ -1811,7 +1811,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 1,
-      "totalSteamReviews": 100281,
+      "totalSteamReviews": 100282,
       "averagePositivePercentage": 90.6,
       "weightedPositivePercentage": 90.6,
       "mostReviewedGame": "firewatch",
@@ -1827,7 +1827,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2687,
+      "totalSteamReviews": 2691,
       "averagePositivePercentage": 90.2,
       "weightedPositivePercentage": 90.2,
       "mostReviewedGame": "conscript-directors-cut",
@@ -1871,7 +1871,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 9035,
+      "totalSteamReviews": 9038,
       "averagePositivePercentage": 87.3,
       "weightedPositivePercentage": 87.3,
       "mostReviewedGame": "terra-nil",
@@ -1903,7 +1903,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 8666,
+      "totalSteamReviews": 8667,
       "averagePositivePercentage": 96.2,
       "weightedPositivePercentage": 96.2,
       "mostReviewedGame": "thank-goodness-youre-here",
@@ -1963,7 +1963,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 17666,
+      "totalSteamReviews": 17703,
       "averagePositivePercentage": 93.4,
       "weightedPositivePercentage": 97.2,
       "mostReviewedGame": "goat-simulator-3",
@@ -1977,7 +1977,7 @@
       "gameCount": 23,
       "developedCount": 0,
       "publishedCount": 23,
-      "totalSteamReviews": 1398529,
+      "totalSteamReviews": 1398774,
       "averagePositivePercentage": 91.7,
       "weightedPositivePercentage": 94.8,
       "mostReviewedGame": "valheim",
@@ -1994,7 +1994,7 @@
       "gameCount": 7,
       "developedCount": 7,
       "publishedCount": 0,
-      "totalSteamReviews": 374097,
+      "totalSteamReviews": 374188,
       "averagePositivePercentage": 90.5,
       "weightedPositivePercentage": 95.6,
       "mostReviewedGame": "satisfactory",
@@ -2010,7 +2010,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 35230,
+      "totalSteamReviews": 35269,
       "averagePositivePercentage": 73.4,
       "weightedPositivePercentage": 75.2,
       "mostReviewedGame": "mortal-shell-ii",
@@ -2026,9 +2026,9 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 15446,
+      "totalSteamReviews": 15450,
       "averagePositivePercentage": 95.1,
-      "weightedPositivePercentage": 96.3,
+      "weightedPositivePercentage": 96.2,
       "mostReviewedGame": "the-case-of-the-golden-idol",
       "mostRecentRelease": "the-rise-of-the-golden-idol",
       "firstRelease": "the-case-of-the-golden-idol",
@@ -2070,9 +2070,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 555,
-      "averagePositivePercentage": 81.6,
-      "weightedPositivePercentage": 81.6,
+      "totalSteamReviews": 556,
+      "averagePositivePercentage": 81.5,
+      "weightedPositivePercentage": 81.5,
       "mostReviewedGame": "serious-sams-bogus-detour",
       "mostRecentRelease": "serious-sams-bogus-detour",
       "firstRelease": "serious-sams-bogus-detour",
@@ -2084,7 +2084,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2420,
+      "totalSteamReviews": 2421,
       "averagePositivePercentage": 87.2,
       "weightedPositivePercentage": 87.2,
       "mostReviewedGame": "goblin-cleanup",
@@ -2098,7 +2098,7 @@
       "gameCount": 28,
       "developedCount": 28,
       "publishedCount": 5,
-      "totalSteamReviews": 146188,
+      "totalSteamReviews": 146214,
       "averagePositivePercentage": 86.2,
       "weightedPositivePercentage": 90.5,
       "mostReviewedGame": "the-talos-principle",
@@ -2161,7 +2161,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3397,
+      "totalSteamReviews": 3398,
       "averagePositivePercentage": 68.9,
       "weightedPositivePercentage": 68.9,
       "mostReviewedGame": "sub-rosa",
@@ -2191,7 +2191,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 8125,
+      "totalSteamReviews": 8135,
       "averagePositivePercentage": 92.5,
       "weightedPositivePercentage": 92.5,
       "mostReviewedGame": "unbeatable",
@@ -2219,7 +2219,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1390,
+      "totalSteamReviews": 1391,
       "averagePositivePercentage": 95.2,
       "weightedPositivePercentage": 95.2,
       "mostReviewedGame": "boomerang-x",
@@ -2235,9 +2235,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 9379,
-      "averagePositivePercentage": 88.8,
-      "weightedPositivePercentage": 88.8,
+      "totalSteamReviews": 9422,
+      "averagePositivePercentage": 88.9,
+      "weightedPositivePercentage": 88.9,
       "mostReviewedGame": "storyteller",
       "mostRecentRelease": "storyteller",
       "firstRelease": "storyteller",
@@ -2249,7 +2249,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 150389,
+      "totalSteamReviews": 150418,
       "averagePositivePercentage": 96.8,
       "weightedPositivePercentage": 96.8,
       "mostReviewedGame": "inscryption",
@@ -2309,7 +2309,7 @@
       "gameCount": 5,
       "developedCount": 5,
       "publishedCount": 0,
-      "totalSteamReviews": 24579,
+      "totalSteamReviews": 24582,
       "averagePositivePercentage": 87,
       "weightedPositivePercentage": 90.5,
       "mostReviewedGame": "the-red-strings-club",
@@ -2325,7 +2325,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1300,
+      "totalSteamReviews": 1301,
       "averagePositivePercentage": 89.1,
       "weightedPositivePercentage": 89.1,
       "mostReviewedGame": "goat-simulator-remastered",
@@ -2353,7 +2353,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 211448,
+      "totalSteamReviews": 211494,
       "averagePositivePercentage": 95.4,
       "weightedPositivePercentage": 95.8,
       "mostReviewedGame": "hotline-miami",
@@ -2369,8 +2369,8 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 3035,
-      "averagePositivePercentage": 76.9,
+      "totalSteamReviews": 3036,
+      "averagePositivePercentage": 76.8,
       "weightedPositivePercentage": 78.8,
       "mostReviewedGame": "moving-out",
       "mostRecentRelease": "moving-out-2",
@@ -2382,10 +2382,10 @@
       ]
     },
     "devolver-digital": {
-      "gameCount": 149,
+      "gameCount": 150,
       "developedCount": 1,
-      "publishedCount": 149,
-      "totalSteamReviews": 1508269,
+      "publishedCount": 150,
+      "totalSteamReviews": 1508540,
       "averagePositivePercentage": 85.6,
       "weightedPositivePercentage": 93.2,
       "mostReviewedGame": "inscryption",
@@ -2450,7 +2450,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 90243,
+      "totalSteamReviews": 90248,
       "averagePositivePercentage": 95.1,
       "weightedPositivePercentage": 95.1,
       "mostReviewedGame": "enter-the-gungeon",
@@ -2466,7 +2466,7 @@
       "gameCount": 4,
       "developedCount": 4,
       "publishedCount": 0,
-      "totalSteamReviews": 7745,
+      "totalSteamReviews": 7747,
       "averagePositivePercentage": 82.1,
       "weightedPositivePercentage": 91.4,
       "mostReviewedGame": "gato-roboto",
@@ -2498,7 +2498,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 4830,
+      "totalSteamReviews": 4832,
       "averagePositivePercentage": 82.4,
       "weightedPositivePercentage": 82.4,
       "mostReviewedGame": "raccoin-coin-pusher-roguelike",
@@ -2530,7 +2530,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 8732,
+      "totalSteamReviews": 8731,
       "averagePositivePercentage": 86.4,
       "weightedPositivePercentage": 88.6,
       "mostReviewedGame": "sludge-life",
@@ -2546,9 +2546,9 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 32092,
+      "totalSteamReviews": 32114,
       "averagePositivePercentage": 76.6,
-      "weightedPositivePercentage": 80.5,
+      "weightedPositivePercentage": 80.4,
       "mostReviewedGame": "minecraft-dungeons",
       "mostRecentRelease": "minecraft-dungeons-ii",
       "firstRelease": "minecraft-dungeons",
@@ -2576,7 +2576,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 5499,
+      "totalSteamReviews": 5500,
       "averagePositivePercentage": 91.9,
       "weightedPositivePercentage": 93.8,
       "mostReviewedGame": "huntdown",
@@ -2622,7 +2622,7 @@
       "gameCount": 5,
       "developedCount": 5,
       "publishedCount": 0,
-      "totalSteamReviews": 17895,
+      "totalSteamReviews": 17927,
       "averagePositivePercentage": 89,
       "weightedPositivePercentage": 82,
       "mostReviewedGame": "castlevania-belmonts-curse",
@@ -2638,7 +2638,7 @@
       "gameCount": 2,
       "developedCount": 0,
       "publishedCount": 2,
-      "totalSteamReviews": 401840,
+      "totalSteamReviews": 401972,
       "averagePositivePercentage": 93.3,
       "weightedPositivePercentage": 94.4,
       "mostReviewedGame": "peak",
@@ -2654,7 +2654,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 163676,
+      "totalSteamReviews": 163693,
       "averagePositivePercentage": 71.7,
       "weightedPositivePercentage": 80.1,
       "mostReviewedGame": "hell-let-loose",
@@ -2700,7 +2700,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 6366,
+      "totalSteamReviews": 6367,
       "averagePositivePercentage": 81.9,
       "weightedPositivePercentage": 81.9,
       "mostReviewedGame": "ship-of-fools",
@@ -2744,7 +2744,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 37185,
+      "totalSteamReviews": 37187,
       "averagePositivePercentage": 75.7,
       "weightedPositivePercentage": 82.9,
       "mostReviewedGame": "shadow-warrior-2",
@@ -2760,7 +2760,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 5383,
+      "totalSteamReviews": 5384,
       "averagePositivePercentage": 84.8,
       "weightedPositivePercentage": 84.8,
       "mostReviewedGame": "divinity-ii-developers-cut",
@@ -2774,7 +2774,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 36678,
+      "totalSteamReviews": 36680,
       "averagePositivePercentage": 92.7,
       "weightedPositivePercentage": 92.7,
       "mostReviewedGame": "loop-hero",
@@ -2806,7 +2806,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 15713,
+      "totalSteamReviews": 15721,
       "averagePositivePercentage": 98.2,
       "weightedPositivePercentage": 98.2,
       "mostReviewedGame": "look-outside",
@@ -2836,7 +2836,7 @@
       "gameCount": 9,
       "developedCount": 9,
       "publishedCount": 0,
-      "totalSteamReviews": 122586,
+      "totalSteamReviews": 122593,
       "averagePositivePercentage": 92.5,
       "weightedPositivePercentage": 95.3,
       "mostReviewedGame": "broforce",
@@ -2852,7 +2852,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 1,
-      "totalSteamReviews": 16410,
+      "totalSteamReviews": 16415,
       "averagePositivePercentage": 93.8,
       "weightedPositivePercentage": 93.8,
       "mostReviewedGame": "mouse-p-i-for-hire",
@@ -2898,7 +2898,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3289,
+      "totalSteamReviews": 3290,
       "averagePositivePercentage": 83.2,
       "weightedPositivePercentage": 83.2,
       "mostReviewedGame": "nice-day-for-fishing",
@@ -2912,7 +2912,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 6918,
+      "totalSteamReviews": 6921,
       "averagePositivePercentage": 92.4,
       "weightedPositivePercentage": 92.9,
       "mostReviewedGame": "ape-out",
@@ -2928,7 +2928,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 4039,
+      "totalSteamReviews": 4038,
       "averagePositivePercentage": 80.2,
       "weightedPositivePercentage": 80.2,
       "mostReviewedGame": "wizard-with-a-gun",
@@ -2944,7 +2944,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 2738,
+      "totalSteamReviews": 2743,
       "averagePositivePercentage": 82.2,
       "weightedPositivePercentage": 82.2,
       "mostReviewedGame": "dwarves-glory-death-and-loot",
@@ -2958,7 +2958,7 @@
       "gameCount": 3,
       "developedCount": 0,
       "publishedCount": 3,
-      "totalSteamReviews": 415769,
+      "totalSteamReviews": 415806,
       "averagePositivePercentage": 92.3,
       "weightedPositivePercentage": 93.5,
       "mostReviewedGame": "risk-of-rain-2",
@@ -2975,7 +2975,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 3415,
+      "totalSteamReviews": 3416,
       "averagePositivePercentage": 83.8,
       "weightedPositivePercentage": 86.4,
       "mostReviewedGame": "marc-eckos-getting-up-contents-under-pressure",
@@ -2989,7 +2989,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 9308,
+      "totalSteamReviews": 9311,
       "averagePositivePercentage": 94.8,
       "weightedPositivePercentage": 94.8,
       "mostReviewedGame": "cocoon",
@@ -3003,7 +3003,7 @@
       "gameCount": 7,
       "developedCount": 7,
       "publishedCount": 0,
-      "totalSteamReviews": 385015,
+      "totalSteamReviews": 385047,
       "averagePositivePercentage": 95.5,
       "weightedPositivePercentage": 97.1,
       "mostReviewedGame": "deep-rock-galactic",
@@ -3019,7 +3019,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 110892,
+      "totalSteamReviews": 110913,
       "averagePositivePercentage": 84.3,
       "weightedPositivePercentage": 88.9,
       "mostReviewedGame": "overcooked-2",
@@ -3035,7 +3035,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 55802,
+      "totalSteamReviews": 55810,
       "averagePositivePercentage": 89.6,
       "weightedPositivePercentage": 95.1,
       "mostReviewedGame": "what-remains-of-edith-finch",
@@ -3051,7 +3051,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2271,
+      "totalSteamReviews": 2272,
       "averagePositivePercentage": 90.3,
       "weightedPositivePercentage": 90.3,
       "mostReviewedGame": "the-pathless",
@@ -3171,7 +3171,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2738,
+      "totalSteamReviews": 2743,
       "averagePositivePercentage": 82.2,
       "weightedPositivePercentage": 82.2,
       "mostReviewedGame": "dwarves-glory-death-and-loot",
@@ -3199,7 +3199,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 2420,
+      "totalSteamReviews": 2421,
       "averagePositivePercentage": 82.6,
       "weightedPositivePercentage": 84.5,
       "mostReviewedGame": "solar-ash",
@@ -3261,7 +3261,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 24435,
+      "totalSteamReviews": 24500,
       "averagePositivePercentage": 92.3,
       "weightedPositivePercentage": 92.3,
       "mostReviewedGame": "9-kings",
@@ -3275,7 +3275,7 @@
       "gameCount": 4,
       "developedCount": 4,
       "publishedCount": 1,
-      "totalSteamReviews": 421454,
+      "totalSteamReviews": 421491,
       "averagePositivePercentage": 93.2,
       "weightedPositivePercentage": 93.6,
       "mostReviewedGame": "risk-of-rain-2",
@@ -3306,7 +3306,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 75882,
+      "totalSteamReviews": 75972,
       "averagePositivePercentage": 95.1,
       "weightedPositivePercentage": 94.9,
       "mostReviewedGame": "big-walk",
@@ -3336,7 +3336,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 3678,
+      "totalSteamReviews": 3679,
       "averagePositivePercentage": 92.1,
       "weightedPositivePercentage": 92.1,
       "mostReviewedGame": "die-in-the-dungeon",
@@ -3378,7 +3378,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 565568,
+      "totalSteamReviews": 565650,
       "averagePositivePercentage": 93.4,
       "weightedPositivePercentage": 93.4,
       "mostReviewedGame": "valheim",
@@ -3394,7 +3394,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3333,
+      "totalSteamReviews": 3335,
       "averagePositivePercentage": 92.8,
       "weightedPositivePercentage": 92.8,
       "mostReviewedGame": "wanderstop",
@@ -3422,7 +3422,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3456,
+      "totalSteamReviews": 3457,
       "averagePositivePercentage": 91.4,
       "weightedPositivePercentage": 91.4,
       "mostReviewedGame": "spaceplan",
@@ -3436,7 +3436,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2687,
+      "totalSteamReviews": 2691,
       "averagePositivePercentage": 90.2,
       "weightedPositivePercentage": 90.2,
       "mostReviewedGame": "conscript-directors-cut",
@@ -3468,9 +3468,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1217,
-      "averagePositivePercentage": 94.2,
-      "weightedPositivePercentage": 94.2,
+      "totalSteamReviews": 1218,
+      "averagePositivePercentage": 94.3,
+      "weightedPositivePercentage": 94.3,
       "mostReviewedGame": "despelote",
       "mostRecentRelease": "despelote",
       "firstRelease": "despelote",
@@ -3499,9 +3499,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 28160,
-      "averagePositivePercentage": 95.2,
-      "weightedPositivePercentage": 95.2,
+      "totalSteamReviews": 28205,
+      "averagePositivePercentage": 95.1,
+      "weightedPositivePercentage": 95.1,
       "mostReviewedGame": "ball-x-pit",
       "mostRecentRelease": "ball-x-pit",
       "firstRelease": "ball-x-pit",
@@ -3560,7 +3560,7 @@
       "gameCount": 2,
       "developedCount": 1,
       "publishedCount": 2,
-      "totalSteamReviews": 19871,
+      "totalSteamReviews": 19908,
       "averagePositivePercentage": 74.2,
       "weightedPositivePercentage": 75.4,
       "mostReviewedGame": "castlevania-belmonts-curse",
@@ -3577,7 +3577,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 5810,
+      "totalSteamReviews": 5812,
       "averagePositivePercentage": 84.6,
       "weightedPositivePercentage": 84.6,
       "mostReviewedGame": "the-last-faith",
@@ -3593,7 +3593,7 @@
       "gameCount": 5,
       "developedCount": 4,
       "publishedCount": 3,
-      "totalSteamReviews": 402412,
+      "totalSteamReviews": 402442,
       "averagePositivePercentage": 93.1,
       "weightedPositivePercentage": 94,
       "mostReviewedGame": "totally-accurate-battle-simulator",
@@ -3609,7 +3609,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 125612,
+      "totalSteamReviews": 125605,
       "averagePositivePercentage": 93.5,
       "weightedPositivePercentage": 93.5,
       "mostReviewedGame": "stick-fight-the-game",
@@ -3623,7 +3623,7 @@
       "gameCount": 12,
       "developedCount": 12,
       "publishedCount": 9,
-      "totalSteamReviews": 1131682,
+      "totalSteamReviews": 1131784,
       "averagePositivePercentage": 83.6,
       "weightedPositivePercentage": 96.1,
       "mostReviewedGame": "baldurs-gate-3",
@@ -3637,9 +3637,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 13670,
-      "averagePositivePercentage": 85.6,
-      "weightedPositivePercentage": 85.6,
+      "totalSteamReviews": 13673,
+      "averagePositivePercentage": 85.5,
+      "weightedPositivePercentage": 85.5,
       "mostReviewedGame": "songs-of-conquest",
       "mostRecentRelease": "songs-of-conquest",
       "firstRelease": "songs-of-conquest",
@@ -3697,7 +3697,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3378,
+      "totalSteamReviews": 3381,
       "averagePositivePercentage": 88.6,
       "weightedPositivePercentage": 88.6,
       "mostReviewedGame": "lego-voyagers",
@@ -3711,7 +3711,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 201620,
+      "totalSteamReviews": 201653,
       "averagePositivePercentage": 97.8,
       "weightedPositivePercentage": 97.8,
       "mostReviewedGame": "balatro",
@@ -3741,7 +3741,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 8176,
+      "totalSteamReviews": 8177,
       "averagePositivePercentage": 73,
       "weightedPositivePercentage": 73,
       "mostReviewedGame": "twelve-minutes",
@@ -3829,7 +3829,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 132969,
+      "totalSteamReviews": 132992,
       "averagePositivePercentage": 94.5,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "cult-of-the-lamb",
@@ -3877,7 +3877,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 6918,
+      "totalSteamReviews": 6921,
       "averagePositivePercentage": 92.4,
       "weightedPositivePercentage": 92.9,
       "mostReviewedGame": "ape-out",
@@ -3907,7 +3907,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 2,
-      "totalSteamReviews": 431382,
+      "totalSteamReviews": 431715,
       "averagePositivePercentage": 79.8,
       "weightedPositivePercentage": 80.2,
       "mostReviewedGame": "slay-the-spire",
@@ -3952,7 +3952,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 117218,
+      "totalSteamReviews": 117243,
       "averagePositivePercentage": 92.9,
       "weightedPositivePercentage": 95.3,
       "mostReviewedGame": "outer-wilds",
@@ -3996,7 +3996,7 @@
       "gameCount": 17,
       "developedCount": 15,
       "publishedCount": 8,
-      "totalSteamReviews": 36801,
+      "totalSteamReviews": 36823,
       "averagePositivePercentage": 76.6,
       "weightedPositivePercentage": 78.7,
       "mostReviewedGame": "minecraft-dungeons",
@@ -4013,9 +4013,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 892,
-      "averagePositivePercentage": 82.2,
-      "weightedPositivePercentage": 82.2,
+      "totalSteamReviews": 893,
+      "averagePositivePercentage": 82.1,
+      "weightedPositivePercentage": 82.1,
       "mostReviewedGame": "serious-sam-double-d-xxl",
       "mostRecentRelease": "serious-sam-double-d-xxl",
       "firstRelease": "serious-sam-double-d-xxl",
@@ -4057,7 +4057,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 8680,
+      "totalSteamReviews": 8681,
       "averagePositivePercentage": 96.5,
       "weightedPositivePercentage": 96.5,
       "mostReviewedGame": "downwell",
@@ -4101,7 +4101,7 @@
       "gameCount": 10,
       "developedCount": 10,
       "publishedCount": 5,
-      "totalSteamReviews": 197786,
+      "totalSteamReviews": 197795,
       "averagePositivePercentage": 92.5,
       "weightedPositivePercentage": 96.5,
       "mostReviewedGame": "dead-cells",
@@ -4118,7 +4118,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 50223,
+      "totalSteamReviews": 50226,
       "averagePositivePercentage": 90.4,
       "weightedPositivePercentage": 90.4,
       "mostReviewedGame": "the-escapists-2",
@@ -4148,7 +4148,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 16662,
+      "totalSteamReviews": 16665,
       "averagePositivePercentage": 93.2,
       "weightedPositivePercentage": 93.2,
       "mostReviewedGame": "florence",
@@ -4192,7 +4192,7 @@
       "gameCount": 8,
       "developedCount": 8,
       "publishedCount": 0,
-      "totalSteamReviews": 14837,
+      "totalSteamReviews": 14839,
       "averagePositivePercentage": 78.2,
       "weightedPositivePercentage": 85.1,
       "mostReviewedGame": "reigns",
@@ -4266,7 +4266,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 448,
+      "totalSteamReviews": 450,
       "averagePositivePercentage": 95.3,
       "weightedPositivePercentage": 95.3,
       "mostReviewedGame": "blippo",
@@ -4280,7 +4280,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 108097,
+      "totalSteamReviews": 108106,
       "averagePositivePercentage": 94.8,
       "weightedPositivePercentage": 95.8,
       "mostReviewedGame": "gris",
@@ -4310,7 +4310,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 2,
-      "totalSteamReviews": 91617,
+      "totalSteamReviews": 91649,
       "averagePositivePercentage": 90.1,
       "weightedPositivePercentage": 90.1,
       "mostReviewedGame": "rv-there-yet",
@@ -4352,7 +4352,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 1,
-      "totalSteamReviews": 89492,
+      "totalSteamReviews": 89495,
       "averagePositivePercentage": 97.1,
       "weightedPositivePercentage": 97.1,
       "mostReviewedGame": "omori",
@@ -4440,9 +4440,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 10353,
-      "averagePositivePercentage": 81.8,
-      "weightedPositivePercentage": 81.8,
+      "totalSteamReviews": 10360,
+      "averagePositivePercentage": 81.7,
+      "weightedPositivePercentage": 81.7,
       "mostReviewedGame": "thymesia",
       "mostRecentRelease": "thymesia",
       "firstRelease": "thymesia",
@@ -4468,7 +4468,7 @@
       "gameCount": 30,
       "developedCount": 4,
       "publishedCount": 30,
-      "totalSteamReviews": 190448,
+      "totalSteamReviews": 190543,
       "averagePositivePercentage": 91.5,
       "weightedPositivePercentage": 92.7,
       "mostReviewedGame": "firewatch",
@@ -4498,7 +4498,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 36670,
+      "totalSteamReviews": 36676,
       "averagePositivePercentage": 94.4,
       "weightedPositivePercentage": 94.4,
       "mostReviewedGame": "carrion",
@@ -4514,9 +4514,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 5725,
-      "averagePositivePercentage": 88.3,
-      "weightedPositivePercentage": 88.3,
+      "totalSteamReviews": 5729,
+      "averagePositivePercentage": 88.4,
+      "weightedPositivePercentage": 88.4,
       "mostReviewedGame": "mycopunk",
       "mostRecentRelease": "mycopunk",
       "firstRelease": "mycopunk",
@@ -4544,9 +4544,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 3666,
-      "averagePositivePercentage": 87.6,
-      "weightedPositivePercentage": 87.6,
+      "totalSteamReviews": 3675,
+      "averagePositivePercentage": 87.7,
+      "weightedPositivePercentage": 87.7,
       "mostReviewedGame": "deadly-days-roadtrip",
       "mostRecentRelease": "deadly-days-roadtrip",
       "firstRelease": "deadly-days-roadtrip",
@@ -4588,7 +4588,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 16410,
+      "totalSteamReviews": 16415,
       "averagePositivePercentage": 93.8,
       "weightedPositivePercentage": 93.8,
       "mostReviewedGame": "mouse-p-i-for-hire",
@@ -4604,7 +4604,7 @@
       "gameCount": 19,
       "developedCount": 0,
       "publishedCount": 19,
-      "totalSteamReviews": 279899,
+      "totalSteamReviews": 280008,
       "averagePositivePercentage": 80.6,
       "weightedPositivePercentage": 93.9,
       "mostReviewedGame": "balatro",
@@ -4697,7 +4697,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 3,
-      "totalSteamReviews": 59047,
+      "totalSteamReviews": 59059,
       "averagePositivePercentage": 95.1,
       "weightedPositivePercentage": 94.7,
       "mostReviewedGame": "nine-sols",
@@ -4759,7 +4759,7 @@
       "gameCount": 17,
       "developedCount": 17,
       "publishedCount": 6,
-      "totalSteamReviews": 228329,
+      "totalSteamReviews": 228432,
       "averagePositivePercentage": 83.7,
       "weightedPositivePercentage": 87.5,
       "mostReviewedGame": "control-ultimate-edition",
@@ -4777,7 +4777,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 12012,
+      "totalSteamReviews": 12016,
       "averagePositivePercentage": 95.9,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "pikuniku",
@@ -4839,7 +4839,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 913,
+      "totalSteamReviews": 914,
       "averagePositivePercentage": 61.8,
       "weightedPositivePercentage": 61.8,
       "mostReviewedGame": "the-unliving",
@@ -4853,7 +4853,7 @@
       "gameCount": 2,
       "developedCount": 0,
       "publishedCount": 2,
-      "totalSteamReviews": 31085,
+      "totalSteamReviews": 31087,
       "averagePositivePercentage": 91.5,
       "weightedPositivePercentage": 91.4,
       "mostReviewedGame": "max-payne",
@@ -4897,7 +4897,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 13711,
+      "totalSteamReviews": 13712,
       "averagePositivePercentage": 84.5,
       "weightedPositivePercentage": 92.2,
       "mostReviewedGame": "the-messenger",
@@ -4913,7 +4913,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 24435,
+      "totalSteamReviews": 24500,
       "averagePositivePercentage": 92.3,
       "weightedPositivePercentage": 92.3,
       "mostReviewedGame": "9-kings",
@@ -4957,7 +4957,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 7959,
+      "totalSteamReviews": 7958,
       "averagePositivePercentage": 92.9,
       "weightedPositivePercentage": 92.9,
       "mostReviewedGame": "date-everything",
@@ -4971,7 +4971,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 18014,
+      "totalSteamReviews": 18021,
       "averagePositivePercentage": 78.2,
       "weightedPositivePercentage": 77.5,
       "mostReviewedGame": "silent-hill-townfall",
@@ -4988,9 +4988,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1217,
-      "averagePositivePercentage": 94.2,
-      "weightedPositivePercentage": 94.2,
+      "totalSteamReviews": 1218,
+      "averagePositivePercentage": 94.3,
+      "weightedPositivePercentage": 94.3,
       "mostReviewedGame": "despelote",
       "mostRecentRelease": "despelote",
       "firstRelease": "despelote",
@@ -5002,7 +5002,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 12012,
+      "totalSteamReviews": 12016,
       "averagePositivePercentage": 95.9,
       "weightedPositivePercentage": 95.9,
       "mostReviewedGame": "pikuniku",
@@ -5046,7 +5046,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 467,
+      "totalSteamReviews": 471,
       "averagePositivePercentage": 98.7,
       "weightedPositivePercentage": 98.7,
       "mostReviewedGame": "virtue-and-a-sledgehammer",
@@ -5060,7 +5060,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 2,
-      "totalSteamReviews": 442050,
+      "totalSteamReviews": 442240,
       "averagePositivePercentage": 96.3,
       "weightedPositivePercentage": 96,
       "mostReviewedGame": "r-e-p-o",
@@ -5118,11 +5118,11 @@
       "gameCount": 7,
       "developedCount": 0,
       "publishedCount": 7,
-      "totalSteamReviews": 42530,
+      "totalSteamReviews": 42617,
       "averagePositivePercentage": 84.8,
       "weightedPositivePercentage": 88.5,
       "mostReviewedGame": "9-kings",
-      "mostRecentRelease": "deadly-days-roadtrip",
+      "mostRecentRelease": "9-kings",
       "firstRelease": "terrascape",
       "technologyCount": 0,
       "engineCount": 0,
@@ -5132,7 +5132,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 12369,
+      "totalSteamReviews": 12371,
       "averagePositivePercentage": 95.2,
       "weightedPositivePercentage": 95.8,
       "mostReviewedGame": "sayonara-wild-hearts",
@@ -5190,7 +5190,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 14848,
+      "totalSteamReviews": 14847,
       "averagePositivePercentage": 72.6,
       "weightedPositivePercentage": 72.6,
       "mostReviewedGame": "absolver",
@@ -5206,7 +5206,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 21478,
+      "totalSteamReviews": 21482,
       "averagePositivePercentage": 66.9,
       "weightedPositivePercentage": 66.9,
       "mostReviewedGame": "marauders",
@@ -5222,8 +5222,8 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 3035,
-      "averagePositivePercentage": 76.9,
+      "totalSteamReviews": 3036,
+      "averagePositivePercentage": 76.8,
       "weightedPositivePercentage": 78.8,
       "mostReviewedGame": "moving-out",
       "mostRecentRelease": "moving-out-2",
@@ -5254,7 +5254,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1955,
+      "totalSteamReviews": 1956,
       "averagePositivePercentage": 72.2,
       "weightedPositivePercentage": 72.2,
       "mostReviewedGame": "honey-i-joined-a-cult",
@@ -5312,7 +5312,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1728,
+      "totalSteamReviews": 1735,
       "averagePositivePercentage": 79,
       "weightedPositivePercentage": 79,
       "mostReviewedGame": "asgards-fall-viking-survivors",
@@ -5382,9 +5382,9 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 7933,
+      "totalSteamReviews": 7952,
       "averagePositivePercentage": 89.8,
-      "weightedPositivePercentage": 89.7,
+      "weightedPositivePercentage": 89.6,
       "mostReviewedGame": "the-entropy-centre",
       "mostRecentRelease": "void-breaker",
       "firstRelease": "the-entropy-centre",
@@ -5396,7 +5396,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 1867,
+      "totalSteamReviews": 1868,
       "averagePositivePercentage": 77.8,
       "weightedPositivePercentage": 77.8,
       "mostReviewedGame": "narita-boy",
@@ -5412,7 +5412,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 2,
-      "totalSteamReviews": 229281,
+      "totalSteamReviews": 229311,
       "averagePositivePercentage": 95.4,
       "weightedPositivePercentage": 96.1,
       "mostReviewedGame": "cuphead",
@@ -5442,7 +5442,7 @@
       "gameCount": 5,
       "developedCount": 5,
       "publishedCount": 5,
-      "totalSteamReviews": 514939,
+      "totalSteamReviews": 514981,
       "averagePositivePercentage": 94.7,
       "weightedPositivePercentage": 96.8,
       "mostReviewedGame": "hades",
@@ -5503,7 +5503,7 @@
       "gameCount": 7,
       "developedCount": 7,
       "publishedCount": 2,
-      "totalSteamReviews": 997394,
+      "totalSteamReviews": 997542,
       "averagePositivePercentage": 93.3,
       "weightedPositivePercentage": 93.8,
       "mostReviewedGame": "hollow-knight",
@@ -5549,7 +5549,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 387200,
+      "totalSteamReviews": 387328,
       "averagePositivePercentage": 94.4,
       "weightedPositivePercentage": 94.4,
       "mostReviewedGame": "peak",
@@ -5565,7 +5565,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2236,
+      "totalSteamReviews": 2237,
       "averagePositivePercentage": 81.2,
       "weightedPositivePercentage": 81.2,
       "mostReviewedGame": "phantom-abyss",
@@ -5579,7 +5579,7 @@
       "gameCount": 148,
       "developedCount": 60,
       "publishedCount": 124,
-      "totalSteamReviews": 1032955,
+      "totalSteamReviews": 1033666,
       "averagePositivePercentage": 76,
       "weightedPositivePercentage": 82.3,
       "mostReviewedGame": "wardogs",
@@ -5599,7 +5599,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 448,
+      "totalSteamReviews": 450,
       "averagePositivePercentage": 95.3,
       "weightedPositivePercentage": 95.3,
       "mostReviewedGame": "blippo",
@@ -5614,8 +5614,8 @@
       "developedCount": 1,
       "publishedCount": 0,
       "totalSteamReviews": 2166,
-      "averagePositivePercentage": 92.9,
-      "weightedPositivePercentage": 92.9,
+      "averagePositivePercentage": 92.8,
+      "weightedPositivePercentage": 92.8,
       "mostReviewedGame": "dropsy",
       "mostRecentRelease": "dropsy",
       "firstRelease": "dropsy",
@@ -5645,7 +5645,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 8732,
+      "totalSteamReviews": 8731,
       "averagePositivePercentage": 86.4,
       "weightedPositivePercentage": 88.6,
       "mostReviewedGame": "sludge-life",
@@ -5717,7 +5717,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 2551,
+      "totalSteamReviews": 2552,
       "averagePositivePercentage": 89.1,
       "weightedPositivePercentage": 89.1,
       "mostReviewedGame": "marc-eckos-getting-up-contents-under-pressure",
@@ -5731,7 +5731,7 @@
       "gameCount": 3,
       "developedCount": 3,
       "publishedCount": 0,
-      "totalSteamReviews": 92295,
+      "totalSteamReviews": 92309,
       "averagePositivePercentage": 77.6,
       "weightedPositivePercentage": 89.6,
       "mostReviewedGame": "blasphemous",
@@ -5835,7 +5835,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 5340,
+      "totalSteamReviews": 5341,
       "averagePositivePercentage": 92,
       "weightedPositivePercentage": 92,
       "mostReviewedGame": "serious-sam-siberian-mayhem",
@@ -5849,7 +5849,7 @@
       "gameCount": 1,
       "developedCount": 0,
       "publishedCount": 1,
-      "totalSteamReviews": 18711,
+      "totalSteamReviews": 18713,
       "averagePositivePercentage": 93.6,
       "weightedPositivePercentage": 93.6,
       "mostReviewedGame": "clustertruck",
@@ -5879,7 +5879,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 20184,
+      "totalSteamReviews": 20196,
       "averagePositivePercentage": 92.7,
       "weightedPositivePercentage": 92.7,
       "mostReviewedGame": "trepang2",
@@ -5907,7 +5907,7 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 8544,
+      "totalSteamReviews": 8545,
       "averagePositivePercentage": 63.6,
       "weightedPositivePercentage": 72.3,
       "mostReviewedGame": "sheltered",
@@ -5969,7 +5969,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 1,
-      "totalSteamReviews": 23653,
+      "totalSteamReviews": 23654,
       "averagePositivePercentage": 85.8,
       "weightedPositivePercentage": 85.8,
       "mostReviewedGame": "neon-abyss",
@@ -6043,8 +6043,8 @@
       "gameCount": 2,
       "developedCount": 2,
       "publishedCount": 0,
-      "totalSteamReviews": 5365,
-      "averagePositivePercentage": 69.5,
+      "totalSteamReviews": 5366,
+      "averagePositivePercentage": 69.6,
       "weightedPositivePercentage": 84,
       "mostReviewedGame": "luftrausers",
       "mostRecentRelease": "luftrausers",
@@ -6102,7 +6102,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 4524,
+      "totalSteamReviews": 4525,
       "averagePositivePercentage": 78.6,
       "weightedPositivePercentage": 78.6,
       "mostReviewedGame": "weird-west-definitive-edition",
@@ -6146,9 +6146,9 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 7239,
-      "averagePositivePercentage": 95.8,
-      "weightedPositivePercentage": 95.8,
+      "totalSteamReviews": 7293,
+      "averagePositivePercentage": 95.7,
+      "weightedPositivePercentage": 95.7,
       "mostReviewedGame": "silver-pines",
       "mostRecentRelease": "silver-pines",
       "firstRelease": "silver-pines",
@@ -6160,7 +6160,7 @@
       "gameCount": 11,
       "developedCount": 2,
       "publishedCount": 10,
-      "totalSteamReviews": 66401,
+      "totalSteamReviews": 66427,
       "averagePositivePercentage": 74.2,
       "weightedPositivePercentage": 82,
       "mostReviewedGame": "quantum-break",
@@ -6177,7 +6177,7 @@
       "gameCount": 1,
       "developedCount": 1,
       "publishedCount": 0,
-      "totalSteamReviews": 448,
+      "totalSteamReviews": 450,
       "averagePositivePercentage": 95.3,
       "weightedPositivePercentage": 95.3,
       "mostReviewedGame": "blippo",
@@ -6191,7 +6191,7 @@
       "gameCount": 9,
       "developedCount": 8,
       "publishedCount": 9,
-      "totalSteamReviews": 31068,
+      "totalSteamReviews": 31075,
       "averagePositivePercentage": 88.9,
       "weightedPositivePercentage": 91.8,
       "mostReviewedGame": "shovel-knight-treasure-trove",
@@ -6236,17 +6236,17 @@
   "publishers": {
     "2k": {
       "gamesPublished": 3,
-      "totalReviews": 415769,
+      "totalReviews": 415806,
       "mostReviewedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 357100
+          "value": 357138
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 29849
+          "value": 29848
         },
         {
           "id": "risk-of-rain-returns",
@@ -6317,17 +6317,17 @@
     },
     "aggro-crab": {
       "gamesPublished": 4,
-      "totalReviews": 412084,
+      "totalReviews": 412215,
       "mostReviewedGames": [
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 387200
+          "value": 387328
         },
         {
           "id": "another-crabs-treasure",
           "title": "Another Crab's Treasure",
-          "value": 22280
+          "value": 22283
         },
         {
           "id": "subway-midnight",
@@ -6361,22 +6361,22 @@
     },
     "annapurna-interactive": {
       "gamesPublished": 45,
-      "totalReviews": 550002,
+      "totalReviews": 550126,
       "mostReviewedGames": [
         {
           "id": "stray",
           "title": "Stray",
-          "value": 180432
+          "value": 180448
         },
         {
           "id": "outer-wilds",
           "title": "Outer Wilds",
-          "value": 110607
+          "value": 110628
         },
         {
           "id": "what-remains-of-edith-finch",
           "title": "What Remains of Edith Finch",
-          "value": 53748
+          "value": 53756
         },
         {
           "id": "journey",
@@ -6386,32 +6386,32 @@
         {
           "id": "neon-white",
           "title": "Neon White",
-          "value": 21175
+          "value": 21179
         },
         {
           "id": "gorogoa",
           "title": "Gorogoa",
-          "value": 21115
+          "value": 21118
         },
         {
           "id": "florence",
           "title": "Florence",
-          "value": 16662
+          "value": 16665
         },
         {
           "id": "donut-county",
           "title": "Donut County",
-          "value": 12326
+          "value": 12325
         },
         {
           "id": "storyteller",
           "title": "Storyteller",
-          "value": 9379
+          "value": 9422
         },
         {
           "id": "cocoon",
           "title": "COCOON",
-          "value": 9308
+          "value": 9311
         }
       ],
       "developersWorkedWith": [
@@ -6532,12 +6532,12 @@
     },
     "assemble-entertainment": {
       "gamesPublished": 1,
-      "totalReviews": 1728,
+      "totalReviews": 1735,
       "mostReviewedGames": [
         {
           "id": "asgards-fall-viking-survivors",
           "title": "Asgard's Fall — Viking Survivors",
-          "value": 1728
+          "value": 1735
         }
       ],
       "developersWorkedWith": [
@@ -6583,12 +6583,12 @@
     },
     "campo-santo": {
       "gamesPublished": 1,
-      "totalReviews": 100281,
+      "totalReviews": 100282,
       "mostReviewedGames": [
         {
           "id": "firewatch",
           "title": "Firewatch",
-          "value": 100281
+          "value": 100282
         }
       ],
       "developersWorkedWith": [],
@@ -6616,27 +6616,27 @@
     },
     "coffee-stain-publishing": {
       "gamesPublished": 23,
-      "totalReviews": 1398529,
+      "totalReviews": 1398774,
       "mostReviewedGames": [
         {
           "id": "valheim",
           "title": "Valheim",
-          "value": 565568
+          "value": 565650
         },
         {
           "id": "deep-rock-galactic",
           "title": "Deep Rock Galactic",
-          "value": 382020
+          "value": 382052
         },
         {
           "id": "satisfactory",
           "title": "Satisfactory",
-          "value": 282988
+          "value": 283071
         },
         {
           "id": "goat-simulator",
           "title": "Goat Simulator",
-          "value": 70463
+          "value": 70469
         },
         {
           "id": "a-story-about-my-uncle",
@@ -6646,17 +6646,17 @@
         {
           "id": "goat-simulator-3",
           "title": "Goat Simulator 3",
-          "value": 16366
+          "value": 16402
         },
         {
           "id": "sanctum-2",
           "title": "Sanctum 2",
-          "value": 14394
+          "value": 14395
         },
         {
           "id": "songs-of-conquest",
           "title": "Songs of Conquest",
-          "value": 13670
+          "value": 13673
         },
         {
           "id": "midnight-ghost-hunt",
@@ -6666,7 +6666,7 @@
         {
           "id": "huntdown",
           "title": "HUNTDOWN",
-          "value": 4498
+          "value": 4499
         }
       ],
       "developersWorkedWith": [
@@ -6733,12 +6733,12 @@
     },
     "croteam": {
       "gamesPublished": 5,
-      "totalReviews": 41391,
+      "totalReviews": 41393,
       "mostReviewedGames": [
         {
           "id": "the-talos-principle",
           "title": "The Talos Principle",
-          "value": 33251
+          "value": 33252
         },
         {
           "id": "serious-sam-fusion-2017-beta",
@@ -6748,7 +6748,7 @@
         {
           "id": "serious-sam-vr-the-last-hope",
           "title": "Serious Sam VR: The Last Hope",
-          "value": 1440
+          "value": 1441
         },
         {
           "id": "serious-sam-vr-the-first-encounter",
@@ -6800,43 +6800,43 @@
       }
     },
     "devolver-digital": {
-      "gamesPublished": 149,
-      "totalReviews": 1508269,
+      "gamesPublished": 150,
+      "totalReviews": 1508540,
       "mostReviewedGames": [
         {
           "id": "inscryption",
           "title": "Inscryption",
-          "value": 150389
+          "value": 150418
         },
         {
           "id": "cult-of-the-lamb",
           "title": "Cult of the Lamb",
-          "value": 131583
+          "value": 131606
         },
         {
           "id": "hotline-miami",
           "title": "Hotline Miami",
-          "value": 130012
+          "value": 130037
         },
         {
           "id": "gris",
           "title": "GRIS",
-          "value": 97071
+          "value": 97079
         },
         {
           "id": "enter-the-gungeon",
           "title": "Enter the Gungeon",
-          "value": 90243
+          "value": 90248
         },
         {
           "id": "hotline-miami-2-wrong-number",
           "title": "Hotline Miami 2: Wrong Number",
-          "value": 81436
+          "value": 81457
         },
         {
           "id": "katana-zero",
           "title": "Katana ZERO",
-          "value": 76616
+          "value": 76619
         },
         {
           "id": "broforce",
@@ -6846,12 +6846,12 @@
         {
           "id": "loop-hero",
           "title": "Loop Hero",
-          "value": 36678
+          "value": 36680
         },
         {
           "id": "carrion",
           "title": "CARRION",
-          "value": 36670
+          "value": 36676
         }
       ],
       "developersWorkedWith": [
@@ -6868,6 +6868,7 @@
         "behaviour-interactive-inc",
         "bennett-foddy",
         "binx-games",
+        "blacklight-interactive",
         "bone-assembly",
         "brigada-games",
         "buddy-cops-llc",
@@ -7139,6 +7140,7 @@
           "virtue-and-a-sledgehammer"
         ],
         "2027": [
+          "all-army-attack",
           "hyperdrop-a-pachinko-roguelite",
           "pikuniku-2",
           "tenjutsu",
@@ -7187,17 +7189,17 @@
     },
     "evil-landfall": {
       "gamesPublished": 2,
-      "totalReviews": 401840,
+      "totalReviews": 401972,
       "mostReviewedGames": [
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 387200
+          "value": 387328
         },
         {
           "id": "haste",
           "title": "Haste",
-          "value": 14640
+          "value": 14644
         }
       ],
       "developersWorkedWith": [
@@ -7213,12 +7215,12 @@
     },
     "focus-home-interactive": {
       "gamesPublished": 1,
-      "totalReviews": 5383,
+      "totalReviews": 5384,
       "mostReviewedGames": [
         {
           "id": "divinity-ii-developers-cut",
           "title": "Divinity II: Developer's Cut",
-          "value": 5383
+          "value": 5384
         }
       ],
       "developersWorkedWith": [
@@ -7245,12 +7247,12 @@
     },
     "gamersky-games": {
       "gamesPublished": 1,
-      "totalReviews": 2738,
+      "totalReviews": 2743,
       "mostReviewedGames": [
         {
           "id": "dwarves-glory-death-and-loot",
           "title": "Dwarves: Glory, Death and Loot",
-          "value": 2738
+          "value": 2743
         }
       ],
       "developersWorkedWith": [
@@ -7264,17 +7266,17 @@
     },
     "gearbox-publishing": {
       "gamesPublished": 3,
-      "totalReviews": 415769,
+      "totalReviews": 415806,
       "mostReviewedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 357100
+          "value": 357138
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 29849
+          "value": 29848
         },
         {
           "id": "risk-of-rain-returns",
@@ -7315,19 +7317,19 @@
     },
     "hooded-horse": {
       "gamesPublished": 1,
-      "totalReviews": 24435,
+      "totalReviews": 24500,
       "mostReviewedGames": [
         {
           "id": "9-kings",
           "title": "9 Kings",
-          "value": 24435
+          "value": 24500
         }
       ],
       "developersWorkedWith": [
         "sad-socket"
       ],
       "releaseTimeline": {
-        "2025": [
+        "2026": [
           "9-kings"
         ]
       }
@@ -7363,12 +7365,12 @@
     },
     "hypetrain-digital": {
       "gamesPublished": 1,
-      "totalReviews": 3678,
+      "totalReviews": 3679,
       "mostReviewedGames": [
         {
           "id": "die-in-the-dungeon",
           "title": "Die in the Dungeon",
-          "value": 3678
+          "value": 3679
         }
       ],
       "developersWorkedWith": [
@@ -7401,17 +7403,17 @@
     },
     "konami": {
       "gamesPublished": 2,
-      "totalReviews": 19871,
+      "totalReviews": 19908,
       "mostReviewedGames": [
         {
           "id": "castlevania-belmonts-curse",
           "title": "Castlevania: Belmont's Curse",
-          "value": 12788
+          "value": 12820
         },
         {
           "id": "silent-hill-townfall",
           "title": "SILENT HILL: Townfall",
-          "value": 7083
+          "value": 7088
         }
       ],
       "developersWorkedWith": [
@@ -7427,22 +7429,22 @@
     },
     "landfall": {
       "gamesPublished": 3,
-      "totalReviews": 369061,
+      "totalReviews": 369085,
       "mostReviewedGames": [
         {
           "id": "totally-accurate-battle-simulator",
           "title": "Totally Accurate Battle Simulator",
-          "value": 155696
+          "value": 155720
         },
         {
           "id": "stick-fight-the-game",
           "title": "Stick Fight: The Game",
-          "value": 125612
+          "value": 125605
         },
         {
           "id": "totally-accurate-battlegrounds",
           "title": "Totally Accurate Battlegrounds",
-          "value": 87753
+          "value": 87760
         }
       ],
       "developersWorkedWith": [
@@ -7462,22 +7464,22 @@
     },
     "larian-studios": {
       "gamesPublished": 9,
-      "totalReviews": 1131682,
+      "totalReviews": 1131784,
       "mostReviewedGames": [
         {
           "id": "baldurs-gate-3",
           "title": "Baldur's Gate 3",
-          "value": 865772
+          "value": 865855
         },
         {
           "id": "divinity-original-sin-2-definitive-edition",
           "title": "Divinity: Original Sin 2 - Definitive Edition",
-          "value": 207479
+          "value": 207494
         },
         {
           "id": "divinity-original-sin-enhanced-edition",
           "title": "Divinity: Original Sin - Enhanced Edition",
-          "value": 33556
+          "value": 33558
         },
         {
           "id": "divinity-original-sin-classic",
@@ -7487,12 +7489,12 @@
         {
           "id": "divinity-ii-developers-cut",
           "title": "Divinity II: Developer's Cut",
-          "value": 5383
+          "value": 5384
         },
         {
           "id": "divine-divinity",
           "title": "Divine Divinity",
-          "value": 4100
+          "value": 4099
         },
         {
           "id": "divinity-dragon-commander",
@@ -7502,7 +7504,7 @@
         {
           "id": "beyond-divinity",
           "title": "Beyond Divinity",
-          "value": 904
+          "value": 906
         }
       ],
       "developersWorkedWith": [],
@@ -7547,17 +7549,17 @@
     },
     "mega-crit": {
       "gamesPublished": 2,
-      "totalReviews": 431382,
+      "totalReviews": 431715,
       "mostReviewedGames": [
         {
           "id": "slay-the-spire",
           "title": "Slay the Spire",
-          "value": 220392
+          "value": 220418
         },
         {
           "id": "slay-the-spire-2",
           "title": "Slay the Spire 2",
-          "value": 210990
+          "value": 211297
         }
       ],
       "developersWorkedWith": [],
@@ -7639,12 +7641,12 @@
     },
     "motion-twin": {
       "gamesPublished": 5,
-      "totalReviews": 197786,
+      "totalReviews": 197795,
       "mostReviewedGames": [
         {
           "id": "dead-cells",
           "title": "Dead Cells",
-          "value": 185228
+          "value": 185237
         },
         {
           "id": "windblown",
@@ -7734,12 +7736,12 @@
     },
     "nuggets-entertainment": {
       "gamesPublished": 2,
-      "totalReviews": 91617,
+      "totalReviews": 91649,
       "mostReviewedGames": [
         {
           "id": "rv-there-yet",
           "title": "RV There Yet?",
-          "value": 91617
+          "value": 91649
         }
       ],
       "developersWorkedWith": [],
@@ -7774,12 +7776,12 @@
     },
     "omocat": {
       "gamesPublished": 1,
-      "totalReviews": 89492,
+      "totalReviews": 89495,
       "mostReviewedGames": [
         {
           "id": "omori",
           "title": "OMORI",
-          "value": 89492
+          "value": 89495
         }
       ],
       "developersWorkedWith": [],
@@ -7791,27 +7793,27 @@
     },
     "panic": {
       "gamesPublished": 30,
-      "totalReviews": 190448,
+      "totalReviews": 190543,
       "mostReviewedGames": [
         {
           "id": "firewatch",
           "title": "Firewatch",
-          "value": 100281
+          "value": 100282
         },
         {
           "id": "big-walk",
           "title": "Big Walk",
-          "value": 50363
+          "value": 50451
         },
         {
           "id": "untitled-goose-game",
           "title": "Untitled Goose Game",
-          "value": 25519
+          "value": 25521
         },
         {
           "id": "thank-goodness-youre-here",
           "title": "Thank Goodness You're Here!",
-          "value": 8666
+          "value": 8667
         },
         {
           "id": "arco",
@@ -7821,7 +7823,7 @@
         {
           "id": "despelote",
           "title": "despelote",
-          "value": 1217
+          "value": 1218
         },
         {
           "id": "herdling",
@@ -7831,7 +7833,7 @@
         {
           "id": "blippo",
           "title": "Blippo+",
-          "value": 448
+          "value": 450
         },
         {
           "id": "time-flies",
@@ -7926,12 +7928,12 @@
     },
     "playside": {
       "gamesPublished": 1,
-      "totalReviews": 16410,
+      "totalReviews": 16415,
       "mostReviewedGames": [
         {
           "id": "mouse-p-i-for-hire",
           "title": "MOUSE: P.I. For Hire",
-          "value": 16410
+          "value": 16415
         }
       ],
       "developersWorkedWith": [
@@ -7945,57 +7947,57 @@
     },
     "playstack": {
       "gamesPublished": 19,
-      "totalReviews": 279899,
+      "totalReviews": 280008,
       "mostReviewedGames": [
         {
           "id": "balatro",
           "title": "Balatro",
-          "value": 201620
+          "value": 201653
         },
         {
           "id": "mortal-shell-ii",
           "title": "Mortal Shell II",
-          "value": 23064
+          "value": 23100
         },
         {
           "id": "mortal-shell",
           "title": "Mortal Shell",
-          "value": 12166
+          "value": 12169
         },
         {
           "id": "the-case-of-the-golden-idol",
           "title": "The Case of the Golden Idol",
-          "value": 11212
+          "value": 11214
         },
         {
           "id": "unbeatable",
           "title": "UNBEATABLE",
-          "value": 8125
+          "value": 8135
         },
         {
           "id": "the-last-faith",
           "title": "The Last Faith",
-          "value": 5810
+          "value": 5812
         },
         {
           "id": "raccoin-coin-pusher-roguelike",
           "title": "RACCOIN: Coin Pusher Roguelike",
-          "value": 4830
+          "value": 4832
         },
         {
           "id": "the-entropy-centre",
           "title": "The Entropy Centre",
-          "value": 4517
+          "value": 4519
         },
         {
           "id": "the-rise-of-the-golden-idol",
           "title": "The Rise of the Golden Idol",
-          "value": 4234
+          "value": 4236
         },
         {
           "id": "void-breaker",
           "title": "VOID/BREAKER",
-          "value": 3416
+          "value": 3433
         }
       ],
       "developersWorkedWith": [
@@ -8073,17 +8075,17 @@
     },
     "red-candle-games": {
       "gamesPublished": 3,
-      "totalReviews": 59047,
+      "totalReviews": 59059,
       "mostReviewedGames": [
         {
           "id": "nine-sols",
           "title": "Nine Sols",
-          "value": 47126
+          "value": 47137
         },
         {
           "id": "detention",
           "title": "Detention",
-          "value": 11921
+          "value": 11922
         }
       ],
       "developersWorkedWith": [],
@@ -8101,27 +8103,27 @@
     },
     "remedy-entertainment": {
       "gamesPublished": 6,
-      "totalReviews": 164935,
+      "totalReviews": 165032,
       "mostReviewedGames": [
         {
           "id": "control-ultimate-edition",
           "title": "CONTROL Ultimate Edition",
-          "value": 67286
+          "value": 67307
         },
         {
           "id": "alan-wake",
           "title": "Alan Wake",
-          "value": 61022
+          "value": 61037
         },
         {
           "id": "control-resonant",
           "title": "CONTROL Resonant",
-          "value": 22245
+          "value": 22304
         },
         {
           "id": "alan-wakes-american-nightmare",
           "title": "Alan Wake's American Nightmare",
-          "value": 11087
+          "value": 11089
         },
         {
           "id": "fbc-firebreak",
@@ -8157,7 +8159,7 @@
     },
     "rockstar-games": {
       "gamesPublished": 2,
-      "totalReviews": 31085,
+      "totalReviews": 31087,
       "mostReviewedGames": [
         {
           "id": "max-payne",
@@ -8167,7 +8169,7 @@
         {
           "id": "max-payne-2-the-fall-of-max-payne",
           "title": "Max Payne 2: The Fall of Max Payne",
-          "value": 15060
+          "value": 15062
         }
       ],
       "developersWorkedWith": [
@@ -8197,17 +8199,17 @@
     },
     "semiwork": {
       "gamesPublished": 2,
-      "totalReviews": 442050,
+      "totalReviews": 442240,
       "mostReviewedGames": [
         {
           "id": "r-e-p-o",
           "title": "R.E.P.O.",
-          "value": 437087
+          "value": 437275
         },
         {
           "id": "voidigo",
           "title": "Voidigo",
-          "value": 4963
+          "value": 4965
         }
       ],
       "developersWorkedWith": [],
@@ -8222,12 +8224,12 @@
     },
     "sidekick-publishing": {
       "gamesPublished": 7,
-      "totalReviews": 42530,
+      "totalReviews": 42617,
       "mostReviewedGames": [
         {
           "id": "9-kings",
           "title": "9 Kings",
-          "value": 24435
+          "value": 24500
         },
         {
           "id": "megaloot",
@@ -8237,17 +8239,17 @@
         {
           "id": "die-in-the-dungeon",
           "title": "Die in the Dungeon",
-          "value": 3678
+          "value": 3679
         },
         {
           "id": "deadly-days-roadtrip",
           "title": "Deadly Days: Roadtrip",
-          "value": 3666
+          "value": 3675
         },
         {
           "id": "dwarves-glory-death-and-loot",
           "title": "Dwarves: Glory, Death and Loot",
-          "value": 2738
+          "value": 2743
         },
         {
           "id": "terrascape",
@@ -8257,7 +8259,7 @@
         {
           "id": "asgards-fall-viking-survivors",
           "title": "Asgard's Fall — Viking Survivors",
-          "value": 1728
+          "value": 1735
         }
       ],
       "developersWorkedWith": [
@@ -8274,10 +8276,8 @@
           "megaloot",
           "terrascape"
         ],
-        "2025": [
-          "9-kings"
-        ],
         "2026": [
+          "9-kings",
           "asgards-fall-viking-survivors",
           "deadly-days-roadtrip",
           "die-in-the-dungeon",
@@ -8332,12 +8332,12 @@
     },
     "studio-mdhr": {
       "gamesPublished": 2,
-      "totalReviews": 229281,
+      "totalReviews": 229311,
       "mostReviewedGames": [
         {
           "id": "cuphead",
           "title": "Cuphead",
-          "value": 224261
+          "value": 224291
         },
         {
           "id": "cuphead-the-delicious-last-course",
@@ -8357,17 +8357,17 @@
     },
     "supergiant-games": {
       "gamesPublished": 5,
-      "totalReviews": 514939,
+      "totalReviews": 514981,
       "mostReviewedGames": [
         {
           "id": "hades",
           "title": "Hades",
-          "value": 310980
+          "value": 311004
         },
         {
           "id": "hades-ii",
           "title": "Hades II",
-          "value": 124995
+          "value": 125012
         },
         {
           "id": "bastion",
@@ -8382,7 +8382,7 @@
         {
           "id": "pyre",
           "title": "Pyre",
-          "value": 9381
+          "value": 9382
         }
       ],
       "developersWorkedWith": [],
@@ -8406,17 +8406,17 @@
     },
     "team-cherry": {
       "gamesPublished": 2,
-      "totalReviews": 997394,
+      "totalReviews": 997542,
       "mostReviewedGames": [
         {
           "id": "hollow-knight",
           "title": "Hollow Knight",
-          "value": 568978
+          "value": 569069
         },
         {
           "id": "hollow-knight-silksong",
           "title": "Hollow Knight: Silksong",
-          "value": 428416
+          "value": 428473
         }
       ],
       "developersWorkedWith": [],
@@ -8431,57 +8431,57 @@
     },
     "team17": {
       "gamesPublished": 124,
-      "totalReviews": 1032946,
+      "totalReviews": 1033657,
       "mostReviewedGames": [
         {
           "id": "wardogs",
           "title": "WARDOGS",
-          "value": 207317
+          "value": 207851
         },
         {
           "id": "hell-let-loose",
           "title": "Hell Let Loose",
-          "value": 150439
+          "value": 150447
         },
         {
           "id": "overcooked-2",
           "title": "Overcooked! 2",
-          "value": 85526
+          "value": 85544
         },
         {
           "id": "golf-with-your-friends",
           "title": "Golf With Your Friends",
-          "value": 76281
+          "value": 76293
         },
         {
           "id": "blasphemous",
           "title": "Blasphemous",
-          "value": 68586
+          "value": 68593
         },
         {
           "id": "dredge",
           "title": "DREDGE",
-          "value": 58229
+          "value": 58241
         },
         {
           "id": "the-escapists-2",
           "title": "The Escapists 2",
-          "value": 33974
+          "value": 33976
         },
         {
           "id": "neon-abyss",
           "title": "Neon Abyss",
-          "value": 23653
+          "value": 23654
         },
         {
           "id": "blasphemous-2",
           "title": "Blasphemous 2",
-          "value": 22523
+          "value": 22530
         },
         {
           "id": "marauders",
           "title": "Marauders",
-          "value": 21478
+          "value": 21482
         }
       ],
       "developersWorkedWith": [
@@ -8762,12 +8762,12 @@
     },
     "tinybuild": {
       "gamesPublished": 1,
-      "totalReviews": 18711,
+      "totalReviews": 18713,
       "mostReviewedGames": [
         {
           "id": "clustertruck",
           "title": "Clustertruck",
-          "value": 18711
+          "value": 18713
         }
       ],
       "developersWorkedWith": [
@@ -8800,12 +8800,12 @@
     },
     "veewo-games": {
       "gamesPublished": 1,
-      "totalReviews": 23653,
+      "totalReviews": 23654,
       "mostReviewedGames": [
         {
           "id": "neon-abyss",
           "title": "Neon Abyss",
-          "value": 23653
+          "value": 23654
         }
       ],
       "developersWorkedWith": [],
@@ -8836,22 +8836,22 @@
     },
     "xbox-game-studios": {
       "gamesPublished": 10,
-      "totalReviews": 66401,
+      "totalReviews": 66427,
       "mostReviewedGames": [
         {
           "id": "quantum-break",
           "title": "Quantum Break",
-          "value": 31427
+          "value": 31431
         },
         {
           "id": "minecraft-dungeons",
           "title": "Minecraft Dungeons",
-          "value": 20636
+          "value": 20644
         },
         {
           "id": "minecraft-dungeons-ii",
           "title": "Minecraft Dungeons II",
-          "value": 11456
+          "value": 11470
         },
         {
           "id": "minecraft-legends",
@@ -8903,7 +8903,7 @@
     },
     "yacht-club-games": {
       "gamesPublished": 9,
-      "totalReviews": 31068,
+      "totalReviews": 31075,
       "mostReviewedGames": [
         {
           "id": "shovel-knight-treasure-trove",
@@ -8913,7 +8913,7 @@
         {
           "id": "mina-the-hollower",
           "title": "Mina the Hollower",
-          "value": 9125
+          "value": 9132
         },
         {
           "id": "cyber-shadow",
@@ -9029,7 +9029,7 @@
         {
           "id": "cyber-shadow",
           "title": "Cyber Shadow",
-          "value": 3
+          "value": 1
         }
       ],
       "gamesByReleaseYear": {
@@ -9079,37 +9079,37 @@
     "gamemaker": {
       "gameCount": 18,
       "companyCount": 21,
-      "totalSteamReviews": 332486,
+      "totalSteamReviews": 332523,
       "mostReviewedGames": [
         {
           "id": "hotline-miami",
           "title": "Hotline Miami",
-          "value": 130012
+          "value": 130037
         },
         {
           "id": "katana-zero",
           "title": "Katana ZERO",
-          "value": 76616
+          "value": 76619
         },
         {
           "id": "loop-hero",
           "title": "Loop Hero",
-          "value": 36678
+          "value": 36680
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 29849
+          "value": 29848
         },
         {
           "id": "the-red-strings-club",
           "title": "The Red Strings Club",
-          "value": 14414
+          "value": 14413
         },
         {
           "id": "downwell",
           "title": "Downwell",
-          "value": 8680
+          "value": 8681
         },
         {
           "id": "sheltered",
@@ -9124,7 +9124,7 @@
         {
           "id": "gato-roboto",
           "title": "Gato Roboto",
-          "value": 5326
+          "value": 5328
         },
         {
           "id": "luftrausers",
@@ -9136,52 +9136,52 @@
         {
           "id": "hotline-miami",
           "title": "Hotline Miami",
-          "value": 291
+          "value": 297
         },
         {
           "id": "loop-hero",
           "title": "Loop Hero",
-          "value": 153
+          "value": 133
         },
         {
           "id": "katana-zero",
           "title": "Katana ZERO",
-          "value": 65
+          "value": 71
         },
         {
           "id": "conscript-directors-cut",
           "title": "CONSCRIPT: Director’s Cut",
-          "value": 30
+          "value": 32
         },
         {
           "id": "sheltered",
           "title": "Sheltered",
-          "value": 25
+          "value": 24
         },
         {
           "id": "honey-i-joined-a-cult",
           "title": "Honey, I Joined a Cult",
-          "value": 13
+          "value": 17
         },
         {
           "id": "downwell",
           "title": "Downwell",
-          "value": 11
+          "value": 13
         },
         {
           "id": "risk-of-rain-2013",
           "title": "Risk of Rain (2013)",
-          "value": 8
-        },
-        {
-          "id": "gato-roboto",
-          "title": "Gato Roboto",
-          "value": 6
+          "value": 13
         },
         {
           "id": "the-red-strings-club",
           "title": "The Red Strings Club",
-          "value": 6
+          "value": 10
+        },
+        {
+          "id": "deadbolt",
+          "title": "DEADBOLT",
+          "value": 4
         }
       ],
       "gamesByReleaseYear": {
@@ -9201,39 +9201,39 @@
     "godot": {
       "gameCount": 3,
       "companyCount": 2,
-      "totalSteamReviews": 226436,
+      "totalSteamReviews": 226747,
       "mostReviewedGames": [
         {
           "id": "slay-the-spire-2",
           "title": "Slay the Spire 2",
-          "value": 210990
+          "value": 211297
         },
         {
           "id": "the-case-of-the-golden-idol",
           "title": "The Case of the Golden Idol",
-          "value": 11212
+          "value": 11214
         },
         {
           "id": "the-rise-of-the-golden-idol",
           "title": "The Rise of the Golden Idol",
-          "value": 4234
+          "value": 4236
         }
       ],
       "mostPlayedGames": [
         {
           "id": "slay-the-spire-2",
           "title": "Slay the Spire 2",
-          "value": 74142
-        },
-        {
-          "id": "the-case-of-the-golden-idol",
-          "title": "The Case of the Golden Idol",
-          "value": 42
+          "value": 69324
         },
         {
           "id": "the-rise-of-the-golden-idol",
           "title": "The Rise of the Golden Idol",
-          "value": 31
+          "value": 59
+        },
+        {
+          "id": "the-case-of-the-golden-idol",
+          "title": "The Case of the Golden Idol",
+          "value": 32
         }
       ],
       "gamesByReleaseYear": {
@@ -9261,19 +9261,19 @@
     "love2d": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 201620,
+      "totalSteamReviews": 201653,
       "mostReviewedGames": [
         {
           "id": "balatro",
           "title": "Balatro",
-          "value": 201620
+          "value": 201653
         }
       ],
       "mostPlayedGames": [
         {
           "id": "balatro",
           "title": "Balatro",
-          "value": 6558
+          "value": 6318
         }
       ],
       "gamesByReleaseYear": {
@@ -9283,22 +9283,22 @@
     "northlight-engine": {
       "gameCount": 7,
       "companyCount": 1,
-      "totalSteamReviews": 123337,
+      "totalSteamReviews": 123421,
       "mostReviewedGames": [
         {
           "id": "control-ultimate-edition",
           "title": "CONTROL Ultimate Edition",
-          "value": 67286
+          "value": 67307
         },
         {
           "id": "quantum-break",
           "title": "Quantum Break",
-          "value": 31427
+          "value": 31431
         },
         {
           "id": "control-resonant",
           "title": "CONTROL Resonant",
-          "value": 22245
+          "value": 22304
         },
         {
           "id": "fbc-firebreak",
@@ -9310,22 +9310,22 @@
         {
           "id": "control-resonant",
           "title": "CONTROL Resonant",
-          "value": 2115
+          "value": 1963
         },
         {
           "id": "control-ultimate-edition",
           "title": "CONTROL Ultimate Edition",
-          "value": 871
+          "value": 856
         },
         {
           "id": "quantum-break",
           "title": "Quantum Break",
-          "value": 83
+          "value": 81
         },
         {
           "id": "fbc-firebreak",
           "title": "FBC: Firebreak",
-          "value": 4
+          "value": 1
         }
       ],
       "gamesByReleaseYear": {
@@ -9363,19 +9363,19 @@
     "rpg-maker": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 89492,
+      "totalSteamReviews": 89495,
       "mostReviewedGames": [
         {
           "id": "omori",
           "title": "OMORI",
-          "value": 89492
+          "value": 89495
         }
       ],
       "mostPlayedGames": [
         {
           "id": "omori",
           "title": "OMORI",
-          "value": 416
+          "value": 380
         }
       ],
       "gamesByReleaseYear": {
@@ -9409,109 +9409,109 @@
     "unity": {
       "gameCount": 98,
       "companyCount": 98,
-      "totalSteamReviews": 4101761,
+      "totalSteamReviews": 4102489,
       "mostReviewedGames": [
         {
           "id": "hollow-knight",
           "title": "Hollow Knight",
-          "value": 568978
+          "value": 569069
         },
         {
           "id": "valheim",
           "title": "Valheim",
-          "value": 565568
+          "value": 565650
         },
         {
           "id": "hollow-knight-silksong",
           "title": "Hollow Knight: Silksong",
-          "value": 428416
+          "value": 428473
         },
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 387200
+          "value": 387328
         },
         {
           "id": "cuphead",
           "title": "Cuphead",
-          "value": 224261
+          "value": 224291
         },
         {
           "id": "totally-accurate-battle-simulator",
           "title": "Totally Accurate Battle Simulator",
-          "value": 155696
+          "value": 155720
         },
         {
           "id": "inscryption",
           "title": "Inscryption",
-          "value": 150389
+          "value": 150418
         },
         {
           "id": "cult-of-the-lamb",
           "title": "Cult of the Lamb",
-          "value": 131583
+          "value": 131606
         },
         {
           "id": "outer-wilds",
           "title": "Outer Wilds",
-          "value": 110607
+          "value": 110628
         },
         {
           "id": "firewatch",
           "title": "Firewatch",
-          "value": 100281
+          "value": 100282
         }
       ],
       "mostPlayedGames": [
         {
           "id": "valheim",
           "title": "Valheim",
-          "value": 38228
+          "value": 36304
         },
         {
           "id": "peak",
           "title": "PEAK",
-          "value": 11073
+          "value": 10602
         },
         {
           "id": "hollow-knight",
           "title": "Hollow Knight",
-          "value": 5664
+          "value": 5768
         },
         {
           "id": "hollow-knight-silksong",
           "title": "Hollow Knight: Silksong",
-          "value": 5646
+          "value": 5715
         },
         {
           "id": "ball-x-pit",
           "title": "BALL x PIT",
-          "value": 3705
+          "value": 3377
         },
         {
           "id": "cult-of-the-lamb",
           "title": "Cult of the Lamb",
-          "value": 1797
-        },
-        {
-          "id": "overcooked-2",
-          "title": "Overcooked! 2",
-          "value": 1754
+          "value": 1734
         },
         {
           "id": "cuphead",
           "title": "Cuphead",
-          "value": 1583
+          "value": 1693
+        },
+        {
+          "id": "overcooked-2",
+          "title": "Overcooked! 2",
+          "value": 1669
         },
         {
           "id": "totally-accurate-battle-simulator",
           "title": "Totally Accurate Battle Simulator",
-          "value": 1154
+          "value": 1119
         },
         {
           "id": "castlevania-belmonts-curse",
           "title": "Castlevania: Belmont's Curse",
-          "value": 1083
+          "value": 1013
         }
       ],
       "gamesByReleaseYear": {
@@ -9535,19 +9535,19 @@
     "unity-2018": {
       "gameCount": 1,
       "companyCount": 1,
-      "totalSteamReviews": 357100,
+      "totalSteamReviews": 357138,
       "mostReviewedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 357100
+          "value": 357138
         }
       ],
       "mostPlayedGames": [
         {
           "id": "risk-of-rain-2",
           "title": "Risk of Rain 2",
-          "value": 5874
+          "value": 5811
         }
       ],
       "gamesByReleaseYear": {
@@ -9557,37 +9557,37 @@
     "unreal-engine": {
       "gameCount": 31,
       "companyCount": 28,
-      "totalSteamReviews": 1284234,
+      "totalSteamReviews": 1284406,
       "mostReviewedGames": [
         {
           "id": "deep-rock-galactic",
           "title": "Deep Rock Galactic",
-          "value": 382020
+          "value": 382052
         },
         {
           "id": "satisfactory",
           "title": "Satisfactory",
-          "value": 282988
+          "value": 283071
         },
         {
           "id": "stray",
           "title": "Stray",
-          "value": 180432
+          "value": 180448
         },
         {
           "id": "hell-let-loose",
           "title": "Hell Let Loose",
-          "value": 150439
+          "value": 150447
         },
         {
           "id": "goat-simulator",
           "title": "Goat Simulator",
-          "value": 70463
+          "value": 70469
         },
         {
           "id": "what-remains-of-edith-finch",
           "title": "What Remains of Edith Finch",
-          "value": 53748
+          "value": 53756
         },
         {
           "id": "a-story-about-my-uncle",
@@ -9597,69 +9597,69 @@
         {
           "id": "minecraft-dungeons",
           "title": "Minecraft Dungeons",
-          "value": 20636
+          "value": 20644
         },
         {
           "id": "absolver",
           "title": "Absolver",
-          "value": 14848
+          "value": 14847
         },
         {
           "id": "sanctum-2",
           "title": "Sanctum 2",
-          "value": 14394
+          "value": 14395
         }
       ],
       "mostPlayedGames": [
         {
           "id": "satisfactory",
           "title": "Satisfactory",
-          "value": 15130
+          "value": 15209
         },
         {
           "id": "deep-rock-galactic",
           "title": "Deep Rock Galactic",
-          "value": 5048
+          "value": 6052
         },
         {
           "id": "hell-let-loose",
           "title": "Hell Let Loose",
-          "value": 2415
+          "value": 2312
         },
         {
           "id": "stray",
           "title": "Stray",
-          "value": 434
+          "value": 479
         },
         {
           "id": "minecraft-dungeons",
           "title": "Minecraft Dungeons",
-          "value": 351
+          "value": 348
         },
         {
           "id": "the-talos-principle-2",
           "title": "The Talos Principle 2",
-          "value": 284
+          "value": 269
         },
         {
           "id": "silent-hill-townfall",
           "title": "SILENT HILL: Townfall",
-          "value": 214
+          "value": 202
         },
         {
           "id": "goat-simulator",
           "title": "Goat Simulator",
-          "value": 102
+          "value": 79
         },
         {
           "id": "mortal-shell",
           "title": "Mortal Shell",
-          "value": 55
+          "value": 48
         },
         {
           "id": "what-remains-of-edith-finch",
           "title": "What Remains of Edith Finch",
-          "value": 39
+          "value": 30
         }
       ],
       "gamesByReleaseYear": {
@@ -9737,8 +9737,8 @@
     "2022": 34,
     "2023": 27,
     "2024": 40,
-    "2025": 36,
-    "2026": 41
+    "2025": 35,
+    "2026": 42
   },
   "methodology": {
     "scope": "Rankings include games, expansions, remasters, remakes, and ports; DLC, demos, and bundles are excluded.",

@@ -1,27 +1,47 @@
-# Database update: 2026-11-18
+# Database update: 2026-11-19
 
-Dataset 0.1.0: 528 games, 353 companies, 93 technologies, 1,352 relationships.
+Dataset 0.1.0: 529 games, 353 companies, 93 technologies, 1,354 relationships.
+
+## New games (1)
+
++ All Army Attack (`all-army-attack`), 2027, by blacklight-interactive
+
+## Changed (6)
+
+~ 9 Kings (`9-kings`)
+  - releaseDate: 2025-05-23 → 2026-11-12
+  - releaseStatus: early-access → released
+~ Herdling (`herdling`)
+  - platforms: [nintendo-switch-2, playstation-5, windows, xbox-series] → [nintendo-switch, nintendo-switch-2, playstation-5, windows, xbox-series]
+~ Outer Wilds (`outer-wilds`)
+  - platforms: [macos, nintendo-switch, playstation-4, windows, xbox-one, xbox-series] → [macos, nintendo-switch, playstation-4, playstation-5, windows, xbox-one, xbox-series]
+~ The Pathless (`the-pathless`)
+  - platforms: [ios, macos, playstation-4, playstation-5, tvos, windows, xbox-one, xbox-series] → [ios, macos, nintendo-switch, playstation-4, playstation-5, tvos, windows, xbox-one, xbox-series]
+~ Bulkhead (company) (`bulkhead`)
+  - name: Bulkhead Interactive → Bulkhead (company)
+~ Modern Dream (`modern-dream`)
+  - country: none → GB
 
 ## Review counts (186)
 
-~ WARDOGS: 206,765 → 207,317 (+552)
-~ Slay the Spire 2: 210,723 → 210,990 (+267)
-~ R.E.P.O.: 436,844 → 437,087 (+243)
-~ Big Walk: 50,241 → 50,363 (+122)
-~ PEAK: 387,080 → 387,200 (+120)
-~ Valheim: 565,456 → 565,568 (+112)
-~ Hollow Knight: 568,892 → 568,978 (+86)
-~ CONTROL Resonant: 22,161 → 22,245 (+84)
-~ Baldur's Gate 3: 865,699 → 865,772 (+73)
-~ Silver Pines: 7,169 → 7,239 (+70)
-~ 9 Kings: 24,371 → 24,435 (+64)
-~ Hollow Knight: Silksong: 428,361 → 428,416 (+55)
-~ Satisfactory: 282,935 → 282,988 (+53)
-~ Mortal Shell II: 23,012 → 23,064 (+52)
-~ Balatro: 201,572 → 201,620 (+48)
+~ WARDOGS: 207,317 → 207,851 (+534)
+~ Slay the Spire 2: 210,990 → 211,297 (+307)
+~ R.E.P.O.: 437,087 → 437,275 (+188)
+~ PEAK: 387,200 → 387,328 (+128)
+~ Hollow Knight: 568,978 → 569,069 (+91)
+~ Big Walk: 50,363 → 50,451 (+88)
+~ Baldur's Gate 3: 865,772 → 865,855 (+83)
+~ Satisfactory: 282,988 → 283,071 (+83)
+~ Valheim: 565,568 → 565,650 (+82)
+~ 9 Kings: 24,435 → 24,500 (+65)
+~ CONTROL Resonant: 22,245 → 22,304 (+59)
+~ Hollow Knight: Silksong: 428,416 → 428,473 (+57)
+~ Silver Pines: 7,239 → 7,293 (+54)
+~ BALL x PIT: 28,160 → 28,205 (+45)
+~ Storyteller: 9,379 → 9,422 (+43)
 … and 171 more
 
-## Manual review (64)
+## Manual review (65)
 
 These listings use different company names. Pick the right company in `npm run review`, or leave them for later.
 
@@ -54,6 +74,7 @@ These listings use different company names. Pick the right company in `npm run r
 ! forged-battalion publishers: steam says [Petroglyph]; wikidata says [Team17]
 ! foul-play developers: steam says [Mediatonic]; wikidata says [Devolver Digital]
 ! foul-play publishers: steam says [Epic Games]; wikidata says [Devolver Digital]
+! gorogoa developers: steam says [Buried Signal]; wikidata says [Jason Roberts]
 ! haste publishers: steam says [Evil Landfall?]; wikidata says [Landfall Games]
 ! hatoful-boyfriend-holiday-star publishers: steam says [Epic Games]; wikidata says [Devolver Digital]
 ! hatoful-boyfriend publishers: steam says [Epic Games]; wikidata says [Devolver Digital]
@@ -96,4 +117,4 @@ These listings use different company names. Pick the right company in `npm run r
 
 ## Review queue
 
-65 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+67 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

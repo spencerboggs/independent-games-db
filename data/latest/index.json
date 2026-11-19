@@ -115,6 +115,11 @@
     "name": "Alien Breed: Tower Assault"
   },
   {
+    "id": "all-army-attack",
+    "type": "game",
+    "name": "All Army Attack"
+  },
+  {
     "id": "alphabounce",
     "type": "game",
     "name": "AlphaBounce"
@@ -2907,7 +2912,7 @@
   {
     "id": "bulkhead",
     "type": "company",
-    "name": "Bulkhead Interactive"
+    "name": "Bulkhead (company)"
   },
   {
     "id": "bulkypix",

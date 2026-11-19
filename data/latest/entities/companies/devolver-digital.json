@@ -17,7 +17,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q5267669",
-        "retrievedAt": "2026-11-18"
+        "retrievedAt": "2026-11-19"
       }
     },
     "custom": null
@@ -57,6 +57,7 @@
     "published": [
       "a-fistful-of-gun",
       "absolver",
+      "all-army-attack",
       "anger-foot",
       "ape-out",
       "baby-steps",
@@ -207,10 +208,10 @@
     ]
   },
   "statistics": {
-    "gameCount": 149,
+    "gameCount": 150,
     "developedCount": 1,
-    "publishedCount": 149,
-    "totalSteamReviews": 1508269,
+    "publishedCount": 150,
+    "totalSteamReviews": 1508540,
     "averagePositivePercentage": 85.6,
     "weightedPositivePercentage": 93.2,
     "mostReviewedGame": "inscryption",
@@ -231,11 +232,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q5267669",
-      "retrievedAt": "2026-11-18"
+      "retrievedAt": "2026-11-19"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-18T18:00:00.751Z"
+  "lastUpdated": "2026-11-19T18:12:56.203Z"
 }

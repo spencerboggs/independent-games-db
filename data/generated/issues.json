@@ -918,6 +918,40 @@
   {
     "kind": "source-conflict",
     "entityType": "game",
+    "subject": "gorogoa",
+    "related": [],
+    "field": "developers",
+    "message": "steam and wikidata disagree on developers for \"Gorogoa\"",
+    "details": {
+      "chosen": {
+        "source": "steam",
+        "value": [
+          "Buried Signal"
+        ],
+        "ids": [
+          "buried-signal"
+        ]
+      },
+      "other": {
+        "source": "wikidata",
+        "value": [
+          "Jason Roberts"
+        ]
+      },
+      "unmatched": [
+        {
+          "name": "Jason Roberts",
+          "ids": {
+            "wikidata": "Q119728089"
+          },
+          "suggestions": []
+        }
+      ]
+    }
+  },
+  {
+    "kind": "source-conflict",
+    "entityType": "game",
     "subject": "haste",
     "related": [
       "landfall"

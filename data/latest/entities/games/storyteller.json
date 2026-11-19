@@ -14,12 +14,12 @@
   ],
   "descriptions": {
     "source": {
-      "text": "Storyteller is an award-winning puzzle game about building stories. Start with a title, settings and characters and create a story that fits the story’s description. Play with stories of love, intrigue, crime, monsters, betrayal, and more!",
+      "text": "Storyteller is an award-winning puzzle game about building stories. Play with stories of love, intrigue, crime, monsters, betrayal, and more!",
       "license": "third-party",
       "source": {
         "type": "steam",
         "url": "https://store.steampowered.com/app/1624540/",
-        "retrievedAt": "2026-11-18"
+        "retrievedAt": "2026-11-19"
       }
     },
     "custom": null
@@ -74,102 +74,67 @@
   },
   "media": {
     "header": {
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/header.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/571e1a5768b7525d480fe57743fce42de0c826dd/header.jpg",
       "type": "header",
       "source": "steam",
-      "retrievedAt": "2026-11-18",
+      "retrievedAt": "2026-11-19",
       "rights": "reference-only"
     },
     "capsule": {
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/capsule_231x87.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/06ad555a85c4195c286803eea091ed38695c0039/capsule_231x87.jpg",
       "type": "capsule",
       "source": "steam",
-      "retrievedAt": "2026-11-18",
+      "retrievedAt": "2026-11-19",
       "rights": "reference-only"
     },
     "background": {
-      "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1624540",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/4779355d582c07f47c69e157f3a64c28b9682f5f/page_bg_raw.jpg",
       "type": "background",
       "source": "steam",
-      "retrievedAt": "2026-11-18",
+      "retrievedAt": "2026-11-19",
       "rights": "reference-only"
     },
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_5f99d37b23fc3d4469c40dfc78a69cd3a51d4f26.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/1e1facf3097f85940ba3d63ec94bc19eca18bfd4/ss_1e1facf3097f85940ba3d63ec94bc19eca18bfd4.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_abb2a53ef96ab74a2d1c8d4bef88944d4f767303.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/55b227feecc427f9f8500a09227dc1d1b60cd6fb/ss_55b227feecc427f9f8500a09227dc1d1b60cd6fb.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_9f7f204fae84954897fcf76b951f0f32dde65f5d.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/1466d7c20c113b7803b714cd6170858fa84b9128/ss_1466d7c20c113b7803b714cd6170858fa84b9128.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_cb1b6c6addb69a3182c8ed89ca5f30cb25b7eefd.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/53f865bd1229c9f7ff770ee6028b6dec1231166c/ss_53f865bd1229c9f7ff770ee6028b6dec1231166c.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_b01323044c9985061fb479c8c741354a699be5ce.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/11cc25d2d7c65d032eb6ae7d9c663de3c9ce677a/ss_11cc25d2d7c65d032eb6ae7d9c663de3c9ce677a.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_630c2dae011e36b3752b59d3f88a28a823a7c182.1920x1080.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/a4ac5d1301572404e23d07e297c3bb060cdd03fe/ss_a4ac5d1301572404e23d07e297c3bb060cdd03fe.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-18",
-        "rights": "reference-only"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_9c58391ae878cdebdf3930f283164d44d8912e4b.1920x1080.jpg",
-        "type": "screenshot",
-        "source": "steam",
-        "retrievedAt": "2026-11-18",
-        "rights": "reference-only"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_1aa82c664a476408257da5d594948ff2d89aa715.1920x1080.jpg",
-        "type": "screenshot",
-        "source": "steam",
-        "retrievedAt": "2026-11-18",
-        "rights": "reference-only"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_e45ab7e5b22fa1ca42f0d8705cfb0c482cfbc882.1920x1080.jpg",
-        "type": "screenshot",
-        "source": "steam",
-        "retrievedAt": "2026-11-18",
-        "rights": "reference-only"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_add8b02841215675394b9eb06ec393b4760accdd.1920x1080.jpg",
-        "type": "screenshot",
-        "source": "steam",
-        "retrievedAt": "2026-11-18",
-        "rights": "reference-only"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/ss_7fb11c639645069848df5c4cca099374876e33e5.1920x1080.jpg",
-        "type": "screenshot",
-        "source": "steam",
-        "retrievedAt": "2026-11-18",
+        "retrievedAt": "2026-11-19",
         "rights": "reference-only"
       }
     ]
@@ -190,39 +155,39 @@
   },
   "statistics": {
     "steam": {
-      "reviewCount": 9379,
-      "positiveCount": 8325,
-      "negativeCount": 1054,
-      "positivePercentage": 88.8,
-      "negativePercentage": 11.2,
+      "reviewCount": 9422,
+      "positiveCount": 8372,
+      "negativeCount": 1050,
+      "positivePercentage": 88.9,
+      "negativePercentage": 11.1,
       "reviewScoreDescription": "Very Positive",
-      "currentPlayers": 1037,
-      "retrievedAt": "2026-11-18"
+      "currentPlayers": 944,
+      "retrievedAt": "2026-11-19"
     },
     "reviewVelocity": {
       "method": "history",
-      "reviewsPerDay": 3.13,
-      "reviewsPerMonth": 95.4,
+      "reviewsPerDay": 4.5,
+      "reviewsPerMonth": 137,
       "windowDays": 30,
       "recentReviewGrowth": {
-        "reviews": 94,
-        "percent": 1.01,
+        "reviews": 135,
+        "percent": 1.45,
         "windowDays": 30
       },
-      "observations": 39
+      "observations": 40
     }
   },
   "sources": [
     {
       "type": "steam",
       "url": "https://store.steampowered.com/app/1624540/",
-      "retrievedAt": "2026-11-18"
+      "retrievedAt": "2026-11-19"
     },
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q108140592",
-      "retrievedAt": "2026-11-18"
+      "retrievedAt": "2026-11-19"
     }
   ],
-  "lastUpdated": "2026-11-18T18:00:00.751Z"
+  "lastUpdated": "2026-11-19T18:12:56.203Z"
 }
