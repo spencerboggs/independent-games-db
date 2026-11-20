@@ -1,50 +1,5 @@
 [
   {
-    "id": "new-game:all-army-attack:b0568ba76aaf",
-    "related": [],
-    "category": "new-game",
-    "subject": {
-      "type": "game",
-      "id": "all-army-attack"
-    },
-    "title": "New game: All Army Attack",
-    "summary": "game, 2027; developers: Blacklight Interactive; publishers: Devolver Digital.",
-    "details": {
-      "title": "All Army Attack",
-      "type": "game",
-      "releaseDate": "2027",
-      "developers": [
-        "blacklight-interactive"
-      ],
-      "publishers": [
-        "devolver-digital"
-      ],
-      "externalIds": {
-        "wikidata": "Q142153245",
-        "steam": "4128840"
-      },
-      "sources": [
-        {
-          "type": "steam",
-          "url": "https://store.steampowered.com/app/4128840/",
-          "retrievedAt": "2026-11-19"
-        },
-        {
-          "type": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q142153245",
-          "retrievedAt": "2026-11-19"
-        }
-      ]
-    },
-    "actions": [
-      "approve",
-      "reject",
-      "merge",
-      "edit",
-      "ignore"
-    ]
-  },
-  {
     "id": "potential-duplicate:worms:46b28c810e3d",
     "related": [
       {

@@ -1,45 +1,25 @@
-# Database update: 2026-11-19
+# Database update: 2026-11-20
 
 Dataset 0.1.0: 529 games, 353 companies, 93 technologies, 1,354 relationships.
 
-## New games (1)
+## Review counts (181)
 
-+ All Army Attack (`all-army-attack`), 2027, by blacklight-interactive
-
-## Changed (6)
-
-~ 9 Kings (`9-kings`)
-  - releaseDate: 2025-05-23 → 2026-11-12
-  - releaseStatus: early-access → released
-~ Herdling (`herdling`)
-  - platforms: [nintendo-switch-2, playstation-5, windows, xbox-series] → [nintendo-switch, nintendo-switch-2, playstation-5, windows, xbox-series]
-~ Outer Wilds (`outer-wilds`)
-  - platforms: [macos, nintendo-switch, playstation-4, windows, xbox-one, xbox-series] → [macos, nintendo-switch, playstation-4, playstation-5, windows, xbox-one, xbox-series]
-~ The Pathless (`the-pathless`)
-  - platforms: [ios, macos, playstation-4, playstation-5, tvos, windows, xbox-one, xbox-series] → [ios, macos, nintendo-switch, playstation-4, playstation-5, tvos, windows, xbox-one, xbox-series]
-~ Bulkhead (company) (`bulkhead`)
-  - name: Bulkhead Interactive → Bulkhead (company)
-~ Modern Dream (`modern-dream`)
-  - country: none → GB
-
-## Review counts (186)
-
-~ WARDOGS: 207,317 → 207,851 (+534)
-~ Slay the Spire 2: 210,990 → 211,297 (+307)
-~ R.E.P.O.: 437,087 → 437,275 (+188)
-~ PEAK: 387,200 → 387,328 (+128)
-~ Hollow Knight: 568,978 → 569,069 (+91)
-~ Big Walk: 50,363 → 50,451 (+88)
-~ Baldur's Gate 3: 865,772 → 865,855 (+83)
-~ Satisfactory: 282,988 → 283,071 (+83)
-~ Valheim: 565,568 → 565,650 (+82)
-~ 9 Kings: 24,435 → 24,500 (+65)
-~ CONTROL Resonant: 22,245 → 22,304 (+59)
-~ Hollow Knight: Silksong: 428,416 → 428,473 (+57)
-~ Silver Pines: 7,239 → 7,293 (+54)
-~ BALL x PIT: 28,160 → 28,205 (+45)
-~ Storyteller: 9,379 → 9,422 (+43)
-… and 171 more
+~ WARDOGS: 207,851 → 208,291 (+440)
+~ Slay the Spire 2: 211,297 → 211,543 (+246)
+~ R.E.P.O.: 437,275 → 437,441 (+166)
+~ PEAK: 387,328 → 387,445 (+117)
+~ Hollow Knight: 569,069 → 569,167 (+98)
+~ Valheim: 565,650 → 565,747 (+97)
+~ Big Walk: 50,451 → 50,546 (+95)
+~ Baldur's Gate 3: 865,855 → 865,935 (+80)
+~ CONTROL Resonant: 22,304 → 22,371 (+67)
+~ Hollow Knight: Silksong: 428,473 → 428,533 (+60)
+~ Silver Pines: 7,293 → 7,350 (+57)
+~ 9 Kings: 24,500 → 24,550 (+50)
+~ Goat Simulator 3: 16,402 → 16,449 (+47)
+~ Castlevania: Belmont's Curse: 12,820 → 12,862 (+42)
+~ Deep Rock Galactic: 382,052 → 382,088 (+36)
+… and 166 more
 
 ## Manual review (65)
 
@@ -117,4 +97,4 @@ These listings use different company names. Pick the right company in `npm run r
 
 ## Review queue
 
-67 open candidate(s), 0 previously decided. Run `npm run review` to review locally.
+66 open candidate(s), 0 previously decided. Run `npm run review` to review locally.

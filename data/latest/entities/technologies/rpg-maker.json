@@ -25,19 +25,19 @@
   "statistics": {
     "gameCount": 1,
     "companyCount": 1,
-    "totalSteamReviews": 89495,
+    "totalSteamReviews": 89500,
     "mostReviewedGames": [
       {
         "id": "omori",
         "title": "OMORI",
-        "value": 89495
+        "value": 89500
       }
     ],
     "mostPlayedGames": [
       {
         "id": "omori",
         "title": "OMORI",
-        "value": 380
+        "value": 450
       }
     ],
     "gamesByReleaseYear": {
