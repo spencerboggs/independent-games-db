@@ -1,25 +1,25 @@
-# Database update: 2026-11-20
+# Database update: 2026-11-21
 
 Dataset 0.1.0: 529 games, 353 companies, 93 technologies, 1,354 relationships.
 
-## Review counts (181)
+## Review counts (190)
 
-~ WARDOGS: 207,851 → 208,291 (+440)
-~ Slay the Spire 2: 211,297 → 211,543 (+246)
-~ R.E.P.O.: 437,275 → 437,441 (+166)
-~ PEAK: 387,328 → 387,445 (+117)
-~ Hollow Knight: 569,069 → 569,167 (+98)
-~ Valheim: 565,650 → 565,747 (+97)
-~ Big Walk: 50,451 → 50,546 (+95)
-~ Baldur's Gate 3: 865,855 → 865,935 (+80)
-~ CONTROL Resonant: 22,304 → 22,371 (+67)
-~ Hollow Knight: Silksong: 428,473 → 428,533 (+60)
-~ Silver Pines: 7,293 → 7,350 (+57)
-~ 9 Kings: 24,500 → 24,550 (+50)
-~ Goat Simulator 3: 16,402 → 16,449 (+47)
-~ Castlevania: Belmont's Curse: 12,820 → 12,862 (+42)
-~ Deep Rock Galactic: 382,052 → 382,088 (+36)
-… and 166 more
+~ WARDOGS: 208,291 → 208,718 (+427)
+~ Slay the Spire 2: 211,543 → 211,802 (+259)
+~ R.E.P.O.: 437,441 → 437,655 (+214)
+~ PEAK: 387,445 → 387,619 (+174)
+~ Hollow Knight: 569,167 → 569,273 (+106)
+~ Hollow Knight: Silksong: 428,533 → 428,635 (+102)
+~ Baldur's Gate 3: 865,935 → 866,032 (+97)
+~ Shovel Knight: King of Cards: 232 → 328 (+96)
+~ Valheim: 565,747 → 565,842 (+95)
+~ Big Walk: 50,546 → 50,627 (+81)
+~ CONTROL Resonant: 22,371 → 22,444 (+73)
+~ 9 Kings: 24,550 → 24,605 (+55)
+~ Goat Simulator 3: 16,449 → 16,503 (+54)
+~ Silver Pines: 7,350 → 7,402 (+52)
+~ RV There Yet?: 91,668 → 91,719 (+51)
+… and 175 more
 
 ## Manual review (65)
 
