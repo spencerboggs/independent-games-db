@@ -14,7 +14,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q104804747",
-        "retrievedAt": "2026-11-22"
+        "retrievedAt": "2026-11-23"
       }
     },
     "custom": null
@@ -59,9 +59,9 @@
     "gameCount": 5,
     "developedCount": 5,
     "publishedCount": 0,
-    "totalSteamReviews": 18068,
+    "totalSteamReviews": 18233,
     "averagePositivePercentage": 89,
-    "weightedPositivePercentage": 82,
+    "weightedPositivePercentage": 82.1,
     "mostReviewedGame": "castlevania-belmonts-curse",
     "mostRecentRelease": "castlevania-belmonts-curse",
     "firstRelease": "dead-cells-the-bad-seed",
@@ -75,11 +75,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q104804747",
-      "retrievedAt": "2026-11-22"
+      "retrievedAt": "2026-11-23"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-22T17:06:13.613Z"
+  "lastUpdated": "2026-11-23T21:16:11.053Z"
 }
