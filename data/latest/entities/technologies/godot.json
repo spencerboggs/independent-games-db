@@ -26,39 +26,39 @@
   "statistics": {
     "gameCount": 3,
     "companyCount": 2,
-    "totalSteamReviews": 227563,
+    "totalSteamReviews": 229418,
     "mostReviewedGames": [
       {
         "id": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "value": 212097
+        "value": 213950
       },
       {
         "id": "the-case-of-the-golden-idol",
         "title": "The Case of the Golden Idol",
-        "value": 11224
+        "value": 11225
       },
       {
         "id": "the-rise-of-the-golden-idol",
         "title": "The Rise of the Golden Idol",
-        "value": 4242
+        "value": 4243
       }
     ],
     "mostPlayedGames": [
       {
         "id": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "value": 89246
+        "value": 62922
       },
       {
         "id": "the-rise-of-the-golden-idol",
         "title": "The Rise of the Golden Idol",
-        "value": 91
+        "value": 94
       },
       {
         "id": "the-case-of-the-golden-idol",
         "title": "The Case of the Golden Idol",
-        "value": 48
+        "value": 43
       }
     ],
     "gamesByReleaseYear": {
