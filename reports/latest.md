@@ -1,25 +1,25 @@
-# Database update: 2026-11-23
+# Database update: 2026-11-24
 
 Dataset 0.1.0: 529 games, 353 companies, 93 technologies, 1,354 relationships.
 
-## Review counts (223)
+## Review counts (230)
 
-~ Valheim: 565,958 → 567,990 (+2,032)
-~ Slay the Spire 2: 212,097 → 213,950 (+1,853)
-~ WARDOGS: 209,154 → 210,322 (+1,168)
-~ Big Walk: 50,773 → 51,632 (+859)
-~ R.E.P.O.: 437,872 → 438,560 (+688)
-~ PEAK: 387,831 → 388,457 (+626)
-~ Hollow Knight: Silksong: 428,757 → 429,342 (+585)
-~ CONTROL Resonant: 22,526 → 23,071 (+545)
-~ Baldur's Gate 3: 866,171 → 866,696 (+525)
-~ Deep Rock Galactic: 382,172 → 382,434 (+262)
-~ MOUSE: P.I. For Hire: 16,469 → 16,716 (+247)
-~ 9 Kings: 24,658 → 24,904 (+246)
-~ Satisfactory: 283,221 → 283,441 (+220)
-~ Castlevania: Belmont's Curse: 12,954 → 13,115 (+161)
-~ Hollow Knight: 569,434 → 569,593 (+159)
-… and 208 more
+~ Valheim: 567,990 → 578,899 (+10,909)
+~ Slay the Spire 2: 213,950 → 223,329 (+9,379)
+~ Big Walk: 51,632 → 55,828 (+4,196)
+~ WARDOGS: 210,322 → 213,313 (+2,991)
+~ Baldur's Gate 3: 866,696 → 869,612 (+2,916)
+~ Hollow Knight: Silksong: 429,342 → 432,252 (+2,910)
+~ R.E.P.O.: 438,560 → 441,006 (+2,446)
+~ PEAK: 388,457 → 390,600 (+2,143)
+~ CONTROL Resonant: 23,071 → 24,688 (+1,617)
+~ Deep Rock Galactic: 382,434 → 383,470 (+1,036)
+~ 9 Kings: 24,904 → 25,780 (+876)
+~ MOUSE: P.I. For Hire: 16,716 → 17,503 (+787)
+~ Satisfactory: 283,441 → 284,210 (+769)
+~ Cult of the Lamb: 131,787 → 132,310 (+523)
+~ Mortal Shell II: 23,363 → 23,813 (+450)
+… and 215 more
 
 ## Manual review (65)
 

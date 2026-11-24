@@ -17,7 +17,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q1129295",
-        "retrievedAt": "2026-11-23"
+        "retrievedAt": "2026-11-24"
       }
     },
     "custom": null
@@ -82,9 +82,9 @@
     "gameCount": 17,
     "developedCount": 15,
     "publishedCount": 8,
-    "totalSteamReviews": 37008,
-    "averagePositivePercentage": 76.6,
-    "weightedPositivePercentage": 78.7,
+    "totalSteamReviews": 37449,
+    "averagePositivePercentage": 76.8,
+    "weightedPositivePercentage": 78.9,
     "mostReviewedGame": "minecraft-dungeons",
     "mostRecentRelease": "minecraft-dungeons-ii",
     "firstRelease": "minecraft-java-edition",
@@ -99,11 +99,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q1129295",
-      "retrievedAt": "2026-11-23"
+      "retrievedAt": "2026-11-24"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-23T21:16:11.053Z"
+  "lastUpdated": "2026-11-24T20:07:22.083Z"
 }
