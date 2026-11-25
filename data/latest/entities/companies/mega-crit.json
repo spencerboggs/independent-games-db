@@ -16,7 +16,7 @@
       "source": {
         "type": "wikidata",
         "url": "https://www.wikidata.org/wiki/Q87419925",
-        "retrievedAt": "2026-11-24"
+        "retrievedAt": "2026-11-25"
       }
     },
     "custom": null
@@ -62,9 +62,9 @@
     "gameCount": 2,
     "developedCount": 2,
     "publishedCount": 2,
-    "totalSteamReviews": 443905,
-    "averagePositivePercentage": 80.8,
-    "weightedPositivePercentage": 80.6,
+    "totalSteamReviews": 449008,
+    "averagePositivePercentage": 81,
+    "weightedPositivePercentage": 80.7,
     "mostReviewedGame": "slay-the-spire-2",
     "mostRecentRelease": "slay-the-spire-2",
     "firstRelease": "slay-the-spire",
@@ -79,11 +79,11 @@
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q87419925",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     },
     {
       "type": "manual"
     }
   ],
-  "lastUpdated": "2026-11-24T20:07:22.083Z"
+  "lastUpdated": "2026-11-25T19:12:06.562Z"
 }
