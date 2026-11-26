@@ -57,7 +57,7 @@
       ],
       "engines": [],
       "steamAppId": "41070",
-      "reviewCount": 28841,
+      "reviewCount": 28845,
       "positivePercentage": 88.1
     },
     {
@@ -135,7 +135,7 @@
       ],
       "engines": [],
       "steamAppId": "257420",
-      "reviewCount": 17956,
+      "reviewCount": 17967,
       "positivePercentage": 83.3
     },
     {
@@ -159,7 +159,7 @@
       ],
       "engines": [],
       "steamAppId": "41050",
-      "reviewCount": 3554,
+      "reviewCount": 3555,
       "positivePercentage": 95.6
     },
     {
@@ -183,7 +183,7 @@
       ],
       "engines": [],
       "steamAppId": "227780",
-      "reviewCount": 3885,
+      "reviewCount": 3886,
       "positivePercentage": 89.8
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "id": "serious-sam-fusion-2017-beta",
-      "title": "Serious Sam Fusion 2017 (beta)",
+      "title": "Serious Sam Fusion",
       "type": "game",
       "releaseDate": "2017-03-20",
       "developers": [
@@ -236,8 +236,8 @@
       ],
       "engines": [],
       "steamAppId": "564310",
-      "reviewCount": 5734,
-      "positivePercentage": 92.8
+      "reviewCount": 5744,
+      "positivePercentage": 92.9
     },
     {
       "id": "serious-sam-hd-gold-edition",
@@ -284,7 +284,7 @@
       ],
       "engines": [],
       "steamAppId": "41000",
-      "reviewCount": 9140,
+      "reviewCount": 9142,
       "positivePercentage": 93
     },
     {
@@ -308,7 +308,7 @@
       ],
       "engines": [],
       "steamAppId": "41014",
-      "reviewCount": 995,
+      "reviewCount": 996,
       "positivePercentage": 91.4
     },
     {
@@ -354,7 +354,7 @@
       ],
       "engines": [],
       "steamAppId": "204340",
-      "reviewCount": 14493,
+      "reviewCount": 14496,
       "positivePercentage": 89.9
     },
     {
@@ -380,7 +380,7 @@
       ],
       "engines": [],
       "steamAppId": "1792250",
-      "reviewCount": 5351,
+      "reviewCount": 5356,
       "positivePercentage": 92
     },
     {
@@ -591,7 +591,7 @@
       ],
       "engines": [],
       "steamAppId": "257510",
-      "reviewCount": 33272,
+      "reviewCount": 33273,
       "positivePercentage": 95.3
     },
     {
@@ -619,7 +619,7 @@
         "unreal-engine"
       ],
       "steamAppId": "835960",
-      "reviewCount": 13915,
+      "reviewCount": 13917,
       "positivePercentage": 94.5
     },
     {
@@ -669,8 +669,8 @@
       ],
       "engines": [],
       "steamAppId": "2806640",
-      "reviewCount": 1315,
-      "positivePercentage": 90.5
+      "reviewCount": 1316,
+      "positivePercentage": 90.4
     },
     {
       "id": "the-talos-principle-road-to-gehenna",
@@ -727,7 +727,7 @@
   "published": [
     {
       "id": "serious-sam-fusion-2017-beta",
-      "title": "Serious Sam Fusion 2017 (beta)",
+      "title": "Serious Sam Fusion",
       "type": "game",
       "releaseDate": "2017-03-20",
       "developers": [
@@ -748,8 +748,8 @@
       ],
       "engines": [],
       "steamAppId": "564310",
-      "reviewCount": 5734,
-      "positivePercentage": 92.8
+      "reviewCount": 5744,
+      "positivePercentage": 92.9
     },
     {
       "id": "serious-sam-vr-the-first-encounter",
@@ -855,7 +855,7 @@
       ],
       "engines": [],
       "steamAppId": "257510",
-      "reviewCount": 33272,
+      "reviewCount": 33273,
       "positivePercentage": 95.3
     }
   ]
