@@ -43,17 +43,17 @@
   "statistics": {
     "gameCount": 18,
     "companyCount": 21,
-    "totalSteamReviews": 332868,
+    "totalSteamReviews": 332923,
     "mostReviewedGames": [
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 130260
+        "value": 130297
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 76658
+        "value": 76665
       },
       {
         "id": "loop-hero",
@@ -68,12 +68,12 @@
       {
         "id": "the-red-strings-club",
         "title": "The Red Strings Club",
-        "value": 14432
+        "value": 14433
       },
       {
         "id": "downwell",
         "title": "Downwell",
-        "value": 8685
+        "value": 8686
       },
       {
         "id": "sheltered",
@@ -88,7 +88,7 @@
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 5333
+        "value": 5336
       },
       {
         "id": "luftrausers",
@@ -100,27 +100,27 @@
       {
         "id": "hotline-miami",
         "title": "Hotline Miami",
-        "value": 581
+        "value": 759
       },
       {
         "id": "loop-hero",
         "title": "Loop Hero",
-        "value": 138
+        "value": 275
       },
       {
         "id": "katana-zero",
         "title": "Katana ZERO",
-        "value": 75
+        "value": 176
       },
       {
         "id": "sheltered",
         "title": "Sheltered",
-        "value": 25
+        "value": 33
       },
       {
         "id": "conscript-directors-cut",
         "title": "CONSCRIPT: Director’s Cut",
-        "value": 24
+        "value": 25
       },
       {
         "id": "risk-of-rain-2013",
@@ -128,24 +128,24 @@
         "value": 23
       },
       {
-        "id": "honey-i-joined-a-cult",
-        "title": "Honey, I Joined a Cult",
-        "value": 12
-      },
-      {
         "id": "downwell",
         "title": "Downwell",
-        "value": 11
+        "value": 17
+      },
+      {
+        "id": "minit",
+        "title": "Minit",
+        "value": 15
+      },
+      {
+        "id": "honey-i-joined-a-cult",
+        "title": "Honey, I Joined a Cult",
+        "value": 13
       },
       {
         "id": "gato-roboto",
         "title": "Gato Roboto",
-        "value": 7
-      },
-      {
-        "id": "the-red-strings-club",
-        "title": "The Red Strings Club",
-        "value": 7
+        "value": 12
       }
     ],
     "gamesByReleaseYear": {

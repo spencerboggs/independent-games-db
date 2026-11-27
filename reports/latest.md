@@ -1,34 +1,25 @@
-# Database update: 2026-11-26
+# Database update: 2026-11-27
 
 Dataset 0.1.0: 529 games, 353 companies, 93 technologies, 1,354 relationships.
 
-## Changed (3)
+## Review counts (207)
 
-~ Serious Sam Fusion (`serious-sam-fusion-2017-beta`)
-  - title: Serious Sam Fusion 2017 (beta) → Serious Sam Fusion
-~ BBC (`british-broadcasting-corporation`)
-  - name: British Broadcasting Corporation → BBC
-~ Campo Santo (`campo-santo`)
-  - country: none → US
-
-## Review counts (202)
-
-~ Valheim: 584,141 → 588,740 (+4,599)
-~ Slay the Spire 2: 228,391 → 232,090 (+3,699)
-~ WARDOGS: 215,561 → 217,270 (+1,709)
-~ Big Walk: 57,785 → 59,164 (+1,379)
-~ Baldur's Gate 3: 871,096 → 872,397 (+1,301)
-~ Hollow Knight: Silksong: 433,725 → 435,017 (+1,292)
-~ PEAK: 391,616 → 392,692 (+1,076)
-~ R.E.P.O.: 442,331 → 443,396 (+1,065)
-~ CONTROL Resonant: 25,438 → 26,008 (+570)
-~ Deep Rock Galactic: 383,972 → 384,385 (+413)
-~ Satisfactory: 284,625 → 284,983 (+358)
-~ 9 Kings: 26,226 → 26,547 (+321)
-~ MOUSE: P.I. For Hire: 17,898 → 18,163 (+265)
-~ Cult of the Lamb: 132,581 → 132,807 (+226)
-~ Mortal Shell II: 24,052 → 24,227 (+175)
-… and 187 more
+~ Slay the Spire 2: 232,090 → 234,658 (+2,568)
+~ Valheim: 588,740 → 591,274 (+2,534)
+~ WARDOGS: 217,270 → 218,348 (+1,078)
+~ Hollow Knight: Silksong: 435,017 → 436,076 (+1,059)
+~ Baldur's Gate 3: 872,397 → 873,342 (+945)
+~ Big Walk: 59,164 → 60,066 (+902)
+~ R.E.P.O.: 443,396 → 444,134 (+738)
+~ PEAK: 392,692 → 393,362 (+670)
+~ CONTROL Resonant: 26,008 → 26,346 (+338)
+~ Deep Rock Galactic: 384,385 → 384,656 (+271)
+~ 9 Kings: 26,547 → 26,770 (+223)
+~ Satisfactory: 284,983 → 285,193 (+210)
+~ MOUSE: P.I. For Hire: 18,163 → 18,328 (+165)
+~ Cult of the Lamb: 132,807 → 132,958 (+151)
+~ Hollow Knight: 570,057 → 570,207 (+150)
+… and 192 more
 
 ## Manual review (65)
 

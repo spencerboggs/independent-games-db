@@ -23,7 +23,7 @@
       "source": {
         "type": "steam",
         "url": "https://store.steampowered.com/app/1622100/",
-        "retrievedAt": "2026-11-26"
+        "retrievedAt": "2026-11-27"
       }
     },
     "custom": null
@@ -80,21 +80,21 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/header.jpg",
       "type": "header",
       "source": "steam",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "rights": "reference-only"
     },
     "capsule": {
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/capsule_231x87.jpg",
       "type": "capsule",
       "source": "steam",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "rights": "reference-only"
     },
     "background": {
       "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1622100",
       "type": "background",
       "source": "steam",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "rights": "reference-only"
     },
     "screenshots": [
@@ -102,35 +102,35 @@
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/ss_80a79b0d013d6a0cc26607d7e399b48a1a9f98d8.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-26",
+        "retrievedAt": "2026-11-27",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/ss_e21e94a92b928f36aac030b454189e2a429d3d7a.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-26",
+        "retrievedAt": "2026-11-27",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/ss_848fe7d775eafc458e0e8e8ecf16a117442945f9.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-26",
+        "retrievedAt": "2026-11-27",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/ss_7992fbd287fce2335db3f174e11d2ed1ae815881.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-26",
+        "retrievedAt": "2026-11-27",
         "rights": "reference-only"
       },
       {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622100/ss_ce69ac51eeaaf7ad504e8d7793a1b055999b224e.1920x1080.jpg",
         "type": "screenshot",
         "source": "steam",
-        "retrievedAt": "2026-11-26",
+        "retrievedAt": "2026-11-27",
         "rights": "reference-only"
       }
     ]
@@ -143,7 +143,7 @@
         "source": {
           "type": "wikidata",
           "url": "https://www.wikidata.org/wiki/Q108827615",
-          "retrievedAt": "2026-11-26"
+          "retrievedAt": "2026-11-27"
         }
       }
     ],
@@ -168,32 +168,32 @@
       "negativePercentage": 9.7,
       "reviewScoreDescription": "Very Positive",
       "currentPlayers": 0,
-      "retrievedAt": "2026-11-26"
+      "retrievedAt": "2026-11-27"
     },
     "reviewVelocity": {
       "method": "history",
-      "reviewsPerDay": 1.29,
-      "reviewsPerMonth": 39.3,
-      "windowDays": 31,
+      "reviewsPerDay": 1.25,
+      "reviewsPerMonth": 38.1,
+      "windowDays": 32,
       "recentReviewGrowth": {
         "reviews": 40,
         "percent": 0.61,
-        "windowDays": 31
+        "windowDays": 32
       },
-      "observations": 47
+      "observations": 48
     }
   },
   "sources": [
     {
       "type": "steam",
       "url": "https://store.steampowered.com/app/1622100/",
-      "retrievedAt": "2026-11-26"
+      "retrievedAt": "2026-11-27"
     },
     {
       "type": "wikidata",
       "url": "https://www.wikidata.org/wiki/Q108827615",
-      "retrievedAt": "2026-11-26"
+      "retrievedAt": "2026-11-27"
     }
   ],
-  "lastUpdated": "2026-11-26T18:58:39.374Z"
+  "lastUpdated": "2026-11-27T18:54:25.937Z"
 }
